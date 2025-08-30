@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Swasta Sasmi Gunungsitoli",
+        "sekolah_id": "86FD7B0A-A7FC-4617-9467-1D560D725C34",
+        "npsn": 70028721,
+        "jumlah_kirim": 22,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 82,
+        "rombel": 14,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gunungsitoli Idanoi",
+        "kode_wilayah_induk_kecamatan": "076701  ",
+        "induk_kabupaten": "Kota Gunungsitoli",
+        "kode_wilayah_induk_kabupaten": "076700  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 18:24:04",
+        "sekolah_id_enkrip": "A643FD73B4F28C213DF3                                                                                "
+    }
+]

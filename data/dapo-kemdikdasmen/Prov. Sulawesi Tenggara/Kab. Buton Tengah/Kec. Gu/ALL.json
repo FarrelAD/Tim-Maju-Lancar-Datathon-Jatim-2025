@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PERINTIS LAKAPERA",
+        "sekolah_id": "CCBFDFB3-2225-4431-A259-43149001BCB8",
+        "npsn": 69986922,
+        "jumlah_kirim": 5,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 31,
+        "rombel": 9,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gu",
+        "kode_wilayah_induk_kecamatan": "201606  ",
+        "induk_kabupaten": "Kab. Buton Tengah",
+        "kode_wilayah_induk_kabupaten": "201600  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 06:35:18",
+        "sekolah_id_enkrip": "393D035C166C78A4C6E7                                                                                "
+    }
+]

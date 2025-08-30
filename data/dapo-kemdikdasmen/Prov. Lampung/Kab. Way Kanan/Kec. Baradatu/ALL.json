@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N Baradatu",
+        "sekolah_id": "4090DE74-4D27-E211-833C-4BE4D5EECD41",
+        "npsn": 10814676,
+        "jumlah_kirim": 6,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 34,
+        "rombel": 17,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Baradatu",
+        "kode_wilayah_induk_kecamatan": "120802  ",
+        "induk_kabupaten": "Kab. Way Kanan",
+        "kode_wilayah_induk_kabupaten": "120800  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 06:31:19",
+        "sekolah_id_enkrip": "5972C69FEF0A6660EE43                                                                                "
+    }
+]

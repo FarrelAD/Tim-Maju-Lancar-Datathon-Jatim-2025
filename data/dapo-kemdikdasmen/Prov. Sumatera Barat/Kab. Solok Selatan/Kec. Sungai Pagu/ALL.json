@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SUNGAI PAGU",
+        "sekolah_id": "5006F079-2FF5-E011-8C50-954C1BE1ABA3",
+        "npsn": 10306838,
+        "jumlah_kirim": 7,
+        "ptk": 8,
+        "pegawai": 6,
+        "pd": 73,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sungai Pagu",
+        "kode_wilayah_induk_kecamatan": "081102  ",
+        "induk_kabupaten": "Kab. Solok Selatan",
+        "kode_wilayah_induk_kabupaten": "081100  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 11:10:15",
+        "sekolah_id_enkrip": "E3C018623106F6E20599                                                                                "
+    }
+]

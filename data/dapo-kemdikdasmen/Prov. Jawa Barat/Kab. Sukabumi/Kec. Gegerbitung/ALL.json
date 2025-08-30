@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI GEGERBITUNG",
+        "sekolah_id": "5B0F3C96-7D47-4F52-B059-AC4218726E16",
+        "npsn": 69830651,
+        "jumlah_kirim": 8,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 68,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gegerbitung",
+        "kode_wilayah_induk_kecamatan": "020616  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Jun 2025 13:57:47",
+        "sekolah_id_enkrip": "AE7E52630BD04D306DCC                                                                                "
+    }
+]

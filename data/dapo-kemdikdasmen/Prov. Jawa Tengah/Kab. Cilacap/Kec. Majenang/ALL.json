@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD MUTIARA NUSANTARA",
+        "sekolah_id": "62A538C1-A819-4878-A2BD-5A7912768C6A",
+        "npsn": 69993048,
+        "jumlah_kirim": 8,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 167,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Majenang",
+        "kode_wilayah_induk_kecamatan": "030103  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 05:51:42",
+        "sekolah_id_enkrip": "CACF4E1763621F007AF1                                                                                "
+    }
+]

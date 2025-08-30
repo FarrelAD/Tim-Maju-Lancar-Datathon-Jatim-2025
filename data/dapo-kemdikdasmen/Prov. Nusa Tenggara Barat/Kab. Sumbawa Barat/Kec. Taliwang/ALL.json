@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SUMBAWA BARAT",
+        "sekolah_id": "0020B0E2-023C-E111-8010-AD051E525035",
+        "npsn": 50205579,
+        "jumlah_kirim": 2,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 58,
+        "rombel": 26,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Taliwang",
+        "kode_wilayah_induk_kecamatan": "230702  ",
+        "induk_kabupaten": "Kab. Sumbawa Barat",
+        "kode_wilayah_induk_kabupaten": "230700  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 11:11:54",
+        "sekolah_id_enkrip": "ED981D6C1675DC21039D                                                                                "
+    }
+]

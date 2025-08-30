@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CENTRA PKLK NEGERI SOFIFI",
+        "sekolah_id": "8040E2BE-22F8-480D-BFCB-30F6E9F49F65",
+        "npsn": 69759268,
+        "jumlah_kirim": 7,
+        "ptk": 8,
+        "pegawai": 5,
+        "pd": 35,
+        "rombel": 11,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Oba Utara",
+        "kode_wilayah_induk_kecamatan": "276105  ",
+        "induk_kabupaten": "Kota Tidore Kepulauan",
+        "kode_wilayah_induk_kabupaten": "276100  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 12:05:29",
+        "sekolah_id_enkrip": "E065643F057D8BF95D1D                                                                                "
+    }
+]

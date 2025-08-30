@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Swasta Cahaya Mandiri",
+        "sekolah_id": "99EAAB8C-CA98-45E2-88E6-C3A3D776DB0E",
+        "npsn": 70046572,
+        "jumlah_kirim": 0,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Siabu",
+        "kode_wilayah_induk_kecamatan": "071508  ",
+        "induk_kabupaten": "Kab. Mandailing Natal",
+        "kode_wilayah_induk_kabupaten": "071500  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 May 2025 20:38:31",
+        "sekolah_id_enkrip": "2F6FC7ACF159EF4AC1BF                                                                                "
+    }
+]

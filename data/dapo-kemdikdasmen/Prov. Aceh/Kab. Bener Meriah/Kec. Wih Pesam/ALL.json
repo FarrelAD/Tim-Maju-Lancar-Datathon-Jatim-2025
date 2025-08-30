@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PEMBINA BENER MERIAH",
+        "sekolah_id": "10FA7AA7-97D7-E111-8118-1F67EF61FF39",
+        "npsn": 10107207,
+        "jumlah_kirim": 4,
+        "ptk": 42,
+        "pegawai": 11,
+        "pd": 69,
+        "rombel": 34,
+        "jml_rk": 37,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Wih Pesam",
+        "kode_wilayah_induk_kecamatan": "061906  ",
+        "induk_kabupaten": "Kab. Bener Meriah",
+        "kode_wilayah_induk_kabupaten": "061900  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 17:29:03",
+        "sekolah_id_enkrip": "4A2190FF675EEFFE3708                                                                                "
+    }
+]

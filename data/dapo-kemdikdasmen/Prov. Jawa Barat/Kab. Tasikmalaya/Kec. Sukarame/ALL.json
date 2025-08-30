@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YAYASAN MITRA ISWARA",
+        "sekolah_id": "427E3ED2-F969-4D44-9494-C1EF14AA2AFA",
+        "npsn": 69880249,
+        "jumlah_kirim": 19,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 37,
+        "rombel": 19,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukarame",
+        "kode_wilayah_induk_kecamatan": "021231  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 11:45:48",
+        "sekolah_id_enkrip": "FFC427C0E9B28961C761                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KASIH IBU",
+        "sekolah_id": "E0111C5D-2EF5-E011-936B-4F5A49632DDE",
+        "npsn": 20402610,
+        "jumlah_kirim": 14,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Galur",
+        "kode_wilayah_induk_kecamatan": "040404  ",
+        "induk_kabupaten": "Kab. Kulon Progo",
+        "kode_wilayah_induk_kabupaten": "040400  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 04:12:38",
+        "sekolah_id_enkrip": "A2AD55C530B0E0E390CE                                                                                "
+    }
+]

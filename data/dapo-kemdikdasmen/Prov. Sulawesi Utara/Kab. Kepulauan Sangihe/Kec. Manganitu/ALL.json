@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MANGANITU",
+        "sekolah_id": "40F3E1AC-30F5-E011-A448-8BCD5A4837BB",
+        "npsn": 40101613,
+        "jumlah_kirim": 12,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 29,
+        "rombel": 20,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Manganitu",
+        "kode_wilayah_induk_kecamatan": "170308  ",
+        "induk_kabupaten": "Kab. Kepulauan Sangihe",
+        "kode_wilayah_induk_kabupaten": "170300  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 00:40:46",
+        "sekolah_id_enkrip": "AEC57CA1C643877858C4                                                                                "
+    }
+]

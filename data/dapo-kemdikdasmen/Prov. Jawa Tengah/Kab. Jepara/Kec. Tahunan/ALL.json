@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI JEPARA",
+        "sekolah_id": "10AB0F68-2FAA-E111-A0DD-1D2CE027477F",
+        "npsn": 20318327,
+        "jumlah_kirim": 15,
+        "ptk": 32,
+        "pegawai": 14,
+        "pd": 475,
+        "rombel": 49,
+        "jml_rk": 32,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tahunan",
+        "kode_wilayah_induk_kecamatan": "032007  ",
+        "induk_kabupaten": "Kab. Jepara",
+        "kode_wilayah_induk_kabupaten": "032000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 06:07:11",
+        "sekolah_id_enkrip": "53CD16E3A244098E93B7                                                                                "
+    }
+]

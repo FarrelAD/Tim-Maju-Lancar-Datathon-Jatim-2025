@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NUNUKAN",
+        "sekolah_id": "403D037E-30F5-E011-A1E0-EBF620F95B41",
+        "npsn": 30402769,
+        "jumlah_kirim": 7,
+        "ptk": 12,
+        "pegawai": 12,
+        "pd": 90,
+        "rombel": 21,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Nunukan",
+        "kode_wilayah_induk_kecamatan": "340504  ",
+        "induk_kabupaten": "Kab. Nunukan",
+        "kode_wilayah_induk_kabupaten": "340500  ",
+        "induk_provinsi": "Prov. Kalimantan Utara",
+        "kode_wilayah_induk_provinsi": "340000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 00:56:21",
+        "sekolah_id_enkrip": "2456F7CD98BB26EFEE90                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PAGARALAM",
+        "sekolah_id": "B0847E1B-C4F0-E111-ADE8-8761B406ABE1",
+        "npsn": 10648047,
+        "jumlah_kirim": 13,
+        "ptk": 18,
+        "pegawai": 8,
+        "pd": 121,
+        "rombel": 19,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pagar Alam Selatan",
+        "kode_wilayah_induk_kecamatan": "116302  ",
+        "induk_kabupaten": "Kota Pagar Alam",
+        "kode_wilayah_induk_kabupaten": "116300  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 01:23:58",
+        "sekolah_id_enkrip": "4ADC479983D8B8C35A77                                                                                "
+    }
+]

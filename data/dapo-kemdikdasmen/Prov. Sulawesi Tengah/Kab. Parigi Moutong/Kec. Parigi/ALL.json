@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN PARIGI",
+        "sekolah_id": "D020CC74-0669-E211-8994-9939134EAB0E",
+        "npsn": 40205177,
+        "jumlah_kirim": 22,
+        "ptk": 13,
+        "pegawai": 4,
+        "pd": 78,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Parigi",
+        "kode_wilayah_induk_kecamatan": "180802  ",
+        "induk_kabupaten": "Kab. Parigi Moutong",
+        "kode_wilayah_induk_kabupaten": "180800  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "11 Aug 2025 09:40:59",
+        "sekolah_id_enkrip": "014329E5B98A7AB83D43                                                                                "
+    }
+]

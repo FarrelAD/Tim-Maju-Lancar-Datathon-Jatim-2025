@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC PARAMITA GRAHA",
+        "sekolah_id": "40DBD253-30F5-E011-B09A-8DD52DB03511",
+        "npsn": 30303094,
+        "jumlah_kirim": 10,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 36,
+        "rombel": 13,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banjarmasin Selatan",
+        "kode_wilayah_induk_kecamatan": "156001  ",
+        "induk_kabupaten": "Kota Banjarmasin",
+        "kode_wilayah_induk_kabupaten": "156000  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 07:33:37",
+        "sekolah_id_enkrip": "F5CA5E5EEBC783A00C2B                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA KENCANA BALIKPAPAN",
+        "sekolah_id": "80EB9B7E-30F5-E011-A0DB-DF4DB97B6156",
+        "npsn": 30402882,
+        "jumlah_kirim": 5,
+        "ptk": 13,
+        "pegawai": 7,
+        "pd": 115,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Balikpapan Kota",
+        "kode_wilayah_induk_kecamatan": "166106  ",
+        "induk_kabupaten": "Kota Balikpapan",
+        "kode_wilayah_induk_kabupaten": "166100  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 08:43:58",
+        "sekolah_id_enkrip": "A5F463DE97B6C491A7A9                                                                                "
+    }
+]

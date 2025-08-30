@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KORPRI KAUMAN",
+        "sekolah_id": "A01668BB-8C18-E111-9F13-B542A5306047",
+        "npsn": 20549047,
+        "jumlah_kirim": 18,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 43,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kauman",
+        "kode_wilayah_induk_kecamatan": "051616  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 16:18:28",
+        "sekolah_id_enkrip": "B0A9DA5EFF4863AEB4A2                                                                                "
+    }
+]

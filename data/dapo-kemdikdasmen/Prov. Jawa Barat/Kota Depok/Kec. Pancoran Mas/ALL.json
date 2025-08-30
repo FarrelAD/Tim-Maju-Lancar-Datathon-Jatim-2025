@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C DHARMA ASIH",
+        "sekolah_id": "30D02A53-90FA-E111-AB86-9B9ABF78BF4C",
+        "npsn": 20223822,
+        "jumlah_kirim": 7,
+        "ptk": 15,
+        "pegawai": 10,
+        "pd": 100,
+        "rombel": 31,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pancoran Mas",
+        "kode_wilayah_induk_kecamatan": "026602  ",
+        "induk_kabupaten": "Kota Depok",
+        "kode_wilayah_induk_kabupaten": "026600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 13:23:32",
+        "sekolah_id_enkrip": "7A84E95A5221187AF217                                                                                "
+    }
+]

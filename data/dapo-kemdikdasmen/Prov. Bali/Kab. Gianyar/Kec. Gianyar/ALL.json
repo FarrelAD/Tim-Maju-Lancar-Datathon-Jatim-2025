@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 GIANYAR",
+        "sekolah_id": "1016D315-31F5-E011-ACDC-738FDB14E06D",
+        "npsn": 50102159,
+        "jumlah_kirim": 8,
+        "ptk": 40,
+        "pegawai": 14,
+        "pd": 270,
+        "rombel": 68,
+        "jml_rk": 28,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gianyar",
+        "kode_wilayah_induk_kecamatan": "220503  ",
+        "induk_kabupaten": "Kab. Gianyar",
+        "kode_wilayah_induk_kabupaten": "220500  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:56:21",
+        "sekolah_id_enkrip": "6E3EDB67ED6077CAE8F8                                                                                "
+    }
+]

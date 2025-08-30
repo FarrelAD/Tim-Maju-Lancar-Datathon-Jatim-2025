@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB NEGERI BAITANG",
+        "sekolah_id": "38EE5E8D-FFA1-49C6-89BD-3A08AD2C00D0",
+        "npsn": 69942465,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 11,
+        "pd": 17,
+        "rombel": 11,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Aralle",
+        "kode_wilayah_induk_kecamatan": "330410  ",
+        "induk_kabupaten": "Kab. Mamasa",
+        "kode_wilayah_induk_kabupaten": "330400  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 19:25:39",
+        "sekolah_id_enkrip": "73DC0268E6D5384BFEF1                                                                                "
+    }
+]

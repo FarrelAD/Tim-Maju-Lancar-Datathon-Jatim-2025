@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 MAROS",
+        "sekolah_id": "A0E4C2C1-0D26-E111-A8DD-8DE3184178ED",
+        "npsn": 40300309,
+        "jumlah_kirim": 4,
+        "ptk": 22,
+        "pegawai": 3,
+        "pd": 123,
+        "rombel": 31,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lau",
+        "kode_wilayah_induk_kecamatan": "190111  ",
+        "induk_kabupaten": "Kab. Maros",
+        "kode_wilayah_induk_kabupaten": "190100  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 02:08:57",
+        "sekolah_id_enkrip": "14F781234238B737303A                                                                                "
+    }
+]

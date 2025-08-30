@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS AL KAHFI BUTON SELATAN",
+        "sekolah_id": "8897295A-7D42-4F54-B632-4B67E2D96141",
+        "npsn": 69952208,
+        "jumlah_kirim": 2,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 7,
+        "rombel": 2,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siompu",
+        "kode_wilayah_induk_kecamatan": "201406  ",
+        "induk_kabupaten": "Kab. Buton Selatan",
+        "kode_wilayah_induk_kabupaten": "201400  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:06:25",
+        "sekolah_id_enkrip": "9D0360503D7CAD3DCE17                                                                                "
+    }
+]

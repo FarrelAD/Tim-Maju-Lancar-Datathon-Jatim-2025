@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS ABCDE CAHAYA KONKEP",
+        "sekolah_id": "7BA8EB0A-1C32-42D3-BF55-C0F96EA02509",
+        "npsn": 69992667,
+        "jumlah_kirim": 0,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Wawonii Barat",
+        "kode_wilayah_induk_kecamatan": "201201  ",
+        "induk_kabupaten": "Kab. Konawe Kepulauan",
+        "kode_wilayah_induk_kabupaten": "201200  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Jun 2025 19:13:01",
+        "sekolah_id_enkrip": "217901D14A78D4235D4A                                                                                "
+    }
+]

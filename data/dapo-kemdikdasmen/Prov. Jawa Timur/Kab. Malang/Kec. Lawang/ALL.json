@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN PEMBINA TINGKAT NASIONAL BAGIAN C MALANG",
+        "sekolah_id": "E01D69BB-8C18-E111-9392-1FF8D6D4D53A",
+        "npsn": 20517808,
+        "jumlah_kirim": 26,
+        "ptk": 41,
+        "pegawai": 15,
+        "pd": 211,
+        "rombel": 54,
+        "jml_rk": 31,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lawang",
+        "kode_wilayah_induk_kecamatan": "051827  ",
+        "induk_kabupaten": "Kab. Malang",
+        "kode_wilayah_induk_kabupaten": "051800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 14:09:40",
+        "sekolah_id_enkrip": "BE7E04F95C9A1971903F                                                                                "
+    }
+]

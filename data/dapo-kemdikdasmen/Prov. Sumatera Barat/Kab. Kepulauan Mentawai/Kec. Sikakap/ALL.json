@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 MENTAWAI",
+        "sekolah_id": "36BE9443-0881-43D1-9D4E-335D3A8D94E1",
+        "npsn": 70054627,
+        "jumlah_kirim": 4,
+        "ptk": 0,
+        "pegawai": 1,
+        "pd": 10,
+        "rombel": 5,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sikakap",
+        "kode_wilayah_induk_kecamatan": "081009  ",
+        "induk_kabupaten": "Kab. Kepulauan Mentawai",
+        "kode_wilayah_induk_kabupaten": "081000  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 11:40:07",
+        "sekolah_id_enkrip": "73E7ADCD753DE64AE6C4                                                                                "
+    }
+]

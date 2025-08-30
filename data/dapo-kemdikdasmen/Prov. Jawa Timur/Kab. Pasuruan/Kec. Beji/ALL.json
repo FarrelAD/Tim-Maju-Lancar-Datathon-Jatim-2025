@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BHINEKA",
+        "sekolah_id": "90B3A6F4-12E0-E111-9EB8-0BEC3224AA5B",
+        "npsn": 20519475,
+        "jumlah_kirim": 3,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 82,
+        "rombel": 12,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Beji",
+        "kode_wilayah_induk_kecamatan": "051914  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 15:20:25",
+        "sekolah_id_enkrip": "0B15C01553C39DF9FA1E                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN BENGKALIS",
+        "sekolah_id": "51DA7592-3C2D-4DE7-9FE9-6F0BD0D529B5",
+        "npsn": 10495145,
+        "jumlah_kirim": 11,
+        "ptk": 25,
+        "pegawai": 7,
+        "pd": 124,
+        "rombel": 40,
+        "jml_rk": 17,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bengkalis",
+        "kode_wilayah_induk_kecamatan": "090205  ",
+        "induk_kabupaten": "Kab. Bengkalis",
+        "kode_wilayah_induk_kabupaten": "090200  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 10:04:29",
+        "sekolah_id_enkrip": "4798D0A545D134103BA6                                                                                "
+    }
+]

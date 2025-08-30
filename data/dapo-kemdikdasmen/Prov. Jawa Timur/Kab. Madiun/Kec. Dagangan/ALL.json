@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BANJARSARI WETAN KABUPATEN MADIUN",
+        "sekolah_id": "F0C7C9F1-8B18-E111-A404-D9542883634D",
+        "npsn": 20507889,
+        "jumlah_kirim": 30,
+        "ptk": 18,
+        "pegawai": 4,
+        "pd": 90,
+        "rombel": 16,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dagangan",
+        "kode_wilayah_induk_kecamatan": "050804  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 05:45:08",
+        "sekolah_id_enkrip": "D06B44267D3DDF7ADC03                                                                                "
+    }
+]

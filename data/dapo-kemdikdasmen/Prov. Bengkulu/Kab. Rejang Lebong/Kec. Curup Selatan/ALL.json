@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 REJANG LEBONG",
+        "sekolah_id": "D07EE8DC-31F5-E011-81CB-B5EC9115F38E",
+        "npsn": 10700659,
+        "jumlah_kirim": 5,
+        "ptk": 23,
+        "pegawai": 8,
+        "pd": 140,
+        "rombel": 31,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Curup Selatan",
+        "kode_wilayah_induk_kecamatan": "260221  ",
+        "induk_kabupaten": "Kab. Rejang Lebong",
+        "kode_wilayah_induk_kabupaten": "260200  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 20:11:36",
+        "sekolah_id_enkrip": "709C54F5D76762414F08                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1  BENGKULU UTARA",
+        "sekolah_id": "E071E8DC-31F5-E011-BF2F-CBDBE22964EF",
+        "npsn": 10700330,
+        "jumlah_kirim": 3,
+        "ptk": 24,
+        "pegawai": 5,
+        "pd": 92,
+        "rombel": 20,
+        "jml_rk": 25,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Arga Makmur",
+        "kode_wilayah_induk_kecamatan": "260106  ",
+        "induk_kabupaten": "Kab. Bengkulu Utara",
+        "kode_wilayah_induk_kabupaten": "260100  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 23:15:03",
+        "sekolah_id_enkrip": "3AE47E1C75CDD8D85CD1                                                                                "
+    }
+]

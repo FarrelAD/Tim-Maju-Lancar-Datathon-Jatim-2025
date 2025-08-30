@@ -1,0 +1,25 @@
+[
+    {
+        "nama": " SLBN 1 PANGKAJENE DAN KEPULAUAN",
+        "sekolah_id": "6089B0BB-0D26-E111-85CB-DD452100B1E3",
+        "npsn": 40300681,
+        "jumlah_kirim": 23,
+        "ptk": 17,
+        "pegawai": 4,
+        "pd": 101,
+        "rombel": 24,
+        "jml_rk": 28,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Minasatene",
+        "kode_wilayah_induk_kecamatan": "190210  ",
+        "induk_kabupaten": "Kab. Pangkajene Dan Kepulauan",
+        "kode_wilayah_induk_kabupaten": "190200  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 04:57:10",
+        "sekolah_id_enkrip": "247D6F4D204BF263456A                                                                                "
+    }
+]
