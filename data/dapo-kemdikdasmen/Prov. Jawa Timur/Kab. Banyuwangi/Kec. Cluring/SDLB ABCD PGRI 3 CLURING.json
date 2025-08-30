@@ -1,6 +1,10 @@
 [
     {
         "rombel": 1,
+        "sekolah_id": "C0333765-2CF7-E111-9A69-4F67DD40B0EB",
+        "npsn": 20539378,
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
         "akreditasi": "A",
         "guru_kelas": 1,
         "guru_matematika": 0,
@@ -84,7 +88,6 @@
         "pd_valid": null,
         "prasarana_valid": null,
         "total_valid": null,
-        "sekolah_id": null,
         "semester_id": null,
         "sumber_air": null,
         "sumber_air_minum": null,
