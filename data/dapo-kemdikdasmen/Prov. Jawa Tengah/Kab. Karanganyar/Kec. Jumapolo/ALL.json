@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MANDIRI PUTRA",
+        "sekolah_id": "9526B15B-311E-445A-AD1E-A1ABE725DC56",
+        "npsn": 69984839,
+        "jumlah_kirim": 7,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 57,
+        "rombel": 19,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jumapolo",
+        "kode_wilayah_induk_kecamatan": "031303  ",
+        "induk_kabupaten": "Kab. Karanganyar",
+        "kode_wilayah_induk_kabupaten": "031300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 07:39:15",
+        "sekolah_id_enkrip": "F9B93BAA7268FF3F89E4                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Pelita Kasih",
+        "sekolah_id": "0CB8DE79-45F7-49CF-BF39-B4A723EEECBE",
+        "npsn": 69987237,
+        "jumlah_kirim": 5,
+        "ptk": 13,
+        "pegawai": 6,
+        "pd": 77,
+        "rombel": 20,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Sukabumi",
+        "kode_wilayah_induk_kecamatan": "126013  ",
+        "induk_kabupaten": "Kota Bandar Lampung",
+        "kode_wilayah_induk_kabupaten": "126000  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 20:01:26",
+        "sekolah_id_enkrip": "B80E3F6B71B4218D42CC                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL AZHAR",
+        "sekolah_id": "409A5679-2FF5-E011-974C-AFF48CDF705B",
+        "npsn": 10307565,
+        "jumlah_kirim": 2,
+        "ptk": 12,
+        "pegawai": 4,
+        "pd": 52,
+        "rombel": 11,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Guguk Panjang",
+        "kode_wilayah_induk_kecamatan": "086001  ",
+        "induk_kabupaten": "Kota Bukittinggi",
+        "kode_wilayah_induk_kabupaten": "086000  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 16:06:17",
+        "sekolah_id_enkrip": "CDDE4458B0C299DE15DD                                                                                "
+    }
+]

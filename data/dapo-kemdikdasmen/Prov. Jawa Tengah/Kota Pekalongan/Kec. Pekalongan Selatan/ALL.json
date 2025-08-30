@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PRI",
+        "sekolah_id": "509D3A59-2DF5-E011-8D88-CF65871AE1AC",
+        "npsn": 20329519,
+        "jumlah_kirim": 22,
+        "ptk": 24,
+        "pegawai": 6,
+        "pd": 155,
+        "rombel": 23,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pekalongan Selatan",
+        "kode_wilayah_induk_kecamatan": "036403  ",
+        "induk_kabupaten": "Kota Pekalongan",
+        "kode_wilayah_induk_kabupaten": "036400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 12:49:43",
+        "sekolah_id_enkrip": "042D4BA49AF831052E9A                                                                                "
+    }
+]

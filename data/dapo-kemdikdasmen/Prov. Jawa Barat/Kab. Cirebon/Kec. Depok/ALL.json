@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PANGERAN CAKRABUANA",
+        "sekolah_id": "E0BDEBE3-E706-E211-8989-55C80FFC641B",
+        "npsn": 20271880,
+        "jumlah_kirim": 9,
+        "ptk": 44,
+        "pegawai": 10,
+        "pd": 263,
+        "rombel": 45,
+        "jml_rk": 24,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Depok",
+        "kode_wilayah_induk_kecamatan": "021731  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 08:52:31",
+        "sekolah_id_enkrip": "4F8A05FED085F6D3A6B3                                                                                "
+    }
+]

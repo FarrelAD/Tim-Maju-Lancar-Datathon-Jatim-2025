@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 KOTA BLITAR",
+        "sekolah_id": "A038527C-8D18-E111-BCB9-8357085D47F5",
+        "npsn": 20548809,
+        "jumlah_kirim": 6,
+        "ptk": 17,
+        "pegawai": 5,
+        "pd": 123,
+        "rombel": 30,
+        "jml_rk": 15,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukorejo",
+        "kode_wilayah_induk_kecamatan": "056501  ",
+        "induk_kabupaten": "Kota Blitar",
+        "kode_wilayah_induk_kabupaten": "056500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 12:55:03",
+        "sekolah_id_enkrip": "A46E3203A7B8B91FA771                                                                                "
+    }
+]

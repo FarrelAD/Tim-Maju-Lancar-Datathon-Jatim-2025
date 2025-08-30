@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Bonepantai",
+        "sekolah_id": "30CFB0FE-95FE-E111-9B67-B15FBC8F05AE",
+        "npsn": 40502733,
+        "jumlah_kirim": 1,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 50,
+        "rombel": 19,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bonepantai",
+        "kode_wilayah_induk_kecamatan": "300404  ",
+        "induk_kabupaten": "Kab. Bone Bolango",
+        "kode_wilayah_induk_kabupaten": "300400  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 17:17:46",
+        "sekolah_id_enkrip": "BEBD8B7E47E323E155E4                                                                                "
+    }
+]

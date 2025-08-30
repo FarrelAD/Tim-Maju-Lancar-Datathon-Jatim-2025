@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB FAN REDHA BIDAR ALAM",
+        "sekolah_id": "87DB67A7-369E-4020-932F-202AF345DAD5",
+        "npsn": 70046445,
+        "jumlah_kirim": 3,
+        "ptk": 2,
+        "pegawai": 3,
+        "pd": 8,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sangir Jujuan",
+        "kode_wilayah_induk_kecamatan": "081104  ",
+        "induk_kabupaten": "Kab. Solok Selatan",
+        "kode_wilayah_induk_kabupaten": "081100  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 17:46:21",
+        "sekolah_id_enkrip": "CB7EB918C5727DD4B08C                                                                                "
+    }
+]

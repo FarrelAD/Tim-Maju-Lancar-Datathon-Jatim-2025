@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPPAB GANRA",
+        "sekolah_id": "71ED0733-9313-4DD3-B302-C129F6C2BD3E",
+        "npsn": 69923487,
+        "jumlah_kirim": 16,
+        "ptk": 6,
+        "pegawai": 5,
+        "pd": 18,
+        "rombel": 12,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ganra",
+        "kode_wilayah_induk_kecamatan": "190907  ",
+        "induk_kabupaten": "Kab. Soppeng",
+        "kode_wilayah_induk_kabupaten": "190900  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 14:39:50",
+        "sekolah_id_enkrip": "A31747A72D1DEC6AAD23                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN BANYUATES ",
+        "sekolah_id": "2039567B-8D18-E111-AA02-CDC5A9766A32",
+        "npsn": 20528435,
+        "jumlah_kirim": 6,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 38,
+        "rombel": 10,
+        "jml_rk": 5,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Banyuates",
+        "kode_wilayah_induk_kecamatan": "052709  ",
+        "induk_kabupaten": "Kab. Sampang",
+        "kode_wilayah_induk_kabupaten": "052700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 08:30:47",
+        "sekolah_id_enkrip": "9432307F083329C5BEAF                                                                                "
+    }
+]

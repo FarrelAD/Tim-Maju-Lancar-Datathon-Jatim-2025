@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUHAMMADIYAH LAMURU",
+        "sekolah_id": "1D103F19-E839-4D9F-A7CE-9D17CF94052F",
+        "npsn": 69786778,
+        "jumlah_kirim": 3,
+        "ptk": 2,
+        "pegawai": 7,
+        "pd": 27,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lamuru",
+        "kode_wilayah_induk_kecamatan": "190714  ",
+        "induk_kabupaten": "Kab. Bone",
+        "kode_wilayah_induk_kabupaten": "190700  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 03:33:35",
+        "sekolah_id_enkrip": "CB652D715B8244CB8B58                                                                                "
+    }
+]

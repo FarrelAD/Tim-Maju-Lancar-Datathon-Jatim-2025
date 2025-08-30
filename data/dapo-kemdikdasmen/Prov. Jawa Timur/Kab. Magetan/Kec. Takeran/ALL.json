@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PSM TAKERAN MAGETAN",
+        "sekolah_id": "C09ADAF5-8B18-E111-840E-AB3CF96AABD0",
+        "npsn": 20537505,
+        "jumlah_kirim": 6,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 62,
+        "rombel": 20,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Takeran",
+        "kode_wilayah_induk_kecamatan": "051004  ",
+        "induk_kabupaten": "Kab. Magetan",
+        "kode_wilayah_induk_kabupaten": "051000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 18:19:20",
+        "sekolah_id_enkrip": "3FB9003D789B42FC3F9D                                                                                "
+    }
+]

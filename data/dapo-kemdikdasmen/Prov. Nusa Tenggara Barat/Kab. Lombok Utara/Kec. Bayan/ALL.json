@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 2 Lombok Utara",
+        "sekolah_id": "9040C01E-86FE-E111-A7E7-25D7240EDB90",
+        "npsn": 50205346,
+        "jumlah_kirim": 0,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bayan",
+        "kode_wilayah_induk_kecamatan": "230803  ",
+        "induk_kabupaten": "Kab. Lombok Utara",
+        "kode_wilayah_induk_kabupaten": "230800  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Feb 2025 07:41:23",
+        "sekolah_id_enkrip": "5D6986211E21D01DB8C3                                                                                "
+    }
+]

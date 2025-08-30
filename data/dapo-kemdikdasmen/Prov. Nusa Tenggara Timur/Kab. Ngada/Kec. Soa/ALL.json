@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KASIH SAYANG SOA",
+        "sekolah_id": "20A4B8D7-74E4-4BFB-9CB5-FC0978B1D671",
+        "npsn": 70036020,
+        "jumlah_kirim": 5,
+        "ptk": 6,
+        "pegawai": 9,
+        "pd": 17,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Soa",
+        "kode_wilayah_induk_kecamatan": "241013  ",
+        "induk_kabupaten": "Kab. Ngada",
+        "kode_wilayah_induk_kabupaten": "241000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 18:07:28",
+        "sekolah_id_enkrip": "FC1E63C9FEE31061221D                                                                                "
+    }
+]

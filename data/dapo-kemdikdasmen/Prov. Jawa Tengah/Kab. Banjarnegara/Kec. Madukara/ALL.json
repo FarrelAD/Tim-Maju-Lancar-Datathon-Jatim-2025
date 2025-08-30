@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BANJARNEGARA",
+        "sekolah_id": "B0859FBB-EDB9-E111-A376-77A81AC2E7CE",
+        "npsn": 20353623,
+        "jumlah_kirim": 7,
+        "ptk": 33,
+        "pegawai": 11,
+        "pd": 313,
+        "rombel": 54,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Madukara",
+        "kode_wilayah_induk_kecamatan": "030408  ",
+        "induk_kabupaten": "Kab. Banjarnegara",
+        "kode_wilayah_induk_kabupaten": "030400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 08:44:38",
+        "sekolah_id_enkrip": "488D5207D1A93C8110D6                                                                                "
+    }
+]

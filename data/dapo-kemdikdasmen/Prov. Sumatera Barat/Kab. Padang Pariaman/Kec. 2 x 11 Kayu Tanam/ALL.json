@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BERKAH BERSAMA",
+        "sekolah_id": "DD2C5F95-5B9F-40E8-B751-BED94B60F404",
+        "npsn": 70015023,
+        "jumlah_kirim": 7,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 18,
+        "rombel": 7,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. 2 x 11 Kayu Tanam",
+        "kode_wilayah_induk_kecamatan": "080517  ",
+        "induk_kabupaten": "Kab. Padang Pariaman",
+        "kode_wilayah_induk_kabupaten": "080500  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 20:21:29",
+        "sekolah_id_enkrip": "29FAC9260F73B5FB299E                                                                                "
+    }
+]

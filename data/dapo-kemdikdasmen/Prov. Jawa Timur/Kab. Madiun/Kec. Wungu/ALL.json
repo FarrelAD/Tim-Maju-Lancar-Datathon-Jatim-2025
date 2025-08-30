@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KARANGREJO KABUPATEN MADIUN",
+        "sekolah_id": "40F4CCF1-8B18-E111-9B03-CB7676437DB6",
+        "npsn": 20507900,
+        "jumlah_kirim": 11,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 70,
+        "rombel": 22,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wungu",
+        "kode_wilayah_induk_kecamatan": "050805  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 14:46:11",
+        "sekolah_id_enkrip": "3AF516FCE16D9481D000                                                                                "
+    }
+]

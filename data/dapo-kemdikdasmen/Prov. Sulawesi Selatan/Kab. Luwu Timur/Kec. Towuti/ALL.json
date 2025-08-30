@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB INDOGROW",
+        "sekolah_id": "5C8FF8A4-F61B-4228-ADB6-1CFB7A223360",
+        "npsn": 70056362,
+        "jumlah_kirim": 10,
+        "ptk": 1,
+        "pegawai": 0,
+        "pd": 2,
+        "rombel": 2,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Towuti",
+        "kode_wilayah_induk_kecamatan": "192607  ",
+        "induk_kabupaten": "Kab. Luwu Timur",
+        "kode_wilayah_induk_kabupaten": "192600  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 16:55:28",
+        "sekolah_id_enkrip": "56E400764C9B0DA03807                                                                                "
+    }
+]

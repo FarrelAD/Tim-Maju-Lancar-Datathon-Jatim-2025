@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI BADAS",
+        "sekolah_id": "43D88186-60EF-4250-A5BB-3B82B2FB9E99",
+        "npsn": 69772557,
+        "jumlah_kirim": 14,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 42,
+        "rombel": 12,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Badas",
+        "kode_wilayah_induk_kecamatan": "051326  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 06:31:19",
+        "sekolah_id_enkrip": "A03AFE6203A9D6C3447F                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Sekolah Luar Biasa Swasta Bina Insan Lasusua Kabupaten Kolaka Utara",
+        "sekolah_id": "6BE9BB29-0498-4CD1-A9FD-C067318E654E",
+        "npsn": 70042687,
+        "jumlah_kirim": 0,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lasusua",
+        "kode_wilayah_induk_kecamatan": "200801  ",
+        "induk_kabupaten": "Kab. Kolaka Utara",
+        "kode_wilayah_induk_kabupaten": "200800  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Jun 2025 13:21:57",
+        "sekolah_id_enkrip": "B48BB18C62749D3B102B                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BERKAT YOSUA",
+        "sekolah_id": "272ABD23-8ECB-4BBF-805F-14549F8DE99C",
+        "npsn": 70001746,
+        "jumlah_kirim": 8,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 24,
+        "rombel": 11,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tombulu",
+        "kode_wilayah_induk_kecamatan": "170234  ",
+        "induk_kabupaten": "Kab. Minahasa",
+        "kode_wilayah_induk_kabupaten": "170200  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 06:58:14",
+        "sekolah_id_enkrip": "68FC086A5F84A049B953                                                                                "
+    }
+]

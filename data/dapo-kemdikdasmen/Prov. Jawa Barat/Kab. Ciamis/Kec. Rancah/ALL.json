@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN RANCAH",
+        "sekolah_id": "E051976F-8BF1-E111-9644-EB1AA419B9C2",
+        "npsn": 20263130,
+        "jumlah_kirim": 7,
+        "ptk": 18,
+        "pegawai": 14,
+        "pd": 93,
+        "rombel": 19,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rancah",
+        "kode_wilayah_induk_kecamatan": "021418  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 18:48:59",
+        "sekolah_id_enkrip": "637073FFCB41786D4BDA                                                                                "
+    }
+]

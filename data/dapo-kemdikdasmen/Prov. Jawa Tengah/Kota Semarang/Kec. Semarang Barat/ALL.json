@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB A DRIA ADI",
+        "sekolah_id": "40DFBF5B-2DF5-E011-99AF-87897B9D813C",
+        "npsn": 20331940,
+        "jumlah_kirim": 8,
+        "ptk": 7,
+        "pegawai": 4,
+        "pd": 14,
+        "rombel": 9,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Semarang Barat",
+        "kode_wilayah_induk_kecamatan": "036314  ",
+        "induk_kabupaten": "Kota Semarang",
+        "kode_wilayah_induk_kabupaten": "036300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 13:49:35",
+        "sekolah_id_enkrip": "BF04BEFFA0586DFD2AF5                                                                                "
+    }
+]

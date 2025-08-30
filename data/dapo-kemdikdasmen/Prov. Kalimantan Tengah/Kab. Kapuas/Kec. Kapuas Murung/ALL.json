@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKHN KAPUAS MURUNG",
+        "sekolah_id": "6BCD528D-639C-42D9-9A10-67EEC0DE7927",
+        "npsn": 70056381,
+        "jumlah_kirim": 8,
+        "ptk": 9,
+        "pegawai": 0,
+        "pd": 13,
+        "rombel": 1,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kapuas Murung",
+        "kode_wilayah_induk_kecamatan": "140110  ",
+        "induk_kabupaten": "Kab. Kapuas",
+        "kode_wilayah_induk_kabupaten": "140100  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 16:38:41",
+        "sekolah_id_enkrip": "E2B38509D0FFAE7C92C0                                                                                "
+    }
+]

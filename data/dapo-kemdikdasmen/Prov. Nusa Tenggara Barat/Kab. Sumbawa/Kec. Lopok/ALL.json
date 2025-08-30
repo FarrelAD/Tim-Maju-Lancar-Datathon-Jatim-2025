@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 3 SUMBAWA",
+        "sekolah_id": "86D5A75F-68F9-493E-9CDE-C233F8F448D9",
+        "npsn": 70045762,
+        "jumlah_kirim": 4,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 23,
+        "rombel": 10,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lopok",
+        "kode_wilayah_induk_kecamatan": "230426  ",
+        "induk_kabupaten": "Kab. Sumbawa",
+        "kode_wilayah_induk_kabupaten": "230400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 06:59:48",
+        "sekolah_id_enkrip": "5F81B83CBD570722ED78                                                                                "
+    }
+]

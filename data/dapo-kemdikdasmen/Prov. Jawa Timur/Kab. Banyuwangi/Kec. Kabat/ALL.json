@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI KABAT",
+        "sekolah_id": "C0613865-2CF7-E111-A4AE-531776EE3060",
+        "npsn": 20526022,
+        "jumlah_kirim": 3,
+        "ptk": 0,
+        "pegawai": 1,
+        "pd": 23,
+        "rombel": 11,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kabat",
+        "kode_wilayah_induk_kecamatan": "052513  ",
+        "induk_kabupaten": "Kab. Banyuwangi",
+        "kode_wilayah_induk_kabupaten": "052500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 18:15:20",
+        "sekolah_id_enkrip": "F7FC8F7A6623FEC02C41                                                                                "
+    }
+]

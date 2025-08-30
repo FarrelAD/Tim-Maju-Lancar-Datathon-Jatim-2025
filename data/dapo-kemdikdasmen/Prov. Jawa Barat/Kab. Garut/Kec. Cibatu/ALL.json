@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YGP CIBATU",
+        "sekolah_id": "D0F8E415-2CF5-E011-8EDF-4D3FEF61BC2C",
+        "npsn": 20258243,
+        "jumlah_kirim": 2,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 59,
+        "rombel": 17,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cibatu",
+        "kode_wilayah_induk_kecamatan": "021126  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 21:57:16",
+        "sekolah_id_enkrip": "74B63B43EED9F73709A2                                                                                "
+    }
+]

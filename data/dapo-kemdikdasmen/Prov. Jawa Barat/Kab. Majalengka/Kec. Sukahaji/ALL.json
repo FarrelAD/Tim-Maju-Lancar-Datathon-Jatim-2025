@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Sukahaji",
+        "sekolah_id": "FF6E68AE-70CE-4010-9ED9-18AB2D562BF7",
+        "npsn": 70047392,
+        "jumlah_kirim": 16,
+        "ptk": 15,
+        "pegawai": 0,
+        "pd": 49,
+        "rombel": 13,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukahaji",
+        "kode_wilayah_induk_kecamatan": "021609  ",
+        "induk_kabupaten": "Kab. Majalengka",
+        "kode_wilayah_induk_kabupaten": "021600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 09:50:32",
+        "sekolah_id_enkrip": "240542EEB47C21441B61                                                                                "
+    }
+]

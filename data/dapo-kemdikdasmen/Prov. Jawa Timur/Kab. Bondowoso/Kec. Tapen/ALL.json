@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI CINDOGO",
+        "sekolah_id": "A07CACB7-8C18-E111-9801-6BBBFAEB2918",
+        "npsn": 20522406,
+        "jumlah_kirim": 7,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 52,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tapen",
+        "kode_wilayah_induk_kecamatan": "052207  ",
+        "induk_kabupaten": "Kab. Bondowoso",
+        "kode_wilayah_induk_kabupaten": "052200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 12:47:53",
+        "sekolah_id_enkrip": "7C79D898F9BFCBF0E713                                                                                "
+    }
+]

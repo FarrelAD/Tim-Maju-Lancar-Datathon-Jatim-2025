@@ -1,0 +1,25 @@
+[
+    {
+        "nama": " Sekolah Khusus Kartika ",
+        "sekolah_id": "EE09D10C-6BE8-4DCB-BDC3-50B5691DD247",
+        "npsn": 70041657,
+        "jumlah_kirim": 7,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 19,
+        "rombel": 9,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cikeusik",
+        "kode_wilayah_induk_kecamatan": "280104  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 14:28:03",
+        "sekolah_id_enkrip": "F29D9157E01AAD6BCACB                                                                                "
+    }
+]

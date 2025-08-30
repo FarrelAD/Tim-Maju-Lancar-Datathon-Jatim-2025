@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 5 KOTA BENGKULU",
+        "sekolah_id": "90759441-C7FB-E111-985E-EB21C4A51E8A",
+        "npsn": 10703108,
+        "jumlah_kirim": 14,
+        "ptk": 21,
+        "pegawai": 13,
+        "pd": 79,
+        "rombel": 16,
+        "jml_rk": 29,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Singaran Pati",
+        "kode_wilayah_induk_kecamatan": "266009  ",
+        "induk_kabupaten": "Kota Bengkulu",
+        "kode_wilayah_induk_kabupaten": "266000  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 21:15:13",
+        "sekolah_id_enkrip": "C4BDD17D1AA46A5484CE                                                                                "
+    }
+]

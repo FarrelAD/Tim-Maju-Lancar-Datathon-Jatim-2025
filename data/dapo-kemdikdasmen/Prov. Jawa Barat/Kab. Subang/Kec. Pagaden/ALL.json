@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TARBIYATUL MUTAALIMIN PAGADEN",
+        "sekolah_id": "7042E315-2CF5-E011-B47B-1902E0BC2FA3",
+        "npsn": 20216950,
+        "jumlah_kirim": 8,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 144,
+        "rombel": 14,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Pagaden",
+        "kode_wilayah_induk_kecamatan": "021914  ",
+        "induk_kabupaten": "Kab. Subang",
+        "kode_wilayah_induk_kabupaten": "021900  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 21:40:17",
+        "sekolah_id_enkrip": "94D8344D32786DD3BDD1                                                                                "
+    }
+]

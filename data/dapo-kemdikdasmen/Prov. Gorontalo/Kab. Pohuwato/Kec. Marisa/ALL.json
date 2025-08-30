@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Pohuwato",
+        "sekolah_id": "B07FC1D0-6585-E111-B21A-2B94E4FDC964",
+        "npsn": 40501629,
+        "jumlah_kirim": 0,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Marisa",
+        "kode_wilayah_induk_kecamatan": "300302  ",
+        "induk_kabupaten": "Kab. Pohuwato",
+        "kode_wilayah_induk_kabupaten": "300300  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "11 Jun 2025 10:45:29",
+        "sekolah_id_enkrip": "418D6B73F6C4759BC5D1                                                                                "
+    }
+]

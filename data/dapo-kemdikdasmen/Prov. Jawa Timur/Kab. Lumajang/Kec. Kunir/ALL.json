@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SAMALA NERUGRASA 1 KUNIR",
+        "sekolah_id": "604E4FEB-DCD4-E111-8AC8-BFAE1BB87012",
+        "npsn": 20520813,
+        "jumlah_kirim": 12,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 25,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kunir",
+        "kode_wilayah_induk_kecamatan": "052106  ",
+        "induk_kabupaten": "Kab. Lumajang",
+        "kode_wilayah_induk_kabupaten": "052100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 01:25:58",
+        "sekolah_id_enkrip": "B8295EE944519F1F0B8A                                                                                "
+    }
+]

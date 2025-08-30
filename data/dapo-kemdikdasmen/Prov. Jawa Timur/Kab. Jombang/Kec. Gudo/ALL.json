@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SUNAR AJI",
+        "sekolah_id": "9B749798-150E-4C7C-8B7F-51AB139ED6AC",
+        "npsn": 69984103,
+        "jumlah_kirim": 10,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 30,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gudo",
+        "kode_wilayah_induk_kecamatan": "050403  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 02:52:30",
+        "sekolah_id_enkrip": "12DB3AEF815929C4EBE5                                                                                "
+    }
+]

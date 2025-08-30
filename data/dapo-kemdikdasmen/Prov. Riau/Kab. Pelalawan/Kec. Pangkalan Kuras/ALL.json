@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SIDO MUKTI",
+        "sekolah_id": "3A4B36C4-84CD-4D82-914C-A9BAD427ED43",
+        "npsn": 69965287,
+        "jumlah_kirim": 12,
+        "ptk": 11,
+        "pegawai": 5,
+        "pd": 56,
+        "rombel": 26,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pangkalan Kuras",
+        "kode_wilayah_induk_kecamatan": "090802  ",
+        "induk_kabupaten": "Kab. Pelalawan",
+        "kode_wilayah_induk_kabupaten": "090800  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 10:34:02",
+        "sekolah_id_enkrip": "422EA59394900AED72BD                                                                                "
+    }
+]

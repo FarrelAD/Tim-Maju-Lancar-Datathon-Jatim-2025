@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KAYUAGUNG",
+        "sekolah_id": "1008003D-1526-E111-8955-87D5A181C026",
+        "npsn": 10600716,
+        "jumlah_kirim": 3,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 81,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Kayu Agung",
+        "kode_wilayah_induk_kecamatan": "110206  ",
+        "induk_kabupaten": "Kab. Ogan Komering Ilir",
+        "kode_wilayah_induk_kabupaten": "110200  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 17:56:55",
+        "sekolah_id_enkrip": "07D34DCF6F48763029F4                                                                                "
+    }
+]

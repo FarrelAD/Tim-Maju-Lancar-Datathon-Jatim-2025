@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA INSANI",
+        "sekolah_id": "50EE2B53-90FA-E111-B463-F36ACDA344D6",
+        "npsn": 20223841,
+        "jumlah_kirim": 15,
+        "ptk": 8,
+        "pegawai": 5,
+        "pd": 53,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cilodong",
+        "kode_wilayah_induk_kecamatan": "026608  ",
+        "induk_kabupaten": "Kota Depok",
+        "kode_wilayah_induk_kabupaten": "026600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 19:18:41",
+        "sekolah_id_enkrip": "4F906C286EF2CD89C4D7                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB STARKIDS JEMBER",
+        "sekolah_id": "78BAE115-3FDC-495D-94E5-1C08DF234A3E",
+        "npsn": 69976794,
+        "jumlah_kirim": 4,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 50,
+        "rombel": 16,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukorambi",
+        "kode_wilayah_induk_kecamatan": "052421  ",
+        "induk_kabupaten": "Kab. Jember",
+        "kode_wilayah_induk_kabupaten": "052400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 13:00:19",
+        "sekolah_id_enkrip": "17AE4C1B053D57C64F5A                                                                                "
+    }
+]

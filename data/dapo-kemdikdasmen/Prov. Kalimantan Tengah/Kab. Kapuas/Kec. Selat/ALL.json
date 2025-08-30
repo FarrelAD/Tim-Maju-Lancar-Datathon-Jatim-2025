@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 1 KUALA KAPUAS",
+        "sekolah_id": "C0B3A235-30F5-E011-82BF-8575B471408D",
+        "npsn": 30200672,
+        "jumlah_kirim": 5,
+        "ptk": 30,
+        "pegawai": 8,
+        "pd": 96,
+        "rombel": 40,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Selat",
+        "kode_wilayah_induk_kecamatan": "140104  ",
+        "induk_kabupaten": "Kab. Kapuas",
+        "kode_wilayah_induk_kabupaten": "140100  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 20:04:42",
+        "sekolah_id_enkrip": "81BE93E679CA5BE6385F                                                                                "
+    }
+]

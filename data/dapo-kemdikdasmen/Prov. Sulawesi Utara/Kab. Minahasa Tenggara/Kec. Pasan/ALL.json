@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SYALOM TOLOMBUKAN SATU",
+        "sekolah_id": "207E7E32-52FD-E111-905B-ABFF30459AC8",
+        "npsn": 40105019,
+        "jumlah_kirim": 2,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 39,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Pasan",
+        "kode_wilayah_induk_kecamatan": "171011  ",
+        "induk_kabupaten": "Kab. Minahasa Tenggara",
+        "kode_wilayah_induk_kabupaten": "171000  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 21:38:53",
+        "sekolah_id_enkrip": "A6AF3A9B9991DA55E7B2                                                                                "
+    }
+]

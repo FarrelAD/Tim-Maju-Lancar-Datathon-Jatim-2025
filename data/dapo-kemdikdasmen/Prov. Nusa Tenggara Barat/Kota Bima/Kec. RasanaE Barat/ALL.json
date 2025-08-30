@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA WANITA PANE KOTA BIMA",
+        "sekolah_id": "E095DDE7-023C-E111-9045-3D13A16B0C66",
+        "npsn": 50219681,
+        "jumlah_kirim": 3,
+        "ptk": 20,
+        "pegawai": 2,
+        "pd": 39,
+        "rombel": 29,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. RasanaE Barat",
+        "kode_wilayah_induk_kecamatan": "236101  ",
+        "induk_kabupaten": "Kota Bima",
+        "kode_wilayah_induk_kabupaten": "236100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 18:30:40",
+        "sekolah_id_enkrip": "ED2E81F10ACC4992D09D                                                                                "
+    }
+]

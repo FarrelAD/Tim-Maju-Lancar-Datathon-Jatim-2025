@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KAB. KARAWANG",
+        "sekolah_id": "14F2D254-2765-487B-AD73-A2D424D868B6",
+        "npsn": 69786714,
+        "jumlah_kirim": 19,
+        "ptk": 26,
+        "pegawai": 4,
+        "pd": 264,
+        "rombel": 45,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwasari",
+        "kode_wilayah_induk_kecamatan": "022127  ",
+        "induk_kabupaten": "Kab. Karawang",
+        "kode_wilayah_induk_kabupaten": "022100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 15:03:44",
+        "sekolah_id_enkrip": "436C10F95264539701C1                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 1 AMPAH",
+        "sekolah_id": "1D42567D-2737-45B2-9543-7A6C4F0E51E7",
+        "npsn": 70056679,
+        "jumlah_kirim": 8,
+        "ptk": 2,
+        "pegawai": 0,
+        "pd": 10,
+        "rombel": 5,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Dusun Tengah",
+        "kode_wilayah_induk_kecamatan": "141305  ",
+        "induk_kabupaten": "Kab. Barito Timur",
+        "kode_wilayah_induk_kabupaten": "141300  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "1B32FAD6284A044B9438                                                                                "
+    }
+]

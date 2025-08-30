@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TOABO",
+        "sekolah_id": "B275CEC4-7889-47FF-9840-4323C9DF7D22",
+        "npsn": 69897018,
+        "jumlah_kirim": 6,
+        "ptk": 3,
+        "pegawai": 8,
+        "pd": 16,
+        "rombel": 10,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 5,
+        "induk_kecamatan": "Kec. Papalang",
+        "kode_wilayah_induk_kecamatan": "330107  ",
+        "induk_kabupaten": "Kab. Mamuju",
+        "kode_wilayah_induk_kabupaten": "330100  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 22:14:41",
+        "sekolah_id_enkrip": "8BB337D969C08624F248                                                                                "
+    }
+]
