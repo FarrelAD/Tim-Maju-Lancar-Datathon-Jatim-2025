@@ -1,6 +1,7 @@
 [
     {
         "rombel": 10,
+        "akreditasi": "B",
         "guru_kelas": 8,
         "guru_matematika": 0,
         "guru_bahasa_indonesia": 1,
@@ -95,7 +96,6 @@
         "jml_wastafel_rusak": null,
         "air_mengalir_wastafel": null,
         "memiliki_drainase": null,
-        "menguras_tangki_septik": null,
-        "akreditasi": "B"
+        "menguras_tangki_septik": null
     }
 ]
