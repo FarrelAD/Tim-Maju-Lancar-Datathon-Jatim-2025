@@ -1,6 +1,11 @@
 [
     {
         "rombel": 11,
+        "sekolah_id": "6074953A-9AFE-E111-8718-596272C58670",
+        "npsn": 20574846,
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "akreditasi": "B",
         "guru_kelas": 6,
         "guru_matematika": 0,
         "guru_bahasa_indonesia": 0,
@@ -83,7 +88,6 @@
         "pd_valid": null,
         "prasarana_valid": null,
         "total_valid": null,
-        "sekolah_id": null,
         "semester_id": null,
         "sumber_air": null,
         "sumber_air_minum": null,
@@ -95,7 +99,6 @@
         "jml_wastafel_rusak": null,
         "air_mengalir_wastafel": null,
         "memiliki_drainase": null,
-        "menguras_tangki_septik": null,
-        "akreditasi": "B"
+        "menguras_tangki_septik": null
     }
 ]
