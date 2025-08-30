@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-MUNAWARAH",
+        "sekolah_id": "4067D024-9EFE-E111-A41D-5BDF5DB7C5A7",
+        "npsn": 69769376,
+        "jumlah_kirim": 4,
+        "ptk": 11,
+        "pegawai": 4,
+        "pd": 20,
+        "rombel": 8,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ulumanda",
+        "kode_wilayah_induk_kecamatan": "330505  ",
+        "induk_kabupaten": "Kab. Majene",
+        "kode_wilayah_induk_kabupaten": "330500  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 23:50:38",
+        "sekolah_id_enkrip": "8DE494E4A31C68D69DB9                                                                                "
+    }
+]

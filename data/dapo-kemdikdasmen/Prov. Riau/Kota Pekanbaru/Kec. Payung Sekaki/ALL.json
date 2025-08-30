@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PENDOWO LIMO",
+        "sekolah_id": "1407AF08-7248-48F8-8FA4-4A13406C3F12",
+        "npsn": 10404463,
+        "jumlah_kirim": 4,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 27,
+        "rombel": 9,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Payung Sekaki",
+        "kode_wilayah_induk_kecamatan": "096012  ",
+        "induk_kabupaten": "Kota Pekanbaru",
+        "kode_wilayah_induk_kabupaten": "096000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 14:16:45",
+        "sekolah_id_enkrip": "8FE9D5041FA3422417B8                                                                                "
+    }
+]

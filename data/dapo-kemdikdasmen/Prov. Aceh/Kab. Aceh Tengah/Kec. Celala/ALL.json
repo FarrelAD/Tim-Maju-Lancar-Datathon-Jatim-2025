@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB QALBUN INSANNI CELALA",
+        "sekolah_id": "EE100221-E7E7-4D4F-83D9-356FCC89D911",
+        "npsn": 69893697,
+        "jumlah_kirim": 6,
+        "ptk": 6,
+        "pegawai": 7,
+        "pd": 29,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Celala",
+        "kode_wilayah_induk_kecamatan": "060514  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 13:54:04",
+        "sekolah_id_enkrip": "FFFCAD2CEE9765EC2397                                                                                "
+    }
+]

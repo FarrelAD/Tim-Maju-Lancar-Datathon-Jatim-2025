@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA SEJAHTERA MANDIRI",
+        "sekolah_id": "7ECD13C5-90E5-4A69-A81A-894CF6003178",
+        "npsn": 69862669,
+        "jumlah_kirim": 10,
+        "ptk": 8,
+        "pegawai": 5,
+        "pd": 72,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lubuk Linggau Timur I",
+        "kode_wilayah_induk_kecamatan": "116202  ",
+        "induk_kabupaten": "Kota Lubuk Linggau",
+        "kode_wilayah_induk_kabupaten": "116200  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 12:13:14",
+        "sekolah_id_enkrip": "B1F7C2359DF5C7AE6163                                                                                "
+    }
+]

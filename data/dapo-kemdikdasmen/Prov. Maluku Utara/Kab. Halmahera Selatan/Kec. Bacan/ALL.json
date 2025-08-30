@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LABUHA",
+        "sekolah_id": "E5A12C35-39FA-4A55-89DB-4F27CCDA56D4",
+        "npsn": 60203216,
+        "jumlah_kirim": 6,
+        "ptk": 16,
+        "pegawai": 8,
+        "pd": 64,
+        "rombel": 11,
+        "jml_rk": 20,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bacan",
+        "kode_wilayah_induk_kecamatan": "270504  ",
+        "induk_kabupaten": "Kab. Halmahera Selatan",
+        "kode_wilayah_induk_kabupaten": "270500  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 19:10:53",
+        "sekolah_id_enkrip": "BE988CC3188F6931F6A5                                                                                "
+    }
+]

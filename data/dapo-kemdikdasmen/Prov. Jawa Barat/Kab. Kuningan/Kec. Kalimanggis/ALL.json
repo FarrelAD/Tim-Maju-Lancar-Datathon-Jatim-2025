@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BINA INSANI KABUPATEN KUNINGAN",
+        "sekolah_id": "3028E0D2-3C0C-E211-836A-79EE137C99FC",
+        "npsn": 69758951,
+        "jumlah_kirim": 9,
+        "ptk": 16,
+        "pegawai": 6,
+        "pd": 121,
+        "rombel": 40,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kalimanggis",
+        "kode_wilayah_induk_kecamatan": "021522  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 00:30:36",
+        "sekolah_id_enkrip": "1E6A3DDD106A87351F07                                                                                "
+    }
+]

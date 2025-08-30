@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC BINA BANGSA",
+        "sekolah_id": "A0EB99D2-F286-E211-9046-13E10924E894",
+        "npsn": 20254693,
+        "jumlah_kirim": 8,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 101,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karang Tengah",
+        "kode_wilayah_induk_kecamatan": "020719  ",
+        "induk_kabupaten": "Kab. Cianjur",
+        "kode_wilayah_induk_kabupaten": "020700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 22:09:32",
+        "sekolah_id_enkrip": "E138727DB78C1EE2DB2A                                                                                "
+    }
+]

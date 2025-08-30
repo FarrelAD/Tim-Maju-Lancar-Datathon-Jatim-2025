@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB HARAPAN PELANGI",
+        "sekolah_id": "75AD4C52-8AFB-45F9-BE4B-351EA33D68F2",
+        "npsn": 70027962,
+        "jumlah_kirim": 12,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 51,
+        "rombel": 10,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kalisat",
+        "kode_wilayah_induk_kecamatan": "052424  ",
+        "induk_kabupaten": "Kab. Jember",
+        "kode_wilayah_induk_kabupaten": "052400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 07:37:58",
+        "sekolah_id_enkrip": "955C7D63DCA42C0C1137                                                                                "
+    }
+]

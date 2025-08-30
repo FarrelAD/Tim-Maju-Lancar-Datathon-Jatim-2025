@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PRINGSEWU",
+        "sekolah_id": "609E9F0B-6722-E211-8A8A-FB5E778A44CC",
+        "npsn": 10805070,
+        "jumlah_kirim": 19,
+        "ptk": 40,
+        "pegawai": 4,
+        "pd": 172,
+        "rombel": 37,
+        "jml_rk": 23,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pringsewu",
+        "kode_wilayah_induk_kecamatan": "121005  ",
+        "induk_kabupaten": "Kab. Pringsewu",
+        "kode_wilayah_induk_kabupaten": "121000  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:57:46",
+        "sekolah_id_enkrip": "981261A40AB6513AF40B                                                                                "
+    }
+]

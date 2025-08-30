@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BATUBARA",
+        "sekolah_id": "C0B50CF6-74FE-E111-B520-2B63296031FA",
+        "npsn": 10260898,
+        "jumlah_kirim": 20,
+        "ptk": 29,
+        "pegawai": 15,
+        "pd": 184,
+        "rombel": 29,
+        "jml_rk": 26,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Air Putih",
+        "kode_wilayah_induk_kecamatan": "072202  ",
+        "induk_kabupaten": "Kab. Batu Bara",
+        "kode_wilayah_induk_kabupaten": "072200  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 03:24:58",
+        "sekolah_id_enkrip": "4F442E9BAC685DD6522F                                                                                "
+    }
+]

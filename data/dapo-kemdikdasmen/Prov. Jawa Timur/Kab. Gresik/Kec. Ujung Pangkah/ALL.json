@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA WANITA",
+        "sekolah_id": "60D1FDF2-8B18-E111-9102-51DEB3F240DE",
+        "npsn": 20500216,
+        "jumlah_kirim": 9,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 34,
+        "rombel": 13,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ujung Pangkah",
+        "kode_wilayah_induk_kecamatan": "050116  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 05:35:00",
+        "sekolah_id_enkrip": "0CC6ADD7B6943FD7D93F                                                                                "
+    }
+]

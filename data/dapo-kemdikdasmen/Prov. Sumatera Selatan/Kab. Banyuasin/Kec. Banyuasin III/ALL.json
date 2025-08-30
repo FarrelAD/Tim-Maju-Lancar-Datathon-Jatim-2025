@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN BANYUASIN",
+        "sekolah_id": "C09EEE66-2CFB-E111-9965-B1677E86195B",
+        "npsn": 69756063,
+        "jumlah_kirim": 5,
+        "ptk": 16,
+        "pegawai": 9,
+        "pd": 94,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banyuasin III",
+        "kode_wilayah_induk_kecamatan": "110703  ",
+        "induk_kabupaten": "Kab. Banyuasin",
+        "kode_wilayah_induk_kabupaten": "110700  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 13:24:52",
+        "sekolah_id_enkrip": "3AB59453BDC927FF0065                                                                                "
+    }
+]

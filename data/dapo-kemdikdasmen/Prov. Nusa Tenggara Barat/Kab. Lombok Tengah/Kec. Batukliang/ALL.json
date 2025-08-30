@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 4 LOMBOK TENGAH",
+        "sekolah_id": "8FC8406E-16F8-40FA-9BB0-B7180E6A54A6",
+        "npsn": 70003432,
+        "jumlah_kirim": 14,
+        "ptk": 17,
+        "pegawai": 7,
+        "pd": 102,
+        "rombel": 17,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Batukliang",
+        "kode_wilayah_induk_kecamatan": "230209  ",
+        "induk_kabupaten": "Kab. Lombok Tengah",
+        "kode_wilayah_induk_kabupaten": "230200  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 19:26:46",
+        "sekolah_id_enkrip": "AB0B53F61E6158A9990A                                                                                "
+    }
+]

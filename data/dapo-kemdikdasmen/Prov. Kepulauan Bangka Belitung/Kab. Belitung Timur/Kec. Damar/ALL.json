@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Manggar",
+        "sekolah_id": "80CF004B-259F-E111-8CDF-EFFD2563F0EA",
+        "npsn": 10901677,
+        "jumlah_kirim": 8,
+        "ptk": 23,
+        "pegawai": 7,
+        "pd": 128,
+        "rombel": 30,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Damar",
+        "kode_wilayah_induk_kecamatan": "290605  ",
+        "induk_kabupaten": "Kab. Belitung Timur",
+        "kode_wilayah_induk_kabupaten": "290600  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 22:53:59",
+        "sekolah_id_enkrip": "C49EFBB8184EE867713B                                                                                "
+    }
+]

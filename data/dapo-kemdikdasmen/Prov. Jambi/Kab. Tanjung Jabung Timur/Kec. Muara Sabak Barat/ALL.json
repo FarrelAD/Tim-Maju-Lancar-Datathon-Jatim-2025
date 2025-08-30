@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Tanjung Jabung Timur",
+        "sekolah_id": "E042D35F-0C26-E111-977B-C35EA35D2C1A",
+        "npsn": 10505859,
+        "jumlah_kirim": 4,
+        "ptk": 15,
+        "pegawai": 9,
+        "pd": 134,
+        "rombel": 40,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muara Sabak Barat",
+        "kode_wilayah_induk_kecamatan": "100809  ",
+        "induk_kabupaten": "Kab. Tanjung Jabung Timur",
+        "kode_wilayah_induk_kabupaten": "100800  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 11:43:47",
+        "sekolah_id_enkrip": "25EB1354764D6D1E6B12                                                                                "
+    }
+]

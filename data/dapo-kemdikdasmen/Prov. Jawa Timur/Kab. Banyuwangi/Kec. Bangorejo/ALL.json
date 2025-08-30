@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI BANGOREJO",
+        "sekolah_id": "F709E309-7266-4D2D-9BB0-F11BAB758EDE",
+        "npsn": 69861080,
+        "jumlah_kirim": 10,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 72,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bangorejo",
+        "kode_wilayah_induk_kecamatan": "052502  ",
+        "induk_kabupaten": "Kab. Banyuwangi",
+        "kode_wilayah_induk_kabupaten": "052500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 12:59:07",
+        "sekolah_id_enkrip": "47648DE953E81CFE1B06                                                                                "
+    }
+]

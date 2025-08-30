@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC MULYA BAKTI",
+        "sekolah_id": "00ACE415-2CF5-E011-B5F8-7FFA7FA0B326",
+        "npsn": 20267654,
+        "jumlah_kirim": 4,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 61,
+        "rombel": 23,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cikalongwetan",
+        "kode_wilayah_induk_kecamatan": "022314  ",
+        "induk_kabupaten": "Kab. Bandung Barat",
+        "kode_wilayah_induk_kabupaten": "022300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 08:02:12",
+        "sekolah_id_enkrip": "BAC78D422A1024EB7B09                                                                                "
+    }
+]

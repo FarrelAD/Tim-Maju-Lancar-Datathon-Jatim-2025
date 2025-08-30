@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI GORONTALO UTARA",
+        "sekolah_id": "3077C7D0-6585-E111-A882-A3718A9CF7F2",
+        "npsn": 40501883,
+        "jumlah_kirim": 19,
+        "ptk": 27,
+        "pegawai": 3,
+        "pd": 76,
+        "rombel": 34,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kwandang",
+        "kode_wilayah_induk_kecamatan": "300503  ",
+        "induk_kabupaten": "Kab. Gorontalo Utara",
+        "kode_wilayah_induk_kabupaten": "300500  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 07:14:05",
+        "sekolah_id_enkrip": "3B1BF3F22E6520CCC9FB                                                                                "
+    }
+]

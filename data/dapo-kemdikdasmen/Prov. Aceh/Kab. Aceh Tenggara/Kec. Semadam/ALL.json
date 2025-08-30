@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Semadam",
+        "sekolah_id": "B09412D6-3AFE-E111-A022-35BB8C981A81",
+        "npsn": 10113630,
+        "jumlah_kirim": 29,
+        "ptk": 16,
+        "pegawai": 9,
+        "pd": 42,
+        "rombel": 24,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Semadam",
+        "kode_wilayah_induk_kecamatan": "060810  ",
+        "induk_kabupaten": "Kab. Aceh Tenggara",
+        "kode_wilayah_induk_kabupaten": "060800  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 05:05:07",
+        "sekolah_id_enkrip": "A954D22304643740D60E                                                                                "
+    }
+]

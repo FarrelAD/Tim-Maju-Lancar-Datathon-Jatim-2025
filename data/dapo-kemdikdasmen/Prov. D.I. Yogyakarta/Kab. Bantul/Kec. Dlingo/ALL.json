@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB INSAN MANDIRI",
+        "sekolah_id": "20C7724E-86FC-E111-B40A-4D275BAAD1AB",
+        "npsn": 58570160,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 26,
+        "rombel": 10,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dlingo",
+        "kode_wilayah_induk_kecamatan": "040110  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 10:49:30",
+        "sekolah_id_enkrip": "61553DC62B8C7084B346                                                                                "
+    }
+]

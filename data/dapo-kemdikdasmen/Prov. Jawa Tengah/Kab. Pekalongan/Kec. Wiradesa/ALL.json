@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI WIRADESA",
+        "sekolah_id": "303AC2D0-6351-E111-AA4B-CFEDE0A83D1E",
+        "npsn": 20332427,
+        "jumlah_kirim": 4,
+        "ptk": 23,
+        "pegawai": 6,
+        "pd": 360,
+        "rombel": 36,
+        "jml_rk": 29,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wiradesa",
+        "kode_wilayah_induk_kecamatan": "032616  ",
+        "induk_kabupaten": "Kab. Pekalongan",
+        "kode_wilayah_induk_kabupaten": "032600  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 15:08:36",
+        "sekolah_id_enkrip": "8350639F601D07F9D317                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Athallah Sungai Rumbai",
+        "sekolah_id": "80925579-2FF5-E011-B3E1-0F349DAF4577",
+        "npsn": 10310181,
+        "jumlah_kirim": 6,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 66,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sungai Rumbai",
+        "kode_wilayah_induk_kecamatan": "081201  ",
+        "induk_kabupaten": "Kab. Dharmasraya",
+        "kode_wilayah_induk_kabupaten": "081200  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 12:12:52",
+        "sekolah_id_enkrip": "F7402C3606A2215F6781                                                                                "
+    }
+]

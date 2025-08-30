@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA INSANI BLIMBINGSARI",
+        "sekolah_id": "99DE1C3E-BACB-4685-9418-0704CE34F48C",
+        "npsn": 70004803,
+        "jumlah_kirim": 3,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 9,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Blimbingsari",
+        "kode_wilayah_induk_kecamatan": "052525  ",
+        "induk_kabupaten": "Kab. Banyuwangi",
+        "kode_wilayah_induk_kabupaten": "052500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 01:07:57",
+        "sekolah_id_enkrip": "73394E2EEBCE6732364A                                                                                "
+    }
+]

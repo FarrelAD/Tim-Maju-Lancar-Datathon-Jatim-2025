@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 1 Sabang",
+        "sekolah_id": "0070D890-2EF5-E011-BA80-DB6D7728CC26",
+        "npsn": 10105289,
+        "jumlah_kirim": 5,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 28,
+        "rombel": 8,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukajaya",
+        "kode_wilayah_induk_kecamatan": "066001  ",
+        "induk_kabupaten": "Kota Sabang",
+        "kode_wilayah_induk_kabupaten": "066000  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 21:12:30",
+        "sekolah_id_enkrip": "0D4876E189F2CA37ABE9                                                                                "
+    }
+]

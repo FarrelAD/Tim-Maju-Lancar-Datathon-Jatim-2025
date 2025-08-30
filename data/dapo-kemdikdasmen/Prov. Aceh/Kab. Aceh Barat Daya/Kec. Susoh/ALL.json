@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI Aceh Barat Daya",
+        "sekolah_id": "404E7C91-2EF5-E011-8288-651E766D13AA",
+        "npsn": 10104793,
+        "jumlah_kirim": 13,
+        "ptk": 18,
+        "pegawai": 5,
+        "pd": 127,
+        "rombel": 20,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Susoh",
+        "kode_wilayah_induk_kecamatan": "061704  ",
+        "induk_kabupaten": "Kab. Aceh Barat Daya",
+        "kode_wilayah_induk_kabupaten": "061700  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:41:08",
+        "sekolah_id_enkrip": "ACB8FB21F8509864B337                                                                                "
+    }
+]

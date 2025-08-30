@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI AUTIS",
+        "sekolah_id": "2357EC18-A472-48DE-B28B-DD94ABAD915E",
+        "npsn": 70048132,
+        "jumlah_kirim": 5,
+        "ptk": 6,
+        "pegawai": 16,
+        "pd": 45,
+        "rombel": 14,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Maulafa",
+        "kode_wilayah_induk_kecamatan": "246002  ",
+        "induk_kabupaten": "Kota Kupang",
+        "kode_wilayah_induk_kabupaten": "246000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:32:23",
+        "sekolah_id_enkrip": "B8B66D7FEC5FA7BEC7FC                                                                                "
+    }
+]

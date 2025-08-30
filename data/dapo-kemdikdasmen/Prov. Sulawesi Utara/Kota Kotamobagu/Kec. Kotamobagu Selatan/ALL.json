@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI POYOWA BESAR",
+        "sekolah_id": "D0C400AD-30F5-E011-8D31-87100504AF12",
+        "npsn": 40100418,
+        "jumlah_kirim": 14,
+        "ptk": 31,
+        "pegawai": 11,
+        "pd": 118,
+        "rombel": 38,
+        "jml_rk": 36,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kotamobagu Selatan",
+        "kode_wilayah_induk_kecamatan": "176304  ",
+        "induk_kabupaten": "Kota Kotamobagu",
+        "kode_wilayah_induk_kabupaten": "176300  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 22:50:04",
+        "sekolah_id_enkrip": "F8B5681A137A7F622866                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS HARAPAN MALUKU UTARA",
+        "sekolah_id": "C7742FC1-7A8A-44F5-94A3-EB18E1F9CA7B",
+        "npsn": 70036267,
+        "jumlah_kirim": 16,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 20,
+        "rombel": 7,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Makian Barat",
+        "kode_wilayah_induk_kecamatan": "270526  ",
+        "induk_kabupaten": "Kab. Halmahera Selatan",
+        "kode_wilayah_induk_kabupaten": "270500  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 06:32:29",
+        "sekolah_id_enkrip": "1F1A6356F9223985F27D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SPKH NEGERI KARANGANYAR",
+        "sekolah_id": "304D2320-A4FC-E111-AA5C-7FE978DCC205",
+        "npsn": 69761865,
+        "jumlah_kirim": 20,
+        "ptk": 11,
+        "pegawai": 5,
+        "pd": 113,
+        "rombel": 33,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Karanganyar",
+        "kode_wilayah_induk_kecamatan": "030520  ",
+        "induk_kabupaten": "Kab. Kebumen",
+        "kode_wilayah_induk_kabupaten": "030500  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:13:10",
+        "sekolah_id_enkrip": "FFC24C03F9DA8D656EF3                                                                                "
+    }
+]

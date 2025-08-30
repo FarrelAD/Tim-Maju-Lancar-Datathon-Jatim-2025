@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MASOHI",
+        "sekolah_id": "50612AFC-30F5-E011-B376-A3E3F064C7CB",
+        "npsn": 60100722,
+        "jumlah_kirim": 6,
+        "ptk": 9,
+        "pegawai": 0,
+        "pd": 42,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Masohi",
+        "kode_wilayah_induk_kecamatan": "210116  ",
+        "induk_kabupaten": "Kab. Maluku Tengah",
+        "kode_wilayah_induk_kabupaten": "210100  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 05:04:17",
+        "sekolah_id_enkrip": "0459AECE115D8C20DDC1                                                                                "
+    }
+]

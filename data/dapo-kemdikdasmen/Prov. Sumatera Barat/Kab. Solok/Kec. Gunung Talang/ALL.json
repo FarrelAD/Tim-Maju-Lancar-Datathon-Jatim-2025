@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BERKAH ARSY",
+        "sekolah_id": "7DB518CE-AD4C-4441-983C-CC435CD52C39",
+        "npsn": 70015821,
+        "jumlah_kirim": 5,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 20,
+        "rombel": 7,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gunung Talang",
+        "kode_wilayah_induk_kecamatan": "080408  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 20:24:21",
+        "sekolah_id_enkrip": "5DFE447F0C118AD3AB99                                                                                "
+    }
+]

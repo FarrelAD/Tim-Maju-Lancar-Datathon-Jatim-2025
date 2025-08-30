@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PIRU",
+        "sekolah_id": "571A672A-3EC0-4060-9031-0B7E7AF1158C",
+        "npsn": 69886254,
+        "jumlah_kirim": 5,
+        "ptk": 18,
+        "pegawai": 1,
+        "pd": 47,
+        "rombel": 9,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Seram Barat",
+        "kode_wilayah_induk_kecamatan": "210502  ",
+        "induk_kabupaten": "Kab. Seram Bagian Barat",
+        "kode_wilayah_induk_kabupaten": "210500  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 15:54:23",
+        "sekolah_id_enkrip": "6C04BC178D521E469E0F                                                                                "
+    }
+]

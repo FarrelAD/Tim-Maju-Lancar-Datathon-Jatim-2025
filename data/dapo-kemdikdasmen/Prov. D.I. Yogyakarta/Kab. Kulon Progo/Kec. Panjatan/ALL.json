@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 1 KULON PROGO",
+        "sekolah_id": "80611C5D-2EF5-E011-AB69-672499B85A86",
+        "npsn": 20403630,
+        "jumlah_kirim": 27,
+        "ptk": 37,
+        "pegawai": 8,
+        "pd": 212,
+        "rombel": 44,
+        "jml_rk": 36,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Panjatan",
+        "kode_wilayah_induk_kecamatan": "040403  ",
+        "induk_kabupaten": "Kab. Kulon Progo",
+        "kode_wilayah_induk_kabupaten": "040400  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:19:31",
+        "sekolah_id_enkrip": "69BF5382801CCE48980F                                                                                "
+    }
+]

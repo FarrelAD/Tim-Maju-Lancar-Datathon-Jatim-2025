@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB NEGERI WONOMULYO",
+        "sekolah_id": "F039B1C6-0D26-E111-9117-B567A518DC05",
+        "npsn": 40605154,
+        "jumlah_kirim": 12,
+        "ptk": 22,
+        "pegawai": 11,
+        "pd": 60,
+        "rombel": 18,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wonomulyo",
+        "kode_wilayah_induk_kecamatan": "330304  ",
+        "induk_kabupaten": "Kab. Polewali Mandar",
+        "kode_wilayah_induk_kabupaten": "330300  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:46:57",
+        "sekolah_id_enkrip": "9BD5E8B39208C6F7B631                                                                                "
+    }
+]

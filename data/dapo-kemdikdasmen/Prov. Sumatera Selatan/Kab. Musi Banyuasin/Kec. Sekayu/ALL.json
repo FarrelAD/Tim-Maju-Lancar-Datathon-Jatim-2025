@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SEKAYU",
+        "sekolah_id": "F00DA15E-3B92-E111-8F3B-9B84BDCF3D7B",
+        "npsn": 10600384,
+        "jumlah_kirim": 8,
+        "ptk": 18,
+        "pegawai": 14,
+        "pd": 200,
+        "rombel": 54,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sekayu",
+        "kode_wilayah_induk_kecamatan": "110104  ",
+        "induk_kabupaten": "Kab. Musi Banyuasin",
+        "kode_wilayah_induk_kabupaten": "110100  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 22:36:22",
+        "sekolah_id_enkrip": "2A112783811F46CEBC9A                                                                                "
+    }
+]

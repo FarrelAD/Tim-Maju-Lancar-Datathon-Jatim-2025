@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YRPC TAKENGON",
+        "sekolah_id": "50D83A91-2EF5-E011-BAA9-152FEF6D3F54",
+        "npsn": 10102255,
+        "jumlah_kirim": 13,
+        "ptk": 10,
+        "pegawai": 8,
+        "pd": 30,
+        "rombel": 19,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bebesen",
+        "kode_wilayah_induk_kecamatan": "060505  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 23:20:53",
+        "sekolah_id_enkrip": "28DF52DF7D0DC68E1BDD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB RUMAH KITA BATAM",
+        "sekolah_id": "FD28A713-6DCE-481C-8B5E-04AF9658DD6A",
+        "npsn": 70003749,
+        "jumlah_kirim": 9,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 28,
+        "rombel": 9,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bengkong",
+        "kode_wilayah_induk_kecamatan": "316011  ",
+        "induk_kabupaten": "Kota Batam",
+        "kode_wilayah_induk_kabupaten": "316000  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 18:53:55",
+        "sekolah_id_enkrip": "9BBFDCF959A64F63DBC3                                                                                "
+    }
+]

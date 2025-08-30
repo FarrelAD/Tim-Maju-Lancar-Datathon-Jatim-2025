@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB  LAKETU",
+        "sekolah_id": "B87390E0-DD6F-4DEA-9F2A-6DEE6A756C24",
+        "npsn": 69788093,
+        "jumlah_kirim": 7,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 22,
+        "rombel": 7,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Malili",
+        "kode_wilayah_induk_kecamatan": "192604  ",
+        "induk_kabupaten": "Kab. Luwu Timur",
+        "kode_wilayah_induk_kabupaten": "192600  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 08:59:01",
+        "sekolah_id_enkrip": "0F38D4CCB1C944F2E28E                                                                                "
+    }
+]

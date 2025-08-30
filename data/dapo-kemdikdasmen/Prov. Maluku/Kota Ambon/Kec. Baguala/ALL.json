@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA AMBON",
+        "sekolah_id": "C03A2AFC-30F5-E011-A859-5D753FCEC84E",
+        "npsn": 60102578,
+        "jumlah_kirim": 8,
+        "ptk": 19,
+        "pegawai": 2,
+        "pd": 84,
+        "rombel": 24,
+        "jml_rk": 20,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Baguala",
+        "kode_wilayah_induk_kecamatan": "216005  ",
+        "induk_kabupaten": "Kota Ambon",
+        "kode_wilayah_induk_kabupaten": "216000  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 10:41:01",
+        "sekolah_id_enkrip": "06CCA336AA9ECB8A564F                                                                                "
+    }
+]

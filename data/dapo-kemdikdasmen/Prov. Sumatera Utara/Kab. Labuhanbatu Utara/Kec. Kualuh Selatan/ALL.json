@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI AEK KANOPAN",
+        "sekolah_id": "4F3DF155-1652-40CA-9D35-7D9F06109800",
+        "npsn": 69957452,
+        "jumlah_kirim": 8,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 105,
+        "rombel": 32,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kualuh Selatan",
+        "kode_wilayah_induk_kecamatan": "072505  ",
+        "induk_kabupaten": "Kab. Labuhanbatu Utara",
+        "kode_wilayah_induk_kabupaten": "072500  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 00:18:13",
+        "sekolah_id_enkrip": "78990569F24DA7D00682                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 LENGAYANG",
+        "sekolah_id": "9041C778-2FF5-E011-9FE8-611A22D1DEB2",
+        "npsn": 10308259,
+        "jumlah_kirim": 14,
+        "ptk": 15,
+        "pegawai": 4,
+        "pd": 81,
+        "rombel": 25,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lengayang",
+        "kode_wilayah_induk_kecamatan": "080606  ",
+        "induk_kabupaten": "Kab. Pesisir Selatan",
+        "kode_wilayah_induk_kabupaten": "080600  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 13:24:06",
+        "sekolah_id_enkrip": "F84C903511FC343527A2                                                                                "
+    }
+]

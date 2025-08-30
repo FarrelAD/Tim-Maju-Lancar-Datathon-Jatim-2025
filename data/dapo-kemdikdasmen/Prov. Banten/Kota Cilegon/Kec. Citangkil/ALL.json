@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh. AL KHAIRIYAH",
+        "sekolah_id": "100CF958-31F5-E011-A071-2F9436102DAD",
+        "npsn": 20606302,
+        "jumlah_kirim": 10,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 67,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Citangkil",
+        "kode_wilayah_induk_kecamatan": "286008  ",
+        "induk_kabupaten": "Kota Cilegon",
+        "kode_wilayah_induk_kabupaten": "286000  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:06:57",
+        "sekolah_id_enkrip": "343321722DE85A1502EB                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI TUMBANG SAMBA",
+        "sekolah_id": "EECEECAF-B652-4530-BA75-3D10B33171B7",
+        "npsn": 70050645,
+        "jumlah_kirim": 27,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 24,
+        "rombel": 9,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Katingan Tengah",
+        "kode_wilayah_induk_kecamatan": "140608  ",
+        "induk_kabupaten": "Kab. Katingan",
+        "kode_wilayah_induk_kabupaten": "140600  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 05:39:04",
+        "sekolah_id_enkrip": "A5B0873B38B2E28BCEEF                                                                                "
+    }
+]

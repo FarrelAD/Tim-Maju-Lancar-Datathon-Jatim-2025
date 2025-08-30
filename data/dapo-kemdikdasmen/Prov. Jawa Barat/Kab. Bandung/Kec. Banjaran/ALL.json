@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YPLAB BANJARAN",
+        "sekolah_id": "7004DB15-2CF5-E011-A66D-BDC30A848899",
+        "npsn": 20258464,
+        "jumlah_kirim": 3,
+        "ptk": 12,
+        "pegawai": 5,
+        "pd": 91,
+        "rombel": 21,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Banjaran",
+        "kode_wilayah_induk_kecamatan": "020816  ",
+        "induk_kabupaten": "Kab. Bandung",
+        "kode_wilayah_induk_kabupaten": "020800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 18:46:42",
+        "sekolah_id_enkrip": "983C3CB60D5D245A4971                                                                                "
+    }
+]

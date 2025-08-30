@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL HIDAYAH",
+        "sekolah_id": "60555D79-2FF5-E011-9D4D-5D4E7D7FDD51",
+        "npsn": 10301189,
+        "jumlah_kirim": 2,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 11,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bukik Barisan",
+        "kode_wilayah_induk_kecamatan": "080309  ",
+        "induk_kabupaten": "Kab. Lima Puluh Kota",
+        "kode_wilayah_induk_kabupaten": "080300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 10:48:40",
+        "sekolah_id_enkrip": "1F9DD8A554AD38D63323                                                                                "
+    }
+]

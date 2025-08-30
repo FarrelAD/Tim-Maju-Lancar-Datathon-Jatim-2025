@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SEKOLAH LUAR BIASA NEGERI KAMPAK",
+        "sekolah_id": "B20B68DF-3FF6-4F57-961F-7D54AC108935",
+        "npsn": 69900711,
+        "jumlah_kirim": 16,
+        "ptk": 18,
+        "pegawai": 2,
+        "pd": 71,
+        "rombel": 14,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kampak",
+        "kode_wilayah_induk_kecamatan": "051704  ",
+        "induk_kabupaten": "Kab. Trenggalek",
+        "kode_wilayah_induk_kabupaten": "051700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 05:15:37",
+        "sekolah_id_enkrip": "930E8CABE06D5856DD66                                                                                "
+    }
+]
