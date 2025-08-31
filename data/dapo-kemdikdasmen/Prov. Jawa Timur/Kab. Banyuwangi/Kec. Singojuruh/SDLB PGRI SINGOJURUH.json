@@ -1,6 +1,11 @@
 [
     {
         "rombel": 5,
+        "sekolah_id": "50DF3765-2CF7-E111-83E6-D188F4B5064D",
+        "npsn": 20526024,
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "akreditasi": "C",
         "guru_kelas": 5,
         "guru_matematika": 0,
         "guru_bahasa_indonesia": 0,
@@ -83,7 +88,6 @@
         "pd_valid": null,
         "prasarana_valid": null,
         "total_valid": null,
-        "sekolah_id": null,
         "semester_id": null,
         "sumber_air": null,
         "sumber_air_minum": null,

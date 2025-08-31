@@ -1,6 +1,11 @@
 [
     {
         "rombel": 33,
+        "sekolah_id": "F2DD03A6-7814-463F-A8D6-F6A1FD47BCD1",
+        "npsn": 69852238,
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "akreditasi": "A",
         "guru_kelas": 14,
         "guru_matematika": 0,
         "guru_bahasa_indonesia": 0,
@@ -83,7 +88,6 @@
         "pd_valid": null,
         "prasarana_valid": null,
         "total_valid": null,
-        "sekolah_id": null,
         "semester_id": null,
         "sumber_air": null,
         "sumber_air_minum": null,
