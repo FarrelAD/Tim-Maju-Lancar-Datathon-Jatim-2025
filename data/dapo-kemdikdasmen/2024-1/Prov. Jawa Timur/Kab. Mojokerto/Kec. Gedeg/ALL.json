@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PKK GEDEG",
+        "sekolah_id": "701AD5F5-8B18-E111-BB40-9752442E3D09",
+        "npsn": 20502665,
+        "jumlah_kirim": 27,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 83,
+        "rombel": 14,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gedeg",
+        "kode_wilayah_induk_kecamatan": "050314  ",
+        "induk_kabupaten": "Kab. Mojokerto",
+        "kode_wilayah_induk_kabupaten": "050300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 08:35:53",
+        "sekolah_id_enkrip": "DC5EAED5BEAF414560F8                                                                                "
+    }
+]

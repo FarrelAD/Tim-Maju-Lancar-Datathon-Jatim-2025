@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS NURHAKAM",
+        "sekolah_id": "AD299353-752F-4A8F-838B-479298447F65",
+        "npsn": 69774711,
+        "jumlah_kirim": 11,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 33,
+        "rombel": 24,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Karangtengah",
+        "kode_wilayah_induk_kecamatan": "021137  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 19:32:11",
+        "sekolah_id_enkrip": "1550DA184DD35AAC5AB7                                                                                "
+    }
+]

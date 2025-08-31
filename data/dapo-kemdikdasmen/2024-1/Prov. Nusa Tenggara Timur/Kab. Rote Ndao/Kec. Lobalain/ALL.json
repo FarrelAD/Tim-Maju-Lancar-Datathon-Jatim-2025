@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN LOBALAIN",
+        "sekolah_id": "704FE33A-033C-E111-AED0-B334A04A6017",
+        "npsn": 50305343,
+        "jumlah_kirim": 30,
+        "ptk": 17,
+        "pegawai": 15,
+        "pd": 85,
+        "rombel": 22,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lobalain",
+        "kode_wilayah_induk_kecamatan": "241506  ",
+        "induk_kabupaten": "Kab. Rote-Ndao",
+        "kode_wilayah_induk_kabupaten": "241500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 02:09:55",
+        "sekolah_id_enkrip": "C38F4B32A45FD1EC1095                                                                                "
+    }
+]

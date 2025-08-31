@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-B YPTB MALANG",
+        "sekolah_id": "202D477E-8D18-E111-AF09-3150E5EFD560",
+        "npsn": 20533744,
+        "jumlah_kirim": 14,
+        "ptk": 13,
+        "pegawai": 4,
+        "pd": 90,
+        "rombel": 14,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Klojen",
+        "kode_wilayah_induk_kecamatan": "056103  ",
+        "induk_kabupaten": "Kota Malang",
+        "kode_wilayah_induk_kabupaten": "056100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 06:18:44",
+        "sekolah_id_enkrip": "E7F23058FDD45BFAE654                                                                                "
+    }
+]

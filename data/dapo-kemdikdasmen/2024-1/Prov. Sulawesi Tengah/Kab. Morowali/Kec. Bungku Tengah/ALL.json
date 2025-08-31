@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KTM MOROWALI",
+        "sekolah_id": "E88E90BD-B4A6-4DEB-A71A-99ACE77ADCCE",
+        "npsn": 69937968,
+        "jumlah_kirim": 51,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 106,
+        "rombel": 23,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bungku Tengah",
+        "kode_wilayah_induk_kecamatan": "180703  ",
+        "induk_kabupaten": "Kab. Morowali",
+        "kode_wilayah_induk_kabupaten": "180700  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 07:51:20",
+        "sekolah_id_enkrip": "571683EDBA14F884E116                                                                                "
+    }
+]

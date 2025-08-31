@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KABUPATEN BOALEMO",
+        "sekolah_id": "C071A0D0-6585-E111-BA55-B73B84D4C2DA",
+        "npsn": 40500238,
+        "jumlah_kirim": 24,
+        "ptk": 13,
+        "pegawai": 7,
+        "pd": 106,
+        "rombel": 33,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tilamuta",
+        "kode_wilayah_induk_kecamatan": "300104  ",
+        "induk_kabupaten": "Kab. Boalemo",
+        "kode_wilayah_induk_kabupaten": "300100  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 06:10:14",
+        "sekolah_id_enkrip": "75D8E3468EFFF90071D5                                                                                "
+    }
+]

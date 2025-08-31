@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 KUALA PEMBUANG",
+        "sekolah_id": "5060A235-30F5-E011-A272-9B435BE38F12",
+        "npsn": 69786900,
+        "jumlah_kirim": 11,
+        "ptk": 12,
+        "pegawai": 5,
+        "pd": 43,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Seruyan Hilir",
+        "kode_wilayah_induk_kecamatan": "140701  ",
+        "induk_kabupaten": "Kab. Seruyan",
+        "kode_wilayah_induk_kabupaten": "140700  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:06:50",
+        "sekolah_id_enkrip": "4AB7F96630436CB73B8A                                                                                "
+    }
+]

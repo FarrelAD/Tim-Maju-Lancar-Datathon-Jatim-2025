@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PULAU BURUNG",
+        "sekolah_id": "654289DB-0F6C-4FF6-9F51-285B1F1B3AA9",
+        "npsn": 69788535,
+        "jumlah_kirim": 5,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 21,
+        "rombel": 11,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pulau Burung",
+        "kode_wilayah_induk_kecamatan": "090515  ",
+        "induk_kabupaten": "Kab. Indragiri Hilir",
+        "kode_wilayah_induk_kabupaten": "090500  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 03:38:26",
+        "sekolah_id_enkrip": "2890F70FB262D94D9EF5                                                                                "
+    }
+]

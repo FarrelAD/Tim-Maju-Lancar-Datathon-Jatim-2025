@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BENTENG",
+        "sekolah_id": "D60A87C0-F56F-4B12-8CA0-20F3D44AEA43",
+        "npsn": 69786796,
+        "jumlah_kirim": 8,
+        "ptk": 2,
+        "pegawai": 7,
+        "pd": 27,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Budong-Budong",
+        "kode_wilayah_induk_kecamatan": "330601  ",
+        "induk_kabupaten": "Kab. Mamuju Tengah",
+        "kode_wilayah_induk_kabupaten": "330600  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 08:14:43",
+        "sekolah_id_enkrip": "EDCBB4D0D0E620E627EC                                                                                "
+    }
+]

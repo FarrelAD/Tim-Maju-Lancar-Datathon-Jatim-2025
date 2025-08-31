@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 YOGYAKARTA",
+        "sekolah_id": "807B195D-2EF5-E011-900D-8B23D26AD012",
+        "npsn": 20403211,
+        "jumlah_kirim": 36,
+        "ptk": 25,
+        "pegawai": 11,
+        "pd": 94,
+        "rombel": 45,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gondomanan",
+        "kode_wilayah_induk_kecamatan": "046009  ",
+        "induk_kabupaten": "Kota Yogyakarta",
+        "kode_wilayah_induk_kabupaten": "046000  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 22:41:08",
+        "sekolah_id_enkrip": "7BAD0BBA936D41E47FAA                                                                                "
+    }
+]

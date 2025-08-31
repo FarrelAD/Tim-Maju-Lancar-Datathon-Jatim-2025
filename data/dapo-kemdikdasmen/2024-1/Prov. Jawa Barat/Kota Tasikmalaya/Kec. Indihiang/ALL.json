@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YAYASAN PENDIDIKAN PATRIOT",
+        "sekolah_id": "00B1D0DB-6CF9-E111-A609-EB94FEE97B56",
+        "npsn": 20251803,
+        "jumlah_kirim": 55,
+        "ptk": 6,
+        "pegawai": 5,
+        "pd": 109,
+        "rombel": 25,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Indihiang",
+        "kode_wilayah_induk_kecamatan": "026805  ",
+        "induk_kabupaten": "Kota Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "026800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 21:10:41",
+        "sekolah_id_enkrip": "6F11425759E513AED0F2                                                                                "
+    }
+]

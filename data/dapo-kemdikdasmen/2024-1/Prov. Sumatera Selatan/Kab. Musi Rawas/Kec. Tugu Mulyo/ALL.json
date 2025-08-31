@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MUSI RAWAS",
+        "sekolah_id": "00B8A596-2BF5-E011-AA43-C7F615AC7A07",
+        "npsn": 10645902,
+        "jumlah_kirim": 30,
+        "ptk": 17,
+        "pegawai": 11,
+        "pd": 151,
+        "rombel": 31,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tugu Mulyo",
+        "kode_wilayah_induk_kecamatan": "110604  ",
+        "induk_kabupaten": "Kab. Musi Rawas",
+        "kode_wilayah_induk_kabupaten": "110600  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 09:57:02",
+        "sekolah_id_enkrip": "D0DCD5B43B87DAEB6D6D                                                                                "
+    }
+]

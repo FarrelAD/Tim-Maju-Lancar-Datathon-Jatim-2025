@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS GOLDEN KIDS SCHOOL",
+        "sekolah_id": "AF0861D0-A401-488A-9F0F-DA5E11BBCF29",
+        "npsn": 70043969,
+        "jumlah_kirim": 17,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 20,
+        "rombel": 9,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Trowulan",
+        "kode_wilayah_induk_kecamatan": "050312  ",
+        "induk_kabupaten": "Kab. Mojokerto",
+        "kode_wilayah_induk_kabupaten": "050300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 09:23:40",
+        "sekolah_id_enkrip": "38AB7A512705E4CAD325                                                                                "
+    }
+]

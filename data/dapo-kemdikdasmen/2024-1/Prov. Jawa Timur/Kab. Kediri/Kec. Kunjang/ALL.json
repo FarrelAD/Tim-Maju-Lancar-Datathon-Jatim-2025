@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI KUNJANG",
+        "sekolah_id": "0BF0D880-3546-4753-9F53-56BFAF493EF7",
+        "npsn": 69772554,
+        "jumlah_kirim": 11,
+        "ptk": 3,
+        "pegawai": 0,
+        "pd": 28,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kunjang",
+        "kode_wilayah_induk_kecamatan": "051321  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 19:15:33",
+        "sekolah_id_enkrip": "ADB8FD9348ABBB51D6A2                                                                                "
+    }
+]

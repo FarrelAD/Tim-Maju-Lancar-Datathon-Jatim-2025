@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Swasta Kasih Ibu",
+        "sekolah_id": "B27ECBC5-DC2C-429D-B3FA-19B52B91D7AF",
+        "npsn": 70009590,
+        "jumlah_kirim": 8,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 38,
+        "rombel": 18,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dolok Masihul",
+        "kode_wilayah_induk_kecamatan": "072102  ",
+        "induk_kabupaten": "Kab. Serdang Bedagai",
+        "kode_wilayah_induk_kabupaten": "072100  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 08:41:33",
+        "sekolah_id_enkrip": "9AEECB234662910DCBE9                                                                                "
+    }
+]

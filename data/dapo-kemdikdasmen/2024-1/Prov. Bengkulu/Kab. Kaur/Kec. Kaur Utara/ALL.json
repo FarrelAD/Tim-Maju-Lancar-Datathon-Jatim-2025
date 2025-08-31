@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 KAUR",
+        "sekolah_id": "C0EDE8DC-31F5-E011-96BB-EDE114EE7278",
+        "npsn": 69872344,
+        "jumlah_kirim": 21,
+        "ptk": 13,
+        "pegawai": 7,
+        "pd": 50,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Kaur Utara",
+        "kode_wilayah_induk_kecamatan": "260703  ",
+        "induk_kabupaten": "Kab. Kaur",
+        "kode_wilayah_induk_kabupaten": "260700  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 06:17:28",
+        "sekolah_id_enkrip": "521B0CB384A8EEC10C65                                                                                "
+    }
+]

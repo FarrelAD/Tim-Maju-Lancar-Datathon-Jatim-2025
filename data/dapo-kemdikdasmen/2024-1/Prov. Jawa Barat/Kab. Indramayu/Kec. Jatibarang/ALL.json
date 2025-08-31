@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB/C GANDASARI JATIBARANG ",
+        "sekolah_id": "4082E36C-83D8-E111-A8B0-71B7440D29AB",
+        "npsn": 20253006,
+        "jumlah_kirim": 17,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 138,
+        "rombel": 33,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jatibarang",
+        "kode_wilayah_induk_kecamatan": "021813  ",
+        "induk_kabupaten": "Kab. Indramayu",
+        "kode_wilayah_induk_kabupaten": "021800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 09:15:27",
+        "sekolah_id_enkrip": "414AEE3BD91F93510CE5                                                                                "
+    }
+]

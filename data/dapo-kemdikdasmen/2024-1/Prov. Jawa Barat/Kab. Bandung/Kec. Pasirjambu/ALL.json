@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI PASIRJAMBU",
+        "sekolah_id": "00B0DA15-2CF5-E011-812B-191448BFE620",
+        "npsn": 20259617,
+        "jumlah_kirim": 9,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 96,
+        "rombel": 18,
+        "jml_rk": 6,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pasirjambu",
+        "kode_wilayah_induk_kecamatan": "020802  ",
+        "induk_kabupaten": "Kab. Bandung",
+        "kode_wilayah_induk_kabupaten": "020800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 21:12:52",
+        "sekolah_id_enkrip": "AFE988D7F1A76B462F99                                                                                "
+    }
+]

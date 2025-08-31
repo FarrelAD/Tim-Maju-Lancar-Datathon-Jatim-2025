@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC PANCA BHAKTI MULIA",
+        "sekolah_id": "80E0C05B-2DF5-E011-84CB-ED8F14E33DE5",
+        "npsn": 20309737,
+        "jumlah_kirim": 15,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 90,
+        "rombel": 12,
+        "jml_rk": 27,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cawas",
+        "kode_wilayah_induk_kecamatan": "031005  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 06:25:04",
+        "sekolah_id_enkrip": "FB2F91F6D814F1565BD7                                                                                "
+    }
+]

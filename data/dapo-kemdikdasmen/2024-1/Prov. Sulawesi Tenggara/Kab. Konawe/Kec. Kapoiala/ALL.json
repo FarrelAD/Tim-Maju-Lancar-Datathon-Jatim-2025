@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KILA MANDIRI KAPOIALA",
+        "sekolah_id": "8AA32C26-CD2B-4A4D-A223-21F188E115C3",
+        "npsn": "NP409025",
+        "jumlah_kirim": 7,
+        "ptk": 2,
+        "pegawai": 0,
+        "pd": 9,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kapoiala",
+        "kode_wilayah_induk_kecamatan": "200142  ",
+        "induk_kabupaten": "Kab. Konawe",
+        "kode_wilayah_induk_kabupaten": "200100  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2024 15:14:06",
+        "sekolah_id_enkrip": "A17DFD537677F1419152                                                                                "
+    }
+]

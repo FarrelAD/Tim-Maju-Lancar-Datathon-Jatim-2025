@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA MANDIRI",
+        "sekolah_id": "B0FF487E-8D18-E111-9D40-A9B85110A7AA",
+        "npsn": 20532432,
+        "jumlah_kirim": 9,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 74,
+        "rombel": 12,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jambangan",
+        "kode_wilayah_induk_kecamatan": "056002  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 03:10:14",
+        "sekolah_id_enkrip": "A96CA7FCC0C6BAF7AD8E                                                                                "
+    }
+]

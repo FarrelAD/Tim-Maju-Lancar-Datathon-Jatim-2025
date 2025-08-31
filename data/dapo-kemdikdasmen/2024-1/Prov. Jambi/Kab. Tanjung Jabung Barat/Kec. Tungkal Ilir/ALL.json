@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Kuala Tungkal",
+        "sekolah_id": "0000265D-0C26-E111-B537-C903AF9DACE2",
+        "npsn": 10502094,
+        "jumlah_kirim": 40,
+        "ptk": 15,
+        "pegawai": 6,
+        "pd": 119,
+        "rombel": 44,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tungkal Ilir",
+        "kode_wilayah_induk_kecamatan": "100403  ",
+        "induk_kabupaten": "Kab. Tanjung Jabung Barat",
+        "kode_wilayah_induk_kabupaten": "100400  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:07:26",
+        "sekolah_id_enkrip": "CBE628A71E42EDDAF001                                                                                "
+    }
+]

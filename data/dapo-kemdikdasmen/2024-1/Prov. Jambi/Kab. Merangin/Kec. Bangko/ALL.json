@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Merangin",
+        "sekolah_id": "84FA6330-2CDF-4F41-B6F5-85518CA05311",
+        "npsn": 69943337,
+        "jumlah_kirim": 30,
+        "ptk": 17,
+        "pegawai": 4,
+        "pd": 105,
+        "rombel": 15,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bangko",
+        "kode_wilayah_induk_kecamatan": "100902  ",
+        "induk_kabupaten": "Kab. Merangin",
+        "kode_wilayah_induk_kabupaten": "100900  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 18:30:10",
+        "sekolah_id_enkrip": "19720A2C7AA44763A801                                                                                "
+    }
+]

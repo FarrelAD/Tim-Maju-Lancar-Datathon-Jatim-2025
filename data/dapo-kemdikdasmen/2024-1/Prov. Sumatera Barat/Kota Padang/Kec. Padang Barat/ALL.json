@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PK-PLK TIJI",
+        "sekolah_id": "55F094BA-D603-4D50-9E59-8A969BE315D4",
+        "npsn": 69762802,
+        "jumlah_kirim": 23,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 28,
+        "rombel": 12,
+        "jml_rk": 24,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Padang Barat",
+        "kode_wilayah_induk_kecamatan": "086106  ",
+        "induk_kabupaten": "Kota Padang",
+        "kode_wilayah_induk_kabupaten": "086100  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 08:49:01",
+        "sekolah_id_enkrip": "F5152FEAA4C5C2143498                                                                                "
+    }
+]

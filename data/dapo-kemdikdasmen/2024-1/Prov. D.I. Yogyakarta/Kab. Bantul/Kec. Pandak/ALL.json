@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MARSUDI PUTRA 2",
+        "sekolah_id": "803A1B5D-2EF5-E011-A284-3BD0354E026C",
+        "npsn": 20400155,
+        "jumlah_kirim": 11,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 82,
+        "rombel": 17,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Pandak",
+        "kode_wilayah_induk_kecamatan": "040106  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 16:19:09",
+        "sekolah_id_enkrip": "6CF6F02AF863EF3609AC                                                                                "
+    }
+]

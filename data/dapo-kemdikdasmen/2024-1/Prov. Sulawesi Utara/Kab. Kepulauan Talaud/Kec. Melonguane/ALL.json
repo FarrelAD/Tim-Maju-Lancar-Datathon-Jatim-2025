@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS KASIH PORODISA",
+        "sekolah_id": "0D6A52F8-CF00-4256-B484-F9074AF15724",
+        "npsn": 70048948,
+        "jumlah_kirim": 19,
+        "ptk": 3,
+        "pegawai": 6,
+        "pd": 15,
+        "rombel": 1,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Melonguane",
+        "kode_wilayah_induk_kecamatan": "170403  ",
+        "induk_kabupaten": "Kab. Kepulauan Talaud",
+        "kode_wilayah_induk_kabupaten": "170400  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 08:22:00",
+        "sekolah_id_enkrip": "02C0AE951B9D31F1C6D7                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA RADJA KUPANG",
+        "sekolah_id": "B954717F-83F3-4E36-9BB1-04D59E840F57",
+        "npsn": 69991325,
+        "jumlah_kirim": 33,
+        "ptk": 30,
+        "pegawai": 23,
+        "pd": 96,
+        "rombel": 32,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Raja",
+        "kode_wilayah_induk_kecamatan": "246005  ",
+        "induk_kabupaten": "Kota Kupang",
+        "kode_wilayah_induk_kabupaten": "246000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 16:01:51",
+        "sekolah_id_enkrip": "CE0EA9390D7D8E8FE2B2                                                                                "
+    }
+]

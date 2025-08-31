@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB GMIM MARANATHA AIRMADIDI",
+        "sekolah_id": "B0C1FC65-EB32-E211-9C5E-DB2A4B557968",
+        "npsn": 40104382,
+        "jumlah_kirim": 14,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Airmadidi",
+        "kode_wilayah_induk_kecamatan": "170602  ",
+        "induk_kabupaten": "Kab. Minahasa Utara",
+        "kode_wilayah_induk_kabupaten": "170600  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 13:35:43",
+        "sekolah_id_enkrip": "1630F78A959BE6BE5367                                                                                "
+    }
+]

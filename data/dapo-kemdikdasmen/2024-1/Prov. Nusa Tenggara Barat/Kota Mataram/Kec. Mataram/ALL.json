@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 3 MATARAM",
+        "sekolah_id": "534341AE-1A19-4C57-8CE6-FED0D66D6AE1",
+        "npsn": 70039221,
+        "jumlah_kirim": 19,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 58,
+        "rombel": 19,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mataram",
+        "kode_wilayah_induk_kecamatan": "236002  ",
+        "induk_kabupaten": "Kota Mataram",
+        "kode_wilayah_induk_kabupaten": "236000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 10:06:38",
+        "sekolah_id_enkrip": "5828793DA95C3003531E                                                                                "
+    }
+]

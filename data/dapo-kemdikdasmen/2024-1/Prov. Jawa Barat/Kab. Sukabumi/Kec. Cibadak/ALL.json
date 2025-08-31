@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI HANDAYANI",
+        "sekolah_id": "8015D815-2CF5-E011-A1B2-4BD35124DD25",
+        "npsn": 20253129,
+        "jumlah_kirim": 30,
+        "ptk": 31,
+        "pegawai": 11,
+        "pd": 171,
+        "rombel": 35,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Cibadak",
+        "kode_wilayah_induk_kecamatan": "020621  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 02:20:23",
+        "sekolah_id_enkrip": "90A4273C71AE57D10932                                                                                "
+    }
+]

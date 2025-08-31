@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PERSONA",
+        "sekolah_id": "8B000AA5-99D8-42EE-8680-318B176164AC",
+        "npsn": 70047006,
+        "jumlah_kirim": 25,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 13,
+        "rombel": 5,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pangkalan Baru",
+        "kode_wilayah_induk_kecamatan": "290302  ",
+        "induk_kabupaten": "Kab. Bangka Tengah",
+        "kode_wilayah_induk_kabupaten": "290300  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 17:41:24",
+        "sekolah_id_enkrip": "72CBBE27842A3B371228                                                                                "
+    }
+]

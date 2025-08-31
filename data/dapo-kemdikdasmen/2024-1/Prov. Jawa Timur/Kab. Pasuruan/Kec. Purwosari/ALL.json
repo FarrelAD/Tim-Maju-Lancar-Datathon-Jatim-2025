@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SENGON AGUNG PURWOSARI KABUPATEN PASURUAN",
+        "sekolah_id": "007EBC24-BAD7-E111-9988-A90CE0F5B553",
+        "npsn": 20574694,
+        "jumlah_kirim": 22,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 61,
+        "rombel": 11,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwosari",
+        "kode_wilayah_induk_kecamatan": "051909  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 18:32:33",
+        "sekolah_id_enkrip": "BE49EAA3F52199854ED6                                                                                "
+    }
+]

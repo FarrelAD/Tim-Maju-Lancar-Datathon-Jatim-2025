@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Ashabul Kahfi",
+        "sekolah_id": "5DA388C1-F1A7-46D2-B1F3-919727FBEB30",
+        "npsn": 69963053,
+        "jumlah_kirim": 17,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 24,
+        "rombel": 15,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pintu Rime Gayo",
+        "kode_wilayah_induk_kecamatan": "061905  ",
+        "induk_kabupaten": "Kab. Bener Meriah",
+        "kode_wilayah_induk_kabupaten": "061900  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 20:43:24",
+        "sekolah_id_enkrip": "5B0C850AB5970D10381D                                                                                "
+    }
+]

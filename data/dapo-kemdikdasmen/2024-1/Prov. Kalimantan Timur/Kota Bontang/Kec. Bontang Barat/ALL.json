@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Bina Kasih Mandiri",
+        "sekolah_id": "A4DE202F-EFF2-4EDF-BC8B-6CD983337442",
+        "npsn": 70001505,
+        "jumlah_kirim": 12,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 13,
+        "rombel": 6,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bontang Barat",
+        "kode_wilayah_induk_kecamatan": "166303  ",
+        "induk_kabupaten": "Kota Bontang",
+        "kode_wilayah_induk_kabupaten": "166300  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 13:27:36",
+        "sekolah_id_enkrip": "F27542B6E6FEE26D9A9C                                                                                "
+    }
+]

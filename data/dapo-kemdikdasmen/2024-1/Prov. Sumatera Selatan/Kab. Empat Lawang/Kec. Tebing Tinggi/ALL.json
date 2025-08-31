@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri  Empat Lawang",
+        "sekolah_id": "8D88A9FD-DCED-4962-9CF6-AD40DFC46183",
+        "npsn": 70006607,
+        "jumlah_kirim": 21,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 39,
+        "rombel": 22,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tebing Tinggi",
+        "kode_wilayah_induk_kecamatan": "111105  ",
+        "induk_kabupaten": "Kab. Empat Lawang",
+        "kode_wilayah_induk_kabupaten": "111100  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 08:36:37",
+        "sekolah_id_enkrip": "D87F797467445BE62B8C                                                                                "
+    }
+]

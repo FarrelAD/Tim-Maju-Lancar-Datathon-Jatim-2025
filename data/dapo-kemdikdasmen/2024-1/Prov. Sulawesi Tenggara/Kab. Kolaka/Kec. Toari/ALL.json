@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS TOARI TUNAS JAYA",
+        "sekolah_id": "A504B0BD-815F-4F11-A98C-040141A79D4E",
+        "npsn": 69985271,
+        "jumlah_kirim": 36,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 34,
+        "rombel": 9,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Toari",
+        "kode_wilayah_induk_kecamatan": "200421  ",
+        "induk_kabupaten": "Kab. Kolaka",
+        "kode_wilayah_induk_kabupaten": "200400  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 23:46:37",
+        "sekolah_id_enkrip": "742686396D26EF805FCF                                                                                "
+    }
+]

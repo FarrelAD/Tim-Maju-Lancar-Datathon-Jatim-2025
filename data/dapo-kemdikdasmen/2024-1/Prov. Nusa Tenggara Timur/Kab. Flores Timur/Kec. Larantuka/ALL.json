@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI WERI",
+        "sekolah_id": "E0C3E23A-033C-E111-92F7-7F127055A94D",
+        "npsn": 50301935,
+        "jumlah_kirim": 49,
+        "ptk": 25,
+        "pegawai": 7,
+        "pd": 153,
+        "rombel": 21,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Larantuka",
+        "kode_wilayah_induk_kecamatan": "240703  ",
+        "induk_kabupaten": "Kab. Flores Timur",
+        "kode_wilayah_induk_kabupaten": "240700  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 06:44:53",
+        "sekolah_id_enkrip": "90607B7759DDC42D0559                                                                                "
+    }
+]

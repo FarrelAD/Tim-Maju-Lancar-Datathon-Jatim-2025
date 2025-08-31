@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Tunas Mandiri",
+        "sekolah_id": "DEFA2B53-C4D0-4057-ABA5-36C3948827B6",
+        "npsn": 69969001,
+        "jumlah_kirim": 10,
+        "ptk": 5,
+        "pegawai": 5,
+        "pd": 50,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muara Jawa",
+        "kode_wilayah_induk_kecamatan": "160202  ",
+        "induk_kabupaten": "Kab. Kutai Kartanegara",
+        "kode_wilayah_induk_kabupaten": "160200  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "10 May 2025 08:23:32",
+        "sekolah_id_enkrip": "6FA9EFF287BD2B63737B                                                                                "
+    }
+]

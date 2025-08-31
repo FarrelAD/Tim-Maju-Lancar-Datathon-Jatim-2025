@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BENGKULU TENGAH",
+        "sekolah_id": "908FDE70-C574-E211-B0E9-6D990B646A33",
+        "npsn": 69725942,
+        "jumlah_kirim": 12,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 32,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Talang Empat",
+        "kode_wilayah_induk_kecamatan": "260901  ",
+        "induk_kabupaten": "Kab. Bengkulu Tengah",
+        "kode_wilayah_induk_kabupaten": "260900  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 07:19:50",
+        "sekolah_id_enkrip": "E0FF589C532253DB8A15                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI AM ROIT",
+        "sekolah_id": "D59DC244-4776-47B5-A25A-13A494CE5DAD",
+        "npsn": 70011697,
+        "jumlah_kirim": 20,
+        "ptk": 7,
+        "pegawai": 9,
+        "pd": 43,
+        "rombel": 8,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Amarasi Barat",
+        "kode_wilayah_induk_kecamatan": "240125  ",
+        "induk_kabupaten": "Kab. Kupang",
+        "kode_wilayah_induk_kabupaten": "240100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 08:28:17",
+        "sekolah_id_enkrip": "BF997B1520A325478319                                                                                "
+    }
+]

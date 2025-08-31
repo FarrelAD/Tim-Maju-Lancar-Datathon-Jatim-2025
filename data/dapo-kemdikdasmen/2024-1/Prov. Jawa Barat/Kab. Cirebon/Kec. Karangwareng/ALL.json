@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA KARYA",
+        "sekolah_id": "20E8E215-2CF5-E011-A5F6-317F989AD642",
+        "npsn": 20267668,
+        "jumlah_kirim": 9,
+        "ptk": 2,
+        "pegawai": 7,
+        "pd": 102,
+        "rombel": 13,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karangwareng",
+        "kode_wilayah_induk_kecamatan": "021733  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Jun 2025 17:18:09",
+        "sekolah_id_enkrip": "3B38C548F5B1FBF8D612                                                                                "
+    }
+]
