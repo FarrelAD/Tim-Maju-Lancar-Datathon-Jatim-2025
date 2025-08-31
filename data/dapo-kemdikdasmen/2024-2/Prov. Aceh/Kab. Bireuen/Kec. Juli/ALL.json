@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL IKHLAS",
+        "sekolah_id": "009E7C91-2EF5-E011-B3D3-E1A9C7D700A2",
+        "npsn": 10107112,
+        "jumlah_kirim": 13,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 38,
+        "rombel": 11,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Juli",
+        "kode_wilayah_induk_kecamatan": "061205  ",
+        "induk_kabupaten": "Kab. Bireuen",
+        "kode_wilayah_induk_kabupaten": "061200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 11:24:49",
+        "sekolah_id_enkrip": "0CA1A258C472D089F254                                                                                "
+    }
+]

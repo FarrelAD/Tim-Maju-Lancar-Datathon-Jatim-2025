@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 BANGLI",
+        "sekolah_id": "2023D315-31F5-E011-A5AD-01D7D80D9E49",
+        "npsn": 50102615,
+        "jumlah_kirim": 15,
+        "ptk": 37,
+        "pegawai": 22,
+        "pd": 156,
+        "rombel": 51,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bangli",
+        "kode_wilayah_induk_kecamatan": "220702  ",
+        "induk_kabupaten": "Kab. Bangli",
+        "kode_wilayah_induk_kabupaten": "220700  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 10:00:24",
+        "sekolah_id_enkrip": "0D6996F54BE853899341                                                                                "
+    }
+]

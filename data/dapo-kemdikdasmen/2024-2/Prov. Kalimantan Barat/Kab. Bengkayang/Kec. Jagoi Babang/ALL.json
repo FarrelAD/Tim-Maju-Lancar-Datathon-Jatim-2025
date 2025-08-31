@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN NUSAK JAGOI BABANG",
+        "sekolah_id": "12AC3695-C098-4153-AF75-15432F145BCB",
+        "npsn": 70001782,
+        "jumlah_kirim": 14,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 36,
+        "rombel": 8,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jagoi Babang",
+        "kode_wilayah_induk_kecamatan": "130808  ",
+        "induk_kabupaten": "Kab. Bengkayang",
+        "kode_wilayah_induk_kabupaten": "130800  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 08:56:08",
+        "sekolah_id_enkrip": "1FC270EC6D550683E6C7                                                                                "
+    }
+]

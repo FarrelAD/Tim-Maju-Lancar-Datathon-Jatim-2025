@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH GYTHA KYARA 02",
+        "sekolah_id": "5EA251E1-F1C4-461A-8D62-F4470B1FE54F",
+        "npsn": 69904995,
+        "jumlah_kirim": 7,
+        "ptk": 6,
+        "pegawai": 4,
+        "pd": 36,
+        "rombel": 16,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Carita",
+        "kode_wilayah_induk_kecamatan": "280127  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 04:57:17",
+        "sekolah_id_enkrip": "258EE67E453E37643B2F                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PEMBINA PALEMBANG",
+        "sekolah_id": "20D385A8-40FE-E111-BF21-EBEC885E7A7F",
+        "npsn": 10645374,
+        "jumlah_kirim": 51,
+        "ptk": 88,
+        "pegawai": 16,
+        "pd": 436,
+        "rombel": 78,
+        "jml_rk": 80,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukarami",
+        "kode_wilayah_induk_kecamatan": "116008  ",
+        "induk_kabupaten": "Kota Palembang",
+        "kode_wilayah_induk_kabupaten": "116000  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:02:06",
+        "sekolah_id_enkrip": "A8F3DCA12BACB41FDEA0                                                                                "
+    }
+]

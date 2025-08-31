@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YASWARA",
+        "sekolah_id": "205C3352-881D-E211-B46E-19DA24024FE6",
+        "npsn": 20362104,
+        "jumlah_kirim": 6,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 31,
+        "rombel": 11,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jogonalan",
+        "kode_wilayah_induk_kecamatan": "031009  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 08:15:33",
+        "sekolah_id_enkrip": "1DA0810925BD22D89538                                                                                "
+    }
+]

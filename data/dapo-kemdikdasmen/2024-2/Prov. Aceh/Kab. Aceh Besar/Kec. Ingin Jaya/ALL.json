@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Pembina Provinsi Aceh",
+        "sekolah_id": "4A94DE53-335B-403E-B92C-57A04DE299E4",
+        "npsn": 69969844,
+        "jumlah_kirim": 44,
+        "ptk": 46,
+        "pegawai": 11,
+        "pd": 153,
+        "rombel": 51,
+        "jml_rk": 5,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ingin Jaya",
+        "kode_wilayah_induk_kecamatan": "060109  ",
+        "induk_kabupaten": "Kab. Aceh Besar",
+        "kode_wilayah_induk_kabupaten": "060100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 14:31:06",
+        "sekolah_id_enkrip": "F5EF2D872E8FCCBD9CE3                                                                                "
+    }
+]

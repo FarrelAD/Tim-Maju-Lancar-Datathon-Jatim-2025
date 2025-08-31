@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Krida Mulia II",
+        "sekolah_id": "45BBD4DB-FD7F-427C-8310-82BD9F1DFAD6",
+        "npsn": 69765050,
+        "jumlah_kirim": 18,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 64,
+        "rombel": 13,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Paliyan",
+        "kode_wilayah_induk_kecamatan": "040302  ",
+        "induk_kabupaten": "Kab. Gunungkidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 07:29:46",
+        "sekolah_id_enkrip": "D6DE367F911F3CC75AC4                                                                                "
+    }
+]

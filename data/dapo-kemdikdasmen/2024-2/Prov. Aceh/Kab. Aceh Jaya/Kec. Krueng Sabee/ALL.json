@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Aceh Jaya",
+        "sekolah_id": "A854F159-F370-4D87-9A5F-57A947458377",
+        "npsn": 69988487,
+        "jumlah_kirim": 14,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 75,
+        "rombel": 33,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Krueng Sabee",
+        "kode_wilayah_induk_kecamatan": "061602  ",
+        "induk_kabupaten": "Kab. Aceh Jaya",
+        "kode_wilayah_induk_kabupaten": "061600  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 05:48:56",
+        "sekolah_id_enkrip": "A7D14B218580A4335E73                                                                                "
+    }
+]

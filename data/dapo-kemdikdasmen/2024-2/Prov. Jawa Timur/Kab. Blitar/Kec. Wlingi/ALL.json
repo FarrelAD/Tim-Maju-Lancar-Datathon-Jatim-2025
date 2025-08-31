@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SARI WIYATA",
+        "sekolah_id": "50F86DBB-8C18-E111-B5F4-37555A0CB4CD",
+        "npsn": 20549291,
+        "jumlah_kirim": 31,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 65,
+        "rombel": 25,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wlingi",
+        "kode_wilayah_induk_kecamatan": "051514  ",
+        "induk_kabupaten": "Kab. Blitar",
+        "kode_wilayah_induk_kabupaten": "051500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 07:43:53",
+        "sekolah_id_enkrip": "5A112EB441B09EDA3FD4                                                                                "
+    }
+]

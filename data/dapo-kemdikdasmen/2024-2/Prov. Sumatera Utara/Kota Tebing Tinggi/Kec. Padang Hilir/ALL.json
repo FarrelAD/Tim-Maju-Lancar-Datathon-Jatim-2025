@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SWASTA KASIH IBU",
+        "sekolah_id": "39F7D5EB-4353-463F-B13A-23C8DDFBD288",
+        "npsn": 69896658,
+        "jumlah_kirim": 24,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 45,
+        "rombel": 22,
+        "jml_rk": 20,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Padang Hilir",
+        "kode_wilayah_induk_kecamatan": "076203  ",
+        "induk_kabupaten": "Kota Tebing Tinggi",
+        "kode_wilayah_induk_kabupaten": "076200  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 13:22:28",
+        "sekolah_id_enkrip": "0B70D120F02713104927                                                                                "
+    }
+]

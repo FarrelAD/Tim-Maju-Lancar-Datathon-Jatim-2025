@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS TANGKUMAHO",
+        "sekolah_id": "D0C148B9-A6E6-E111-ACF0-3B13AA96C9C7",
+        "npsn": 69862394,
+        "jumlah_kirim": 3,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 13,
+        "rombel": 7,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Napano Kusambi",
+        "kode_wilayah_induk_kecamatan": "201311  ",
+        "induk_kabupaten": "Kab. Muna Barat",
+        "kode_wilayah_induk_kabupaten": "201300  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 04:21:58",
+        "sekolah_id_enkrip": "4120523E27A109BE3ED3                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 1 Tapin",
+        "sekolah_id": "602FD353-30F5-E011-BBF8-1923868CA5F1",
+        "npsn": 30314040,
+        "jumlah_kirim": 17,
+        "ptk": 23,
+        "pegawai": 10,
+        "pd": 110,
+        "rombel": 20,
+        "jml_rk": 21,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Binuang",
+        "kode_wilayah_induk_kecamatan": "150401  ",
+        "induk_kabupaten": "Kab. Tapin",
+        "kode_wilayah_induk_kabupaten": "150400  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 09:43:32",
+        "sekolah_id_enkrip": "F39A9D5B0BF2B3025AD6                                                                                "
+    }
+]

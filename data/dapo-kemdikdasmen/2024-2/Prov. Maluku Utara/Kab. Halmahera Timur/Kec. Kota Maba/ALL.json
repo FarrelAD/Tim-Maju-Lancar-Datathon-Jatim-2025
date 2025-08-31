@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MABA",
+        "sekolah_id": "21889504-F20F-43AB-BD8D-353D02D79CC8",
+        "npsn": 69962301,
+        "jumlah_kirim": 52,
+        "ptk": 14,
+        "pegawai": 7,
+        "pd": 26,
+        "rombel": 7,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kota Maba",
+        "kode_wilayah_induk_kecamatan": "270610  ",
+        "induk_kabupaten": "Kab. Halmahera Timur",
+        "kode_wilayah_induk_kabupaten": "270600  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 19:33:03",
+        "sekolah_id_enkrip": "245B1EC256936A25953A                                                                                "
+    }
+]

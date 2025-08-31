@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BIMBINGAN KASIH",
+        "sekolah_id": "14E252FD-D285-41A4-8553-C04C45B6A402",
+        "npsn": 70043380,
+        "jumlah_kirim": 9,
+        "ptk": 2,
+        "pegawai": 6,
+        "pd": 18,
+        "rombel": 5,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Paga",
+        "kode_wilayah_induk_kecamatan": "240801  ",
+        "induk_kabupaten": "Kab. Sikka",
+        "kode_wilayah_induk_kabupaten": "240800  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 12:39:57",
+        "sekolah_id_enkrip": "52B9FCD8F89070BED9E8                                                                                "
+    }
+]

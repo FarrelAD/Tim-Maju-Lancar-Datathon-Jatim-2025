@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TAMBAHREJO BOJONEGORO",
+        "sekolah_id": "805514F1-8B18-E111-966B-7BD7EF8B0DA9",
+        "npsn": 20504490,
+        "jumlah_kirim": 10,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 60,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kanor",
+        "kode_wilayah_induk_kecamatan": "050511  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 21:56:28",
+        "sekolah_id_enkrip": "7C81A34C5EFB92C23711                                                                                "
+    }
+]

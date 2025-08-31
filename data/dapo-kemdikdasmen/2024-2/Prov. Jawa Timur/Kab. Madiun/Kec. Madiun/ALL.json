@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BETHEL",
+        "sekolah_id": "00FD5D6E-F6AA-E111-B810-A5CA45BC62DD",
+        "npsn": 20554610,
+        "jumlah_kirim": 31,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 29,
+        "rombel": 13,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Madiun",
+        "kode_wilayah_induk_kecamatan": "050813  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 05:16:51",
+        "sekolah_id_enkrip": "4B61745FD9725FE2DF29                                                                                "
+    }
+]

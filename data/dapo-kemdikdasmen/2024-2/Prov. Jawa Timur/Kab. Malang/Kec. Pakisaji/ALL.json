@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-BC DHARMA WANITA 01",
+        "sekolah_id": "C07E6CBB-8C18-E111-9678-4D3DCB22178E",
+        "npsn": 20554967,
+        "jumlah_kirim": 7,
+        "ptk": 9,
+        "pegawai": 0,
+        "pd": 66,
+        "rombel": 17,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pakisaji",
+        "kode_wilayah_induk_kecamatan": "051822  ",
+        "induk_kabupaten": "Kab. Malang",
+        "kode_wilayah_induk_kabupaten": "051800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Aug 2025 02:36:54",
+        "sekolah_id_enkrip": "4877283A5AB6D8913C94                                                                                "
+    }
+]

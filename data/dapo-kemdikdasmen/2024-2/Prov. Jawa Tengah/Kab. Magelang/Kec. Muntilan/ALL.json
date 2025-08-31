@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MAARIF MUNTILAN",
+        "sekolah_id": "009DBD5B-2DF5-E011-8A35-DF9BBA34493E",
+        "npsn": 20307667,
+        "jumlah_kirim": 31,
+        "ptk": 23,
+        "pegawai": 2,
+        "pd": 191,
+        "rombel": 32,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muntilan",
+        "kode_wilayah_induk_kecamatan": "030807  ",
+        "induk_kabupaten": "Kab. Magelang",
+        "kode_wilayah_induk_kabupaten": "030800  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 17:29:12",
+        "sekolah_id_enkrip": "88838B8831480B07BD3F                                                                                "
+    }
+]

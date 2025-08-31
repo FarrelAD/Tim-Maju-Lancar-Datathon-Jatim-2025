@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MUNTOK",
+        "sekolah_id": "80CD7350-1D8F-E111-92D4-411AB63FDCF9",
+        "npsn": 10901339,
+        "jumlah_kirim": 12,
+        "ptk": 11,
+        "pegawai": 8,
+        "pd": 92,
+        "rombel": 39,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muntok",
+        "kode_wilayah_induk_kecamatan": "290403  ",
+        "induk_kabupaten": "Kab. Bangka Barat",
+        "kode_wilayah_induk_kabupaten": "290400  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 23:31:01",
+        "sekolah_id_enkrip": "3844595E0A53838041D8                                                                                "
+    }
+]

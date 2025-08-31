@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C OPTIMAL",
+        "sekolah_id": "60A14A7E-8D18-E111-877A-591DEE49958B",
+        "npsn": 20532413,
+        "jumlah_kirim": 11,
+        "ptk": 15,
+        "pegawai": 0,
+        "pd": 91,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bulak",
+        "kode_wilayah_induk_kecamatan": "056029  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 19:22:57",
+        "sekolah_id_enkrip": "F8BC4B46D08015510246                                                                                "
+    }
+]

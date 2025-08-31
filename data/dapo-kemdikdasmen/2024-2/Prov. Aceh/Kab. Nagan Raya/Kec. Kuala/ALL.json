@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Bina Generasi Emas",
+        "sekolah_id": "6A6F9BBF-1626-4224-9597-A311BC92D854",
+        "npsn": 70041493,
+        "jumlah_kirim": 8,
+        "ptk": 6,
+        "pegawai": 0,
+        "pd": 18,
+        "rombel": 5,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kuala",
+        "kode_wilayah_induk_kecamatan": "061502  ",
+        "induk_kabupaten": "Kab. Nagan Raya",
+        "kode_wilayah_induk_kabupaten": "061500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 09:47:12",
+        "sekolah_id_enkrip": "A76C31E5D3E9C5E5E736                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C SITI HAJAR",
+        "sekolah_id": "708C4F19-87FE-E111-8BAD-1162414581E0",
+        "npsn": 20501851,
+        "jumlah_kirim": 11,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 40,
+        "rombel": 9,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Buduran",
+        "kode_wilayah_induk_kecamatan": "050212  ",
+        "induk_kabupaten": "Kab. Sidoarjo",
+        "kode_wilayah_induk_kabupaten": "050200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 00:38:45",
+        "sekolah_id_enkrip": "6646192A69678284C07B                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 DEMAK",
+        "sekolah_id": "40C2709B-12B1-E111-80C3-978AC103F399",
+        "npsn": 20319329,
+        "jumlah_kirim": 18,
+        "ptk": 29,
+        "pegawai": 6,
+        "pd": 291,
+        "rombel": 37,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Demak",
+        "kode_wilayah_induk_kecamatan": "032107  ",
+        "induk_kabupaten": "Kab. Demak",
+        "kode_wilayah_induk_kabupaten": "032100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 16:33:03",
+        "sekolah_id_enkrip": "7E81C512BD41582026EE                                                                                "
+    }
+]

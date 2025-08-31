@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SDLB PUTRA MANDIRI",
+        "sekolah_id": "6981B0AD-404D-4ADD-BA2B-BCDC86930E22",
+        "npsn": 69881814,
+        "jumlah_kirim": 6,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 22,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kedungpring",
+        "kode_wilayah_induk_kecamatan": "050708  ",
+        "induk_kabupaten": "Kab. Lamongan",
+        "kode_wilayah_induk_kabupaten": "050700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 03:09:03",
+        "sekolah_id_enkrip": "6A139F13B4C36AE0952A                                                                                "
+    }
+]

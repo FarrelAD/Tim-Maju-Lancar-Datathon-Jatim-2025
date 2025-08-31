@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SAROLANGUN",
+        "sekolah_id": "F94AB380-A676-43B8-85D4-2F974811DE74",
+        "npsn": 10505138,
+        "jumlah_kirim": 62,
+        "ptk": 16,
+        "pegawai": 5,
+        "pd": 102,
+        "rombel": 39,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sarolangun",
+        "kode_wilayah_induk_kecamatan": "100303  ",
+        "induk_kabupaten": "Kab. Sarolangun",
+        "kode_wilayah_induk_kabupaten": "100300  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 23:58:45",
+        "sekolah_id_enkrip": "68543B2B3DE8EDBCB976                                                                                "
+    }
+]

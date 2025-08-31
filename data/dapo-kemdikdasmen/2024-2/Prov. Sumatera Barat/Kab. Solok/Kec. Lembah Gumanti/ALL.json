@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 ALAHAN PANJANG",
+        "sekolah_id": "A18148F4-6C26-4ED6-A96E-383A8DDFFBEF",
+        "npsn": 69948138,
+        "jumlah_kirim": 15,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 52,
+        "rombel": 15,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lembah Gumanti",
+        "kode_wilayah_induk_kecamatan": "080405  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "01 Aug 2025 19:31:39",
+        "sekolah_id_enkrip": "EDEBCD3C0F6A592CDAE6                                                                                "
+    }
+]

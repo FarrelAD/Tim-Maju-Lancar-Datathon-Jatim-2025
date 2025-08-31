@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA MANDIRI 2 GANDRUNGMANGU",
+        "sekolah_id": "0FB7279B-0236-442A-B2DD-04DD6217EA7B",
+        "npsn": 70033265,
+        "jumlah_kirim": 22,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 49,
+        "rombel": 8,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gandrungmangu",
+        "kode_wilayah_induk_kecamatan": "030110  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 17:14:17",
+        "sekolah_id_enkrip": "A754F6CE7D0F3FE03E96                                                                                "
+    }
+]

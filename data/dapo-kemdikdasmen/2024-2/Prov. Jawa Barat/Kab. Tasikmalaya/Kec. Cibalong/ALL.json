@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB WINAYA BHAKTI",
+        "sekolah_id": "8053E015-2CF5-E011-9B1F-81C84609D66F",
+        "npsn": 20268140,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 55,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cibalong",
+        "kode_wilayah_induk_kecamatan": "021206  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 21:34:57",
+        "sekolah_id_enkrip": "DE1F39343D683123CE19                                                                                "
+    }
+]

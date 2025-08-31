@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI RAJA AMPAT",
+        "sekolah_id": "53458856-DB1D-45DE-9386-E1F511BFA5BB",
+        "npsn": 70054101,
+        "jumlah_kirim": 0,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kota Waisai",
+        "kode_wilayah_induk_kecamatan": "390218  ",
+        "induk_kabupaten": "Kab. Raja Ampat",
+        "kode_wilayah_induk_kabupaten": "390200  ",
+        "induk_provinsi": "Prov. Papua Barat Daya",
+        "kode_wilayah_induk_provinsi": "390000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:40:52",
+        "sekolah_id_enkrip": "41C770CE7A3AEA1D7106                                                                                "
+    }
+]

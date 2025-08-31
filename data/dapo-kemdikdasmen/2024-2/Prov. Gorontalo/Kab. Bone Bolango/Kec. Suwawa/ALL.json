@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BONE BOLANGO",
+        "sekolah_id": "E0FD0ED1-6585-E111-AB92-A56BA4A37C3F",
+        "npsn": 40500991,
+        "jumlah_kirim": 42,
+        "ptk": 16,
+        "pegawai": 6,
+        "pd": 74,
+        "rombel": 28,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Suwawa",
+        "kode_wilayah_induk_kecamatan": "300403  ",
+        "induk_kabupaten": "Kab. Bone Bolango",
+        "kode_wilayah_induk_kabupaten": "300400  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 23:51:41",
+        "sekolah_id_enkrip": "AF3DCC06AB9C27B8772B                                                                                "
+    }
+]

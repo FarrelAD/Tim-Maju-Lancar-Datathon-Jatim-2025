@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Sibolga",
+        "sekolah_id": "605D87D9-2EF5-E011-A709-63E275315971",
+        "npsn": 10212096,
+        "jumlah_kirim": 66,
+        "ptk": 15,
+        "pegawai": 0,
+        "pd": 66,
+        "rombel": 30,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sibolga Selatan",
+        "kode_wilayah_induk_kecamatan": "076503  ",
+        "induk_kabupaten": "Kota Sibolga",
+        "kode_wilayah_induk_kabupaten": "076500  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 19:47:12",
+        "sekolah_id_enkrip": "665EB009DA5DA91DEA90                                                                                "
+    }
+]

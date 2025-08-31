@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YMS NGADIROJO WONOGIRI",
+        "sekolah_id": "30FBBD5B-2DF5-E011-9F25-F1E5936F097F",
+        "npsn": 20311336,
+        "jumlah_kirim": 6,
+        "ptk": 14,
+        "pegawai": 1,
+        "pd": 100,
+        "rombel": 22,
+        "jml_rk": 26,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngadirojo",
+        "kode_wilayah_induk_kecamatan": "031215  ",
+        "induk_kabupaten": "Kab. Wonogiri",
+        "kode_wilayah_induk_kabupaten": "031200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 20:27:48",
+        "sekolah_id_enkrip": "9397F665F9AA02026DB5                                                                                "
+    }
+]

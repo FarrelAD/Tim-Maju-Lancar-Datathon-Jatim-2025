@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SEKOLAH KHUSUS PELITA NUSANTARA",
+        "sekolah_id": "E0D9D1BB-F2EF-E111-AA39-4D61EA6B1839",
+        "npsn": 20616068,
+        "jumlah_kirim": 9,
+        "ptk": 7,
+        "pegawai": 6,
+        "pd": 41,
+        "rombel": 11,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cipondoh",
+        "kode_wilayah_induk_kecamatan": "286102  ",
+        "induk_kabupaten": "Kota Tangerang",
+        "kode_wilayah_induk_kabupaten": "286100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "08 Aug 2025 13:34:05",
+        "sekolah_id_enkrip": "003727F7E18E4D020AD7                                                                                "
+    }
+]

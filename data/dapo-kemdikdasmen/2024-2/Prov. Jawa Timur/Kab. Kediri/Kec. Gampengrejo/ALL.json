@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB GAMPENGREJO",
+        "sekolah_id": "FAA8FF78-503A-4AC6-BBC2-FB87D9BC3277",
+        "npsn": 69935856,
+        "jumlah_kirim": 17,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 27,
+        "rombel": 11,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gampengrejo",
+        "kode_wilayah_induk_kecamatan": "051315  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 20:49:43",
+        "sekolah_id_enkrip": "9AC1B35F3F2CFA549937                                                                                "
+    }
+]

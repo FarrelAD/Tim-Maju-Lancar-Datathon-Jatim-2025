@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-BC KARYA SEJAHTERA",
+        "sekolah_id": "E0EEDD0D-F4FA-E111-81E9-0DB0A397ED38",
+        "npsn": 20313056,
+        "jumlah_kirim": 12,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 60,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Plupuh",
+        "kode_wilayah_induk_kecamatan": "031402  ",
+        "induk_kabupaten": "Kab. Sragen",
+        "kode_wilayah_induk_kabupaten": "031400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 21:20:32",
+        "sekolah_id_enkrip": "D90F2FEDFC6312EC927A                                                                                "
+    }
+]

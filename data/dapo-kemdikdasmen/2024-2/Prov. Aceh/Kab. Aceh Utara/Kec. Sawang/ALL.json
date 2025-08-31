@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ANEUK NANGGROE",
+        "sekolah_id": "AA71FC9A-38B9-478D-A547-9DC63780EB67",
+        "npsn": 69830444,
+        "jumlah_kirim": 15,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 72,
+        "rombel": 18,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sawang",
+        "kode_wilayah_induk_kecamatan": "060301  ",
+        "induk_kabupaten": "Kab. Aceh Utara",
+        "kode_wilayah_induk_kabupaten": "060300  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 12:20:28",
+        "sekolah_id_enkrip": "AD323F7E4BD233F93A0B                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Al-Fansyuri",
+        "sekolah_id": "32EBD733-E2E5-4C92-8A6B-28030E400D5B",
+        "npsn": 69968408,
+        "jumlah_kirim": 24,
+        "ptk": 16,
+        "pegawai": 7,
+        "pd": 66,
+        "rombel": 18,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Singkil",
+        "kode_wilayah_induk_kecamatan": "061302  ",
+        "induk_kabupaten": "Kab. Aceh Singkil",
+        "kode_wilayah_induk_kabupaten": "061300  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 09:10:02",
+        "sekolah_id_enkrip": "2C6ACB98289A39241512                                                                                "
+    }
+]

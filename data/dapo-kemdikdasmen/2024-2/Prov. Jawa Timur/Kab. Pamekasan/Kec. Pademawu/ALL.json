@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI PADEMAWU",
+        "sekolah_id": "9047CF91-582D-E211-AC55-4539CECFDFAC",
+        "npsn": 20584067,
+        "jumlah_kirim": 21,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 40,
+        "rombel": 18,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pademawu",
+        "kode_wilayah_induk_kecamatan": "052602  ",
+        "induk_kabupaten": "Kab. Pamekasan",
+        "kode_wilayah_induk_kabupaten": "052600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 18:22:26",
+        "sekolah_id_enkrip": "1611B277218634A6A865                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YPLAB CIBADUYUT",
+        "sekolah_id": "60DE9E25-103D-E211-9080-8904849EBCAD",
+        "npsn": 20280596,
+        "jumlah_kirim": 5,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 63,
+        "rombel": 13,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bojong Loa Kidul",
+        "kode_wilayah_induk_kecamatan": "026004  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "02 Aug 2025 01:17:10",
+        "sekolah_id_enkrip": "8E6396ED22D761CD1E83                                                                                "
+    }
+]

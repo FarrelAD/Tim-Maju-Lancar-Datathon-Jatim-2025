@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 1 Lombok Barat",
+        "sekolah_id": "009ACA74-38FE-E111-890C-F13A24A28032",
+        "npsn": 50205344,
+        "jumlah_kirim": 27,
+        "ptk": 28,
+        "pegawai": 13,
+        "pd": 171,
+        "rombel": 39,
+        "jml_rk": 29,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lingsar",
+        "kode_wilayah_induk_kecamatan": "230115  ",
+        "induk_kabupaten": "Kab. Lombok Barat",
+        "kode_wilayah_induk_kabupaten": "230100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:06:14",
+        "sekolah_id_enkrip": "80DA80A0F750E89744D9                                                                                "
+    }
+]

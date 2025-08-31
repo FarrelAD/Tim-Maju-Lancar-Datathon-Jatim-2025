@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NUR KHABIB",
+        "sekolah_id": "FA440295-6E4E-4205-BF76-9D424E2E01DD",
+        "npsn": 69978384,
+        "jumlah_kirim": 32,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 54,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pesantren",
+        "kode_wilayah_induk_kecamatan": "056303  ",
+        "induk_kabupaten": "Kota Kediri",
+        "kode_wilayah_induk_kabupaten": "056300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 22:10:00",
+        "sekolah_id_enkrip": "A300F89D4F37B30F67AA                                                                                "
+    }
+]

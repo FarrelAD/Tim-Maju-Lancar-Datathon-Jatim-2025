@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Bunyu",
+        "sekolah_id": "BE8BCC34-83A4-42B4-A408-7A6F03281396",
+        "npsn": 70041501,
+        "jumlah_kirim": 5,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 19,
+        "rombel": 13,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pulau Bunyu",
+        "kode_wilayah_induk_kecamatan": "340205  ",
+        "induk_kabupaten": "Kab. Bulungan",
+        "kode_wilayah_induk_kabupaten": "340200  ",
+        "induk_provinsi": "Prov. Kalimantan Utara",
+        "kode_wilayah_induk_provinsi": "340000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 07:44:27",
+        "sekolah_id_enkrip": "36FAEE12DE72BE74BAAE                                                                                "
+    }
+]

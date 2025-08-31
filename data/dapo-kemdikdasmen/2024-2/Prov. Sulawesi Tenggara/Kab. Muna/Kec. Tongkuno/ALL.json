@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS TAMAN BAHAGIA",
+        "sekolah_id": "40C0949C-EDFE-E111-8BEE-5BD1FC95D506",
+        "npsn": 40405753,
+        "jumlah_kirim": 16,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 27,
+        "rombel": 9,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tongkuno",
+        "kode_wilayah_induk_kecamatan": "200201  ",
+        "induk_kabupaten": "Kab. Muna",
+        "kode_wilayah_induk_kabupaten": "200200  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 06:00:47",
+        "sekolah_id_enkrip": "2A6CF5913D67E79DDD8E                                                                                "
+    }
+]

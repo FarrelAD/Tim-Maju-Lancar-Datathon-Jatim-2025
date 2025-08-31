@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PERBATASAN",
+        "sekolah_id": "A0E00805-29B2-E211-879D-7517B31082E9",
+        "npsn": 69758208,
+        "jumlah_kirim": 36,
+        "ptk": 29,
+        "pegawai": 8,
+        "pd": 108,
+        "rombel": 37,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cibingbin",
+        "kode_wilayah_induk_kecamatan": "021507  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 13:32:41",
+        "sekolah_id_enkrip": "5F469E34B53DB0CC64A1                                                                                "
+    }
+]

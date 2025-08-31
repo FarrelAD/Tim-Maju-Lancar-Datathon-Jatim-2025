@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SRIKANDI BANDAR SURABAYA",
+        "sekolah_id": "F0C944E1-D7FB-E111-A947-E514D8261295",
+        "npsn": 69786996,
+        "jumlah_kirim": 13,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 21,
+        "rombel": 9,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bandar Surabaya",
+        "kode_wilayah_induk_kecamatan": "120221  ",
+        "induk_kabupaten": "Kab. Lampung Tengah",
+        "kode_wilayah_induk_kabupaten": "120200  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "15 Aug 2025 22:33:05",
+        "sekolah_id_enkrip": "64BA8471FE078DB0693F                                                                                "
+    }
+]

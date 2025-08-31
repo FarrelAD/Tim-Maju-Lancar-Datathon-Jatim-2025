@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PANGGUNGSARI TRENGGALEK",
+        "sekolah_id": "C06EAABE-FBAA-E111-9C13-15E08D2C199A",
+        "npsn": 20541923,
+        "jumlah_kirim": 9,
+        "ptk": 26,
+        "pegawai": 2,
+        "pd": 142,
+        "rombel": 25,
+        "jml_rk": 31,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Durenan",
+        "kode_wilayah_induk_kecamatan": "051709  ",
+        "induk_kabupaten": "Kab. Trenggalek",
+        "kode_wilayah_induk_kabupaten": "051700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 18:04:23",
+        "sekolah_id_enkrip": "B1B7FEF870CDDEC4778E                                                                                "
+    }
+]

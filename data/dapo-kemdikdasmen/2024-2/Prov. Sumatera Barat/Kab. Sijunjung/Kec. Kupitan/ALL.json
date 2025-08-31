@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ALISHA",
+        "sekolah_id": "D66ED805-CE9F-4851-AE5C-2520D25CF16B",
+        "npsn": 70033421,
+        "jumlah_kirim": 10,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 28,
+        "rombel": 10,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kupitan",
+        "kode_wilayah_induk_kecamatan": "080809  ",
+        "induk_kabupaten": "Kab. Sijunjung",
+        "kode_wilayah_induk_kabupaten": "080800  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 15:08:20",
+        "sekolah_id_enkrip": "80775D972779E5AA2802                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 1 MUARA TEWEH",
+        "sekolah_id": "E0DCA235-30F5-E011-B6D0-C3886D265628",
+        "npsn": 30200989,
+        "jumlah_kirim": 36,
+        "ptk": 24,
+        "pegawai": 6,
+        "pd": 74,
+        "rombel": 23,
+        "jml_rk": 26,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Teweh Tengah",
+        "kode_wilayah_induk_kecamatan": "140305  ",
+        "induk_kabupaten": "Kab. Barito Utara",
+        "kode_wilayah_induk_kabupaten": "140300  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 07:41:11",
+        "sekolah_id_enkrip": "083906629E86957AEC90                                                                                "
+    }
+]

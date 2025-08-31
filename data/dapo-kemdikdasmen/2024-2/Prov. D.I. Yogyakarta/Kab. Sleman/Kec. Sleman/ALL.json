@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BAKTI SIWI",
+        "sekolah_id": "C0111B5D-2EF5-E011-8506-0B0355B24FEA",
+        "npsn": 20400877,
+        "jumlah_kirim": 11,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 53,
+        "rombel": 13,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sleman",
+        "kode_wilayah_induk_kecamatan": "040213  ",
+        "induk_kabupaten": "Kab. Sleman",
+        "kode_wilayah_induk_kabupaten": "040200  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 17:10:07",
+        "sekolah_id_enkrip": "DE1F005DAAD6660ADCEE                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C ABDI KASIH",
+        "sekolah_id": "D02406DB-2EF5-E011-8417-3B4B65080F97",
+        "npsn": 69787519,
+        "jumlah_kirim": 15,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 11,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Medan Labuhan",
+        "kode_wilayah_induk_kecamatan": "076019  ",
+        "induk_kabupaten": "Kota Medan",
+        "kode_wilayah_induk_kabupaten": "076000  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 20:33:04",
+        "sekolah_id_enkrip": "8A430E13C02CBB7CD674                                                                                "
+    }
+]

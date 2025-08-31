@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CERIA MANDIRI BLORA",
+        "sekolah_id": "DB1BC5D6-2DD4-42D8-B776-69EE9C512586",
+        "npsn": 69964117,
+        "jumlah_kirim": 25,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Blora",
+        "kode_wilayah_induk_kecamatan": "031610  ",
+        "induk_kabupaten": "Kab. Blora",
+        "kode_wilayah_induk_kabupaten": "031600  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 05:42:57",
+        "sekolah_id_enkrip": "6719600DB68F4BE759DA                                                                                "
+    }
+]

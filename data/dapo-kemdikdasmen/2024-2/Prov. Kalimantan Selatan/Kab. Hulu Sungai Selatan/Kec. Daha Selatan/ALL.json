@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Daha Selatan",
+        "sekolah_id": "C8955E17-B150-41A6-BA1E-4FDA0CFA9EB0",
+        "npsn": 70040110,
+        "jumlah_kirim": 30,
+        "ptk": 9,
+        "pegawai": 7,
+        "pd": 38,
+        "rombel": 19,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Daha Selatan",
+        "kode_wilayah_induk_kecamatan": "150509  ",
+        "induk_kabupaten": "Kab. Hulu Sungai Selatan",
+        "kode_wilayah_induk_kabupaten": "150500  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 07:40:05",
+        "sekolah_id_enkrip": "96BD109164835C8999CA                                                                                "
+    }
+]

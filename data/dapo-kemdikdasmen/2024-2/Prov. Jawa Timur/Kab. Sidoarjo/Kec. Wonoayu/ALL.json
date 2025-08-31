@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB VETERAN",
+        "sekolah_id": "605CD8F5-8B18-E111-BE4B-19E1B0FC84AB",
+        "npsn": 20539875,
+        "jumlah_kirim": 10,
+        "ptk": 13,
+        "pegawai": 0,
+        "pd": 84,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wonoayu",
+        "kode_wilayah_induk_kecamatan": "050209  ",
+        "induk_kabupaten": "Kab. Sidoarjo",
+        "kode_wilayah_induk_kabupaten": "050200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 02:51:55",
+        "sekolah_id_enkrip": "33E8EDB2297F3F57794F                                                                                "
+    }
+]

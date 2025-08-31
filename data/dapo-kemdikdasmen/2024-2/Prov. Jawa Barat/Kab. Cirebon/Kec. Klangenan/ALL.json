@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-ZAKIYAH KLANGENAN",
+        "sekolah_id": "E0A1BBC2-D406-E211-A6A3-AF83ED5E34EA",
+        "npsn": 20258324,
+        "jumlah_kirim": 45,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 106,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Klangenan",
+        "kode_wilayah_induk_kecamatan": "021719  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 13:18:14",
+        "sekolah_id_enkrip": "48AB64A4FF9E4BBFDE42                                                                                "
+    }
+]

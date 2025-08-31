@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Izzul Haq Gunung Tanjung",
+        "sekolah_id": "080D9C9D-239C-45DB-9316-C3D75DDA242A",
+        "npsn": 70001209,
+        "jumlah_kirim": 13,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 43,
+        "rombel": 8,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gunungtanjung",
+        "kode_wilayah_induk_kecamatan": "021237  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 09:30:50",
+        "sekolah_id_enkrip": "3ECAF890FDF6D170D5CB                                                                                "
+    }
+]
