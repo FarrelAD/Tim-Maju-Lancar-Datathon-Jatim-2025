@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CB BINA TARUNA",
+        "sekolah_id": "8059C05B-2DF5-E011-B317-6B555282D5D2",
+        "npsn": 20354493,
+        "jumlah_kirim": 9,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 72,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Manisrenggo",
+        "kode_wilayah_induk_kecamatan": "031010  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 11:53:42",
+        "sekolah_id_enkrip": "58A13A289229E9CA3FE3                                                                                "
+    }
+]

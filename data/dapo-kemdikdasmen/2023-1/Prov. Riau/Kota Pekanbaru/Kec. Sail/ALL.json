@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SRI MUJINAB PEKANBARU",
+        "sekolah_id": "00A917B3-A8FC-E111-A4F9-1B33DA8BB28E",
+        "npsn": 10495232,
+        "jumlah_kirim": 59,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 76,
+        "rombel": 24,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sail",
+        "kode_wilayah_induk_kecamatan": "096004  ",
+        "induk_kabupaten": "Kota Pekanbaru",
+        "kode_wilayah_induk_kabupaten": "096000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 17:45:31",
+        "sekolah_id_enkrip": "C861C51BDCE7CDEAB215                                                                                "
+    }
+]

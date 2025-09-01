@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BATURAJA",
+        "sekolah_id": "A085F43D-1526-E111-8C13-ABE402FDE74D",
+        "npsn": 10604808,
+        "jumlah_kirim": 21,
+        "ptk": 12,
+        "pegawai": 7,
+        "pd": 99,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Baturaja Timur",
+        "kode_wilayah_induk_kecamatan": "110371  ",
+        "induk_kabupaten": "Kab. Ogan Komering Ulu",
+        "kode_wilayah_induk_kabupaten": "110300  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 18:35:41",
+        "sekolah_id_enkrip": "9167594A1C554FF285AC                                                                                "
+    }
+]

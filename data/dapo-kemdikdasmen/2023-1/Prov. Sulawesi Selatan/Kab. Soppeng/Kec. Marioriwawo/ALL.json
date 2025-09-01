@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPPKS TAKALALA",
+        "sekolah_id": "A0C2C4C1-0D26-E111-B203-45D0427C8817",
+        "npsn": 40303725,
+        "jumlah_kirim": 12,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 37,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Marioriwawo",
+        "kode_wilayah_induk_kecamatan": "190901  ",
+        "induk_kabupaten": "Kab. Soppeng",
+        "kode_wilayah_induk_kabupaten": "190900  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 09:08:49",
+        "sekolah_id_enkrip": "368E29954440BCFC3BDC                                                                                "
+    }
+]

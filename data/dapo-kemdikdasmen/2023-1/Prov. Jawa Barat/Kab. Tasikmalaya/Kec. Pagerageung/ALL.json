@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PLUS ABCD BINA WARGA",
+        "sekolah_id": "AA52D3AC-6C95-4363-B757-B392C245E0D1",
+        "npsn": 69899563,
+        "jumlah_kirim": 22,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 39,
+        "rombel": 18,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pagerageung",
+        "kode_wilayah_induk_kecamatan": "021227  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 08:21:26",
+        "sekolah_id_enkrip": "B3C2E55D9D2927025A09                                                                                "
+    }
+]

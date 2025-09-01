@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MUARA BULIAN",
+        "sekolah_id": "C06C255C-0C26-E111-824F-D9CFE21B7AE2",
+        "npsn": 10500462,
+        "jumlah_kirim": 31,
+        "ptk": 26,
+        "pegawai": 8,
+        "pd": 171,
+        "rombel": 37,
+        "jml_rk": 15,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muara Bulian",
+        "kode_wilayah_induk_kecamatan": "100104  ",
+        "induk_kabupaten": "Kab. Batang Hari",
+        "kode_wilayah_induk_kabupaten": "100100  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Aug 2025 10:38:05",
+        "sekolah_id_enkrip": "FDDA0B3AD5AFC323D55C                                                                                "
+    }
+]

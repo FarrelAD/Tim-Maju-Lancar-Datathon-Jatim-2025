@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PARYMINIK KREATIF",
+        "sekolah_id": "BB947E0A-0E63-4CD3-A650-AB4FECC8E4E7",
+        "npsn": 70033433,
+        "jumlah_kirim": 17,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 24,
+        "rombel": 9,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Raya",
+        "kode_wilayah_induk_kecamatan": "080103  ",
+        "induk_kabupaten": "Kab. Agam",
+        "kode_wilayah_induk_kabupaten": "080100  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 11:25:36",
+        "sekolah_id_enkrip": "E6167AB0D4B3D2168004                                                                                "
+    }
+]

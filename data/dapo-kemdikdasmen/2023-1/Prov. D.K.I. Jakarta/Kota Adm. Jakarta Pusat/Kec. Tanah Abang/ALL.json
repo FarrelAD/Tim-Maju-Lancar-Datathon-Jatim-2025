@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 3 JAKARTA",
+        "sekolah_id": "00E5A696-2BF5-E011-8ACF-AF4356F30B73",
+        "npsn": 20109970,
+        "jumlah_kirim": 37,
+        "ptk": 46,
+        "pegawai": 11,
+        "pd": 221,
+        "rombel": 40,
+        "jml_rk": 36,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanah Abang",
+        "kode_wilayah_induk_kecamatan": "016001  ",
+        "induk_kabupaten": "Kota Jakarta Pusat",
+        "kode_wilayah_induk_kabupaten": "016000  ",
+        "induk_provinsi": "Prov. D.K.I. Jakarta",
+        "kode_wilayah_induk_provinsi": "010000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 12:51:43",
+        "sekolah_id_enkrip": "933542CC51A3A7DF771C                                                                                "
+    }
+]

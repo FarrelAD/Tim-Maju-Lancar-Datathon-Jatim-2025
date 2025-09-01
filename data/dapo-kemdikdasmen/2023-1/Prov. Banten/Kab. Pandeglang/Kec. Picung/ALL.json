@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH PERSADA PICUNG",
+        "sekolah_id": "50D58B41-76F2-E111-B270-D56B1C9D2D44",
+        "npsn": 20600447,
+        "jumlah_kirim": 8,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 37,
+        "rombel": 13,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Picung",
+        "kode_wilayah_induk_kecamatan": "280108  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 17:27:20",
+        "sekolah_id_enkrip": "AFF67E0165BC87DACE50                                                                                "
+    }
+]

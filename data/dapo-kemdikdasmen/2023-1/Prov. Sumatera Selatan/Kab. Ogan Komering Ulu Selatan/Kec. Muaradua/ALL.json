@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SERASAN SEANDANAN",
+        "sekolah_id": "9BE934D3-CDF2-4FC9-A0F4-A300A9FD8B6D",
+        "npsn": 69945266,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 66,
+        "rombel": 14,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muaradua",
+        "kode_wilayah_induk_kecamatan": "110904  ",
+        "induk_kabupaten": "Kab. Ogan Komering Ulu Selatan",
+        "kode_wilayah_induk_kabupaten": "110900  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 21:37:28",
+        "sekolah_id_enkrip": "0066711CA6CAB01BF0C3                                                                                "
+    }
+]

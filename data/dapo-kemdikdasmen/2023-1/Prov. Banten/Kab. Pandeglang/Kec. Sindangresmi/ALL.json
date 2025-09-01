@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH GYTHA KYARA 01",
+        "sekolah_id": "B1B13304-541F-4A29-8AD8-E269380113EF",
+        "npsn": 69904989,
+        "jumlah_kirim": 16,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 26,
+        "rombel": 14,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sindangresmi",
+        "kode_wilayah_induk_kecamatan": "280134  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 11:17:54",
+        "sekolah_id_enkrip": "6AC497E16EB34CBF5526                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 DENPASAR",
+        "sekolah_id": "C0C3D315-31F5-E011-9672-CD0A92E68D97",
+        "npsn": 50103060,
+        "jumlah_kirim": 15,
+        "ptk": 26,
+        "pegawai": 10,
+        "pd": 228,
+        "rombel": 27,
+        "jml_rk": 29,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Denpasar Barat",
+        "kode_wilayah_induk_kecamatan": "226003  ",
+        "induk_kabupaten": "Kota Denpasar",
+        "kode_wilayah_induk_kabupaten": "226000  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 14:18:11",
+        "sekolah_id_enkrip": "D5E84E2E62C84F1A1C05                                                                                "
+    }
+]

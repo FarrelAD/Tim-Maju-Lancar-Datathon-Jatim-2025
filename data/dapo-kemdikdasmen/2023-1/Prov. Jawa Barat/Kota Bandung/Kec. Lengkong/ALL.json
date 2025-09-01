@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YPLAB WARTAWAN",
+        "sekolah_id": "B0DCC575-F93C-E211-9C9F-61858D6A07CF",
+        "npsn": 20219875,
+        "jumlah_kirim": 17,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 49,
+        "rombel": 17,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lengkong",
+        "kode_wilayah_induk_kecamatan": "026007  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 23:34:18",
+        "sekolah_id_enkrip": "07BCF1247A515721D6AD                                                                                "
+    }
+]

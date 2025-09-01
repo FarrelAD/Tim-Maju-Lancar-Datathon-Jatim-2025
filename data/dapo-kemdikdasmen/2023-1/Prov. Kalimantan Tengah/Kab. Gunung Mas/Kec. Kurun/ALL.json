@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KUALA KURUN",
+        "sekolah_id": "06DA89A2-BFF9-4E03-9694-F37E4F04C349",
+        "npsn": 69931976,
+        "jumlah_kirim": 20,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 32,
+        "rombel": 7,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kurun",
+        "kode_wilayah_induk_kecamatan": "141002  ",
+        "induk_kabupaten": "Kab. Gunung Mas",
+        "kode_wilayah_induk_kabupaten": "141000  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 18:45:12",
+        "sekolah_id_enkrip": "E9A09383824AC2CE8440                                                                                "
+    }
+]

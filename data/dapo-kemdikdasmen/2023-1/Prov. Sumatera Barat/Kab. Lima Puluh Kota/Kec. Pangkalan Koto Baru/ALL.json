@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUTIARA ANNAFII",
+        "sekolah_id": "C6E6CFA8-DA9A-4A28-A84D-45A67ED0A6D9",
+        "npsn": 70042530,
+        "jumlah_kirim": 50,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 24,
+        "rombel": 5,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pangkalan Koto Baru",
+        "kode_wilayah_induk_kecamatan": "080308  ",
+        "induk_kabupaten": "Kab. Lima Puluh Koto",
+        "kode_wilayah_induk_kabupaten": "080300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 12:01:55",
+        "sekolah_id_enkrip": "CC3CCD9AA0C52B4A7EA6                                                                                "
+    }
+]

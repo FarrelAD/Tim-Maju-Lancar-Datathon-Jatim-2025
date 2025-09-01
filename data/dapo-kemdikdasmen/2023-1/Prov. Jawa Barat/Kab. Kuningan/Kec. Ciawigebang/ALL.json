@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD AL-AHDA KAPANDAYAN",
+        "sekolah_id": "30A92618-DBF8-E111-8BEF-6B539D945DAA",
+        "npsn": 20270794,
+        "jumlah_kirim": 10,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 50,
+        "rombel": 9,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ciawigebang",
+        "kode_wilayah_induk_kecamatan": "021510  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 11:14:51",
+        "sekolah_id_enkrip": "2B7CEC559A9C84F0680B                                                                                "
+    }
+]

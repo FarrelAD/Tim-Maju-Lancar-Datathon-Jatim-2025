@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA BANJARBARU",
+        "sekolah_id": "A7D19A91-59C1-43AE-BB3C-AEE5884B59CF",
+        "npsn": 69896976,
+        "jumlah_kirim": 48,
+        "ptk": 35,
+        "pegawai": 7,
+        "pd": 132,
+        "rombel": 41,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Landasan Ulin",
+        "kode_wilayah_induk_kecamatan": "156101  ",
+        "induk_kabupaten": "Kota Banjarbaru",
+        "kode_wilayah_induk_kabupaten": "156100  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 08:09:41",
+        "sekolah_id_enkrip": "C31391B21C3126D591FB                                                                                "
+    }
+]

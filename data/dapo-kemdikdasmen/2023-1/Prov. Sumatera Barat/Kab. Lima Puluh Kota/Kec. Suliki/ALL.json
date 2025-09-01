@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ULURAN KASIH",
+        "sekolah_id": "40645D79-2FF5-E011-A52A-578A7ECCBA34",
+        "npsn": 10305494,
+        "jumlah_kirim": 6,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 17,
+        "rombel": 7,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Suliki",
+        "kode_wilayah_induk_kecamatan": "080305  ",
+        "induk_kabupaten": "Kab. Lima Puluh Koto",
+        "kode_wilayah_induk_kabupaten": "080300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 00:50:45",
+        "sekolah_id_enkrip": "7402F96D759715B1D253                                                                                "
+    }
+]

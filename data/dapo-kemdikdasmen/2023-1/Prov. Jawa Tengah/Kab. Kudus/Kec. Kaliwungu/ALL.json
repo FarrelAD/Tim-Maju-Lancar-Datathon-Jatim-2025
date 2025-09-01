@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KALIWUNGU",
+        "sekolah_id": "20C58057-2DF5-E011-BF29-875A373717CE",
+        "npsn": 20317995,
+        "jumlah_kirim": 26,
+        "ptk": 19,
+        "pegawai": 4,
+        "pd": 163,
+        "rombel": 28,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kaliwungu",
+        "kode_wilayah_induk_kecamatan": "031901  ",
+        "induk_kabupaten": "Kab. Kudus",
+        "kode_wilayah_induk_kabupaten": "031900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:04:27",
+        "sekolah_id_enkrip": "D2E359B62F85C0F2D90F                                                                                "
+    }
+]

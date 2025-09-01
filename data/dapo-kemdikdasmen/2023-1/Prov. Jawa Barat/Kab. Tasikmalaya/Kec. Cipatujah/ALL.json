@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI CIPATUJAH",
+        "sekolah_id": "D06E5C69-50D7-4BEA-9A21-6EB367061E02",
+        "npsn": 69969191,
+        "jumlah_kirim": 31,
+        "ptk": 18,
+        "pegawai": 12,
+        "pd": 127,
+        "rombel": 38,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cipatujah",
+        "kode_wilayah_induk_kecamatan": "021201  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 21:49:06",
+        "sekolah_id_enkrip": "6AF4D62FD1EF66E63531                                                                                "
+    }
+]

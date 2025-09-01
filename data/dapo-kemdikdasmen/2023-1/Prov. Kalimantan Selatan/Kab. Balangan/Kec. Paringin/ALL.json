@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN BALANGAN",
+        "sekolah_id": "30004653-30F5-E011-8469-9F620639CBB9",
+        "npsn": 30311601,
+        "jumlah_kirim": 37,
+        "ptk": 17,
+        "pegawai": 4,
+        "pd": 78,
+        "rombel": 16,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Paringin",
+        "kode_wilayah_induk_kecamatan": "151004  ",
+        "induk_kabupaten": "Kab. Balangan",
+        "kode_wilayah_induk_kabupaten": "151000  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:26:16",
+        "sekolah_id_enkrip": "E48225704022DF139A19                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ANIM HA MERAUKE",
+        "sekolah_id": "1AD82FBB-DB8D-44ED-B1B0-D4BA56DE32BE",
+        "npsn": 60302713,
+        "jumlah_kirim": 14,
+        "ptk": 27,
+        "pegawai": 5,
+        "pd": 141,
+        "rombel": 33,
+        "jml_rk": 37,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Merauke",
+        "kode_wilayah_induk_kecamatan": "370101  ",
+        "induk_kabupaten": "Kab. Merauke",
+        "kode_wilayah_induk_kabupaten": "370100  ",
+        "induk_provinsi": "Prov. Papua Selatan",
+        "kode_wilayah_induk_provinsi": "370000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 09:32:29",
+        "sekolah_id_enkrip": "FD7300629DFB2D9B4603                                                                                "
+    }
+]

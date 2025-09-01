@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SAMBAS",
+        "sekolah_id": "D061FD09-30F5-E011-8BAD-D79D54937FB5",
+        "npsn": 30106164,
+        "jumlah_kirim": 13,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 132,
+        "rombel": 32,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sambas",
+        "kode_wilayah_induk_kecamatan": "130104  ",
+        "induk_kabupaten": "Kab. Sambas",
+        "kode_wilayah_induk_kabupaten": "130100  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 00:31:45",
+        "sekolah_id_enkrip": "47BBB77BA0609F3054CA                                                                                "
+    }
+]

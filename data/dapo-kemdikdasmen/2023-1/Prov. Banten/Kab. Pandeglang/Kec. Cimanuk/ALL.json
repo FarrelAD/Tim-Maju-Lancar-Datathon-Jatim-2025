@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH FARKHAN AS SALMAN",
+        "sekolah_id": "704F1295-63EB-4CAB-97FB-5CA165418B6D",
+        "npsn": 69942134,
+        "jumlah_kirim": 8,
+        "ptk": 5,
+        "pegawai": 8,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cimanuk",
+        "kode_wilayah_induk_kecamatan": "280116  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 08:30:06",
+        "sekolah_id_enkrip": "C4079E9DDA81E49F48AD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DANAU KEMBAR",
+        "sekolah_id": "39089F11-E447-4375-BE02-1CE1F66C977C",
+        "npsn": 69987362,
+        "jumlah_kirim": 3,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 29,
+        "rombel": 5,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Danau Kembar",
+        "kode_wilayah_induk_kecamatan": "080418  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 08:21:28",
+        "sekolah_id_enkrip": "9D19075E2AA7D2F023B0                                                                                "
+    }
+]

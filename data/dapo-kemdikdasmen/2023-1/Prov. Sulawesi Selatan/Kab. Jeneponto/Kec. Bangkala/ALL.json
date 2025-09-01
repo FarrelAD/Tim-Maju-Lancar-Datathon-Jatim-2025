@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SYAHRIAL ALMUADZIR",
+        "sekolah_id": "00198A9C-FAD6-E111-ADE5-1BFE2F52B9FA",
+        "npsn": 40318380,
+        "jumlah_kirim": 12,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 24,
+        "rombel": 11,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bangkala",
+        "kode_wilayah_induk_kecamatan": "190501  ",
+        "induk_kabupaten": "Kab. Jeneponto",
+        "kode_wilayah_induk_kabupaten": "190500  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 05:12:08",
+        "sekolah_id_enkrip": "B9AB40896C905D16CDAA                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUTIARA QALBU",
+        "sekolah_id": "AF78570B-F6F0-4462-B19F-EF2FEBF088EF",
+        "npsn": 70027795,
+        "jumlah_kirim": 31,
+        "ptk": 2,
+        "pegawai": 5,
+        "pd": 18,
+        "rombel": 6,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sungai Limau",
+        "kode_wilayah_induk_kecamatan": "080508  ",
+        "induk_kabupaten": "Kab. Padang Pariaman",
+        "kode_wilayah_induk_kabupaten": "080500  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 06:17:35",
+        "sekolah_id_enkrip": "32CF2DFA6E6402014D56                                                                                "
+    }
+]

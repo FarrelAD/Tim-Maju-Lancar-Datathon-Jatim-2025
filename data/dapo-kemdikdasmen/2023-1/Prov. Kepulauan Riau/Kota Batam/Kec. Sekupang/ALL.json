@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CENDEKIARA",
+        "sekolah_id": "AB7F856A-E258-4031-85A3-695673BC4D8C",
+        "npsn": 70030718,
+        "jumlah_kirim": 31,
+        "ptk": 4,
+        "pegawai": 6,
+        "pd": 21,
+        "rombel": 4,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sekupang",
+        "kode_wilayah_induk_kecamatan": "316002  ",
+        "induk_kabupaten": "Kota Batam",
+        "kode_wilayah_induk_kabupaten": "316000  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 11:46:36",
+        "sekolah_id_enkrip": "574DA7D0D6301C40F58F                                                                                "
+    }
+]

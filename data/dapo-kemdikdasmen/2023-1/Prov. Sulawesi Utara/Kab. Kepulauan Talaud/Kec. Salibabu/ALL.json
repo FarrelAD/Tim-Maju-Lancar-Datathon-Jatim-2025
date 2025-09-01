@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 TALAUD",
+        "sekolah_id": "20A9AF92-9C75-4DA8-972E-230CB0D06DC1",
+        "npsn": 69946101,
+        "jumlah_kirim": 8,
+        "ptk": 12,
+        "pegawai": 7,
+        "pd": 35,
+        "rombel": 12,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Salibabu",
+        "kode_wilayah_induk_kecamatan": "170420  ",
+        "induk_kabupaten": "Kab. Kepulauan Talaud",
+        "kode_wilayah_induk_kabupaten": "170400  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 23:10:05",
+        "sekolah_id_enkrip": "5739119A9C396F1CDB4F                                                                                "
+    }
+]

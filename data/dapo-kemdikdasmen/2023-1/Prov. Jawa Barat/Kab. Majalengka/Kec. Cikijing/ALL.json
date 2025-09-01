@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-MUFTI",
+        "sekolah_id": "407E8174-5AFA-E111-8FD8-290BEEE96248",
+        "npsn": 20213882,
+        "jumlah_kirim": 43,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 50,
+        "rombel": 15,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cikijing",
+        "kode_wilayah_induk_kecamatan": "021603  ",
+        "induk_kabupaten": "Kab. Majalengka",
+        "kode_wilayah_induk_kabupaten": "021600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 19:26:47",
+        "sekolah_id_enkrip": "DF32CE9A529F8F85268F                                                                                "
+    }
+]

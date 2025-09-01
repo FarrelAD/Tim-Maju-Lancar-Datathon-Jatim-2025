@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KINASIH",
+        "sekolah_id": "EDA93FF8-65FC-4F43-BD3B-52848DD7FDA8",
+        "npsn": 69873593,
+        "jumlah_kirim": 30,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 68,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rumbai",
+        "kode_wilayah_induk_kecamatan": "096008  ",
+        "induk_kabupaten": "Kota Pekanbaru",
+        "kode_wilayah_induk_kabupaten": "096000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 19:17:24",
+        "sekolah_id_enkrip": "0150A896939071EA2F31                                                                                "
+    }
+]

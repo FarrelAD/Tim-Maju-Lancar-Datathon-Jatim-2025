@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC Arrahman",
+        "sekolah_id": "2015120F-8DFA-E111-81D5-6723C7C7C42A",
+        "npsn": 20103060,
+        "jumlah_kirim": 12,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 61,
+        "rombel": 13,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Setia Budi",
+        "kode_wilayah_induk_kecamatan": "016310  ",
+        "induk_kabupaten": "Kota Jakarta Selatan",
+        "kode_wilayah_induk_kabupaten": "016300  ",
+        "induk_provinsi": "Prov. D.K.I. Jakarta",
+        "kode_wilayah_induk_provinsi": "010000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 12:18:55",
+        "sekolah_id_enkrip": "05764E65D94B5086980D                                                                                "
+    }
+]

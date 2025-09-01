@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SWASTA SYAFIQ",
+        "sekolah_id": "1D32A792-1772-4E23-8E07-93F936729F73",
+        "npsn": 69990053,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 54,
+        "rombel": 22,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Hamparan Perak",
+        "kode_wilayah_induk_kecamatan": "070124  ",
+        "induk_kabupaten": "Kab. Deli Serdang",
+        "kode_wilayah_induk_kabupaten": "070100  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 06:31:44",
+        "sekolah_id_enkrip": "6ECE1C9802E6861EF7E1                                                                                "
+    }
+]

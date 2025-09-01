@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD KUNCUP MAS BANYUMAS",
+        "sekolah_id": "F0BD1A59-2DF5-E011-B18B-95300A3386EB",
+        "npsn": 20330395,
+        "jumlah_kirim": 11,
+        "ptk": 20,
+        "pegawai": 4,
+        "pd": 156,
+        "rombel": 32,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banyumas",
+        "kode_wilayah_induk_kecamatan": "030211  ",
+        "induk_kabupaten": "Kab. Banyumas",
+        "kode_wilayah_induk_kabupaten": "030200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 08:26:23",
+        "sekolah_id_enkrip": "45F50BCDD0DE6EFF9171                                                                                "
+    }
+]

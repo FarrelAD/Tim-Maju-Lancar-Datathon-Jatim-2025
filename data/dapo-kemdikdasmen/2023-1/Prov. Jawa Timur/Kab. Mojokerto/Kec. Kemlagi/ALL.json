@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YPPAC KEMLAGI ",
+        "sekolah_id": "4089D5A9-8DFE-E111-857E-23F7A275A990",
+        "npsn": 20555683,
+        "jumlah_kirim": 20,
+        "ptk": 9,
+        "pegawai": 0,
+        "pd": 55,
+        "rombel": 11,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kemlagi",
+        "kode_wilayah_induk_kecamatan": "050315  ",
+        "induk_kabupaten": "Kab. Mojokerto",
+        "kode_wilayah_induk_kabupaten": "050300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 04:11:05",
+        "sekolah_id_enkrip": "26705948B103A2F84909                                                                                "
+    }
+]

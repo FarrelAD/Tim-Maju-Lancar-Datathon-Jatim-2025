@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUTIARA KASIH",
+        "sekolah_id": "9007E39C-EBA3-E111-9F59-DBD1AF858909",
+        "npsn": 10308855,
+        "jumlah_kirim": 10,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sungayang",
+        "kode_wilayah_induk_kecamatan": "080709  ",
+        "induk_kabupaten": "Kab. Tanah Datar",
+        "kode_wilayah_induk_kabupaten": "080700  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 07:10:46",
+        "sekolah_id_enkrip": "D0C81CA1258CBDE05C9E                                                                                "
+    }
+]

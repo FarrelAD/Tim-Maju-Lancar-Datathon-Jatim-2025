@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 JAYAPURA",
+        "sekolah_id": "8074A741-31F5-E011-A6C7-03AB5E344F62",
+        "npsn": 60301021,
+        "jumlah_kirim": 40,
+        "ptk": 18,
+        "pegawai": 5,
+        "pd": 193,
+        "rombel": 16,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Abepura",
+        "kode_wilayah_induk_kecamatan": "256002  ",
+        "induk_kabupaten": "Kota Jayapura",
+        "kode_wilayah_induk_kabupaten": "256000  ",
+        "induk_provinsi": "Prov. Papua",
+        "kode_wilayah_induk_provinsi": "250000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:38:00",
+        "sekolah_id_enkrip": "DB8BD6C53939D4CE1A30                                                                                "
+    }
+]

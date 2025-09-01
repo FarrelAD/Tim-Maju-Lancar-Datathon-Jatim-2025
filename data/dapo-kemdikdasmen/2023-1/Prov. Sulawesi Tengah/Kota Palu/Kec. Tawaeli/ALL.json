@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 1 PALU",
+        "sekolah_id": "107D2F59-013C-E111-BFF6-D5B730C3F26C",
+        "npsn": 40203734,
+        "jumlah_kirim": 12,
+        "ptk": 12,
+        "pegawai": 6,
+        "pd": 66,
+        "rombel": 22,
+        "jml_rk": 39,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tawaeli",
+        "kode_wilayah_induk_kecamatan": "186007  ",
+        "induk_kabupaten": "Kota Palu",
+        "kode_wilayah_induk_kabupaten": "186000  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 07:04:46",
+        "sekolah_id_enkrip": "8D8B8BA281FF5AA1D8E6                                                                                "
+    }
+]

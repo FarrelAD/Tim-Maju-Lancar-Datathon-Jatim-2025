@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN  1 LEBONG",
+        "sekolah_id": "60B6E8DC-31F5-E011-BCD5-7D7ABCC63BE4",
+        "npsn": 10703434,
+        "jumlah_kirim": 16,
+        "ptk": 11,
+        "pegawai": 4,
+        "pd": 64,
+        "rombel": 35,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lebong Sakti",
+        "kode_wilayah_induk_kecamatan": "260609  ",
+        "induk_kabupaten": "Kab. Lebong",
+        "kode_wilayah_induk_kabupaten": "260600  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 16:15:01",
+        "sekolah_id_enkrip": "9150179D5F6B0DEA09E5                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 DENPASAR",
+        "sekolah_id": "B0B6D315-31F5-E011-8CAF-9F9DE2A56CFB",
+        "npsn": 50103655,
+        "jumlah_kirim": 39,
+        "ptk": 30,
+        "pegawai": 8,
+        "pd": 225,
+        "rombel": 29,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Denpasar Selatan",
+        "kode_wilayah_induk_kecamatan": "226001  ",
+        "induk_kabupaten": "Kota Denpasar",
+        "kode_wilayah_induk_kabupaten": "226000  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 11:27:36",
+        "sekolah_id_enkrip": "DA92DA4A89B8A74214C8                                                                                "
+    }
+]

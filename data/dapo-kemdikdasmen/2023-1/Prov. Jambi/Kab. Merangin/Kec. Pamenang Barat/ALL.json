@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN PINANG MERAH MERANGIN",
+        "sekolah_id": "7B3CC44B-D97A-4F64-B8D1-1B3CCDC97D8D",
+        "npsn": 70033444,
+        "jumlah_kirim": 33,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 42,
+        "rombel": 13,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pamenang Barat",
+        "kode_wilayah_induk_kecamatan": "100914  ",
+        "induk_kabupaten": "Kab. Merangin",
+        "kode_wilayah_induk_kabupaten": "100900  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 21:26:17",
+        "sekolah_id_enkrip": "ED33E81FA02318D8ADE4                                                                                "
+    }
+]

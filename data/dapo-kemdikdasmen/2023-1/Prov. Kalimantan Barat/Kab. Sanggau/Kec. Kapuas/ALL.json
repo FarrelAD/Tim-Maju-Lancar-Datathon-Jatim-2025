@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 65 SANGGAU",
+        "sekolah_id": "E07CFD09-30F5-E011-AFA0-BF1D4DD25D44",
+        "npsn": 30102059,
+        "jumlah_kirim": 22,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 40,
+        "rombel": 10,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kapuas",
+        "kode_wilayah_induk_kecamatan": "130324  ",
+        "induk_kabupaten": "Kab. Sanggau",
+        "kode_wilayah_induk_kabupaten": "130300  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 14:09:02",
+        "sekolah_id_enkrip": "1DA6E25E556714D417E6                                                                                "
+    }
+]

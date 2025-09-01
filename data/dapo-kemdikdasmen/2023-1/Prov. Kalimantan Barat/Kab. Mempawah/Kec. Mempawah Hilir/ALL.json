@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MEMPAWAH",
+        "sekolah_id": "C06FFD09-30F5-E011-B419-F3E520060CED",
+        "npsn": 30101196,
+        "jumlah_kirim": 44,
+        "ptk": 12,
+        "pegawai": 6,
+        "pd": 89,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mempawah Hilir",
+        "kode_wilayah_induk_kecamatan": "130210  ",
+        "induk_kabupaten": "Kab. Mempawah",
+        "kode_wilayah_induk_kabupaten": "130200  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 08:55:15",
+        "sekolah_id_enkrip": "E3EA803E9E33877918D0                                                                                "
+    }
+]
