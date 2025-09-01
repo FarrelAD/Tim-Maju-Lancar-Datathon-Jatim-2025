@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-FALAH",
+        "sekolah_id": "403F5545-5AE7-4809-87EA-521184B6EF5E",
+        "npsn": 69945332,
+        "jumlah_kirim": 7,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 57,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukamantri",
+        "kode_wilayah_induk_kecamatan": "021431  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 19:39:55",
+        "sekolah_id_enkrip": "DC6DDDF00C2A0368DC7B                                                                                "
+    }
+]

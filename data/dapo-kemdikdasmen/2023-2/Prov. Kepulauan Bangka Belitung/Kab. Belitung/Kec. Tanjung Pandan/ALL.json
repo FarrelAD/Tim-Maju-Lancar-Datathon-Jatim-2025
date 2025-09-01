@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N TANJUNGPANDAN",
+        "sekolah_id": "7031F1AD-31F5-E011-99B9-A755278D94EE",
+        "npsn": 10400448,
+        "jumlah_kirim": 32,
+        "ptk": 21,
+        "pegawai": 7,
+        "pd": 140,
+        "rombel": 46,
+        "jml_rk": 22,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Pandan",
+        "kode_wilayah_induk_kecamatan": "290206  ",
+        "induk_kabupaten": "Kab. Belitung",
+        "kode_wilayah_induk_kabupaten": "290200  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "08 Aug 2025 14:47:24",
+        "sekolah_id_enkrip": "5A0A8766814A43680D57                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI OELMASI",
+        "sekolah_id": "6029CD38-033C-E111-B7EE-2938117AFD02",
+        "npsn": 50306447,
+        "jumlah_kirim": 41,
+        "ptk": 26,
+        "pegawai": 16,
+        "pd": 85,
+        "rombel": 25,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Fatuleu",
+        "kode_wilayah_induk_kecamatan": "240116  ",
+        "induk_kabupaten": "Kab. Kupang",
+        "kode_wilayah_induk_kabupaten": "240100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 22:45:12",
+        "sekolah_id_enkrip": "5A19C67EA058858F6EAB                                                                                "
+    }
+]

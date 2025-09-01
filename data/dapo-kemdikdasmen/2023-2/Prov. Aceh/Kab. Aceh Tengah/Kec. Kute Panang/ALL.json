@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KUTE PANANG",
+        "sekolah_id": "191E36F8-20A3-4C5D-8728-AB3844A5A7F9",
+        "npsn": 69859400,
+        "jumlah_kirim": 8,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 31,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kute Panang",
+        "kode_wilayah_induk_kecamatan": "060512  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 18:27:18",
+        "sekolah_id_enkrip": "803C97126B71D1F59679                                                                                "
+    }
+]

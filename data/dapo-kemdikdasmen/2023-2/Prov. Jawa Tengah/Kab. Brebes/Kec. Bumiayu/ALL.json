@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Mutiara Hati",
+        "sekolah_id": "E0BC159E-7DFE-E111-B803-434DB92A1793",
+        "npsn": 20362808,
+        "jumlah_kirim": 13,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 92,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bumiayu",
+        "kode_wilayah_induk_kecamatan": "032903  ",
+        "induk_kabupaten": "Kab. Brebes",
+        "kode_wilayah_induk_kabupaten": "032900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 08:31:45",
+        "sekolah_id_enkrip": "D4002DD95949AF70D104                                                                                "
+    }
+]

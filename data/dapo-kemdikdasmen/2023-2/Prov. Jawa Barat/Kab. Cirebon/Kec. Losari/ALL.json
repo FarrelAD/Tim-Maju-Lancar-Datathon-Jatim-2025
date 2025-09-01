@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Mutiara Bunda",
+        "sekolah_id": "A00214F2-3118-E211-84B1-8BAF4DE85D22",
+        "npsn": 20279948,
+        "jumlah_kirim": 8,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 80,
+        "rombel": 13,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Losari",
+        "kode_wilayah_induk_kecamatan": "021703  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 15:11:19",
+        "sekolah_id_enkrip": "FD191DF929CCCEC26E19                                                                                "
+    }
+]

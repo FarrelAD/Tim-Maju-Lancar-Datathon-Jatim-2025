@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB  AL-JAMHURIL FATA",
+        "sekolah_id": "C009EFEF-64B7-437F-AECF-43F5A9014334",
+        "npsn": 10498666,
+        "jumlah_kirim": 3,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 23,
+        "rombel": 7,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bagan Sinembah",
+        "kode_wilayah_induk_kecamatan": "091005  ",
+        "induk_kabupaten": "Kab. Rokan Hilir",
+        "kode_wilayah_induk_kabupaten": "091000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 14:31:57",
+        "sekolah_id_enkrip": "DB88ED0B008F489873BF                                                                                "
+    }
+]

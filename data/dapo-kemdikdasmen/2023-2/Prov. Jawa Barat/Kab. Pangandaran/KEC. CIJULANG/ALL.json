@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPK CIJULANG",
+        "sekolah_id": "D0A8CA74-D4C4-E111-9B8A-9349715FA88E",
+        "npsn": 20258212,
+        "jumlah_kirim": 13,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 82,
+        "rombel": 25,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "KEC. CIJULANG",
+        "kode_wilayah_induk_kecamatan": "022551  ",
+        "induk_kabupaten": "Kab. Pangandaran",
+        "kode_wilayah_induk_kabupaten": "022500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 13:20:17",
+        "sekolah_id_enkrip": "30D05E2B49F929BFD228                                                                                "
+    }
+]

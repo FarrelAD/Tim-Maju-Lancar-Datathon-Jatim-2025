@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD KURNIA ASIH",
+        "sekolah_id": "200EDCF5-8B18-E111-A8CC-1B546F9E6CB7",
+        "npsn": 20503608,
+        "jumlah_kirim": 18,
+        "ptk": 14,
+        "pegawai": 1,
+        "pd": 120,
+        "rombel": 15,
+        "jml_rk": 19,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngoro",
+        "kode_wilayah_induk_kecamatan": "050405  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 22:38:04",
+        "sekolah_id_enkrip": "8DA16711193A6A4E999F                                                                                "
+    }
+]

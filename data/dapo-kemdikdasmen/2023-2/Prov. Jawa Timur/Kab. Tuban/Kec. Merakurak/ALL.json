@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SPECIAL SCHOOL SALSABILA",
+        "sekolah_id": "3AA6E720-C4C5-46F2-80E3-62E3E2291405",
+        "npsn": 69964984,
+        "jumlah_kirim": 4,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 70,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Merakurak",
+        "kode_wilayah_induk_kecamatan": "050615  ",
+        "induk_kabupaten": "Kab. Tuban",
+        "kode_wilayah_induk_kabupaten": "050600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 23:21:26",
+        "sekolah_id_enkrip": "E4FE5524EA937B394D34                                                                                "
+    }
+]

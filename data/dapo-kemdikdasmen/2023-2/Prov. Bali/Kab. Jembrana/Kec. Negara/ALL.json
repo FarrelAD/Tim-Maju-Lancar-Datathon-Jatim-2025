@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 JEMBRANA",
+        "sekolah_id": "F1D06EE9-F8F5-4CBD-9C77-5BA90AAFCD70",
+        "npsn": 50100923,
+        "jumlah_kirim": 23,
+        "ptk": 20,
+        "pegawai": 13,
+        "pd": 192,
+        "rombel": 40,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Negara",
+        "kode_wilayah_induk_kecamatan": "220202  ",
+        "induk_kabupaten": "Kab. Jembrana",
+        "kode_wilayah_induk_kabupaten": "220200  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 13:53:21",
+        "sekolah_id_enkrip": "194F45B9A30DA4500585                                                                                "
+    }
+]

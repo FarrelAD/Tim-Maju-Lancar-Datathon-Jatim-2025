@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS HARAPAN I TEMBELANG",
+        "sekolah_id": "002117EE-8B18-E111-98BC-E779014BDBEB",
+        "npsn": 20503600,
+        "jumlah_kirim": 5,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 47,
+        "rombel": 11,
+        "jml_rk": 8,
+        "jml_lab": 3,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tembelang",
+        "kode_wilayah_induk_kecamatan": "050415  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 05:46:04",
+        "sekolah_id_enkrip": "EF2AB547BE722FBF71BF                                                                                "
+    }
+]

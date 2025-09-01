@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MUARA ENIM",
+        "sekolah_id": "BA9441A3-2D70-4C37-9E18-12E87D1E7D1A",
+        "npsn": 10648303,
+        "jumlah_kirim": 12,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 89,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Muara Enim",
+        "kode_wilayah_induk_kecamatan": "110404  ",
+        "induk_kabupaten": "Kab. Muara Enim",
+        "kode_wilayah_induk_kabupaten": "110400  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 14:29:41",
+        "sekolah_id_enkrip": "5EF33236AEB763CDFAA4                                                                                "
+    }
+]

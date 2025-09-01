@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 KLUNGKUNG",
+        "sekolah_id": "8004EF14-31F5-E011-9F0D-1D8ED92D1352",
+        "npsn": 50102415,
+        "jumlah_kirim": 7,
+        "ptk": 21,
+        "pegawai": 11,
+        "pd": 153,
+        "rombel": 36,
+        "jml_rk": 6,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Klungkung",
+        "kode_wilayah_induk_kecamatan": "220603  ",
+        "induk_kabupaten": "Kab. Klungkung",
+        "kode_wilayah_induk_kabupaten": "220600  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 13:42:27",
+        "sekolah_id_enkrip": "4EC06871CE0705790ACF                                                                                "
+    }
+]

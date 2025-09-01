@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC PGRI CIAWI",
+        "sekolah_id": "E0D8E015-2CF5-E011-87EE-F5D1C91AC974",
+        "npsn": 20268132,
+        "jumlah_kirim": 9,
+        "ptk": 8,
+        "pegawai": 5,
+        "pd": 101,
+        "rombel": 22,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ciawi",
+        "kode_wilayah_induk_kecamatan": "021226  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 21:38:17",
+        "sekolah_id_enkrip": "3D73D2BD33C168B3D981                                                                                "
+    }
+]

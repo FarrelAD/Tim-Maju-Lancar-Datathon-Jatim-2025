@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SELUMA",
+        "sekolah_id": "909AE8DC-31F5-E011-AF45-775A03F88DFB",
+        "npsn": 10703405,
+        "jumlah_kirim": 40,
+        "ptk": 12,
+        "pegawai": 5,
+        "pd": 66,
+        "rombel": 20,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Seluma Selatan",
+        "kode_wilayah_induk_kecamatan": "260809  ",
+        "induk_kabupaten": "Kab. Seluma",
+        "kode_wilayah_induk_kabupaten": "260800  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 14:51:49",
+        "sekolah_id_enkrip": "23E714895D99768946CD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SARTIKA NGAWEN",
+        "sekolah_id": "F0AB1B49-DE06-E211-AA0E-51332AAA231D",
+        "npsn": 20341378,
+        "jumlah_kirim": 7,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 19,
+        "rombel": 7,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngawen",
+        "kode_wilayah_induk_kecamatan": "031614  ",
+        "induk_kabupaten": "Kab. Blora",
+        "kode_wilayah_induk_kabupaten": "031600  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 10:48:14",
+        "sekolah_id_enkrip": "B91BCB725793BC359C5E                                                                                "
+    }
+]

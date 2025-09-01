@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BHAKTI LUHUR",
+        "sekolah_id": "A0C65895-CBC2-E211-A2A2-AF07B28BE357",
+        "npsn": 69769430,
+        "jumlah_kirim": 16,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 39,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Atambua Barat",
+        "kode_wilayah_induk_kecamatan": "240521  ",
+        "induk_kabupaten": "Kab. Belu",
+        "kode_wilayah_induk_kabupaten": "240500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 07:20:00",
+        "sekolah_id_enkrip": "F9CA33BAF5B0E97544B9                                                                                "
+    }
+]

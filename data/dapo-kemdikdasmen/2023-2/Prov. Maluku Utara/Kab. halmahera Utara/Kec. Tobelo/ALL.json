@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TOBELO",
+        "sekolah_id": "70E6920A-A6FE-E111-B3D8-876CA845C012",
+        "npsn": 69755884,
+        "jumlah_kirim": 59,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 98,
+        "rombel": 15,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tobelo",
+        "kode_wilayah_induk_kecamatan": "270401  ",
+        "induk_kabupaten": "Kab. halmahera Utara",
+        "kode_wilayah_induk_kabupaten": "270400  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 18:57:39",
+        "sekolah_id_enkrip": "B27BC73F2041F24E7B2F                                                                                "
+    }
+]

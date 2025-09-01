@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Sidikalang",
+        "sekolah_id": "006135D8-2EF5-E011-88BF-0F299CC4488A",
+        "npsn": 10203614,
+        "jumlah_kirim": 29,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 20,
+        "rombel": 8,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sidikalang",
+        "kode_wilayah_induk_kecamatan": "070503  ",
+        "induk_kabupaten": "Kab. Dairi",
+        "kode_wilayah_induk_kabupaten": "070500  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 09:06:34",
+        "sekolah_id_enkrip": "B8B75D6ECA471A3B4CC7                                                                                "
+    }
+]

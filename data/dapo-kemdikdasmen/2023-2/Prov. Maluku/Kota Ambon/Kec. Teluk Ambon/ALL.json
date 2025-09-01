@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA KASIH",
+        "sekolah_id": "14207A8F-87D1-4D8D-A7FA-438B18BAAE69",
+        "npsn": 69922550,
+        "jumlah_kirim": 5,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Teluk Ambon ",
+        "kode_wilayah_induk_kecamatan": "216003  ",
+        "induk_kabupaten": "Kota Ambon",
+        "kode_wilayah_induk_kabupaten": "216000  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 09:56:15",
+        "sekolah_id_enkrip": "691D2AF6435B1B4C8749                                                                                "
+    }
+]

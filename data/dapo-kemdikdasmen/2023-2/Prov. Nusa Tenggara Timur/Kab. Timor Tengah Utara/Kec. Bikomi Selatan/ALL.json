@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NITSAE",
+        "sekolah_id": "BEE3CE9F-8A06-4EB0-B262-CB57BE8D39B2",
+        "npsn": 70027341,
+        "jumlah_kirim": 16,
+        "ptk": 6,
+        "pegawai": 8,
+        "pd": 27,
+        "rombel": 11,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bikomi Selatan",
+        "kode_wilayah_induk_kecamatan": "240414  ",
+        "induk_kabupaten": "Kab. Timor Tengah Utara",
+        "kode_wilayah_induk_kabupaten": "240400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 15:07:01",
+        "sekolah_id_enkrip": "C331AFCB3C3817227FC0                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MARSUDI PUTRA 1",
+        "sekolah_id": "602D1B5D-2EF5-E011-8333-5171A3AF0ABE",
+        "npsn": 20400156,
+        "jumlah_kirim": 43,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 77,
+        "rombel": 19,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bantul",
+        "kode_wilayah_induk_kecamatan": "040107  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 17:46:24",
+        "sekolah_id_enkrip": "989B70B3CA0788FD2A81                                                                                "
+    }
+]

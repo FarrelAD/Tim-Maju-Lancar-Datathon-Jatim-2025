@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-KAUTSAR",
+        "sekolah_id": "A522F508-1539-479C-A9C2-13B0489A666B",
+        "npsn": 70038103,
+        "jumlah_kirim": 12,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 3,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jerowaru",
+        "kode_wilayah_induk_kecamatan": "230315  ",
+        "induk_kabupaten": "Kab. Lombok Timur",
+        "kode_wilayah_induk_kabupaten": "230300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 13:47:50",
+        "sekolah_id_enkrip": "F0892E46AC5BD3104F85                                                                                "
+    }
+]

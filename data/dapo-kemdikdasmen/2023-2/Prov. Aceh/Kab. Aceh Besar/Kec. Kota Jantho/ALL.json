@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA JANTHO",
+        "sekolah_id": "B0DB3690-2EF5-E011-A684-0F3A8034EE0D",
+        "npsn": 10100156,
+        "jumlah_kirim": 11,
+        "ptk": 26,
+        "pegawai": 8,
+        "pd": 76,
+        "rombel": 30,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Jantho",
+        "kode_wilayah_induk_kecamatan": "060117  ",
+        "induk_kabupaten": "Kab. Aceh Besar",
+        "kode_wilayah_induk_kabupaten": "060100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 05:23:36",
+        "sekolah_id_enkrip": "912EB639A5FE8B1D3BDB                                                                                "
+    }
+]

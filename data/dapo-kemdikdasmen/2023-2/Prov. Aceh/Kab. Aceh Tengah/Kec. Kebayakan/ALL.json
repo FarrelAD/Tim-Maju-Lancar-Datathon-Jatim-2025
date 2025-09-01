@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Kebayakan Takengon",
+        "sekolah_id": "C05F6C90-2EF5-E011-BEA8-D14D32B2F8A9",
+        "npsn": 10102319,
+        "jumlah_kirim": 77,
+        "ptk": 75,
+        "pegawai": 12,
+        "pd": 134,
+        "rombel": 73,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kebayakan",
+        "kode_wilayah_induk_kecamatan": "060522  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 19:09:58",
+        "sekolah_id_enkrip": "9B4BF05B6ADDCAFAF43A                                                                                "
+    }
+]

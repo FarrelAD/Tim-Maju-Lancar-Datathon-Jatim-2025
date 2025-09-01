@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB RIMBA ASAM",
+        "sekolah_id": "504AEF66-2CFB-E111-BC83-59118482A7FB",
+        "npsn": 10648819,
+        "jumlah_kirim": 4,
+        "ptk": 6,
+        "pegawai": 0,
+        "pd": 58,
+        "rombel": 12,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Betung",
+        "kode_wilayah_induk_kecamatan": "110704  ",
+        "induk_kabupaten": "Kab. Banyuasin",
+        "kode_wilayah_induk_kabupaten": "110700  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 19:58:25",
+        "sekolah_id_enkrip": "86DAF3115A8E87C43A3A                                                                                "
+    }
+]

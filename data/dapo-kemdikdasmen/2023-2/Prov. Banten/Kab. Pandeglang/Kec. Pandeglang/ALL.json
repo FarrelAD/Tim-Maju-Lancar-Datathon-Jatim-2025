@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH KORPRI",
+        "sekolah_id": "D095EEED-75F2-E111-BDD1-01A3CAC78ADD",
+        "npsn": 20600450,
+        "jumlah_kirim": 20,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 76,
+        "rombel": 17,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pandeglang",
+        "kode_wilayah_induk_kecamatan": "280118  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 19:45:54",
+        "sekolah_id_enkrip": "CA6D83B019E9ED0D3A3E                                                                                "
+    }
+]

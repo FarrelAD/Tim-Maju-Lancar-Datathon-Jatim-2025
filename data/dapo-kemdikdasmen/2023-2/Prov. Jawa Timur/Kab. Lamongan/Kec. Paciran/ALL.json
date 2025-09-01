@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MAHARANI KAB.LAMONGAN",
+        "sekolah_id": "20F533CD-A338-4034-A0BD-9A46E756489F",
+        "npsn": 69820638,
+        "jumlah_kirim": 6,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 46,
+        "rombel": 11,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Paciran",
+        "kode_wilayah_induk_kecamatan": "050725  ",
+        "induk_kabupaten": "Kab. Lamongan",
+        "kode_wilayah_induk_kabupaten": "050700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 06:48:50",
+        "sekolah_id_enkrip": "02D0207EF426FE4DAF8A                                                                                "
+    }
+]

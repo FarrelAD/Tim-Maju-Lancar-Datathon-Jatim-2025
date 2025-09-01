@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA MANDIRI",
+        "sekolah_id": "40D0D9F5-8B18-E111-8018-B78F1855A6F5",
+        "npsn": 20501852,
+        "jumlah_kirim": 19,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 43,
+        "rombel": 11,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tarik",
+        "kode_wilayah_induk_kecamatan": "050201  ",
+        "induk_kabupaten": "Kab. Sidoarjo",
+        "kode_wilayah_induk_kabupaten": "050200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Aug 2025 01:01:32",
+        "sekolah_id_enkrip": "DB6D5699BC9D699066DF                                                                                "
+    }
+]

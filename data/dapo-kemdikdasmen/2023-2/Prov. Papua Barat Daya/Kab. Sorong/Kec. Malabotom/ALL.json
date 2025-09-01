@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SDLB INPRES 73 MALAINGKEDI SORONG",
+        "sekolah_id": "C0A84CD2-31F5-E011-9E41-970F2E740F76",
+        "npsn": 60400464,
+        "jumlah_kirim": 14,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 90,
+        "rombel": 24,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Malabotom",
+        "kode_wilayah_induk_kecamatan": "390449  ",
+        "induk_kabupaten": "Kab. Sorong",
+        "kode_wilayah_induk_kabupaten": "390400  ",
+        "induk_provinsi": "Prov. Papua Barat Daya",
+        "kode_wilayah_induk_provinsi": "390000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 09:12:35",
+        "sekolah_id_enkrip": "1BD932288EBCDD29AB49                                                                                "
+    }
+]

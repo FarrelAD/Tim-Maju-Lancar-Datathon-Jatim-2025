@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SWASTA YAPSI TEBING TINGGI",
+        "sekolah_id": "6944D7FE-9BA6-42BD-9C3B-85D4E01BB361",
+        "npsn": 69886466,
+        "jumlah_kirim": 20,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 134,
+        "rombel": 14,
+        "jml_rk": 24,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bajenis",
+        "kode_wilayah_induk_kecamatan": "076204  ",
+        "induk_kabupaten": "Kota Tebing Tinggi",
+        "kode_wilayah_induk_kabupaten": "076200  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 14:16:09",
+        "sekolah_id_enkrip": "893ECC2D807A810AEF53                                                                                "
+    }
+]

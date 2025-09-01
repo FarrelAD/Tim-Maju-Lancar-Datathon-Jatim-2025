@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TENUBOT",
+        "sekolah_id": "609CE23A-033C-E111-9AEE-F704EF39004D",
+        "npsn": 50301377,
+        "jumlah_kirim": 34,
+        "ptk": 26,
+        "pegawai": 5,
+        "pd": 133,
+        "rombel": 26,
+        "jml_rk": 19,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Atambua",
+        "kode_wilayah_induk_kecamatan": "240506  ",
+        "induk_kabupaten": "Kab. Belu",
+        "kode_wilayah_induk_kabupaten": "240500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 06:53:05",
+        "sekolah_id_enkrip": "A4755429FC99CE3FD273                                                                                "
+    }
+]

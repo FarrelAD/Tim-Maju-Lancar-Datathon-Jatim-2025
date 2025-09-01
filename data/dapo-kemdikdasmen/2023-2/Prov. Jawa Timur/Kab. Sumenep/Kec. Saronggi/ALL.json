@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Saronggi",
+        "sekolah_id": "00FF92E4-1DD6-E111-85C6-11712133E390",
+        "npsn": 20551940,
+        "jumlah_kirim": 8,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 91,
+        "rombel": 14,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Saronggi",
+        "kode_wilayah_induk_kecamatan": "052803  ",
+        "induk_kabupaten": "Kab. Sumenep",
+        "kode_wilayah_induk_kabupaten": "052800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 15:40:21",
+        "sekolah_id_enkrip": "3FCBBAE566279A0A9370                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB LASKAR PUTRA MANDIRI DARMA",
+        "sekolah_id": "0F4AEDD7-26BE-4841-9303-0C11DEC8B3CF",
+        "npsn": 69830210,
+        "jumlah_kirim": 7,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 81,
+        "rombel": 20,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Darma",
+        "kode_wilayah_induk_kecamatan": "021501  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 14:38:56",
+        "sekolah_id_enkrip": "0353CC632D10F722C14E                                                                                "
+    }
+]

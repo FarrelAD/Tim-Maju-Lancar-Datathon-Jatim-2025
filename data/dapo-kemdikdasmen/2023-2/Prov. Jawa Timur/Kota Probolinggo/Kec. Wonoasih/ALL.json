@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI WONOASIH",
+        "sekolah_id": "006D4C7E-8D18-E111-BEAC-090C44904805",
+        "npsn": 20536335,
+        "jumlah_kirim": 9,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 40,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Wonoasih",
+        "kode_wilayah_induk_kecamatan": "056702  ",
+        "induk_kabupaten": "Kota Probolinggo",
+        "kode_wilayah_induk_kabupaten": "056700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 10:49:07",
+        "sekolah_id_enkrip": "CC4B64966CC53983C0CD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI CISAAT",
+        "sekolah_id": "A04CDA15-2CF5-E011-B690-87A60100A9B7",
+        "npsn": 57580344,
+        "jumlah_kirim": 13,
+        "ptk": 19,
+        "pegawai": 7,
+        "pd": 164,
+        "rombel": 23,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cisaat",
+        "kode_wilayah_induk_kecamatan": "020620  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 07:01:54",
+        "sekolah_id_enkrip": "213CC889168D95C42833                                                                                "
+    }
+]

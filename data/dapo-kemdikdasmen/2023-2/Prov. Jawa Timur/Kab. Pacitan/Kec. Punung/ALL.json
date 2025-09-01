@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PUNUNG PACITAN",
+        "sekolah_id": "40DAD4F5-8B18-E111-A660-D13DE817C497",
+        "npsn": 20511066,
+        "jumlah_kirim": 11,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 55,
+        "rombel": 10,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Punung",
+        "kode_wilayah_induk_kecamatan": "051202  ",
+        "induk_kabupaten": "Kab. Pacitan",
+        "kode_wilayah_induk_kabupaten": "051200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "15 Aug 2025 07:44:11",
+        "sekolah_id_enkrip": "FEA0C24299BDA2E5339F                                                                                "
+    }
+]

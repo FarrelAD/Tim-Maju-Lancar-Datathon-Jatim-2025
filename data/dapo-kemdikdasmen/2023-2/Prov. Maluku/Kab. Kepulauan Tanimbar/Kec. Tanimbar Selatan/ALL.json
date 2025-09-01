@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS KARTINI SAUMLAKI",
+        "sekolah_id": "60548840-2AF5-E011-8581-E7C63B231B96",
+        "npsn": 60102350,
+        "jumlah_kirim": 11,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 61,
+        "rombel": 12,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tanimbar Selatan",
+        "kode_wilayah_induk_kecamatan": "210404  ",
+        "induk_kabupaten": "Kab. Kepulauan Tanimbar",
+        "kode_wilayah_induk_kabupaten": "210400  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 06:58:40",
+        "sekolah_id_enkrip": "74D8A75F01472974CDD0                                                                                "
+    }
+]

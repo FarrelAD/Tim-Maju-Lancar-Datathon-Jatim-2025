@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BAMBI",
+        "sekolah_id": "70767C91-2EF5-E011-8D87-89D915C76159",
+        "npsn": 10110265,
+        "jumlah_kirim": 23,
+        "ptk": 21,
+        "pegawai": 10,
+        "pd": 106,
+        "rombel": 16,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Peukan Baro",
+        "kode_wilayah_induk_kecamatan": "060217  ",
+        "induk_kabupaten": "Kab. Pidie",
+        "kode_wilayah_induk_kabupaten": "060200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "17 Aug 2025 09:14:58",
+        "sekolah_id_enkrip": "9AA83A90F6AF29CD6464                                                                                "
+    }
+]

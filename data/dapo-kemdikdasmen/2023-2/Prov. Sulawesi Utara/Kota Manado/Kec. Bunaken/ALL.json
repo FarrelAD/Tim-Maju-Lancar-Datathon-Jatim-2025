@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUTIARA KASIH",
+        "sekolah_id": "7DE84914-7BA7-4935-8319-5EF1D42EDE19",
+        "npsn": 70025637,
+        "jumlah_kirim": 14,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 19,
+        "rombel": 4,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bunaken",
+        "kode_wilayah_induk_kecamatan": "176005  ",
+        "induk_kabupaten": "Kota Manado",
+        "kode_wilayah_induk_kabupaten": "176000  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 16:26:44",
+        "sekolah_id_enkrip": "7F663EB89E948E658F0B                                                                                "
+    }
+]
