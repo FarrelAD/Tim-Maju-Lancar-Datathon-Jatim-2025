@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ROKAN HULU",
+        "sekolah_id": "80DE62C7-2FF5-E011-A437-ADD0C43EF656",
+        "npsn": 10495633,
+        "jumlah_kirim": 35,
+        "ptk": 19,
+        "pegawai": 8,
+        "pd": 121,
+        "rombel": 26,
+        "jml_rk": 20,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rambah",
+        "kode_wilayah_induk_kecamatan": "090903  ",
+        "induk_kabupaten": "Kab. Rokan Hulu",
+        "kode_wilayah_induk_kabupaten": "090900  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:16:43",
+        "sekolah_id_enkrip": "FD83A9D6F8924EA70762                                                                                "
+    }
+]

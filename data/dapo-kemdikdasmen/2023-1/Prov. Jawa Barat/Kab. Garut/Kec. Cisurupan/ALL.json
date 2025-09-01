@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AT-TAQWA",
+        "sekolah_id": "F0EEDE15-2CF5-E011-8769-CBE6ECCF3DD2",
+        "npsn": 20258199,
+        "jumlah_kirim": 17,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 80,
+        "rombel": 19,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cisurupan",
+        "kode_wilayah_induk_kecamatan": "021116  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 17:33:44",
+        "sekolah_id_enkrip": "7151E2491EA138523888                                                                                "
+    }
+]

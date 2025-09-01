@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SIBORONGBORONG",
+        "sekolah_id": "10EF04DB-2EF5-E011-BE21-4F51A617265A",
+        "npsn": 10259180,
+        "jumlah_kirim": 17,
+        "ptk": 19,
+        "pegawai": 4,
+        "pd": 77,
+        "rombel": 15,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siborongborong",
+        "kode_wilayah_induk_kecamatan": "070812  ",
+        "induk_kabupaten": "Kab. Tapanuli Utara",
+        "kode_wilayah_induk_kabupaten": "070800  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 19:57:31",
+        "sekolah_id_enkrip": "95113BD52DB25C9BACC3                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKhN 01 Pandeglang",
+        "sekolah_id": "9024149C-75F2-E111-9E0D-8D4F00A9855B",
+        "npsn": 20600448,
+        "jumlah_kirim": 34,
+        "ptk": 60,
+        "pegawai": 23,
+        "pd": 149,
+        "rombel": 85,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 3,
+        "induk_kecamatan": "Kec. Majasari",
+        "kode_wilayah_induk_kecamatan": "280139  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 07:31:18",
+        "sekolah_id_enkrip": "ADE2E029FF4B062C095E                                                                                "
+    }
+]

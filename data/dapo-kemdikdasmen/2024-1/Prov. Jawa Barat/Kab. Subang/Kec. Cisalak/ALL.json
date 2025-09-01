@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KANDAGA BINA BANGSA CISALAK",
+        "sekolah_id": "108EE315-2CF5-E011-A3C2-31ABAB18B437",
+        "npsn": 20216949,
+        "jumlah_kirim": 16,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 76,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cisalak",
+        "kode_wilayah_induk_kecamatan": "021903  ",
+        "induk_kabupaten": "Kab. Subang",
+        "kode_wilayah_induk_kabupaten": "021900  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 20:20:31",
+        "sekolah_id_enkrip": "1F7A592177FBD23323F3                                                                                "
+    }
+]

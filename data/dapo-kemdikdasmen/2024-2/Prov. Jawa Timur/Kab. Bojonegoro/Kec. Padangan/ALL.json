@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUHAMMADIYAH PADANGAN",
+        "sekolah_id": "305BD9F5-8B18-E111-8634-BBDFE4E072E9",
+        "npsn": 20504475,
+        "jumlah_kirim": 33,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 71,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Padangan",
+        "kode_wilayah_induk_kecamatan": "050523  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 08:19:18",
+        "sekolah_id_enkrip": "10939F60599BB2AF1951                                                                                "
+    }
+]

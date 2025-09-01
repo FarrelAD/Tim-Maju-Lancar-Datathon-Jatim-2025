@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI AMURANG",
+        "sekolah_id": "B04BFB12-C6FC-E111-A79F-4FB2D925EB20",
+        "npsn": 40103864,
+        "jumlah_kirim": 23,
+        "ptk": 16,
+        "pegawai": 2,
+        "pd": 61,
+        "rombel": 15,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Amurang Barat",
+        "kode_wilayah_induk_kecamatan": "170517  ",
+        "induk_kabupaten": "Kab. Minahasa Selatan",
+        "kode_wilayah_induk_kabupaten": "170500  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "10 Aug 2025 22:20:44",
+        "sekolah_id_enkrip": "4431CE683878B18E0016                                                                                "
+    }
+]

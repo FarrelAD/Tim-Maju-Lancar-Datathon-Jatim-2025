@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 KOLAKA TIMUR",
+        "sekolah_id": "0B482932-D66A-452E-8E17-B5EE0EB977D3",
+        "npsn": 69899142,
+        "jumlah_kirim": 19,
+        "ptk": 6,
+        "pegawai": 0,
+        "pd": 61,
+        "rombel": 10,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "KEC. TIRAWUTA",
+        "kode_wilayah_induk_kecamatan": "201119  ",
+        "induk_kabupaten": "Kab. Kolaka Timur",
+        "kode_wilayah_induk_kabupaten": "201100  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 04:41:07",
+        "sekolah_id_enkrip": "688CB35A1A3D23E6F523                                                                                "
+    }
+]

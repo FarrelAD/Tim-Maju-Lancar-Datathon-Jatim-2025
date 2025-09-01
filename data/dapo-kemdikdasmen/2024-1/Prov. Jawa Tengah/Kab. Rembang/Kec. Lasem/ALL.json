@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Lasem",
+        "sekolah_id": "36DCF0CB-B1B0-4A18-9831-04CA58E0A966",
+        "npsn": 69886282,
+        "jumlah_kirim": 24,
+        "ptk": 19,
+        "pegawai": 3,
+        "pd": 150,
+        "rombel": 28,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lasem",
+        "kode_wilayah_induk_kecamatan": "031714  ",
+        "induk_kabupaten": "Kab. Rembang",
+        "kode_wilayah_induk_kabupaten": "031700  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Aug 2025 03:40:42",
+        "sekolah_id_enkrip": "8AFF98AB52EFD6C47136                                                                                "
+    }
+]

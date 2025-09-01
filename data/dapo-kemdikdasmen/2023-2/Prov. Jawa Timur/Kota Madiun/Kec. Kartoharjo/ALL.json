@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C Dharma Wanita",
+        "sekolah_id": "80A24B9A-DFD6-E111-BC6C-8B03D600F6EE",
+        "npsn": 20534108,
+        "jumlah_kirim": 14,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 44,
+        "rombel": 18,
+        "jml_rk": 41,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kartoharjo",
+        "kode_wilayah_induk_kecamatan": "056203  ",
+        "induk_kabupaten": "Kota Madiun",
+        "kode_wilayah_induk_kabupaten": "056200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 08:34:30",
+        "sekolah_id_enkrip": "C6AA12765F654D34FBA7                                                                                "
+    }
+]

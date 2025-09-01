@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PUTRA HANJUANG",
+        "sekolah_id": "9EC34E52-1A78-48E3-B3D4-C4581D429FDC",
+        "npsn": 69786400,
+        "jumlah_kirim": 7,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 48,
+        "rombel": 16,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bungbulang",
+        "kode_wilayah_induk_kecamatan": "021103  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 16:12:44",
+        "sekolah_id_enkrip": "BEB42FB943BD042AEB6D                                                                                "
+    }
+]

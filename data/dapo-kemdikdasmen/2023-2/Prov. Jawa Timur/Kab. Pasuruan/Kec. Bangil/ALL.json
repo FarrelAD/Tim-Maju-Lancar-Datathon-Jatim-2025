@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC NUSANTARA BANGIL",
+        "sekolah_id": "A0FA69BB-8C18-E111-9B0F-53C3A59DA86A",
+        "npsn": 20548746,
+        "jumlah_kirim": 4,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 20,
+        "rombel": 9,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bangil",
+        "kode_wilayah_induk_kecamatan": "051915  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 23:21:17",
+        "sekolah_id_enkrip": "39CDADEED6473C1BFDEA                                                                                "
+    }
+]

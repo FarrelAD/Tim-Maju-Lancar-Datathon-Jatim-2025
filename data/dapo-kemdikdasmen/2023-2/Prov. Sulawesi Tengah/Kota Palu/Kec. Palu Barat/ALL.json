@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD MUHAMMADIYAH",
+        "sekolah_id": "4011A758-013C-E111-BA71-77C45F5C68A9",
+        "npsn": 40203523,
+        "jumlah_kirim": 44,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 149,
+        "rombel": 29,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Palu Barat",
+        "kode_wilayah_induk_kecamatan": "186001  ",
+        "induk_kabupaten": "Kota Palu",
+        "kode_wilayah_induk_kabupaten": "186000  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 13:11:55",
+        "sekolah_id_enkrip": "1B0C1022FDE291326757                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AR ROCHMAH",
+        "sekolah_id": "55C87C0C-44B8-486B-8438-CDBC8252EC7F",
+        "npsn": 70030320,
+        "jumlah_kirim": 7,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 34,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Brondong",
+        "kode_wilayah_induk_kecamatan": "050726  ",
+        "induk_kabupaten": "Kab. Lamongan",
+        "kode_wilayah_induk_kabupaten": "050700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 09:31:59",
+        "sekolah_id_enkrip": "DC8F79F2FB7EB1EEB243                                                                                "
+    }
+]

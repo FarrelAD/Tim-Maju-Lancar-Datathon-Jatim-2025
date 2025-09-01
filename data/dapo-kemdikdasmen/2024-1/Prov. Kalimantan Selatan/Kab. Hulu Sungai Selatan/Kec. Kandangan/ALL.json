@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN KANDANGAN",
+        "sekolah_id": "C03CD353-30F5-E011-85E5-D14EC5794AC4",
+        "npsn": 30301856,
+        "jumlah_kirim": 46,
+        "ptk": 36,
+        "pegawai": 8,
+        "pd": 198,
+        "rombel": 51,
+        "jml_rk": 20,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kandangan",
+        "kode_wilayah_induk_kecamatan": "150505  ",
+        "induk_kabupaten": "Kab. Hulu Sungai Selatan",
+        "kode_wilayah_induk_kabupaten": "150500  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 19:01:01",
+        "sekolah_id_enkrip": "FD5E68576C48AF34855B                                                                                "
+    }
+]

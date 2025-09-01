@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-A AISYIYAH PONOROGO",
+        "sekolah_id": "C0783BF4-8B18-E111-9152-4536D58C62A1",
+        "npsn": 20555607,
+        "jumlah_kirim": 24,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 54,
+        "rombel": 20,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Babadan",
+        "kode_wilayah_induk_kecamatan": "051118  ",
+        "induk_kabupaten": "Kab. Ponorogo",
+        "kode_wilayah_induk_kabupaten": "051100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 05:44:05",
+        "sekolah_id_enkrip": "7DD15433E120E0B1AFF0                                                                                "
+    }
+]

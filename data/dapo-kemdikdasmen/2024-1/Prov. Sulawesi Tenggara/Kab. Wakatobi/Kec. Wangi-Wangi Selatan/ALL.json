@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 WAKATOBI",
+        "sekolah_id": "C0CD2472-DBE5-E111-BD92-9F7A4E88524B",
+        "npsn": 40404244,
+        "jumlah_kirim": 12,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wangi-Wangi Selatan",
+        "kode_wilayah_induk_kecamatan": "200605  ",
+        "induk_kabupaten": "Kab. Wakatobi",
+        "kode_wilayah_induk_kabupaten": "200600  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 07:14:47",
+        "sekolah_id_enkrip": "4785604589DEF7AC2B4E                                                                                "
+    }
+]

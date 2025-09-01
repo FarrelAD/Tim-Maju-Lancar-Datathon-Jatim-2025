@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB IDHATI",
+        "sekolah_id": "50FDDEF5-8B18-E111-8235-A9242C98CBF3",
+        "npsn": 20554106,
+        "jumlah_kirim": 27,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 39,
+        "rombel": 13,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Parang",
+        "kode_wilayah_induk_kecamatan": "051002  ",
+        "induk_kabupaten": "Kab. Magetan",
+        "kode_wilayah_induk_kabupaten": "051000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 12:34:03",
+        "sekolah_id_enkrip": "B31F5EAF5F6F834CF78D                                                                                "
+    }
+]

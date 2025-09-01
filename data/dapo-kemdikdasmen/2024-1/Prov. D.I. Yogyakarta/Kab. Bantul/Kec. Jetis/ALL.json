@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI TRIMULYO",
+        "sekolah_id": "906E1B5D-2EF5-E011-B35A-175FEC22E7A5",
+        "npsn": 20400171,
+        "jumlah_kirim": 21,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 57,
+        "rombel": 10,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jetis",
+        "kode_wilayah_induk_kecamatan": "040108  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 11:20:45",
+        "sekolah_id_enkrip": "EAFFFDE7406BACE038AA                                                                                "
+    }
+]

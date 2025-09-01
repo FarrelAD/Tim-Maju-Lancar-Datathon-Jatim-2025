@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SALAK",
+        "sekolah_id": "800905DB-2EF5-E011-8FC2-0F9709EDC381",
+        "npsn": 10261795,
+        "jumlah_kirim": 13,
+        "ptk": 13,
+        "pegawai": 6,
+        "pd": 25,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pergeteng-geteng Sengkut",
+        "kode_wilayah_induk_kecamatan": "071806  ",
+        "induk_kabupaten": "Kab. Pakpak Bharat",
+        "kode_wilayah_induk_kabupaten": "071800  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 08:22:42",
+        "sekolah_id_enkrip": "80EB08B024B891B5A43F                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C KINASIH",
+        "sekolah_id": "AF5CFC4C-FA5C-4ACF-8AD4-9B54E2F5D339",
+        "npsn": 30109417,
+        "jumlah_kirim": 11,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 64,
+        "rombel": 11,
+        "jml_rk": 5,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pontianak Barat",
+        "kode_wilayah_induk_kecamatan": "136003  ",
+        "induk_kabupaten": "Kota Pontianak",
+        "kode_wilayah_induk_kabupaten": "136000  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 11:51:34",
+        "sekolah_id_enkrip": "CD2799086FB01505BBA5                                                                                "
+    }
+]

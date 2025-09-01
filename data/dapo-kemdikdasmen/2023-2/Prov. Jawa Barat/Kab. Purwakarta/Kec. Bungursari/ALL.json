@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B.C YDBA CIBENING",
+        "sekolah_id": "50E9E315-2CF5-E011-8AE2-7BCABA1C02F7",
+        "npsn": 20217455,
+        "jumlah_kirim": 14,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 82,
+        "rombel": 17,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bungursari",
+        "kode_wilayah_induk_kecamatan": "022016  ",
+        "induk_kabupaten": "Kab. Purwakarta",
+        "kode_wilayah_induk_kabupaten": "022000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 01:39:56",
+        "sekolah_id_enkrip": "1388C17B9139A471E20B                                                                                "
+    }
+]

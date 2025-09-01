@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BHAKTI PERTIWI",
+        "sekolah_id": "20DC1A5D-2EF5-E011-AF56-27A95F9FF9C7",
+        "npsn": 20400878,
+        "jumlah_kirim": 21,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 75,
+        "rombel": 20,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Prambanan",
+        "kode_wilayah_induk_kecamatan": "040209  ",
+        "induk_kabupaten": "Kab. Sleman",
+        "kode_wilayah_induk_kabupaten": "040200  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 09:03:58",
+        "sekolah_id_enkrip": "EB2A9DB07E0A62956CC7                                                                                "
+    }
+]

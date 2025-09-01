@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KHAIRUL TALIABU",
+        "sekolah_id": "69DAAC53-A76F-482D-9F44-254C8921E077",
+        "npsn": 70012215,
+        "jumlah_kirim": 5,
+        "ptk": 0,
+        "pegawai": 1,
+        "pd": 10,
+        "rombel": 5,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Taliabu Barat",
+        "kode_wilayah_induk_kecamatan": "270101  ",
+        "induk_kabupaten": "Kab. Pulau Taliabu",
+        "kode_wilayah_induk_kabupaten": "270100  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "01 Aug 2025 19:29:34",
+        "sekolah_id_enkrip": "7E1AA3A84C4B50FE6D65                                                                                "
+    }
+]

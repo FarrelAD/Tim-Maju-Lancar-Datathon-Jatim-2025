@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 3 DENPASAR",
+        "sekolah_id": "C95D6397-6AC3-450D-BF9C-37C85EA5264B",
+        "npsn": 69995757,
+        "jumlah_kirim": 61,
+        "ptk": 35,
+        "pegawai": 12,
+        "pd": 264,
+        "rombel": 67,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Denpasar Utara",
+        "kode_wilayah_induk_kecamatan": "226004  ",
+        "induk_kabupaten": "Kota Denpasar",
+        "kode_wilayah_induk_kabupaten": "226000  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 22:59:10",
+        "sekolah_id_enkrip": "8A8582F0F206F0C51263                                                                                "
+    }
+]

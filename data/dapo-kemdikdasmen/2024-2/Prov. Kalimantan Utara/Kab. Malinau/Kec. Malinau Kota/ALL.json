@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MALINAU",
+        "sekolah_id": "50F0B97E-30F5-E011-8F14-8FE3876D918B",
+        "npsn": 69786905,
+        "jumlah_kirim": 17,
+        "ptk": 16,
+        "pegawai": 8,
+        "pd": 133,
+        "rombel": 42,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Malinau Kota",
+        "kode_wilayah_induk_kecamatan": "340104  ",
+        "induk_kabupaten": "Kab. Malinau",
+        "kode_wilayah_induk_kabupaten": "340100  ",
+        "induk_provinsi": "Prov. Kalimantan Utara",
+        "kode_wilayah_induk_provinsi": "340000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 20:22:12",
+        "sekolah_id_enkrip": "D9AA92667AC3F2FD853C                                                                                "
+    }
+]

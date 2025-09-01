@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SUHARJO PUTRA",
+        "sekolah_id": "00CB195D-2EF5-E011-8744-57D934BF3AD8",
+        "npsn": 20404237,
+        "jumlah_kirim": 12,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 43,
+        "rombel": 12,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Patuk",
+        "kode_wilayah_induk_kecamatan": "040311  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 09:15:50",
+        "sekolah_id_enkrip": "A841E398D27083B74830                                                                                "
+    }
+]

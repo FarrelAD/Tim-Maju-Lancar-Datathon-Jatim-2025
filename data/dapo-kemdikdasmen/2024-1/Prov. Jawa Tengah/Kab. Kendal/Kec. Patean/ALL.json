@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUTIARA BANGSA",
+        "sekolah_id": "B81D6979-2B56-4A67-BDFC-8E8D47A90469",
+        "npsn": 69849604,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 43,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Patean",
+        "kode_wilayah_induk_kecamatan": "032404  ",
+        "induk_kabupaten": "Kab. Kendal",
+        "kode_wilayah_induk_kabupaten": "032400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 12:04:28",
+        "sekolah_id_enkrip": "950E89C9B0072765BA3F                                                                                "
+    }
+]

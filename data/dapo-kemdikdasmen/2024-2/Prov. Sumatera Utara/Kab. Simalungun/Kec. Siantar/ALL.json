@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Simalungun",
+        "sekolah_id": "80BA04DB-2EF5-E011-9562-376293EBFB8A",
+        "npsn": 10202319,
+        "jumlah_kirim": 10,
+        "ptk": 15,
+        "pegawai": 3,
+        "pd": 56,
+        "rombel": 17,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siantar",
+        "kode_wilayah_induk_kecamatan": "070416  ",
+        "induk_kabupaten": "Kab. Simalungun",
+        "kode_wilayah_induk_kabupaten": "070400  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 07:44:41",
+        "sekolah_id_enkrip": "331462F9293770DD30DC                                                                                "
+    }
+]

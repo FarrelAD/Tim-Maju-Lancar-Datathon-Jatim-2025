@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 2 GUNUNG KIDUL",
+        "sekolah_id": "C04A905C-2EF5-E011-A6BE-DF631B007F1A",
+        "npsn": 20402216,
+        "jumlah_kirim": 17,
+        "ptk": 16,
+        "pegawai": 7,
+        "pd": 89,
+        "rombel": 28,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Playen",
+        "kode_wilayah_induk_kecamatan": "040310  ",
+        "induk_kabupaten": "Kab. Gunungkidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 04:55:11",
+        "sekolah_id_enkrip": "D9928E46A857A85D8B83                                                                                "
+    }
+]

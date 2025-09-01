@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SEKOLAH KHUSUS ASY SYIFA",
+        "sekolah_id": "A008D2BB-F2EF-E111-AC79-47F9E6DD19E6",
+        "npsn": 20616071,
+        "jumlah_kirim": 12,
+        "ptk": 7,
+        "pegawai": 7,
+        "pd": 11,
+        "rombel": 11,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Larangan",
+        "kode_wilayah_induk_kecamatan": "286107  ",
+        "induk_kabupaten": "Kota Tangerang",
+        "kode_wilayah_induk_kabupaten": "286100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "08 Aug 2025 01:48:27",
+        "sekolah_id_enkrip": "1DE7077020EAEB9FE715                                                                                "
+    }
+]

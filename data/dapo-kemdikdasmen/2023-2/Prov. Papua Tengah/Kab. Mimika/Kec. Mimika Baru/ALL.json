@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SEKOLAH LUAR BIASA (SLB) NEGERI MIMIKA",
+        "sekolah_id": "E3A85EB3-0E0D-4EF4-8993-A49D50F9A0E3",
+        "npsn": 69929961,
+        "jumlah_kirim": 7,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 131,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mimika Baru",
+        "kode_wilayah_induk_kecamatan": "360401  ",
+        "induk_kabupaten": "Kab. Mimika",
+        "kode_wilayah_induk_kabupaten": "360400  ",
+        "induk_provinsi": "Prov. Papua Tengah",
+        "kode_wilayah_induk_provinsi": "360000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 15:25:41",
+        "sekolah_id_enkrip": "E991CDCBC7AC5B9D04CD                                                                                "
+    }
+]

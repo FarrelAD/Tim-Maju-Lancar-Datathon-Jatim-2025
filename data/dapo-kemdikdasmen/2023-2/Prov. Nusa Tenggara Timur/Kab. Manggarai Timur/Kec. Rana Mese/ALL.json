@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ST. ELISABETH PUPUNG",
+        "sekolah_id": "1364EFED-2ACE-4C76-9176-75F312D4EDB1",
+        "npsn": 70015996,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 5,
+        "pd": 11,
+        "rombel": 2,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rana Mese",
+        "kode_wilayah_induk_kecamatan": "242007  ",
+        "induk_kabupaten": "Kab. Manggarai Timur",
+        "kode_wilayah_induk_kabupaten": "242000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Jun 2025 11:47:42",
+        "sekolah_id_enkrip": "9D6687B6BC6E521D2195                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ANGKOLA TIMUR",
+        "sekolah_id": "571DA57D-A1FE-4BE9-B442-A43850FF4E9A",
+        "npsn": 69762642,
+        "jumlah_kirim": 18,
+        "ptk": 23,
+        "pegawai": 2,
+        "pd": 88,
+        "rombel": 27,
+        "jml_rk": 26,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Angkola Timur",
+        "kode_wilayah_induk_kecamatan": "071033  ",
+        "induk_kabupaten": "Kab. Tapanuli Selatan",
+        "kode_wilayah_induk_kabupaten": "071000  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 20:12:09",
+        "sekolah_id_enkrip": "E5F2461923262C969969                                                                                "
+    }
+]

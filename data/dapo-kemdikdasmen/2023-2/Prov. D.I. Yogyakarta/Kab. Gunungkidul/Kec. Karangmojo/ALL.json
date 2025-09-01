@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BAKTI PUTRA",
+        "sekolah_id": "70611A5D-2EF5-E011-8576-FFB5C2769122",
+        "npsn": 20402048,
+        "jumlah_kirim": 3,
+        "ptk": 6,
+        "pegawai": 5,
+        "pd": 54,
+        "rombel": 12,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karangmojo",
+        "kode_wilayah_induk_kecamatan": "040308  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 05:33:22",
+        "sekolah_id_enkrip": "02B0265283AC3DA9F663                                                                                "
+    }
+]

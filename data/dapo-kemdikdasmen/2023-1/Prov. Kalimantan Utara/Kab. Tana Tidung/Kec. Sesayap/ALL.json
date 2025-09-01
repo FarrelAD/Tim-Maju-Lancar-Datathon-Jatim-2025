@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TANA TIDUNG",
+        "sekolah_id": "4FA4F3BA-FFAD-4C2B-A051-33FD2E8E8A0F",
+        "npsn": 69990863,
+        "jumlah_kirim": 10,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 34,
+        "rombel": 17,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sesayap",
+        "kode_wilayah_induk_kecamatan": "340301  ",
+        "induk_kabupaten": "Kab. Tana Tidung",
+        "kode_wilayah_induk_kabupaten": "340300  ",
+        "induk_provinsi": "Prov. Kalimantan Utara",
+        "kode_wilayah_induk_provinsi": "340000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 06:44:28",
+        "sekolah_id_enkrip": "4DD181B976FD934698C0                                                                                "
+    }
+]

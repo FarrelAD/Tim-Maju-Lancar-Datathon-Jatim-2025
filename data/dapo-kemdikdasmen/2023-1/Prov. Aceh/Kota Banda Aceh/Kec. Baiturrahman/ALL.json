@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BANDA ACEH",
+        "sekolah_id": "80F0D990-2EF5-E011-96B3-09A69D353C16",
+        "npsn": 10105344,
+        "jumlah_kirim": 39,
+        "ptk": 39,
+        "pegawai": 9,
+        "pd": 122,
+        "rombel": 49,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Baiturrahman",
+        "kode_wilayah_induk_kecamatan": "066102  ",
+        "induk_kabupaten": "Kota Banda Aceh",
+        "kode_wilayah_induk_kabupaten": "066100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 16:32:53",
+        "sekolah_id_enkrip": "B49234CA9357EB487A0B                                                                                "
+    }
+]

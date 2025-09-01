@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PERMATA KASIH-FW",
+        "sekolah_id": "AD6E7A85-F189-48C3-92DF-21F14DD39A3C",
+        "npsn": 69935854,
+        "jumlah_kirim": 10,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 10,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Mojo",
+        "kode_wilayah_induk_kecamatan": "051310  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 19:58:35",
+        "sekolah_id_enkrip": "D91582322A1CF7035E36                                                                                "
+    }
+]

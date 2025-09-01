@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PENAJAM PASER UTARA",
+        "sekolah_id": "40002E17-A4FE-E111-B920-1D7203991D53",
+        "npsn": 69786877,
+        "jumlah_kirim": 26,
+        "ptk": 19,
+        "pegawai": 5,
+        "pd": 118,
+        "rombel": 34,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Penajam",
+        "kode_wilayah_induk_kecamatan": "161103  ",
+        "induk_kabupaten": "Kab. Penajam Paser Utara",
+        "kode_wilayah_induk_kabupaten": "161100  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 10:28:48",
+        "sekolah_id_enkrip": "99EB1A4C3795FFE1E52C                                                                                "
+    }
+]

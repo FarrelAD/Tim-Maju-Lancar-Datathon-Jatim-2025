@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUNGGAWA",
+        "sekolah_id": "2A6D6FF8-3840-4A79-B7FA-63F0DF215772",
+        "npsn": 70025766,
+        "jumlah_kirim": 6,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 19,
+        "rombel": 8,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pattallassang",
+        "kode_wilayah_induk_kecamatan": "190408  ",
+        "induk_kabupaten": "Kab. Takalar",
+        "kode_wilayah_induk_kabupaten": "190400  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 21:30:30",
+        "sekolah_id_enkrip": "2E59A771C122FE1427CD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 MATARAM",
+        "sekolah_id": "70D31E74-CF89-E111-A7E0-D9BD0980D8F7",
+        "npsn": 50219891,
+        "jumlah_kirim": 80,
+        "ptk": 31,
+        "pegawai": 8,
+        "pd": 189,
+        "rombel": 49,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ampenan",
+        "kode_wilayah_induk_kecamatan": "236001  ",
+        "induk_kabupaten": "Kota Mataram",
+        "kode_wilayah_induk_kabupaten": "236000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 07:27:17",
+        "sekolah_id_enkrip": "2AA8A5B533288D7E7C0F                                                                                "
+    }
+]

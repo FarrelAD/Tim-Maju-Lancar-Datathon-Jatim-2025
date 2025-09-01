@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SAMPANG",
+        "sekolah_id": "80F43A7B-8D18-E111-9FE2-7F15D0038D98",
+        "npsn": 20528506,
+        "jumlah_kirim": 19,
+        "ptk": 11,
+        "pegawai": 4,
+        "pd": 58,
+        "rombel": 15,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sampang",
+        "kode_wilayah_induk_kecamatan": "052703  ",
+        "induk_kabupaten": "Kab. Sampang",
+        "kode_wilayah_induk_kabupaten": "052700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 10:27:40",
+        "sekolah_id_enkrip": "7613ECF4888194A8652A                                                                                "
+    }
+]

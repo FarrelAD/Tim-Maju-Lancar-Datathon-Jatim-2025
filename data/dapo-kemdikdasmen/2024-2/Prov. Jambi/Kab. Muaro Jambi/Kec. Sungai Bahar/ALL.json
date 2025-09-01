@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SUNGAI BAHAR MUARO JAMBI",
+        "sekolah_id": "6D0E7670-1654-4AF3-A059-9CC09C594ABA",
+        "npsn": 70040399,
+        "jumlah_kirim": 8,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 26,
+        "rombel": 11,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sungai Bahar",
+        "kode_wilayah_induk_kecamatan": "100707  ",
+        "induk_kabupaten": "Kab.  Muaro Jambi",
+        "kode_wilayah_induk_kabupaten": "100700  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 17:27:41",
+        "sekolah_id_enkrip": "1303362CD784703EB5C1                                                                                "
+    }
+]

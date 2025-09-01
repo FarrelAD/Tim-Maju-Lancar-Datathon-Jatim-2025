@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-GHIFARI",
+        "sekolah_id": "80DBE415-2CF5-E011-B7ED-F5BF38A2AEFB",
+        "npsn": 20258238,
+        "jumlah_kirim": 4,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 50,
+        "rombel": 28,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Leuwigoong",
+        "kode_wilayah_induk_kecamatan": "021125  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 11:39:05",
+        "sekolah_id_enkrip": "835010D0E0A253142AA6                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB QURIDHA ILMI",
+        "sekolah_id": "1D47660C-CAAA-4C30-9EE3-7234BB423183",
+        "npsn": 69786781,
+        "jumlah_kirim": 43,
+        "ptk": 5,
+        "pegawai": 5,
+        "pd": 33,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tapalang",
+        "kode_wilayah_induk_kecamatan": "330101  ",
+        "induk_kabupaten": "Kab. Mamuju",
+        "kode_wilayah_induk_kabupaten": "330100  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 11:39:15",
+        "sekolah_id_enkrip": "01712EF843CC2CC0A036                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PEDULI KASIH",
+        "sekolah_id": "CC87B4FC-D84F-4473-AFD3-4A580A56D80F",
+        "npsn": 70050820,
+        "jumlah_kirim": 5,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 4,
+        "rombel": 1,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Naga Wutung",
+        "kode_wilayah_induk_kecamatan": "241401  ",
+        "induk_kabupaten": "Kab. Lembata",
+        "kode_wilayah_induk_kabupaten": "241400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 13:57:27",
+        "sekolah_id_enkrip": "B617F8F1717308FC4541                                                                                "
+    }
+]

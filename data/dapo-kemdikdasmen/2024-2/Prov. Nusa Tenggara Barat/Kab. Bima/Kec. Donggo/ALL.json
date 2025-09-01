@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB WIHDATUL UMMAH DONGGO",
+        "sekolah_id": "A0B2DEE7-023C-E111-BF9E-45D45EB3A4BC",
+        "npsn": 50221918,
+        "jumlah_kirim": 37,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 28,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Donggo",
+        "kode_wilayah_induk_kecamatan": "230608  ",
+        "induk_kabupaten": "Kab. Bima",
+        "kode_wilayah_induk_kabupaten": "230600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 21:53:29",
+        "sekolah_id_enkrip": "63C565D4DCEE808B009C                                                                                "
+    }
+]

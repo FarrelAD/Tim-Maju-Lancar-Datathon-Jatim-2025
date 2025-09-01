@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KERABAT MULIA",
+        "sekolah_id": "40E6DCF5-8B18-E111-93FE-4FEA97722C78",
+        "npsn": 20554305,
+        "jumlah_kirim": 7,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 90,
+        "rombel": 21,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kepung",
+        "kode_wilayah_induk_kecamatan": "051304  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 15:22:23",
+        "sekolah_id_enkrip": "C98E71E7CDF23C4AA127                                                                                "
+    }
+]

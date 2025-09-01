@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD HUU",
+        "sekolah_id": "C045DEE7-023C-E111-A98F-CDBE59CD2834",
+        "npsn": 50220393,
+        "jumlah_kirim": 15,
+        "ptk": 8,
+        "pegawai": 5,
+        "pd": 78,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Hu`u",
+        "kode_wilayah_induk_kecamatan": "230501  ",
+        "induk_kabupaten": "Kab. Dompu",
+        "kode_wilayah_induk_kabupaten": "230500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 08:59:53",
+        "sekolah_id_enkrip": "FB79D27B8244A57F5453                                                                                "
+    }
+]

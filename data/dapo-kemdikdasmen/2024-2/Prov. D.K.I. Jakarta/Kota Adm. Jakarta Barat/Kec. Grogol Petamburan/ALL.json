@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA ASIH",
+        "sekolah_id": "00E4A796-2BF5-E011-8F86-2FB9C09F390D",
+        "npsn": 20110240,
+        "jumlah_kirim": 17,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 14,
+        "rombel": 5,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Grogol Petamburan",
+        "kode_wilayah_induk_kecamatan": "016204  ",
+        "induk_kabupaten": "Kota Adm. Jakarta Barat",
+        "kode_wilayah_induk_kabupaten": "016200  ",
+        "induk_provinsi": "Prov. D.K.I. Jakarta",
+        "kode_wilayah_induk_provinsi": "010000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 07:53:32",
+        "sekolah_id_enkrip": "2552FC3837C99A2C3AF8                                                                                "
+    }
+]

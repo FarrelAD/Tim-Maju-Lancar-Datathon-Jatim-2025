@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPAB MARE",
+        "sekolah_id": "0E338D2A-5F26-47BD-98CA-6A8438741F09",
+        "npsn": 69786782,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 27,
+        "rombel": 9,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mare",
+        "kode_wilayah_induk_kecamatan": "190708  ",
+        "induk_kabupaten": "Kab. Bone",
+        "kode_wilayah_induk_kabupaten": "190700  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 19:41:53",
+        "sekolah_id_enkrip": "F16875D6A37F124A1E60                                                                                "
+    }
+]

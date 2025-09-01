@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N KAB CIREBON",
+        "sekolah_id": "A00AD915-2CF5-E011-9C31-B39608D1C44A",
+        "npsn": 20267751,
+        "jumlah_kirim": 22,
+        "ptk": 34,
+        "pegawai": 14,
+        "pd": 248,
+        "rombel": 56,
+        "jml_rk": 27,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lemah Abang",
+        "kode_wilayah_induk_kecamatan": "021706  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Jul 2025 07:55:59",
+        "sekolah_id_enkrip": "E3F2D880B117AE45A7C2                                                                                "
+    }
+]

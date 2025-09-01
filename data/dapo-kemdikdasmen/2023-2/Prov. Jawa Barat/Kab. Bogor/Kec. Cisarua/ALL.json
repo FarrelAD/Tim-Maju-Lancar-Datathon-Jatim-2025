@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-FAJRI",
+        "sekolah_id": "EDD4CC8B-B4C9-489A-8949-80FEC35B5233",
+        "npsn": 69733313,
+        "jumlah_kirim": 7,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 34,
+        "rombel": 18,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cisarua",
+        "kode_wilayah_induk_kecamatan": "020511  ",
+        "induk_kabupaten": "Kab. Bogor",
+        "kode_wilayah_induk_kabupaten": "020500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 14:07:15",
+        "sekolah_id_enkrip": "9DF70D64E0383D7DFCC0                                                                                "
+    }
+]

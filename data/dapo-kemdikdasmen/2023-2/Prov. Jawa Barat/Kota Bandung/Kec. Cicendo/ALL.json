@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI A PAJAJARAN",
+        "sekolah_id": "A0519206-2DF5-E011-A0D1-FB34052C5970",
+        "npsn": 20280593,
+        "jumlah_kirim": 15,
+        "ptk": 40,
+        "pegawai": 13,
+        "pd": 78,
+        "rombel": 35,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Cicendo",
+        "kode_wilayah_induk_kecamatan": "026019  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 23:35:44",
+        "sekolah_id_enkrip": "756E907DA55C2D5535CD                                                                                "
+    }
+]

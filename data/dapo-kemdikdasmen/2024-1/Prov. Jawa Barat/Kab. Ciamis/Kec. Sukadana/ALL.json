@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA MULYA CAKRAWATI",
+        "sekolah_id": "E014E115-2CF5-E011-BEB1-4B8D508EC411",
+        "npsn": 20270896,
+        "jumlah_kirim": 13,
+        "ptk": 0,
+        "pegawai": 1,
+        "pd": 18,
+        "rombel": 10,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukadana",
+        "kode_wilayah_induk_kecamatan": "021420  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 05:30:05",
+        "sekolah_id_enkrip": "1D0809026E4724F0D149                                                                                "
+    }
+]

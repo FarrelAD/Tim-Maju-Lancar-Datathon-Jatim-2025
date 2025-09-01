@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MOLINO",
+        "sekolah_id": "90825AD1-61DA-E111-9AE5-15CC67E3EA7B",
+        "npsn": 40205592,
+        "jumlah_kirim": 30,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 31,
+        "rombel": 7,
+        "jml_rk": 23,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Petasia",
+        "kode_wilayah_induk_kecamatan": "181207  ",
+        "induk_kabupaten": "Kab. Morowali Utara",
+        "kode_wilayah_induk_kabupaten": "181200  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 13:10:13",
+        "sekolah_id_enkrip": "A17938F573EA838D0388                                                                                "
+    }
+]

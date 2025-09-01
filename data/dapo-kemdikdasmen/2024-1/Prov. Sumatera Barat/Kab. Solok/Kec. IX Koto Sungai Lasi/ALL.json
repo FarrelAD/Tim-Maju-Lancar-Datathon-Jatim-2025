@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB HAROPANA HILMI",
+        "sekolah_id": "EC1D5705-4E30-4241-AF0B-E2760EF27C59",
+        "npsn": 70051291,
+        "jumlah_kirim": 13,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 8,
+        "rombel": 3,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. IX Koto Sungai Lasi",
+        "kode_wilayah_induk_kecamatan": "080411  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 08:59:23",
+        "sekolah_id_enkrip": "32145EC60DF9058432FC                                                                                "
+    }
+]

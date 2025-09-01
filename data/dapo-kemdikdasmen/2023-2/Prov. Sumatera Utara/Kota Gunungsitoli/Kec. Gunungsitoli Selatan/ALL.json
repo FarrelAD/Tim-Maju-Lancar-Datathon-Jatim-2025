@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI GUNUNGSITOLI",
+        "sekolah_id": "B0E6DB95-7FF9-E111-A946-E9E7F75618FF",
+        "npsn": 10258957,
+        "jumlah_kirim": 33,
+        "ptk": 15,
+        "pegawai": 3,
+        "pd": 74,
+        "rombel": 29,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gunungsitoli Selatan",
+        "kode_wilayah_induk_kecamatan": "076704  ",
+        "induk_kabupaten": "Kota Gunungsitoli",
+        "kode_wilayah_induk_kabupaten": "076700  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 21:16:08",
+        "sekolah_id_enkrip": "E4CDF701E0D57914C89B                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUHAMMADIYAH KERTOSONO",
+        "sekolah_id": "EC80F327-A1B7-4227-B9C0-53F10F01B907",
+        "npsn": 20539810,
+        "jumlah_kirim": 18,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 77,
+        "rombel": 13,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kertosono",
+        "kode_wilayah_induk_kecamatan": "051409  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 15:58:24",
+        "sekolah_id_enkrip": "38D41714D06EE906C03E                                                                                "
+    }
+]

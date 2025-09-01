@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPAC NAN SABARIS",
+        "sekolah_id": "60F2EE79-2FF5-E011-8B88-4566B2957117",
+        "npsn": 10301780,
+        "jumlah_kirim": 8,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 31,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Nan Sabaris",
+        "kode_wilayah_induk_kecamatan": "080504  ",
+        "induk_kabupaten": "Kab. Padang Pariaman",
+        "kode_wilayah_induk_kabupaten": "080500  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 20:24:32",
+        "sekolah_id_enkrip": "BF2CEFDB6B32A3DF7337                                                                                "
+    }
+]

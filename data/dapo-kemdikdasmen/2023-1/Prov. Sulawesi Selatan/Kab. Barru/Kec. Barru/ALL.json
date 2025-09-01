@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BARRU",
+        "sekolah_id": "901956BC-0D26-E111-9B7A-6B8A110C43D7",
+        "npsn": 40302151,
+        "jumlah_kirim": 21,
+        "ptk": 24,
+        "pegawai": 7,
+        "pd": 61,
+        "rombel": 25,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Barru",
+        "kode_wilayah_induk_kecamatan": "190603  ",
+        "induk_kabupaten": "Kab. Barru",
+        "kode_wilayah_induk_kabupaten": "190600  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "17 Aug 2025 01:36:29",
+        "sekolah_id_enkrip": "7C958C50FF6B348041A8                                                                                "
+    }
+]

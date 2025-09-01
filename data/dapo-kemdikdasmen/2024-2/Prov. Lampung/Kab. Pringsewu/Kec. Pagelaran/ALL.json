@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA BAKTI",
+        "sekolah_id": "14E7AA0E-C429-4E7D-98DE-B1ECF7624ECE",
+        "npsn": 70035375,
+        "jumlah_kirim": 12,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 47,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pagelaran",
+        "kode_wilayah_induk_kecamatan": "121001  ",
+        "induk_kabupaten": "Kab. Pringsewu",
+        "kode_wilayah_induk_kabupaten": "121000  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 21:05:27",
+        "sekolah_id_enkrip": "32724224A7B9105D346A                                                                                "
+    }
+]

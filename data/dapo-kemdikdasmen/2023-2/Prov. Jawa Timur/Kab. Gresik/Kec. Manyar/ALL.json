@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL FALAH",
+        "sekolah_id": "20B8D9F5-8B18-E111-A43C-2BFD654A25C2",
+        "npsn": 20536981,
+        "jumlah_kirim": 5,
+        "ptk": 16,
+        "pegawai": 1,
+        "pd": 101,
+        "rombel": 20,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Manyar",
+        "kode_wilayah_induk_kecamatan": "050111  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 08:28:56",
+        "sekolah_id_enkrip": "708318F1DFC1D158BB12                                                                                "
+    }
+]

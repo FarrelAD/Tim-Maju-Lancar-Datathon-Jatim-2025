@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS Nurul Bayan",
+        "sekolah_id": "9040C01E-86FE-E111-A7E7-25D7240EDB90",
+        "npsn": 50205346,
+        "jumlah_kirim": 13,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 27,
+        "rombel": 9,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bayan",
+        "kode_wilayah_induk_kecamatan": "230803  ",
+        "induk_kabupaten": "Kab. Lombok Utara",
+        "kode_wilayah_induk_kabupaten": "230800  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 12:07:28",
+        "sekolah_id_enkrip": "5D6986211E21D01DB8C3                                                                                "
+    }
+]

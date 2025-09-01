@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Sukalarang",
+        "sekolah_id": "A1724034-8AAE-4599-9877-973039298C6A",
+        "npsn": 69962157,
+        "jumlah_kirim": 7,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 46,
+        "rombel": 10,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukalarang",
+        "kode_wilayah_induk_kecamatan": "020642  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 17:02:14",
+        "sekolah_id_enkrip": "EB065431BF06C005EE38                                                                                "
+    }
+]

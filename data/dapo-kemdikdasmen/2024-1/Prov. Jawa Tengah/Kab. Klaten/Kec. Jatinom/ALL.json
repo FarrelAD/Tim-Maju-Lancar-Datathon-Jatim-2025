@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Putro Oyotasih Jatinom",
+        "sekolah_id": "009E0203-C6FC-E111-9391-3FEC176AA7DA",
+        "npsn": 20354546,
+        "jumlah_kirim": 4,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 81,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jatinom",
+        "kode_wilayah_induk_kecamatan": "031022  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 23:55:36",
+        "sekolah_id_enkrip": "77588AF1896C09F8C9D9                                                                                "
+    }
+]

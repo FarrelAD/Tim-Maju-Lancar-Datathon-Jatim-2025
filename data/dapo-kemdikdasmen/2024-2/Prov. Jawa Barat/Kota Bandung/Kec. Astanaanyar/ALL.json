@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC BANDUNG RAYA",
+        "sekolah_id": "70B52CC3-F43C-E211-B25D-FD0F7CE45168",
+        "npsn": 20219873,
+        "jumlah_kirim": 4,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 38,
+        "rombel": 13,
+        "jml_rk": 5,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Astanaanyar",
+        "kode_wilayah_induk_kecamatan": "026005  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Apr 2025 16:44:09",
+        "sekolah_id_enkrip": "3D43AE9FDE2D7DCA3187                                                                                "
+    }
+]

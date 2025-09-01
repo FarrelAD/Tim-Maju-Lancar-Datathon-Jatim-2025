@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KARUNIA 99",
+        "sekolah_id": "30EF427E-8D18-E111-A78C-832D16550CB0",
+        "npsn": 20532449,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 11,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pakal",
+        "kode_wilayah_induk_kecamatan": "056030  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 13:14:25",
+        "sekolah_id_enkrip": "80BD23129961B30D9DD9                                                                                "
+    }
+]

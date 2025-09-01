@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SELATPANJANG",
+        "sekolah_id": "E06D0996-89FC-E111-B9A4-2FE0554EE652",
+        "npsn": 10495472,
+        "jumlah_kirim": 21,
+        "ptk": 19,
+        "pegawai": 5,
+        "pd": 81,
+        "rombel": 28,
+        "jml_rk": 24,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tebing Tinggi",
+        "kode_wilayah_induk_kecamatan": "091504  ",
+        "induk_kabupaten": "Kab. Kepulauan Meranti",
+        "kode_wilayah_induk_kabupaten": "091500  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:58:37",
+        "sekolah_id_enkrip": "7129476F1569C859E6F7                                                                                "
+    }
+]

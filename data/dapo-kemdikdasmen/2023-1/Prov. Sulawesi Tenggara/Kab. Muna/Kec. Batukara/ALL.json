@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SINAR JAYA",
+        "sekolah_id": "83D70BAA-F733-4AFF-974E-D08084E9FACA",
+        "npsn": 70036420,
+        "jumlah_kirim": 17,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 10,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Batukara",
+        "kode_wilayah_induk_kecamatan": "200238  ",
+        "induk_kabupaten": "Kab. Muna",
+        "kode_wilayah_induk_kabupaten": "200200  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 19:37:50",
+        "sekolah_id_enkrip": "4C4284FE4C8C50C06E91                                                                                "
+    }
+]

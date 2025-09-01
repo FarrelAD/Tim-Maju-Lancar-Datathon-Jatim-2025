@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA HARAPAN",
+        "sekolah_id": "006FFBEC-E7FE-E111-83C8-87D48C650498",
+        "npsn": 20570654,
+        "jumlah_kirim": 15,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 54,
+        "rombel": 11,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pucuk",
+        "kode_wilayah_induk_kecamatan": "050711  ",
+        "induk_kabupaten": "Kab. Lamongan",
+        "kode_wilayah_induk_kabupaten": "050700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 14:38:24",
+        "sekolah_id_enkrip": "961195A9FE00F3F06B59                                                                                "
+    }
+]

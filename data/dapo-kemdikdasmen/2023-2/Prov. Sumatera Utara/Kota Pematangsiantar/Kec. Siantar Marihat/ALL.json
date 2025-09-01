@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Pematangsiantar",
+        "sekolah_id": "A09204DB-2EF5-E011-ACBB-7944D291B686",
+        "npsn": 10260535,
+        "jumlah_kirim": 63,
+        "ptk": 19,
+        "pegawai": 5,
+        "pd": 167,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siantar Marihat",
+        "kode_wilayah_induk_kecamatan": "076301  ",
+        "induk_kabupaten": "Kota Pematangsiantar",
+        "kode_wilayah_induk_kabupaten": "076300  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 08:28:07",
+        "sekolah_id_enkrip": "0C21124BD91611CEB397                                                                                "
+    }
+]

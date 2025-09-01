@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SALAKAN",
+        "sekolah_id": "80910CBF-F3FE-E111-8F5C-4B61796B6598",
+        "npsn": 40206704,
+        "jumlah_kirim": 25,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 57,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tinangkung",
+        "kode_wilayah_induk_kecamatan": "180104  ",
+        "induk_kabupaten": "Kab. Banggai Kepulauan",
+        "kode_wilayah_induk_kabupaten": "180100  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 20:43:26",
+        "sekolah_id_enkrip": "4026C694E7E3D33AACE7                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Biromaru ",
+        "sekolah_id": "D0B56DA2-C1CC-E111-BE3E-2FB7C073BE29",
+        "npsn": 40203810,
+        "jumlah_kirim": 33,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 41,
+        "rombel": 12,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sigibiromaru",
+        "kode_wilayah_induk_kecamatan": "181013  ",
+        "induk_kabupaten": "Kab. Sigi",
+        "kode_wilayah_induk_kabupaten": "181000  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 00:01:22",
+        "sekolah_id_enkrip": "4BE64858A7B0446916FB                                                                                "
+    }
+]

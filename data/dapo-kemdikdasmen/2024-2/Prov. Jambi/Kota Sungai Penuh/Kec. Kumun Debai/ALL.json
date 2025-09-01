@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Sungai Penuh",
+        "sekolah_id": "B0018963-0C26-E111-9C6D-F9276D3DC392",
+        "npsn": 10505449,
+        "jumlah_kirim": 21,
+        "ptk": 27,
+        "pegawai": 11,
+        "pd": 178,
+        "rombel": 26,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kumun Debai",
+        "kode_wilayah_induk_kecamatan": "106105  ",
+        "induk_kabupaten": "Kota Sungai Penuh",
+        "kode_wilayah_induk_kabupaten": "106100  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 14:51:22",
+        "sekolah_id_enkrip": "7733FD61DB883B52BDE5                                                                                "
+    }
+]

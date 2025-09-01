@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-A YAPENTRA",
+        "sekolah_id": "D0CFDDF6-4643-E211-B31F-D3C3437130A3",
+        "npsn": 10261252,
+        "jumlah_kirim": 6,
+        "ptk": 11,
+        "pegawai": 3,
+        "pd": 44,
+        "rombel": 12,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Morawa",
+        "kode_wilayah_induk_kecamatan": "070120  ",
+        "induk_kabupaten": "Kab. Deli Serdang",
+        "kode_wilayah_induk_kabupaten": "070100  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 14:50:15",
+        "sekolah_id_enkrip": "9307624881FC95D8913D                                                                                "
+    }
+]

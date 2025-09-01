@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 KARANGASEM",
+        "sekolah_id": "6065D315-31F5-E011-97F5-D72C15F6EE21",
+        "npsn": 50103358,
+        "jumlah_kirim": 16,
+        "ptk": 31,
+        "pegawai": 17,
+        "pd": 175,
+        "rombel": 50,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Karangasem",
+        "kode_wilayah_induk_kecamatan": "220804  ",
+        "induk_kabupaten": "Kab. Karang Asem",
+        "kode_wilayah_induk_kabupaten": "220800  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 02:10:24",
+        "sekolah_id_enkrip": "4A8520D73E8E2C94C9E8                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 SAMBIROTO NGAWI",
+        "sekolah_id": "509BE1F1-8B18-E111-BB31-F9EFE6426536",
+        "npsn": 20508668,
+        "jumlah_kirim": 28,
+        "ptk": 16,
+        "pegawai": 2,
+        "pd": 91,
+        "rombel": 15,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Padas",
+        "kode_wilayah_induk_kecamatan": "050910  ",
+        "induk_kabupaten": "Kab. Ngawi",
+        "kode_wilayah_induk_kabupaten": "050900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "05 Aug 2025 20:49:36",
+        "sekolah_id_enkrip": "35C6E0BA830C3F0D15A6                                                                                "
+    }
+]

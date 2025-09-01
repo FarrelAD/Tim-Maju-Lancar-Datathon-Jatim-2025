@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh Bhakti Putra",
+        "sekolah_id": "6E145B71-8FA3-492F-87A4-CAC517EF3CCD",
+        "npsn": 69990473,
+        "jumlah_kirim": 13,
+        "ptk": 5,
+        "pegawai": 6,
+        "pd": 49,
+        "rombel": 14,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cisauk",
+        "kode_wilayah_induk_kecamatan": "280324  ",
+        "induk_kabupaten": "Kab. Tangerang",
+        "kode_wilayah_induk_kabupaten": "280300  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 23:15:33",
+        "sekolah_id_enkrip": "031EEBFE3E279977B449                                                                                "
+    }
+]

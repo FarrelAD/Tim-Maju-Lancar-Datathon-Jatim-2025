@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri WEDA",
+        "sekolah_id": "F701898A-124D-402E-ACFF-F41B57975436",
+        "npsn": 69962452,
+        "jumlah_kirim": 22,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 34,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Weda",
+        "kode_wilayah_induk_kecamatan": "270203  ",
+        "induk_kabupaten": "Kab. Halmahera Tengah",
+        "kode_wilayah_induk_kabupaten": "270200  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:12:37",
+        "sekolah_id_enkrip": "021178DB329D0EDEFF22                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KEMALA BHAYANGKARI",
+        "sekolah_id": "9065F279-2FF5-E011-A2E7-F15850254D7D",
+        "npsn": 10308284,
+        "jumlah_kirim": 12,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 96,
+        "rombel": 16,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lintau Buo Utara",
+        "kode_wilayah_induk_kecamatan": "080713  ",
+        "induk_kabupaten": "Kab. Tanah Datar",
+        "kode_wilayah_induk_kabupaten": "080700  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 19:20:15",
+        "sekolah_id_enkrip": "28CBEB5AAAA8601CB74D                                                                                "
+    }
+]

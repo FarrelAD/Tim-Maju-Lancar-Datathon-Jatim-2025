@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPALB KARANGPANDAN",
+        "sekolah_id": "60CC9CB4-EFAA-E111-A717-9D5D115F3637",
+        "npsn": 20312190,
+        "jumlah_kirim": 11,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 56,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karangpandan",
+        "kode_wilayah_induk_kecamatan": "031308  ",
+        "induk_kabupaten": "Kab. Karanganyar",
+        "kode_wilayah_induk_kabupaten": "031300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 18:40:08",
+        "sekolah_id_enkrip": "C094FBB2E61A2DF81FFA                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS BANGSA",
+        "sekolah_id": "2E4BBF59-2FE1-46BF-AE91-CF8FE32A9357",
+        "npsn": 69899994,
+        "jumlah_kirim": 19,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 81,
+        "rombel": 19,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kanigoro",
+        "kode_wilayah_induk_kecamatan": "051508  ",
+        "induk_kabupaten": "Kab. Blitar",
+        "kode_wilayah_induk_kabupaten": "051500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 15:53:22",
+        "sekolah_id_enkrip": "1E9EEB892FA771834C16                                                                                "
+    }
+]

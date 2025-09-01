@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TANJUNG REDEB",
+        "sekolah_id": "407A2A7E-30F5-E011-BDA0-45EB9A886E7C",
+        "npsn": 30405468,
+        "jumlah_kirim": 23,
+        "ptk": 24,
+        "pegawai": 11,
+        "pd": 217,
+        "rombel": 52,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Redeb",
+        "kode_wilayah_induk_kecamatan": "160306  ",
+        "induk_kabupaten": "Kab. Berau",
+        "kode_wilayah_induk_kabupaten": "160300  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 06:32:45",
+        "sekolah_id_enkrip": "8090D351B5B49E2767E5                                                                                "
+    }
+]

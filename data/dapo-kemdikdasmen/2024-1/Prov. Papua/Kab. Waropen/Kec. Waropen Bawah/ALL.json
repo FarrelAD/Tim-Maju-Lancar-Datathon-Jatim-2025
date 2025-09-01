@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI URI -WAREN",
+        "sekolah_id": "3D744724-1A8C-4C68-B725-A5579F6FADC8",
+        "npsn": 69967022,
+        "jumlah_kirim": 16,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 28,
+        "rombel": 9,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Waropen Bawah",
+        "kode_wilayah_induk_kecamatan": "252601  ",
+        "induk_kabupaten": "Kab. Waropen",
+        "kode_wilayah_induk_kabupaten": "252600  ",
+        "induk_provinsi": "Prov. Papua",
+        "kode_wilayah_induk_provinsi": "250000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 03:02:15",
+        "sekolah_id_enkrip": "5BBF61F73FF92D3D0554                                                                                "
+    }
+]

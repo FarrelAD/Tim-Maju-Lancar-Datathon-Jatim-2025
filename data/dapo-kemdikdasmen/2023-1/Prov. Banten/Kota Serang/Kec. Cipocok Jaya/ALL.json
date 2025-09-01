@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH PANDITA",
+        "sekolah_id": "94EDF576-384B-4F58-9B3B-641E4067F018",
+        "npsn": 69786961,
+        "jumlah_kirim": 5,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 33,
+        "rombel": 10,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cipocok Jaya",
+        "kode_wilayah_induk_kecamatan": "286201  ",
+        "induk_kabupaten": "Kota Serang",
+        "kode_wilayah_induk_kabupaten": "286200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 09:51:04",
+        "sekolah_id_enkrip": "FFDDEAAFC557B1116298                                                                                "
+    }
+]

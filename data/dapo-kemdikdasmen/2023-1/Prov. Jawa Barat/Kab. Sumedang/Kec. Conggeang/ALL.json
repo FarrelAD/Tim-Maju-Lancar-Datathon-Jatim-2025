@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS Amalia Bhakti",
+        "sekolah_id": "305FDD15-2CF5-E011-8CFA-9F1B3B7D63FB",
+        "npsn": 20235537,
+        "jumlah_kirim": 33,
+        "ptk": 11,
+        "pegawai": 0,
+        "pd": 50,
+        "rombel": 13,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Conggeang",
+        "kode_wilayah_induk_kecamatan": "021014  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 14:30:01",
+        "sekolah_id_enkrip": "0D6FEB1DFE8532E0BB0B                                                                                "
+    }
+]

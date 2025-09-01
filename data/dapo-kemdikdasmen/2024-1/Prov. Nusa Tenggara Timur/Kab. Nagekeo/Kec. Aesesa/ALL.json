@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MALARUMA - MBAY",
+        "sekolah_id": "8229E426-07B1-4ABF-AA4F-B562CEFF5E52",
+        "npsn": 69774954,
+        "jumlah_kirim": 20,
+        "ptk": 11,
+        "pegawai": 12,
+        "pd": 61,
+        "rombel": 23,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Aesesa",
+        "kode_wilayah_induk_kecamatan": "241701  ",
+        "induk_kabupaten": "Kab. Nagekeo",
+        "kode_wilayah_induk_kabupaten": "241700  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 21:48:15",
+        "sekolah_id_enkrip": "B2E278F1ABF94A8B37CE                                                                                "
+    }
+]

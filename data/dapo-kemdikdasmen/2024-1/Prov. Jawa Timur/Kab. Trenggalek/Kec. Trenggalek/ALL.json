@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KEMALA BHAYANGKARI 1",
+        "sekolah_id": "209E08BA-8C18-E111-BF6C-AF6A90A5CDDD",
+        "npsn": 20539003,
+        "jumlah_kirim": 27,
+        "ptk": 17,
+        "pegawai": 1,
+        "pd": 180,
+        "rombel": 22,
+        "jml_rk": 25,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Trenggalek",
+        "kode_wilayah_induk_kecamatan": "051711  ",
+        "induk_kabupaten": "Kab. Trenggalek",
+        "kode_wilayah_induk_kabupaten": "051700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 03:09:17",
+        "sekolah_id_enkrip": "FBCB4D1C295638E770CF                                                                                "
+    }
+]

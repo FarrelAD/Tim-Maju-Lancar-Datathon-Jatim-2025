@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BUDI MULIA CILILIN",
+        "sekolah_id": "F038E415-2CF5-E011-94B9-A3201F8622F8",
+        "npsn": 20267656,
+        "jumlah_kirim": 15,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 99,
+        "rombel": 14,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cililin",
+        "kode_wilayah_induk_kecamatan": "022304  ",
+        "induk_kabupaten": "Kab. Bandung Barat",
+        "kode_wilayah_induk_kabupaten": "022300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "15 Aug 2025 16:11:46",
+        "sekolah_id_enkrip": "71CE19F4BCE0963EA124                                                                                "
+    }
+]

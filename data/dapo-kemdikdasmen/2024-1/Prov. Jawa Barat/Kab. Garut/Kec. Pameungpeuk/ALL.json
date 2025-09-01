@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B/C NURUL INSANI",
+        "sekolah_id": "E05EE515-2CF5-E011-82C9-5BBA58AC27F9",
+        "npsn": 20258197,
+        "jumlah_kirim": 30,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 69,
+        "rombel": 23,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pameungpeuk",
+        "kode_wilayah_induk_kecamatan": "021107  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 16:14:41",
+        "sekolah_id_enkrip": "3FA32282838FDC982557                                                                                "
+    }
+]

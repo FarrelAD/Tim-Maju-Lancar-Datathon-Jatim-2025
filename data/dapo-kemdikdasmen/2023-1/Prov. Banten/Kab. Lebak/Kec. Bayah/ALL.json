@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH SATYA GIRI",
+        "sekolah_id": "85CF0080-76C8-4FC5-9FBB-62CE2169CC6A",
+        "npsn": 69942559,
+        "jumlah_kirim": 5,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 17,
+        "rombel": 7,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bayah",
+        "kode_wilayah_induk_kecamatan": "280203  ",
+        "induk_kabupaten": "Kab. Lebak",
+        "kode_wilayah_induk_kabupaten": "280200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "07B59DD468516593A8CD                                                                                "
+    }
+]

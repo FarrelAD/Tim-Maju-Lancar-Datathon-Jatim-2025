@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI GONDANG TULUNGAGUNG",
+        "sekolah_id": "C077CC13-BBFD-E111-92C7-8FBD3BF7ABEF",
+        "npsn": 20515478,
+        "jumlah_kirim": 18,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gondang",
+        "kode_wilayah_induk_kecamatan": "051617  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 06:33:22",
+        "sekolah_id_enkrip": "FC2BFDFFCC505B22722D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MERLUNG",
+        "sekolah_id": "F01FEE62-0824-E211-BF10-D1FFD58DC932",
+        "npsn": 10507383,
+        "jumlah_kirim": 13,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 38,
+        "rombel": 23,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Merlung",
+        "kode_wilayah_induk_kecamatan": "100405  ",
+        "induk_kabupaten": "Kab. Tanjung Jabung Barat",
+        "kode_wilayah_induk_kabupaten": "100400  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "07 May 2025 11:12:42",
+        "sekolah_id_enkrip": "D083400611E42AB94F2C                                                                                "
+    }
+]

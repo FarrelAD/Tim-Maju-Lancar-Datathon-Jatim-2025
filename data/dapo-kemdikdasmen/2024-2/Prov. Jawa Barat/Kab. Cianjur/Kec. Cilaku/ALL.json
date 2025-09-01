@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-AZAMI",
+        "sekolah_id": "C2592E05-5415-4353-9980-89DA9AF6885F",
+        "npsn": 20267754,
+        "jumlah_kirim": 9,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 42,
+        "rombel": 17,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cilaku",
+        "kode_wilayah_induk_kecamatan": "020714  ",
+        "induk_kabupaten": "Kab. Cianjur",
+        "kode_wilayah_induk_kabupaten": "020700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 04:13:15",
+        "sekolah_id_enkrip": "00783BFA509DD9D67A49                                                                                "
+    }
+]

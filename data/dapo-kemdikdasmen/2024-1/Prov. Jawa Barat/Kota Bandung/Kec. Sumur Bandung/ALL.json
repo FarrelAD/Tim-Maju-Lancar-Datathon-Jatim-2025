@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI CICENDO",
+        "sekolah_id": "B091D428-0C3D-E211-9CA9-BFA7F3DEDE3E",
+        "npsn": 26017001,
+        "jumlah_kirim": 32,
+        "ptk": 49,
+        "pegawai": 14,
+        "pd": 135,
+        "rombel": 46,
+        "jml_rk": 13,
+        "jml_lab": 2,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sumur Bandung",
+        "kode_wilayah_induk_kecamatan": "026017  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 10:55:42",
+        "sekolah_id_enkrip": "C42B2CA0CEB4793CE11A                                                                                "
+    }
+]

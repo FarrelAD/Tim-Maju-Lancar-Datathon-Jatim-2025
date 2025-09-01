@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KALIREJO BOJONEGORO",
+        "sekolah_id": "507223F1-8B18-E111-B62D-27D3425697F6",
+        "npsn": 20504474,
+        "jumlah_kirim": 24,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 54,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ngraho",
+        "kode_wilayah_induk_kecamatan": "050502  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 07:52:31",
+        "sekolah_id_enkrip": "038DAFBB83F200D01223                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SUKOHARJO",
+        "sekolah_id": "802A66E5-A6AF-E111-AE3F-9FAC46ADC2E9",
+        "npsn": 20310492,
+        "jumlah_kirim": 29,
+        "ptk": 48,
+        "pegawai": 9,
+        "pd": 190,
+        "rombel": 53,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gatak",
+        "kode_wilayah_induk_kecamatan": "031111  ",
+        "induk_kabupaten": "Kab. Sukoharjo",
+        "kode_wilayah_induk_kabupaten": "031100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:56:27",
+        "sekolah_id_enkrip": "1085E10573AE3A4B5C5C                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Permata Aceh",
+        "sekolah_id": "C1A445AF-2BCB-4507-B690-281567321A2D",
+        "npsn": 70045439,
+        "jumlah_kirim": 9,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 11,
+        "rombel": 3,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Glumpang Tiga",
+        "kode_wilayah_induk_kecamatan": "060207  ",
+        "induk_kabupaten": "Kab. Pidie",
+        "kode_wilayah_induk_kabupaten": "060200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 16:38:43",
+        "sekolah_id_enkrip": "5CBEA4B831C1B4F8C51B                                                                                "
+    }
+]

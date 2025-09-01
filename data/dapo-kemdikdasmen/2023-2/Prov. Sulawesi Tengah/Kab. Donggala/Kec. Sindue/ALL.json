@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI DALAKA",
+        "sekolah_id": "D0F4121A-9E0E-E211-8854-A32EA4A03AB8",
+        "npsn": 58570063,
+        "jumlah_kirim": 25,
+        "ptk": 17,
+        "pegawai": 6,
+        "pd": 46,
+        "rombel": 20,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sindue",
+        "kode_wilayah_induk_kecamatan": "180210  ",
+        "induk_kabupaten": "Kab. Donggala",
+        "kode_wilayah_induk_kabupaten": "180200  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 07:48:14",
+        "sekolah_id_enkrip": "30DEBCF362784E011456                                                                                "
+    }
+]

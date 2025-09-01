@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Sekolah Khusus Istiqomah Samarinda",
+        "sekolah_id": "A4E8A112-9CCA-4498-B610-6F8E2922F4C5",
+        "npsn": 69967615,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 25,
+        "rombel": 9,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sambutan",
+        "kode_wilayah_induk_kecamatan": "166007  ",
+        "induk_kabupaten": "Kota Samarinda",
+        "kode_wilayah_induk_kabupaten": "166000  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 17:49:52",
+        "sekolah_id_enkrip": "D45220677A7EF2DCB724                                                                                "
+    }
+]

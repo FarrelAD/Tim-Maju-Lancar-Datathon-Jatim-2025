@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N REMBANG",
+        "sekolah_id": "E05D5657-2DF5-E011-9066-396C5889AF34",
+        "npsn": 20315824,
+        "jumlah_kirim": 8,
+        "ptk": 20,
+        "pegawai": 2,
+        "pd": 178,
+        "rombel": 29,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rembang",
+        "kode_wilayah_induk_kecamatan": "031710  ",
+        "induk_kabupaten": "Kab. Rembang",
+        "kode_wilayah_induk_kabupaten": "031700  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 05:16:38",
+        "sekolah_id_enkrip": "7889FE562847E95E89F8                                                                                "
+    }
+]

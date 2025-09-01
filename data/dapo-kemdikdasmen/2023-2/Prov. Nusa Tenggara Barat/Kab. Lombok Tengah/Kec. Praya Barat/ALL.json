@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 2 Lombok Tengah",
+        "sekolah_id": "6DE37289-677B-4683-8186-4FBF4532D1AC",
+        "npsn": 69862396,
+        "jumlah_kirim": 11,
+        "ptk": 23,
+        "pegawai": 7,
+        "pd": 82,
+        "rombel": 31,
+        "jml_rk": 23,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Praya Barat",
+        "kode_wilayah_induk_kecamatan": "230201  ",
+        "induk_kabupaten": "Kab. Lombok Tengah",
+        "kode_wilayah_induk_kabupaten": "230200  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 07:44:50",
+        "sekolah_id_enkrip": "1B0AE251EEC0BD301288                                                                                "
+    }
+]

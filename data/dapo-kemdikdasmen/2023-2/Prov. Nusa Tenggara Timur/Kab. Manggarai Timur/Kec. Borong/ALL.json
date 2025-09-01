@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BORONG",
+        "sekolah_id": "D0A328B6-367A-E211-B8F8-1B29A9A6F095",
+        "npsn": 50309365,
+        "jumlah_kirim": 47,
+        "ptk": 15,
+        "pegawai": 9,
+        "pd": 61,
+        "rombel": 14,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Borong",
+        "kode_wilayah_induk_kecamatan": "242006  ",
+        "induk_kabupaten": "Kab. Manggarai Timur",
+        "kode_wilayah_induk_kabupaten": "242000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 08:07:17",
+        "sekolah_id_enkrip": "2568CEE1A5531F46B60D                                                                                "
+    }
+]

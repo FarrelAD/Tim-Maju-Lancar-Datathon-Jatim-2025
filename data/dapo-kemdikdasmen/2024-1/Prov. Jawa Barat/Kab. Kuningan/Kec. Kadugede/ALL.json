@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KADUGEDE",
+        "sekolah_id": "A0BDE115-2CF5-E011-8B9E-3B30C57C661A",
+        "npsn": 20258191,
+        "jumlah_kirim": 18,
+        "ptk": 7,
+        "pegawai": 4,
+        "pd": 52,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kadugede",
+        "kode_wilayah_induk_kecamatan": "021502  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 13:26:58",
+        "sekolah_id_enkrip": "1A50397AA2E604FA661D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SANTA LUSIA",
+        "sekolah_id": "A09F04DB-2EF5-E011-B849-897435E36BA6",
+        "npsn": 10212423,
+        "jumlah_kirim": 13,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 70,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siantar Marimbun",
+        "kode_wilayah_induk_kecamatan": "076307  ",
+        "induk_kabupaten": "Kota Pematangsiantar",
+        "kode_wilayah_induk_kabupaten": "076300  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 14:35:21",
+        "sekolah_id_enkrip": "388BA6F0B299CD007585                                                                                "
+    }
+]

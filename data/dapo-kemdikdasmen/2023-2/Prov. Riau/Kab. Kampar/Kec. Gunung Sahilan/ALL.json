@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN GUNUNG SAHILAN",
+        "sekolah_id": "10996B37-B552-4F86-9ECF-70D64B25B4B5",
+        "npsn": 69964320,
+        "jumlah_kirim": 21,
+        "ptk": 17,
+        "pegawai": 4,
+        "pd": 77,
+        "rombel": 29,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gunung Sahilan",
+        "kode_wilayah_induk_kecamatan": "090121  ",
+        "induk_kabupaten": "Kab. Kampar",
+        "kode_wilayah_induk_kabupaten": "090100  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 19:12:20",
+        "sekolah_id_enkrip": "B4C6A35A2A9833CEBBA3                                                                                "
+    }
+]

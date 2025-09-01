@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LANGGUR",
+        "sekolah_id": "00A0BBE8-E0FE-E111-B333-D7CB763A7B2E",
+        "npsn": 69862415,
+        "jumlah_kirim": 113,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 74,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kei Kecil",
+        "kode_wilayah_induk_kecamatan": "210201  ",
+        "induk_kabupaten": "Kab. Maluku Tenggara",
+        "kode_wilayah_induk_kabupaten": "210200  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 05:35:30",
+        "sekolah_id_enkrip": "8B3348273A5497B95DEB                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB WATI PURNAMA",
+        "sekolah_id": "19F5D35C-1F37-443E-A629-E8359472E1B0",
+        "npsn": 70044469,
+        "jumlah_kirim": 15,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 27,
+        "rombel": 10,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Dumai Barat",
+        "kode_wilayah_induk_kecamatan": "096202  ",
+        "induk_kabupaten": "Kota Dumai",
+        "kode_wilayah_induk_kabupaten": "096200  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 21:31:51",
+        "sekolah_id_enkrip": "EB5C4A267DE278257B96                                                                                "
+    }
+]

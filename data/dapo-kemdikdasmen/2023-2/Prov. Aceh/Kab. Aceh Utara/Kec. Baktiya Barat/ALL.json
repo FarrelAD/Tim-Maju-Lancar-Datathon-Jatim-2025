@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Swasta Harapan Bangsa Aceh Utara",
+        "sekolah_id": "2B13DD0F-BE05-48F8-A86E-8B23BED84346",
+        "npsn": 70042989,
+        "jumlah_kirim": 28,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 18,
+        "rombel": 2,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Baktiya Barat",
+        "kode_wilayah_induk_kecamatan": "060317  ",
+        "induk_kabupaten": "Kab. Aceh Utara",
+        "kode_wilayah_induk_kabupaten": "060300  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 20:15:39",
+        "sekolah_id_enkrip": "C6B4C61084F3065EF8B1                                                                                "
+    }
+]

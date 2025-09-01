@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YRBB",
+        "sekolah_id": "E013A025-103D-E211-8725-B7295DA7B677",
+        "npsn": 20280600,
+        "jumlah_kirim": 15,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 23,
+        "rombel": 8,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ujungberung",
+        "kode_wilayah_induk_kecamatan": "026012  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 21:45:58",
+        "sekolah_id_enkrip": "C06CE1E53353E73D1605                                                                                "
+    }
+]

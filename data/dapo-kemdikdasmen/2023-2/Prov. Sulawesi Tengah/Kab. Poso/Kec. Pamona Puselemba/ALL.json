@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C HOSANA TENTENA",
+        "sekolah_id": "20952F59-013C-E111-93E3-F934741AC87B",
+        "npsn": 40201334,
+        "jumlah_kirim": 6,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 10,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pamona Puselemba",
+        "kode_wilayah_induk_kecamatan": "180322  ",
+        "induk_kabupaten": "Kab. Poso",
+        "kode_wilayah_induk_kabupaten": "180300  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 03:48:47",
+        "sekolah_id_enkrip": "7B7A2AB32C93D6D68E7A                                                                                "
+    }
+]

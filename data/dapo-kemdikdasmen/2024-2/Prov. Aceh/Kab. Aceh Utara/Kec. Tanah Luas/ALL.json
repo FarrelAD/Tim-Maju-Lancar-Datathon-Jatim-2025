@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BLANG JRUEN",
+        "sekolah_id": "648C9524-EA6C-4293-A964-0E56FD034D5D",
+        "npsn": 69954207,
+        "jumlah_kirim": 10,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 49,
+        "rombel": 10,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tanah Luas",
+        "kode_wilayah_induk_kecamatan": "060312  ",
+        "induk_kabupaten": "Kab. Aceh Utara",
+        "kode_wilayah_induk_kabupaten": "060300  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 23:42:52",
+        "sekolah_id_enkrip": "57A98C49020880830F2C                                                                                "
+    }
+]

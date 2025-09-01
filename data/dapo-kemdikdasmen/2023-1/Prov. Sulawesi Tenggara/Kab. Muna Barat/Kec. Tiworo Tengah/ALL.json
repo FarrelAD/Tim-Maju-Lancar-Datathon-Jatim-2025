@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS HASTA MANUNGGAL",
+        "sekolah_id": "F02D50C9-30F5-E011-8E5B-E79D5B49A75A",
+        "npsn": 40402949,
+        "jumlah_kirim": 10,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 13,
+        "rombel": 7,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tiworo Tengah",
+        "kode_wilayah_induk_kecamatan": "201307  ",
+        "induk_kabupaten": "Kab. Muna Barat",
+        "kode_wilayah_induk_kabupaten": "201300  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Mar 2025 10:34:06",
+        "sekolah_id_enkrip": "DE3EBF774A4781B6F265                                                                                "
+    }
+]

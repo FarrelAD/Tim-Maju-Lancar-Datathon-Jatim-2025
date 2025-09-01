@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOMODO",
+        "sekolah_id": "4519634E-C77B-4288-A610-661985A2E649",
+        "npsn": 69946742,
+        "jumlah_kirim": 14,
+        "ptk": 19,
+        "pegawai": 4,
+        "pd": 68,
+        "rombel": 10,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Komodo",
+        "kode_wilayah_induk_kecamatan": "241601  ",
+        "induk_kabupaten": "Kab. Manggarai Barat",
+        "kode_wilayah_induk_kabupaten": "241600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 09:30:15",
+        "sekolah_id_enkrip": "F0121403CD6A74534085                                                                                "
+    }
+]

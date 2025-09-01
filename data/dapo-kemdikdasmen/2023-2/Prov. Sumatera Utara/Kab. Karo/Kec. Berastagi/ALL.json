@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Berastagi",
+        "sekolah_id": "40E6F3D7-2EF5-E011-BD50-E1CA1E6A6A0E",
+        "npsn": 10202097,
+        "jumlah_kirim": 2,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 57,
+        "rombel": 23,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Berastagi",
+        "kode_wilayah_induk_kecamatan": "070310  ",
+        "induk_kabupaten": "Kab. Karo",
+        "kode_wilayah_induk_kabupaten": "070300  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 12:15:12",
+        "sekolah_id_enkrip": "E77BFF4D97CA92FE9131                                                                                "
+    }
+]

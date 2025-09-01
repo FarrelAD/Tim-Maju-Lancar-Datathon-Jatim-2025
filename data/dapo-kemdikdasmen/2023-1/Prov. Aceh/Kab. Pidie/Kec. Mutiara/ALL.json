@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PIDIE",
+        "sekolah_id": "D2FBEA5F-9222-48F5-886B-96DDB8AD9BFC",
+        "npsn": 69831498,
+        "jumlah_kirim": 78,
+        "ptk": 37,
+        "pegawai": 7,
+        "pd": 175,
+        "rombel": 28,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mutiara",
+        "kode_wilayah_induk_kecamatan": "060208  ",
+        "induk_kabupaten": "Kab. Pidie",
+        "kode_wilayah_induk_kabupaten": "060200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 11:25:19",
+        "sekolah_id_enkrip": "07554950B880BB40A674                                                                                "
+    }
+]

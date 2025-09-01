@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH ELOK ASRI",
+        "sekolah_id": "A5872F7E-0211-4ED0-A43D-B56F122BCF9E",
+        "npsn": 69906888,
+        "jumlah_kirim": 13,
+        "ptk": 5,
+        "pegawai": 6,
+        "pd": 42,
+        "rombel": 15,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kasemen",
+        "kode_wilayah_induk_kecamatan": "286203  ",
+        "induk_kabupaten": "Kota Serang",
+        "kode_wilayah_induk_kabupaten": "286200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 09:40:28",
+        "sekolah_id_enkrip": "5D418223C75ABE65505B                                                                                "
+    }
+]

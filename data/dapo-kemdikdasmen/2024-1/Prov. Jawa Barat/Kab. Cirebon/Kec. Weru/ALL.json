@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Mutiara Hati Bangsa",
+        "sekolah_id": "A29D3B24-15BD-4DA3-B585-C9B868282D96",
+        "npsn": 69945389,
+        "jumlah_kirim": 17,
+        "ptk": 16,
+        "pegawai": 2,
+        "pd": 121,
+        "rombel": 20,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Weru",
+        "kode_wilayah_induk_kecamatan": "021715  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 09:02:31",
+        "sekolah_id_enkrip": "00F43399D67A67D146B3                                                                                "
+    }
+]

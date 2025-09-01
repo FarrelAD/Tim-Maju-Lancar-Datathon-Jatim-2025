@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Sentra PK-LK SLB Negeri Kabupaten Gorontalo",
+        "sekolah_id": "80076ED0-6585-E111-865D-6758F0AA31CB",
+        "npsn": 40500679,
+        "jumlah_kirim": 15,
+        "ptk": 33,
+        "pegawai": 5,
+        "pd": 120,
+        "rombel": 47,
+        "jml_rk": 12,
+        "jml_lab": 3,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Limboto Barat",
+        "kode_wilayah_induk_kecamatan": "300219  ",
+        "induk_kabupaten": "Kab. Gorontalo",
+        "kode_wilayah_induk_kabupaten": "300200  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 06:12:38",
+        "sekolah_id_enkrip": "A8ACE8E55F75E94B03FF                                                                                "
+    }
+]

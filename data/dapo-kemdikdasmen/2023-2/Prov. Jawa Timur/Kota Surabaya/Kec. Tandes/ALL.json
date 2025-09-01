@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Amaryllis",
+        "sekolah_id": "F511501F-E39C-4328-A4C3-CE31FE5EBDB0",
+        "npsn": 70014494,
+        "jumlah_kirim": 1,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 15,
+        "rombel": 7,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tandes",
+        "kode_wilayah_induk_kecamatan": "056015  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "15 May 2025 21:54:35",
+        "sekolah_id_enkrip": "B1F78700D5CC2CA871F8                                                                                "
+    }
+]

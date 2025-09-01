@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KEMALA BHAYANGKARI 2 GRESIK",
+        "sekolah_id": "80E2D6F5-8B18-E111-991C-E5BC7D080A2D",
+        "npsn": 20536980,
+        "jumlah_kirim": 10,
+        "ptk": 27,
+        "pegawai": 1,
+        "pd": 140,
+        "rombel": 32,
+        "jml_rk": 29,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kebomas",
+        "kode_wilayah_induk_kecamatan": "050109  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 03:24:05",
+        "sekolah_id_enkrip": "E9D3E5379105005E9021                                                                                "
+    }
+]

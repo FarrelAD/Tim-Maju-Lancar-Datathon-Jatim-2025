@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C PELITA ILMU",
+        "sekolah_id": "A028BF5B-2DF5-E011-9C0B-E32E6B1F648C",
+        "npsn": 20331941,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 60,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Semarang Utara",
+        "kode_wilayah_induk_kecamatan": "036313  ",
+        "induk_kabupaten": "Kota Semarang",
+        "kode_wilayah_induk_kabupaten": "036300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 14:46:44",
+        "sekolah_id_enkrip": "2CC4F05FA0E0D4FDBF30                                                                                "
+    }
+]

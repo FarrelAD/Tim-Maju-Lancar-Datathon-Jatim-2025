@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB OPI JAKABARING",
+        "sekolah_id": "729A4FEA-F285-4654-B1AE-B2E0A5586C4A",
+        "npsn": 69976730,
+        "jumlah_kirim": 8,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 69,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rambutan",
+        "kode_wilayah_induk_kecamatan": "110709  ",
+        "induk_kabupaten": "Kab. Banyuasin",
+        "kode_wilayah_induk_kabupaten": "110700  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 08:40:32",
+        "sekolah_id_enkrip": "A3F21BB8B4862CA0DF8A                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN INHU",
+        "sekolah_id": "A00880C8-2FF5-E011-AB26-C94E388EFE85",
+        "npsn": 10401408,
+        "jumlah_kirim": 38,
+        "ptk": 20,
+        "pegawai": 5,
+        "pd": 143,
+        "rombel": 27,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pasir Penyu",
+        "kode_wilayah_induk_kecamatan": "090402  ",
+        "induk_kabupaten": "Kab. Indragiri Hulu",
+        "kode_wilayah_induk_kabupaten": "090400  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:46:43",
+        "sekolah_id_enkrip": "AAA43A5DCDE4D6809367                                                                                "
+    }
+]

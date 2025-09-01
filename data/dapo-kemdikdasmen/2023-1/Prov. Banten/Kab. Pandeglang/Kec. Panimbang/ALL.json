@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH DARUL BAYAN",
+        "sekolah_id": "70C8C31C-76F2-E111-BA8B-433975141F75",
+        "npsn": 20600472,
+        "jumlah_kirim": 14,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 39,
+        "rombel": 20,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Panimbang",
+        "kode_wilayah_induk_kecamatan": "280106  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 16:39:42",
+        "sekolah_id_enkrip": "B2CC0B3B0DBBCDCE72F2                                                                                "
+    }
+]

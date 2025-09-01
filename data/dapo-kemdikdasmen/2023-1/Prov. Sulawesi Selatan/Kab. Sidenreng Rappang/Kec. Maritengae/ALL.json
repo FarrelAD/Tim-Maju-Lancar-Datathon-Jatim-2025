@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SIDRAP",
+        "sekolah_id": "50D3FB69-84FE-E111-BBF0-632E4FBA8E9E",
+        "npsn": 69863284,
+        "jumlah_kirim": 22,
+        "ptk": 20,
+        "pegawai": 2,
+        "pd": 58,
+        "rombel": 22,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Maritengae",
+        "kode_wilayah_induk_kecamatan": "191506  ",
+        "induk_kabupaten": "Kab. Sidenreng Rappang",
+        "kode_wilayah_induk_kabupaten": "191500  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 09:10:00",
+        "sekolah_id_enkrip": "3EB4AD1BD8F9A5791340                                                                                "
+    }
+]

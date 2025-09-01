@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 PALOPO",
+        "sekolah_id": "7016C3C1-0D26-E111-AC0E-1B7308392AE5",
+        "npsn": 40307882,
+        "jumlah_kirim": 21,
+        "ptk": 28,
+        "pegawai": 4,
+        "pd": 123,
+        "rombel": 37,
+        "jml_rk": 32,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bara",
+        "kode_wilayah_induk_kecamatan": "196209  ",
+        "induk_kabupaten": "Kota Palopo",
+        "kode_wilayah_induk_kabupaten": "196200  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Aug 2025 04:26:37",
+        "sekolah_id_enkrip": "73EE38FCE6078791E9FB                                                                                "
+    }
+]

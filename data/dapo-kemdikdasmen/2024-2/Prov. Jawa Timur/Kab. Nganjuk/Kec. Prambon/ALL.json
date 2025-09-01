@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL IKHLAS",
+        "sekolah_id": "4698D174-EEC3-4DAA-8A18-49F67BF1FBE1",
+        "npsn": 70007597,
+        "jumlah_kirim": 50,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 44,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Prambon",
+        "kode_wilayah_induk_kecamatan": "051407  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 22:25:42",
+        "sekolah_id_enkrip": "2F43EFE44FC3CE6CC9D5                                                                                "
+    }
+]

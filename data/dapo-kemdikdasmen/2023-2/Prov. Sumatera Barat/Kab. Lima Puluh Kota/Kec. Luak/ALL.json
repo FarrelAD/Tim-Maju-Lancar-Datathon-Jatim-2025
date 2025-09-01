@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DARMA BAKTI INSANI",
+        "sekolah_id": "67D7C00E-E0C3-4C79-8A15-6298BFC8245D",
+        "npsn": 70001471,
+        "jumlah_kirim": 12,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 22,
+        "rombel": 9,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Luak",
+        "kode_wilayah_induk_kecamatan": "080302  ",
+        "induk_kabupaten": "Kab. Lima Puluh Koto",
+        "kode_wilayah_induk_kabupaten": "080300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "02 Aug 2025 10:30:42",
+        "sekolah_id_enkrip": "4A2DA0C6D1BD83FE6E68                                                                                "
+    }
+]

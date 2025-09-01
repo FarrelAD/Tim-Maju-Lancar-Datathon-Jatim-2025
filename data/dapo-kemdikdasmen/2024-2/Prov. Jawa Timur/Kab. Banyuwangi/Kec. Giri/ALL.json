@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BANYUWANGI",
+        "sekolah_id": "A8A92A7B-F262-47D2-A6E5-46A62D0DA742",
+        "npsn": 20571463,
+        "jumlah_kirim": 29,
+        "ptk": 55,
+        "pegawai": 14,
+        "pd": 177,
+        "rombel": 63,
+        "jml_rk": 4,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Giri",
+        "kode_wilayah_induk_kecamatan": "052519  ",
+        "induk_kabupaten": "Kab. Banyuwangi",
+        "kode_wilayah_induk_kabupaten": "052500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 21:02:45",
+        "sekolah_id_enkrip": "7FAD5F6A512CCF371DB0                                                                                "
+    }
+]

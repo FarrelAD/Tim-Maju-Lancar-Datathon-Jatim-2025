@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Pinangsori",
+        "sekolah_id": "402D2643-E7FE-E111-9C63-41EDC8CA6116",
+        "npsn": 10260549,
+        "jumlah_kirim": 14,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 36,
+        "rombel": 7,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pinang Sori",
+        "kode_wilayah_induk_kecamatan": "070916  ",
+        "induk_kabupaten": "Kab. Tapanuli Tengah",
+        "kode_wilayah_induk_kabupaten": "070900  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 08:10:00",
+        "sekolah_id_enkrip": "1141BC4DE0D39F3FD474                                                                                "
+    }
+]

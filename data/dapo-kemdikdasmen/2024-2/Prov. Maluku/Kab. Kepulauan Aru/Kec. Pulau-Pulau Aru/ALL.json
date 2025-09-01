@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ARU",
+        "sekolah_id": "F61F87EA-08DF-471D-873F-269DE11D08A2",
+        "npsn": 69984910,
+        "jumlah_kirim": 28,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 37,
+        "rombel": 10,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pulau-Pulau Aru",
+        "kode_wilayah_induk_kecamatan": "210701  ",
+        "induk_kabupaten": "Kab. Kepulauan Aru",
+        "kode_wilayah_induk_kabupaten": "210700  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 05:48:35",
+        "sekolah_id_enkrip": "824BAF3BE8B402D6F29B                                                                                "
+    }
+]

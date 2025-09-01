@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ",
+        "sekolah_id": "78531230-CD68-4F4F-93A0-BDADA573D148",
+        "npsn": 69919890,
+        "jumlah_kirim": 18,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 129,
+        "rombel": 15,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bumiaji",
+        "kode_wilayah_induk_kecamatan": "056803  ",
+        "induk_kabupaten": "Kota Batu",
+        "kode_wilayah_induk_kabupaten": "056800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 11:49:48",
+        "sekolah_id_enkrip": "DF2BCD6BC354CAAE5C82                                                                                "
+    }
+]

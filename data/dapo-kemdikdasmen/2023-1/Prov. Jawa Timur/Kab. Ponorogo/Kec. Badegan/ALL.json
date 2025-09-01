@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BADEGAN PONOROGO",
+        "sekolah_id": "40DD49F0-8B18-E111-B963-952BB5D6EEF6",
+        "npsn": 20510368,
+        "jumlah_kirim": 10,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 79,
+        "rombel": 14,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Badegan",
+        "kode_wilayah_induk_kecamatan": "051114  ",
+        "induk_kabupaten": "Kab. Ponorogo",
+        "kode_wilayah_induk_kabupaten": "051100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 07:07:48",
+        "sekolah_id_enkrip": "CFFB11A4848C06875C3A                                                                                "
+    }
+]

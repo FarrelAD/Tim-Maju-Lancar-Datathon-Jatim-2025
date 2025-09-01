@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Terpadu Bireuen",
+        "sekolah_id": "5120333E-315B-408C-AE03-20BCE2E56958",
+        "npsn": 69964066,
+        "jumlah_kirim": 25,
+        "ptk": 29,
+        "pegawai": 11,
+        "pd": 94,
+        "rombel": 27,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Peusangan",
+        "kode_wilayah_induk_kecamatan": "061208  ",
+        "induk_kabupaten": "Kab. Bireuen",
+        "kode_wilayah_induk_kabupaten": "061200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 21:07:14",
+        "sekolah_id_enkrip": "C6C07AC5DD9A249E9C5E                                                                                "
+    }
+]

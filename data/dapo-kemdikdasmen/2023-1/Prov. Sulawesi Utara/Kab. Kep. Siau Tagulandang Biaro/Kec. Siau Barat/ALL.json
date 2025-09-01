@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KASIH SOPHIA",
+        "sekolah_id": "DA18AF0D-5C6E-4408-9232-F5AE001F705D",
+        "npsn": 70039788,
+        "jumlah_kirim": 18,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 9,
+        "rombel": 5,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siau Barat",
+        "kode_wilayah_induk_kecamatan": "170902  ",
+        "induk_kabupaten": "Kab. Kepulauan Siau Tagulandang Biaro",
+        "kode_wilayah_induk_kabupaten": "170900  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 17:55:49",
+        "sekolah_id_enkrip": "F0F198C065B91CE53DD9                                                                                "
+    }
+]

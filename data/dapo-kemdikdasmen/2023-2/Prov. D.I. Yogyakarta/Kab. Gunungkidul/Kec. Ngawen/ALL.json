@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SUTA WIJAYA",
+        "sekolah_id": "10BE195D-2EF5-E011-8D2A-07DD625C9EAC",
+        "npsn": 20404238,
+        "jumlah_kirim": 24,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 46,
+        "rombel": 12,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngawen",
+        "kode_wilayah_induk_kecamatan": "040314  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 09:13:35",
+        "sekolah_id_enkrip": "2A599E05B23F2D596A91                                                                                "
+    }
+]

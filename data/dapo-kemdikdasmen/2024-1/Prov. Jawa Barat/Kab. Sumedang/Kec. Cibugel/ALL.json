@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB LINGGA DHARMA",
+        "sekolah_id": "6014DD15-2CF5-E011-907C-4DB1A264F7D6",
+        "npsn": 20234021,
+        "jumlah_kirim": 17,
+        "ptk": 2,
+        "pegawai": 4,
+        "pd": 31,
+        "rombel": 9,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cibugel",
+        "kode_wilayah_induk_kecamatan": "021009  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 20:30:30",
+        "sekolah_id_enkrip": "C5571EB094737400A20F                                                                                "
+    }
+]

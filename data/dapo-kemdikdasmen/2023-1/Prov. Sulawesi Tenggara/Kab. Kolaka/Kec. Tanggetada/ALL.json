@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 4 KOLAKA",
+        "sekolah_id": "204151C9-30F5-E011-B5DD-39BD05E0D99E",
+        "npsn": 40403606,
+        "jumlah_kirim": 9,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 18,
+        "rombel": 10,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tanggetada",
+        "kode_wilayah_induk_kecamatan": "200412  ",
+        "induk_kabupaten": "Kab. Kolaka",
+        "kode_wilayah_induk_kabupaten": "200400  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 23:32:48",
+        "sekolah_id_enkrip": "E4E80BC602ECB51AD142                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PLUS MADANA DUNYA",
+        "sekolah_id": "E0015395-DEDF-E211-AE71-B57CF92A6CB4",
+        "npsn": 69757498,
+        "jumlah_kirim": 24,
+        "ptk": 18,
+        "pegawai": 5,
+        "pd": 65,
+        "rombel": 38,
+        "jml_rk": 36,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banjarmasin Utara",
+        "kode_wilayah_induk_kecamatan": "156004  ",
+        "induk_kabupaten": "Kota Banjarmasin",
+        "kode_wilayah_induk_kabupaten": "156000  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 22:47:48",
+        "sekolah_id_enkrip": "47E3744066E2D8EC7536                                                                                "
+    }
+]

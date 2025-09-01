@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DARUSSALAM",
+        "sekolah_id": "47A14D94-F8E5-448F-BD75-05D0BFBED9AF",
+        "npsn": 69953739,
+        "jumlah_kirim": 17,
+        "ptk": 9,
+        "pegawai": 5,
+        "pd": 98,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Karangpucung",
+        "kode_wilayah_induk_kecamatan": "030105  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 06:57:12",
+        "sekolah_id_enkrip": "E2EB7AD21B9776D93564                                                                                "
+    }
+]

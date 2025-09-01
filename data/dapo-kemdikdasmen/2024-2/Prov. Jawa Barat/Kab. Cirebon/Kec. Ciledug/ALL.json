@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD BINA MANDIRI",
+        "sekolah_id": "10CBE215-2CF5-E011-9684-F923517E9421",
+        "npsn": 20215032,
+        "jumlah_kirim": 27,
+        "ptk": 11,
+        "pegawai": 4,
+        "pd": 142,
+        "rombel": 22,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ciledug",
+        "kode_wilayah_induk_kecamatan": "021702  ",
+        "induk_kabupaten": "Kab. Cirebon",
+        "kode_wilayah_induk_kabupaten": "021700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 05:41:33",
+        "sekolah_id_enkrip": "6AD14022DB724E3E71E1                                                                                "
+    }
+]

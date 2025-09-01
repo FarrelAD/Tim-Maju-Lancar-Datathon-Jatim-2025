@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA GORONTALO",
+        "sekolah_id": "A08674F9-A003-E211-BDDF-95F86A342224",
+        "npsn": 58570014,
+        "jumlah_kirim": 39,
+        "ptk": 59,
+        "pegawai": 7,
+        "pd": 275,
+        "rombel": 62,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dungingi",
+        "kode_wilayah_induk_kecamatan": "306005  ",
+        "induk_kabupaten": "Kota Gorontalo",
+        "kode_wilayah_induk_kabupaten": "306000  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 12:13:06",
+        "sekolah_id_enkrip": "F1A9BE18FF96B10BEED8                                                                                "
+    }
+]

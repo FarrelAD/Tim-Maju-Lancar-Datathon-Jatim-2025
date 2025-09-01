@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB HELEN KELLER INDONESIA",
+        "sekolah_id": "C0031A5D-2EF5-E011-A470-CB93A12FBBEE",
+        "npsn": 20403209,
+        "jumlah_kirim": 21,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 34,
+        "rombel": 18,
+        "jml_rk": 11,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wirobrajan",
+        "kode_wilayah_induk_kecamatan": "046011  ",
+        "induk_kabupaten": "Kota Yogyakarta",
+        "kode_wilayah_induk_kabupaten": "046000  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 22:27:22",
+        "sekolah_id_enkrip": "9A149D6A4D4D01BB364F                                                                                "
+    }
+]

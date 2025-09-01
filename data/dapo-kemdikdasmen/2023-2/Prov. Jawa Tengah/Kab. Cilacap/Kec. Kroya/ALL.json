@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KROYA",
+        "sekolah_id": "1079EAC3-F9FB-E111-A573-4D004740119E",
+        "npsn": 20341065,
+        "jumlah_kirim": 7,
+        "ptk": 22,
+        "pegawai": 6,
+        "pd": 235,
+        "rombel": 33,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kroya",
+        "kode_wilayah_induk_kecamatan": "030119  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 18:19:06",
+        "sekolah_id_enkrip": "A32BED57CA1F0AEEFDC0                                                                                "
+    }
+]

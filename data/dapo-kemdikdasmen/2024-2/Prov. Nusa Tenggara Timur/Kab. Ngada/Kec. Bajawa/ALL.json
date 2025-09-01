@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BAJAWA",
+        "sekolah_id": "50B4FAB6-07C4-E111-9BBF-3BF22623695B",
+        "npsn": 69862420,
+        "jumlah_kirim": 32,
+        "ptk": 23,
+        "pegawai": 10,
+        "pd": 79,
+        "rombel": 16,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bajawa",
+        "kode_wilayah_induk_kecamatan": "241002  ",
+        "induk_kabupaten": "Kab. Ngada",
+        "kode_wilayah_induk_kabupaten": "241000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 14:36:43",
+        "sekolah_id_enkrip": "FADC1BA7A454E27BD715                                                                                "
+    }
+]

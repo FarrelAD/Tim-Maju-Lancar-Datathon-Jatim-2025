@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PSM LEMBEYAN",
+        "sekolah_id": "14B4DAC5-108D-4D2B-A83F-C044E6C086ED",
+        "npsn": 69821210,
+        "jumlah_kirim": 25,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 26,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lembeyan",
+        "kode_wilayah_induk_kecamatan": "051003  ",
+        "induk_kabupaten": "Kab. Magetan",
+        "kode_wilayah_induk_kabupaten": "051000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Jul 2025 20:57:26",
+        "sekolah_id_enkrip": "E3C82286059793C1AB45                                                                                "
+    }
+]

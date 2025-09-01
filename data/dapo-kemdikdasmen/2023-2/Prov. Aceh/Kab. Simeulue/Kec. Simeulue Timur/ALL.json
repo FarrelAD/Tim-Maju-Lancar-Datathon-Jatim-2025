@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Simeulue",
+        "sekolah_id": "92A16693-1FD2-47F5-8EFD-70A7D303E760",
+        "npsn": 69969845,
+        "jumlah_kirim": 10,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 96,
+        "rombel": 22,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Simeulue Timur",
+        "kode_wilayah_induk_kecamatan": "061102  ",
+        "induk_kabupaten": "Kab. Simeulue",
+        "kode_wilayah_induk_kabupaten": "061100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 16:35:27",
+        "sekolah_id_enkrip": "3F27B9C940B32664292A                                                                                "
+    }
+]

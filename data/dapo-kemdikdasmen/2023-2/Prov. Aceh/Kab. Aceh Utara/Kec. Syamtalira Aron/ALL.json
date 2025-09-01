@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BINA BANGSA SYAMTALIRA ARON",
+        "sekolah_id": "A7E9CEAD-D722-4089-B8A3-CA962CE6242C",
+        "npsn": 69930309,
+        "jumlah_kirim": 12,
+        "ptk": 17,
+        "pegawai": 7,
+        "pd": 62,
+        "rombel": 18,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Syamtalira Aron",
+        "kode_wilayah_induk_kecamatan": "060314  ",
+        "induk_kabupaten": "Kab. Aceh Utara",
+        "kode_wilayah_induk_kabupaten": "060300  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "11 Aug 2025 10:59:00",
+        "sekolah_id_enkrip": "FBCA029F7AC2A00FA740                                                                                "
+    }
+]

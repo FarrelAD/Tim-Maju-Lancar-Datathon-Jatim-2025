@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI CILACAP",
+        "sekolah_id": "B0F34255-2DF5-E011-95A7-E584C3E89953",
+        "npsn": 20300782,
+        "jumlah_kirim": 22,
+        "ptk": 33,
+        "pegawai": 13,
+        "pd": 316,
+        "rombel": 50,
+        "jml_rk": 32,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cilacap Utara",
+        "kode_wilayah_induk_kecamatan": "030124  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 23:54:13",
+        "sekolah_id_enkrip": "130C9F6AD6B356180235                                                                                "
+    }
+]

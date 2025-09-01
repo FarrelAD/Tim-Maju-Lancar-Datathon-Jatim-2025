@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ANAK MANDIRI",
+        "sekolah_id": "730A464C-B750-406C-9E60-49FB451F3274",
+        "npsn": 69830430,
+        "jumlah_kirim": 24,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 31,
+        "rombel": 9,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukajadi",
+        "kode_wilayah_induk_kecamatan": "096006  ",
+        "induk_kabupaten": "Kota Pekanbaru",
+        "kode_wilayah_induk_kabupaten": "096000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:30:10",
+        "sekolah_id_enkrip": "B1A93DB62F1FD7873B20                                                                                "
+    }
+]

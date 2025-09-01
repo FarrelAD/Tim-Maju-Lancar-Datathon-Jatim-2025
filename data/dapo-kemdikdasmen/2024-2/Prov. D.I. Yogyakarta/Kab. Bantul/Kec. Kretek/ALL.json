@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MARDI MULYO",
+        "sekolah_id": "60391C5D-2EF5-E011-849B-E9BE48F88601",
+        "npsn": 20400157,
+        "jumlah_kirim": 15,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 54,
+        "rombel": 16,
+        "jml_rk": 40,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kretek",
+        "kode_wilayah_induk_kecamatan": "040103  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 07:11:58",
+        "sekolah_id_enkrip": "9D34A92D044326F8020F                                                                                "
+    }
+]

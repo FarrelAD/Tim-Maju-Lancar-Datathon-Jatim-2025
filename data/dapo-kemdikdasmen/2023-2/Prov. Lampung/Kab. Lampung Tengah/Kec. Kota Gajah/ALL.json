@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA GAJAH",
+        "sekolah_id": "6047F86F-8B18-E111-8308-A51CA2B050FE",
+        "npsn": 10802101,
+        "jumlah_kirim": 25,
+        "ptk": 30,
+        "pegawai": 5,
+        "pd": 110,
+        "rombel": 24,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Gajah",
+        "kode_wilayah_induk_kecamatan": "120224  ",
+        "induk_kabupaten": "Kab. Lampung Tengah",
+        "kode_wilayah_induk_kabupaten": "120200  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 23:09:50",
+        "sekolah_id_enkrip": "B80F4956F389F2B58F74                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MUTIARA BAHARI MANDIRI",
+        "sekolah_id": "801ADA15-2CF5-E011-9D67-61B345FDB177",
+        "npsn": 20202315,
+        "jumlah_kirim": 30,
+        "ptk": 19,
+        "pegawai": 6,
+        "pd": 168,
+        "rombel": 32,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pelabuhan Ratu",
+        "kode_wilayah_induk_kecamatan": "020611  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 06:03:29",
+        "sekolah_id_enkrip": "841CF82E8D76CD70AF2C                                                                                "
+    }
+]

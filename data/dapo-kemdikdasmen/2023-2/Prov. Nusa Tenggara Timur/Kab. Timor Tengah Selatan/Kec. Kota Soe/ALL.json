@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN NUNUMEU",
+        "sekolah_id": "E074E23A-033C-E111-8FE4-C7C62AF4ADD8",
+        "npsn": 50300449,
+        "jumlah_kirim": 22,
+        "ptk": 29,
+        "pegawai": 12,
+        "pd": 100,
+        "rombel": 21,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Soe",
+        "kode_wilayah_induk_kecamatan": "240303  ",
+        "induk_kabupaten": "Kab. Timor Tengah Selatan",
+        "kode_wilayah_induk_kabupaten": "240300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 18:14:35",
+        "sekolah_id_enkrip": "8BD704D8BC9B74BB5F03                                                                                "
+    }
+]

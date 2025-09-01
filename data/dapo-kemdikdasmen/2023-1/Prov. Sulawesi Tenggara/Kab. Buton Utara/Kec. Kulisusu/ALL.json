@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BUTON UTARA",
+        "sekolah_id": "1817173B-EAE4-4CCC-BB1B-6F9E95C4522E",
+        "npsn": 69960640,
+        "jumlah_kirim": 19,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 38,
+        "rombel": 18,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kulisusu",
+        "kode_wilayah_induk_kecamatan": "201001  ",
+        "induk_kabupaten": "Kab. Buton Utara",
+        "kode_wilayah_induk_kabupaten": "201000  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 11:12:33",
+        "sekolah_id_enkrip": "123A20FA2025137070C4                                                                                "
+    }
+]

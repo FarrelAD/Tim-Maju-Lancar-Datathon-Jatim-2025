@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PALI",
+        "sekolah_id": "FDD4ABED-AF01-446B-9721-562D6A6DD8EB",
+        "npsn": 69987462,
+        "jumlah_kirim": 21,
+        "ptk": 11,
+        "pegawai": 5,
+        "pd": 55,
+        "rombel": 13,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "KEC. TALANG UBI",
+        "kode_wilayah_induk_kecamatan": "111225  ",
+        "induk_kabupaten": "Kab. Penukal Abab Lematang Ilir",
+        "kode_wilayah_induk_kabupaten": "111200  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 17:01:03",
+        "sekolah_id_enkrip": "87D9C110AF1F69A4C99E                                                                                "
+    }
+]

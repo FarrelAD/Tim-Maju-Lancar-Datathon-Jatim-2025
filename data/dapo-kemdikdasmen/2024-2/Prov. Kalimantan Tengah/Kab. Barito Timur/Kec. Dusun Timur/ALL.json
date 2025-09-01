@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 1 TAMIANG LAYANG",
+        "sekolah_id": "C0CFA235-30F5-E011-9F19-8370B2263BCB",
+        "npsn": 30204188,
+        "jumlah_kirim": 44,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 59,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dusun Timur",
+        "kode_wilayah_induk_kecamatan": "141301  ",
+        "induk_kabupaten": "Kab. Barito Timur",
+        "kode_wilayah_induk_kabupaten": "141300  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 13:52:25",
+        "sekolah_id_enkrip": "72156E359F85E9C40C45                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPAC PANGKAL PINANG",
+        "sekolah_id": "8006ECAD-31F5-E011-A5A9-5D7F076A07B8",
+        "npsn": 10901096,
+        "jumlah_kirim": 86,
+        "ptk": 19,
+        "pegawai": 2,
+        "pd": 144,
+        "rombel": 15,
+        "jml_rk": 19,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gerunggang",
+        "kode_wilayah_induk_kecamatan": "296005  ",
+        "induk_kabupaten": "Kota Pangkal Pinang",
+        "kode_wilayah_induk_kabupaten": "296000  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 09:07:38",
+        "sekolah_id_enkrip": "2A1DDEEF601DF39FE88E                                                                                "
+    }
+]

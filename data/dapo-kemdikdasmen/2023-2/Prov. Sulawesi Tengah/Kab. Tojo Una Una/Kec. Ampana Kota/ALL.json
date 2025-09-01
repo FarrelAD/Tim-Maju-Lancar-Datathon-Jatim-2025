@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N TOJO UNA-UNA",
+        "sekolah_id": "405B2F59-013C-E111-9CFF-9FA23AB73674",
+        "npsn": 40204597,
+        "jumlah_kirim": 30,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 52,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ampana Kota",
+        "kode_wilayah_induk_kecamatan": "180904  ",
+        "induk_kabupaten": "Kab. Tojo Una-Una",
+        "kode_wilayah_induk_kabupaten": "180900  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 10:01:43",
+        "sekolah_id_enkrip": "62D5642940577258D884                                                                                "
+    }
+]

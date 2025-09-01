@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MADHANI",
+        "sekolah_id": "BD5B5E5D-9DDE-4197-B396-2D925F6D03B2",
+        "npsn": 69949239,
+        "jumlah_kirim": 5,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cikajang",
+        "kode_wilayah_induk_kecamatan": "021112  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 17:11:54",
+        "sekolah_id_enkrip": "01B6E3C042438EAFC8D4                                                                                "
+    }
+]

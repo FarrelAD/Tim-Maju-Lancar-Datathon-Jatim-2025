@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Al-Muiz",
+        "sekolah_id": "F271FE46-3199-40D7-9DFA-F13388A8CF89",
+        "npsn": 69943088,
+        "jumlah_kirim": 17,
+        "ptk": 12,
+        "pegawai": 4,
+        "pd": 130,
+        "rombel": 13,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Air Hangat Timur",
+        "kode_wilayah_induk_kecamatan": "100511  ",
+        "induk_kabupaten": "Kab. Kerinci",
+        "kode_wilayah_induk_kabupaten": "100500  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 19:27:05",
+        "sekolah_id_enkrip": "1532E446DDECD368E308                                                                                "
+    }
+]

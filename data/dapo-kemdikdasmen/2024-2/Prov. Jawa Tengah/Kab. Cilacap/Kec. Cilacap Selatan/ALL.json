@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL BANUN CILACAP",
+        "sekolah_id": "D053E316-00E8-49CC-87BC-11D4AC0CC7E6",
+        "npsn": 69934283,
+        "jumlah_kirim": 15,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 128,
+        "rombel": 11,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cilacap Selatan",
+        "kode_wilayah_induk_kecamatan": "030122  ",
+        "induk_kabupaten": "Kab. Cilacap",
+        "kode_wilayah_induk_kabupaten": "030100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 14:07:53",
+        "sekolah_id_enkrip": "22E40E76035E252B66B2                                                                                "
+    }
+]

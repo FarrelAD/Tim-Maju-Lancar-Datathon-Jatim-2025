@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SIDOMULYO",
+        "sekolah_id": "40AEF8A8-FCFA-E111-96A2-C9687BED192F",
+        "npsn": 10815063,
+        "jumlah_kirim": 27,
+        "ptk": 24,
+        "pegawai": 12,
+        "pd": 121,
+        "rombel": 28,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sidomulyo",
+        "kode_wilayah_induk_kecamatan": "120110  ",
+        "induk_kabupaten": "Kab. Lampung Selatan",
+        "kode_wilayah_induk_kabupaten": "120100  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 17:07:05",
+        "sekolah_id_enkrip": "274B37DB540D31229D89                                                                                "
+    }
+]
