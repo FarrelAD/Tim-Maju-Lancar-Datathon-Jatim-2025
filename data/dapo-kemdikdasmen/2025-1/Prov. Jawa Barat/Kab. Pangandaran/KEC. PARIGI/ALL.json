@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI WIDI ASIH",
+        "sekolah_id": "D0B2CD74-D4C4-E111-A6C2-53665143F77B",
+        "npsn": 20258272,
+        "jumlah_kirim": 10,
+        "ptk": 42,
+        "pegawai": 7,
+        "pd": 184,
+        "rombel": 44,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "KEC. PARIGI",
+        "kode_wilayah_induk_kecamatan": "022560  ",
+        "induk_kabupaten": "Kab. Pangandaran",
+        "kode_wilayah_induk_kabupaten": "022500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 20:08:20",
+        "sekolah_id_enkrip": "49ADE833C99FAFEB80CE                                                                                "
+    }
+]

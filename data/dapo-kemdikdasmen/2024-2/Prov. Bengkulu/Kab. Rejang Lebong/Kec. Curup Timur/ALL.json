@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBIT NUR KHOIRUL ASHAB",
+        "sekolah_id": "EB6401C9-A623-47F8-B3A8-62B77C07B189",
+        "npsn": 70055048,
+        "jumlah_kirim": 22,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 11,
+        "rombel": 4,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Curup Timur",
+        "kode_wilayah_induk_kecamatan": "260225  ",
+        "induk_kabupaten": "Kab. Rejang Lebong",
+        "kode_wilayah_induk_kabupaten": "260200  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 00:09:24",
+        "sekolah_id_enkrip": "12B0CBC778D3CAC75522                                                                                "
+    }
+]

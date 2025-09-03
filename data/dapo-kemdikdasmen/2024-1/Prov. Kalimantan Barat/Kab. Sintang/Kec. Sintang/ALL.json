@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 25 SINTANG",
+        "sekolah_id": "50C1FB08-30F5-E011-8936-49BE5E0F6849",
+        "npsn": 30102600,
+        "jumlah_kirim": 24,
+        "ptk": 16,
+        "pegawai": 3,
+        "pd": 112,
+        "rombel": 22,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sintang",
+        "kode_wilayah_induk_kecamatan": "130414  ",
+        "induk_kabupaten": "Kab. Sintang",
+        "kode_wilayah_induk_kabupaten": "130400  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 18:41:54",
+        "sekolah_id_enkrip": "770B08F2ED90DCA04AD0                                                                                "
+    }
+]

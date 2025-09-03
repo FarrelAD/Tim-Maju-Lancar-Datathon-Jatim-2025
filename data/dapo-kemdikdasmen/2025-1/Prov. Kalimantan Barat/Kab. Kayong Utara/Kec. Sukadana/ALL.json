@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SUKADANA",
+        "sekolah_id": "D27A324D-F3BE-4E27-A0DD-EE2D12BC5CA4",
+        "npsn": 69840947,
+        "jumlah_kirim": 11,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 38,
+        "rombel": 11,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukadana",
+        "kode_wilayah_induk_kecamatan": "131203  ",
+        "induk_kabupaten": "Kab. Kayong Utara",
+        "kode_wilayah_induk_kabupaten": "131200  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:05:13",
+        "sekolah_id_enkrip": "2399E57B4F3E719EF8EF                                                                                "
+    }
+]

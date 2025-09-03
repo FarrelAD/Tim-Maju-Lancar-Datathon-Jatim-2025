@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA INSANI ",
+        "sekolah_id": "40D9E315-2CF5-E011-B8C2-034494E805AF",
+        "npsn": 20217457,
+        "jumlah_kirim": 18,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 74,
+        "rombel": 33,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pasawahan",
+        "kode_wilayah_induk_kecamatan": "022009  ",
+        "induk_kabupaten": "Kab. Purwakarta",
+        "kode_wilayah_induk_kabupaten": "022000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 04:40:54",
+        "sekolah_id_enkrip": "059C8DB1E7A5DD04B027                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA WANITA",
+        "sekolah_id": "000BDAF5-8B18-E111-872B-5FCCAD88A785",
+        "npsn": 20512074,
+        "jumlah_kirim": 10,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 86,
+        "rombel": 19,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Grogol",
+        "kode_wilayah_induk_kecamatan": "051314  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 20:19:21",
+        "sekolah_id_enkrip": "9F8E1CB13ED0DB6FD6F5                                                                                "
+    }
+]

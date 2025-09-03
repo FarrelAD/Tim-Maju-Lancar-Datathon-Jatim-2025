@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 25 KEDAMIN HILIR",
+        "sekolah_id": "F0A4FD09-30F5-E011-88DA-8972D9E76445",
+        "npsn": 30103115,
+        "jumlah_kirim": 15,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 72,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Putussibau Selatan",
+        "kode_wilayah_induk_kecamatan": "130529  ",
+        "induk_kabupaten": "Kab. Kapuas Hulu",
+        "kode_wilayah_induk_kabupaten": "130500  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 20:38:49",
+        "sekolah_id_enkrip": "31F39604371D83940A67                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N KOBA",
+        "sekolah_id": "C0EBEBAD-31F5-E011-B2BB-8398F847C2A0",
+        "npsn": 10901347,
+        "jumlah_kirim": 2,
+        "ptk": 18,
+        "pegawai": 8,
+        "pd": 0,
+        "rombel": 44,
+        "jml_rk": 15,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Koba",
+        "kode_wilayah_induk_kecamatan": "290301  ",
+        "induk_kabupaten": "Kab. Bangka Tengah",
+        "kode_wilayah_induk_kabupaten": "290300  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 May 2025 09:46:57",
+        "sekolah_id_enkrip": "1C4C727FBA86129D7092                                                                                "
+    }
+]

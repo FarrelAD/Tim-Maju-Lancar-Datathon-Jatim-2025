@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Bungursari",
+        "sekolah_id": "F78BA434-8BC3-46BD-A61D-1FD220C35593",
+        "npsn": 70034094,
+        "jumlah_kirim": 43,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 49,
+        "rombel": 20,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bungursari",
+        "kode_wilayah_induk_kecamatan": "026810  ",
+        "induk_kabupaten": "Kota Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "026800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 11:55:36",
+        "sekolah_id_enkrip": "9EAB19CB9D5763FB11B3                                                                                "
+    }
+]

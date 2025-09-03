@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Kota Pekalongan",
+        "sekolah_id": "50190A59-2DF5-E011-AF05-0F0B3BAD6A05",
+        "npsn": 20329518,
+        "jumlah_kirim": 24,
+        "ptk": 15,
+        "pegawai": 3,
+        "pd": 218,
+        "rombel": 28,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pekalongan Barat",
+        "kode_wilayah_induk_kecamatan": "036401  ",
+        "induk_kabupaten": "Kota Pekalongan",
+        "kode_wilayah_induk_kabupaten": "036400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 15:31:27",
+        "sekolah_id_enkrip": "0B575EBA4D08B632AC9A                                                                                "
+    }
+]

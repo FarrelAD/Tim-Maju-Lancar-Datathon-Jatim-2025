@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI RANDUBLATUNG",
+        "sekolah_id": "79EC87B1-8D53-4162-BC61-B91EEF7966DF",
+        "npsn": 70033913,
+        "jumlah_kirim": 15,
+        "ptk": 9,
+        "pegawai": 7,
+        "pd": 144,
+        "rombel": 26,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Randublatung",
+        "kode_wilayah_induk_kecamatan": "031602  ",
+        "induk_kabupaten": "Kab. Blora",
+        "kode_wilayah_induk_kabupaten": "031600  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 08:00:02",
+        "sekolah_id_enkrip": "522B9E43FCDC2B3C8D75                                                                                "
+    }
+]

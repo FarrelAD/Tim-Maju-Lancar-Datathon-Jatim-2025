@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TARUNA MANDIRI",
+        "sekolah_id": "E0EDD815-2CF5-E011-AFEF-1FD4B66AC6F5",
+        "npsn": 20256802,
+        "jumlah_kirim": 72,
+        "ptk": 40,
+        "pegawai": 14,
+        "pd": 216,
+        "rombel": 62,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Cilimus",
+        "kode_wilayah_induk_kecamatan": "021517  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 10:21:09",
+        "sekolah_id_enkrip": "5353FAFE3911C7578D7D                                                                                "
+    }
+]

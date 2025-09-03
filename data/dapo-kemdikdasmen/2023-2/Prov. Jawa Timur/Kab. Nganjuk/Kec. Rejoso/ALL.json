@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS MULIA REJOSO",
+        "sekolah_id": "70FA2E14-93FE-E111-A4A4-BFF7F614E415",
+        "npsn": 69727418,
+        "jumlah_kirim": 10,
+        "ptk": 13,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rejoso",
+        "kode_wilayah_induk_kecamatan": "051417  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 22:28:05",
+        "sekolah_id_enkrip": "1F8CFDA4334A49EB50F9                                                                                "
+    }
+]

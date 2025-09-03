@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TANGGAMUS",
+        "sekolah_id": "50AA32C1-74E2-41D9-8624-5E48E3380EAB",
+        "npsn": 69944816,
+        "jumlah_kirim": 28,
+        "ptk": 17,
+        "pegawai": 9,
+        "pd": 106,
+        "rombel": 29,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Agung Timur",
+        "kode_wilayah_induk_kecamatan": "120619  ",
+        "induk_kabupaten": "Kab. Tanggamus",
+        "kode_wilayah_induk_kabupaten": "120600  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "04 Aug 2025 15:18:24",
+        "sekolah_id_enkrip": "FCC8145ECE92433D7F8D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SEKADAU",
+        "sekolah_id": "F35E35E6-8C9A-4126-A8EA-1948CB0F9941",
+        "npsn": 30108189,
+        "jumlah_kirim": 24,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 47,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sekadau Hilir",
+        "kode_wilayah_induk_kecamatan": "131004  ",
+        "induk_kabupaten": "Kab. Sekadau",
+        "kode_wilayah_induk_kabupaten": "131000  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 19:45:46",
+        "sekolah_id_enkrip": "860D484F21FB7A8BF775                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB - PGRI KEDUNGWARU",
+        "sekolah_id": "C09F32B6-8C18-E111-91B9-35E9A5354D7F",
+        "npsn": 20515477,
+        "jumlah_kirim": 16,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 109,
+        "rombel": 22,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kedungwaru",
+        "kode_wilayah_induk_kecamatan": "051613  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 22:41:37",
+        "sekolah_id_enkrip": "9F486071365CE02A3D96                                                                                "
+    }
+]

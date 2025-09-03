@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC PGRI MANONJAYA",
+        "sekolah_id": "1072E015-2CF5-E011-8179-87A521723BCB",
+        "npsn": 20268130,
+        "jumlah_kirim": 55,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 79,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Manonjaya",
+        "kode_wilayah_induk_kecamatan": "021216  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 17:17:02",
+        "sekolah_id_enkrip": "1A64CD039CB7ACFE569A                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KELEYAN BANGKALAN",
+        "sekolah_id": "60CF4B7E-8D18-E111-A61E-3BDB8AFFE3B0",
+        "npsn": 20531387,
+        "jumlah_kirim": 23,
+        "ptk": 22,
+        "pegawai": 4,
+        "pd": 50,
+        "rombel": 32,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Socah",
+        "kode_wilayah_induk_kecamatan": "052910  ",
+        "induk_kabupaten": "Kab. Bangkalan",
+        "kode_wilayah_induk_kabupaten": "052900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "15 Aug 2025 13:18:11",
+        "sekolah_id_enkrip": "05F7F2962B195AE678D9                                                                                "
+    }
+]

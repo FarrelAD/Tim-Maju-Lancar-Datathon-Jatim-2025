@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PESISIR BARAT",
+        "sekolah_id": "F36F2338-6A07-400A-B23D-89B46B56FE4F",
+        "npsn": 70010851,
+        "jumlah_kirim": 44,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 24,
+        "rombel": 9,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "KEC. PESISIR SELATAN",
+        "kode_wilayah_induk_kecamatan": "121331  ",
+        "induk_kabupaten": "Kab. Pesisir Barat",
+        "kode_wilayah_induk_kabupaten": "121300  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 22:16:06",
+        "sekolah_id_enkrip": "FE768BA7C107D99F5A85                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SELAYAR",
+        "sekolah_id": "C0CA25BD-0D26-E111-8818-4FCF6D761FFA",
+        "npsn": 40304814,
+        "jumlah_kirim": 39,
+        "ptk": 17,
+        "pegawai": 4,
+        "pd": 49,
+        "rombel": 22,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bontoharu",
+        "kode_wilayah_induk_kecamatan": "191304  ",
+        "induk_kabupaten": "Kab. Kepulauan Selayar",
+        "kode_wilayah_induk_kabupaten": "191300  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 04:17:15",
+        "sekolah_id_enkrip": "6553440E9516420F1D2D                                                                                "
+    }
+]

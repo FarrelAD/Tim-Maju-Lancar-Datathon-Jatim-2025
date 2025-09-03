@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ERHA PABELAN",
+        "sekolah_id": "534AF672-1D88-4545-B5C1-7008F8E446F4",
+        "npsn": 69945262,
+        "jumlah_kirim": 8,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 36,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pabelan",
+        "kode_wilayah_induk_kecamatan": "032205  ",
+        "induk_kabupaten": "Kab. Semarang",
+        "kode_wilayah_induk_kabupaten": "032200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 14:56:28",
+        "sekolah_id_enkrip": "464FCA59FB3AD62740C8                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SWASTA YAPSI GUNUNGSITOLI",
+        "sekolah_id": "6B8CB769-5FC4-4F43-96A1-B31FF201AD97",
+        "npsn": 69960580,
+        "jumlah_kirim": 25,
+        "ptk": 3,
+        "pegawai": 3,
+        "pd": 38,
+        "rombel": 10,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gunungsitoli",
+        "kode_wilayah_induk_kecamatan": "076703  ",
+        "induk_kabupaten": "Kota Gunungsitoli",
+        "kode_wilayah_induk_kabupaten": "076700  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 13:49:07",
+        "sekolah_id_enkrip": "ADB3F57D29C22FC1976C                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS BANGSA",
+        "sekolah_id": "E9EB65BD-1B17-4FB4-8923-B3DB5B7228F4",
+        "npsn": 69786788,
+        "jumlah_kirim": 9,
+        "ptk": 1,
+        "pegawai": 4,
+        "pd": 18,
+        "rombel": 8,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Karossa",
+        "kode_wilayah_induk_kecamatan": "330602  ",
+        "induk_kabupaten": "Kab. Mamuju Tengah",
+        "kode_wilayah_induk_kabupaten": "330600  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 00:30:03",
+        "sekolah_id_enkrip": "5C974A7A082BBCFF0F08                                                                                "
+    }
+]

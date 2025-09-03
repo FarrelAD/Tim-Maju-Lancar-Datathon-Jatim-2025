@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PANCA KASIH",
+        "sekolah_id": "E0843AD3-31F5-E011-9E29-D7B1F38879AF",
+        "npsn": 60403894,
+        "jumlah_kirim": 71,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 64,
+        "rombel": 12,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Manokwari Barat",
+        "kode_wilayah_induk_kecamatan": "320513  ",
+        "induk_kabupaten": "Kab. Manokwari",
+        "kode_wilayah_induk_kabupaten": "320500  ",
+        "induk_provinsi": "Prov. Papua Barat",
+        "kode_wilayah_induk_provinsi": "320000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 09:52:59",
+        "sekolah_id_enkrip": "BDEDD0D3D4E578E05F16                                                                                "
+    }
+]

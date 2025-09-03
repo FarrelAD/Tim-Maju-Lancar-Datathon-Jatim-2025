@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TULANG BAWANG",
+        "sekolah_id": "80588B76-8B18-E111-988F-71FBBEAA2757",
+        "npsn": 10811029,
+        "jumlah_kirim": 36,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 42,
+        "rombel": 16,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Menggala",
+        "kode_wilayah_induk_kecamatan": "120505  ",
+        "induk_kabupaten": "Kab. Tulang Bawang",
+        "kode_wilayah_induk_kabupaten": "120500  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 23:36:18",
+        "sekolah_id_enkrip": "CE47DE60ACE53AC9C80C                                                                                "
+    }
+]

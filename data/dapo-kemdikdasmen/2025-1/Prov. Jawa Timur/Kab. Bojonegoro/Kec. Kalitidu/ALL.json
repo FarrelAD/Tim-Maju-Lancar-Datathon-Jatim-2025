@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI KALITIDU",
+        "sekolah_id": "400F6237-05C1-E111-9842-F1763C5E3C1D",
+        "npsn": 20547825,
+        "jumlah_kirim": 11,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 80,
+        "rombel": 19,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kalitidu",
+        "kode_wilayah_induk_kecamatan": "050520  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 23:11:42",
+        "sekolah_id_enkrip": "5B51505B1C40CF43ABA2                                                                                "
+    }
+]

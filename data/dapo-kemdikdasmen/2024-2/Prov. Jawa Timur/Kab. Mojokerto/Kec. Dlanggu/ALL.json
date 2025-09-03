@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PGRI DLANGGU",
+        "sekolah_id": "709BD5F5-8B18-E111-9913-D92EA7C6B879",
+        "npsn": 20502664,
+        "jumlah_kirim": 5,
+        "ptk": 15,
+        "pegawai": 1,
+        "pd": 103,
+        "rombel": 14,
+        "jml_rk": 22,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dlanggu",
+        "kode_wilayah_induk_kecamatan": "050310  ",
+        "induk_kabupaten": "Kab. Mojokerto",
+        "kode_wilayah_induk_kabupaten": "050300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 14:17:29",
+        "sekolah_id_enkrip": "39D722E307DB2C01DD0A                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BAUBAU",
+        "sekolah_id": "201F0ACA-30F5-E011-AE6D-C57F6C5004E4",
+        "npsn": 40402802,
+        "jumlah_kirim": 10,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 58,
+        "rombel": 13,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Betoambari",
+        "kode_wilayah_induk_kecamatan": "206101  ",
+        "induk_kabupaten": "Kota Baubau",
+        "kode_wilayah_induk_kabupaten": "206100  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 18:27:31",
+        "sekolah_id_enkrip": "7741093192533B70E6DA                                                                                "
+    }
+]

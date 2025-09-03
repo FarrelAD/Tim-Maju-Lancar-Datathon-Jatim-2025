@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Binangkit",
+        "sekolah_id": "56266417-33C3-40CF-A19F-699A2263E00B",
+        "npsn": 69840969,
+        "jumlah_kirim": 19,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 40,
+        "rombel": 23,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jatinunggal",
+        "kode_wilayah_induk_kecamatan": "021025  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 04:56:29",
+        "sekolah_id_enkrip": "AB13D0E6726842E674DE                                                                                "
+    }
+]

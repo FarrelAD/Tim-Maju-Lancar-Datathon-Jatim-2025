@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MANDIRI PANUMBANGAN",
+        "sekolah_id": "F0F1CB74-D4C4-E111-940C-7B6F8FC9D139",
+        "npsn": 69863248,
+        "jumlah_kirim": 1,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 37,
+        "rombel": 19,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Panumbangan",
+        "kode_wilayah_induk_kecamatan": "021430  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 01:04:46",
+        "sekolah_id_enkrip": "426C4F0A1F0DE2BDCFBB                                                                                "
+    }
+]

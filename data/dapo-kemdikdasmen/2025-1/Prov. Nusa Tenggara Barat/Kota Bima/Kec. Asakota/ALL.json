@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 KOTA BIMA",
+        "sekolah_id": "60A956E2-023C-E111-9D44-CD580BDA2BD5",
+        "npsn": 50219682,
+        "jumlah_kirim": 29,
+        "ptk": 59,
+        "pegawai": 9,
+        "pd": 91,
+        "rombel": 57,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Asakota",
+        "kode_wilayah_induk_kecamatan": "236103  ",
+        "induk_kabupaten": "Kota Bima",
+        "kode_wilayah_induk_kabupaten": "236100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 23:36:39",
+        "sekolah_id_enkrip": "608D4CD92F09A0266988                                                                                "
+    }
+]

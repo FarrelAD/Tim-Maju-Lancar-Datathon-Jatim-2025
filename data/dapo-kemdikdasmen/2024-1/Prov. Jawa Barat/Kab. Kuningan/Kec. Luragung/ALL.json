@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LURAGUNG KABUPATEN KUNINGAN",
+        "sekolah_id": "F0DFD815-2CF5-E011-AEDB-895063DFE0E2",
+        "npsn": 20256690,
+        "jumlah_kirim": 22,
+        "ptk": 27,
+        "pegawai": 8,
+        "pd": 134,
+        "rombel": 40,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Luragung",
+        "kode_wilayah_induk_kecamatan": "021508  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 22:45:51",
+        "sekolah_id_enkrip": "81B0193652F601CF8793                                                                                "
+    }
+]

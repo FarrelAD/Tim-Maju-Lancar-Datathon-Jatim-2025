@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC BINA MANDIRI",
+        "sekolah_id": "4050E515-2CF5-E011-9765-23CD04C523FE",
+        "npsn": 20258161,
+        "jumlah_kirim": 33,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 71,
+        "rombel": 24,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banyuresmi",
+        "kode_wilayah_induk_kecamatan": "021123  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 11:28:49",
+        "sekolah_id_enkrip": "1FD6D39472724384B5A4                                                                                "
+    }
+]

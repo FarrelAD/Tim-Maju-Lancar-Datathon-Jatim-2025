@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TANJUNGMEDAR KABUPATEN SUMEDANG",
+        "sekolah_id": "5038BCB4-3902-E211-BAFB-A1B3E536CCF7",
+        "npsn": 20279936,
+        "jumlah_kirim": 13,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 71,
+        "rombel": 20,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tanjungmedar",
+        "kode_wilayah_induk_kecamatan": "021027  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 15:31:02",
+        "sekolah_id_enkrip": "2FF2749534FE2E7184D3                                                                                "
+    }
+]

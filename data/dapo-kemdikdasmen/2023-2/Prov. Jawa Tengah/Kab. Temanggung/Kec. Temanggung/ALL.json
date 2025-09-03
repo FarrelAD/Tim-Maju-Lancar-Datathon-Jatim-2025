@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TEMANGGUNG",
+        "sekolah_id": "F0E7EC57-2DF5-E011-807D-DDBE30F02E74",
+        "npsn": 20321273,
+        "jumlah_kirim": 11,
+        "ptk": 41,
+        "pegawai": 7,
+        "pd": 280,
+        "rombel": 55,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Temanggung",
+        "kode_wilayah_induk_kecamatan": "032303  ",
+        "induk_kabupaten": "Kab. Temanggung",
+        "kode_wilayah_induk_kabupaten": "032300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:14:03",
+        "sekolah_id_enkrip": "8137903C69B5BBA08D0F                                                                                "
+    }
+]

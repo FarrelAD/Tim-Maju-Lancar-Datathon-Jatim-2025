@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YPN",
+        "sekolah_id": "5EA835B5-7E4D-4D4C-8C8F-57EFA0364006",
+        "npsn": 69831533,
+        "jumlah_kirim": 19,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 96,
+        "rombel": 26,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Belinyu",
+        "kode_wilayah_induk_kecamatan": "290113  ",
+        "induk_kabupaten": "Kab. Bangka",
+        "kode_wilayah_induk_kabupaten": "290100  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 11:03:55",
+        "sekolah_id_enkrip": "989795FFEB486D497C15                                                                                "
+    }
+]

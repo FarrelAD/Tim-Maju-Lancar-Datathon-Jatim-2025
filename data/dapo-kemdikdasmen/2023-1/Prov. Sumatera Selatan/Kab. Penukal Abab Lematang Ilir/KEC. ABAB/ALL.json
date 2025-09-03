@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Nurul Ilmi",
+        "sekolah_id": "453FFB16-4C68-477D-BCE4-32410A360BF2",
+        "npsn": 70025557,
+        "jumlah_kirim": 5,
+        "ptk": 3,
+        "pegawai": 0,
+        "pd": 30,
+        "rombel": 7,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "KEC. ABAB",
+        "kode_wilayah_induk_kecamatan": "111223  ",
+        "induk_kabupaten": "Kab. Penukal Abab Lematang Ilir",
+        "kode_wilayah_induk_kabupaten": "111200  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 10:45:00",
+        "sekolah_id_enkrip": "B2213C15D6AF6F006471                                                                                "
+    }
+]

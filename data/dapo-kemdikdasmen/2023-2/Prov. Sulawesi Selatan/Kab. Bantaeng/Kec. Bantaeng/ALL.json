@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BANTAENG",
+        "sekolah_id": "E0E7E8BC-0D26-E111-8265-7F6B7E4640AD",
+        "npsn": 40303987,
+        "jumlah_kirim": 16,
+        "ptk": 17,
+        "pegawai": 6,
+        "pd": 53,
+        "rombel": 26,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bantaeng",
+        "kode_wilayah_induk_kecamatan": "191002  ",
+        "induk_kabupaten": "Kab. Bantaeng",
+        "kode_wilayah_induk_kabupaten": "191000  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 20:45:49",
+        "sekolah_id_enkrip": "25AE481E40AFF97746C0                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Aceh Selatan",
+        "sekolah_id": "D904FB88-1D51-4D53-9FD3-0416F94B4D32",
+        "npsn": 70013935,
+        "jumlah_kirim": 9,
+        "ptk": 23,
+        "pegawai": 12,
+        "pd": 46,
+        "rombel": 18,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pasie Raja",
+        "kode_wilayah_induk_kecamatan": "060710  ",
+        "induk_kabupaten": "Kab. Aceh Selatan",
+        "kode_wilayah_induk_kabupaten": "060700  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 00:55:29",
+        "sekolah_id_enkrip": "7BD445DF9A3D2E42F22A                                                                                "
+    }
+]

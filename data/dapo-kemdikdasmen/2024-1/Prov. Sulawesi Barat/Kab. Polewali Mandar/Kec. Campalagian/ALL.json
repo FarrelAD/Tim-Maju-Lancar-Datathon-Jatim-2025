@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB NEGERI CAMPALAGIAN",
+        "sekolah_id": "C00DC6C1-0D26-E111-95A3-A7282C9FE43C",
+        "npsn": 40605148,
+        "jumlah_kirim": 12,
+        "ptk": 12,
+        "pegawai": 10,
+        "pd": 50,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Campalagian",
+        "kode_wilayah_induk_kecamatan": "330303  ",
+        "induk_kabupaten": "Kab. Polewali Mandar",
+        "kode_wilayah_induk_kabupaten": "330300  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 08:50:56",
+        "sekolah_id_enkrip": "CB4E69FD6B8B84A66008                                                                                "
+    }
+]

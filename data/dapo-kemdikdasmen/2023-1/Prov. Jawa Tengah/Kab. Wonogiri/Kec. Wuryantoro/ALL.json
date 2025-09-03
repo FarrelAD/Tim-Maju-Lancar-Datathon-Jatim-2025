@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YSBPD WURYANTORO",
+        "sekolah_id": "C0FC2259-2DF5-E011-AA2C-6957BED49485",
+        "npsn": 20311354,
+        "jumlah_kirim": 13,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 47,
+        "rombel": 18,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wuryantoro",
+        "kode_wilayah_induk_kecamatan": "031211  ",
+        "induk_kabupaten": "Kab. Wonogiri",
+        "kode_wilayah_induk_kabupaten": "031200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 22:45:20",
+        "sekolah_id_enkrip": "5A89B7C972226ECF31EF                                                                                "
+    }
+]

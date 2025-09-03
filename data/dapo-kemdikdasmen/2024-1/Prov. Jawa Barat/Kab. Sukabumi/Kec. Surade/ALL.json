@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SURADE",
+        "sekolah_id": "3024D815-2CF5-E011-8163-830887A910F0",
+        "npsn": 20258252,
+        "jumlah_kirim": 20,
+        "ptk": 19,
+        "pegawai": 6,
+        "pd": 150,
+        "rombel": 20,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Surade",
+        "kode_wilayah_induk_kecamatan": "020603  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 03:17:52",
+        "sekolah_id_enkrip": "2CCAD1065300081E90B4                                                                                "
+    }
+]

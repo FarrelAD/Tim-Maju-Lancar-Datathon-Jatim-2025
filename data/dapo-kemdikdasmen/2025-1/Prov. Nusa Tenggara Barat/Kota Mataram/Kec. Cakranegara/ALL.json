@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 MATARAM",
+        "sekolah_id": "B0ED5D62-D089-E111-A0F4-9107899A7F78",
+        "npsn": 50204397,
+        "jumlah_kirim": 2,
+        "ptk": 26,
+        "pegawai": 6,
+        "pd": 180,
+        "rombel": 33,
+        "jml_rk": 28,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cakranegara",
+        "kode_wilayah_induk_kecamatan": "236003  ",
+        "induk_kabupaten": "Kota Mataram",
+        "kode_wilayah_induk_kabupaten": "236000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 03:08:53",
+        "sekolah_id_enkrip": "0D04166D8136898C7574                                                                                "
+    }
+]

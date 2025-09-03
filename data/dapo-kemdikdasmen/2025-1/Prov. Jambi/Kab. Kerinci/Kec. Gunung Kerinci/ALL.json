@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Ujung Ladang Kerinci",
+        "sekolah_id": "5E9EB2B9-2C6E-49C4-BA4F-8F8E45D922FA",
+        "npsn": 70040482,
+        "jumlah_kirim": 4,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 37,
+        "rombel": 15,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gunung Kerinci",
+        "kode_wilayah_induk_kecamatan": "100508  ",
+        "induk_kabupaten": "Kab. Kerinci",
+        "kode_wilayah_induk_kabupaten": "100500  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 23:07:30",
+        "sekolah_id_enkrip": "1E361EC04FE301381BFE                                                                                "
+    }
+]

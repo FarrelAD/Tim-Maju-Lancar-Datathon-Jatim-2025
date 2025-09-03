@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Dharma Wanita Kota Bogor",
+        "sekolah_id": "90136449-990E-E211-8328-1F020E327291",
+        "npsn": 20220544,
+        "jumlah_kirim": 69,
+        "ptk": 22,
+        "pegawai": 3,
+        "pd": 151,
+        "rombel": 29,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Bogor Tengah",
+        "kode_wilayah_induk_kecamatan": "026104  ",
+        "induk_kabupaten": "Kota Bogor",
+        "kode_wilayah_induk_kabupaten": "026100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 19:53:14",
+        "sekolah_id_enkrip": "F4C00A0908616268E860                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI AMONG PUTRA",
+        "sekolah_id": "208A08B6-8C18-E111-99B9-39A2E99A1FB9",
+        "npsn": 20515453,
+        "jumlah_kirim": 12,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 92,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ngunut",
+        "kode_wilayah_induk_kecamatan": "051609  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 20:31:30",
+        "sekolah_id_enkrip": "E4BAC43C4EDFAFC787D2                                                                                "
+    }
+]

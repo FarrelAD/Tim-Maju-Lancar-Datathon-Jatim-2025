@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH AL KAUTSAR",
+        "sekolah_id": "40D6F858-31F5-E011-AA8F-15713C32E3F6",
+        "npsn": 20606288,
+        "jumlah_kirim": 6,
+        "ptk": 9,
+        "pegawai": 7,
+        "pd": 55,
+        "rombel": 25,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cilegon",
+        "kode_wilayah_induk_kecamatan": "286003  ",
+        "induk_kabupaten": "Kota Cilegon",
+        "kode_wilayah_induk_kabupaten": "286000  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Jul 2025 13:45:52",
+        "sekolah_id_enkrip": "3A4C5EAA6B82AE66254B                                                                                "
+    }
+]

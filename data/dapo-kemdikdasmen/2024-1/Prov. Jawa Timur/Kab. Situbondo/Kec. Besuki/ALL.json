@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI DEMUNG SITUBONDO",
+        "sekolah_id": "20C1BFB7-8C18-E111-96FE-4F665FA2031E",
+        "npsn": 20523093,
+        "jumlah_kirim": 164,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 71,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Besuki",
+        "kode_wilayah_induk_kecamatan": "052304  ",
+        "induk_kabupaten": "Kab. Situbondo",
+        "kode_wilayah_induk_kabupaten": "052300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 04:52:39",
+        "sekolah_id_enkrip": "5EB27417D814D9C57881                                                                                "
+    }
+]

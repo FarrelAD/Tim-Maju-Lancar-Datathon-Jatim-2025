@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SHANTI KOSALA MASTRIP",
+        "sekolah_id": "9D76B555-C86C-45B5-ACEA-7E3E29F9A06C",
+        "npsn": 20538329,
+        "jumlah_kirim": 22,
+        "ptk": 18,
+        "pegawai": 1,
+        "pd": 130,
+        "rombel": 22,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Nganjuk",
+        "kode_wilayah_induk_kecamatan": "051414  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 20:14:46",
+        "sekolah_id_enkrip": "B5DFDA1B268A6BF486B2                                                                                "
+    }
+]

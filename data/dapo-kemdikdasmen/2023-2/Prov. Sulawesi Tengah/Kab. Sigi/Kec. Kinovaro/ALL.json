@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PORAME",
+        "sekolah_id": "80186EA2-C1CC-E111-AABC-3F75CEA619EC",
+        "npsn": 40200754,
+        "jumlah_kirim": 22,
+        "ptk": 24,
+        "pegawai": 7,
+        "pd": 117,
+        "rombel": 27,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kinovaro",
+        "kode_wilayah_induk_kecamatan": "181011  ",
+        "induk_kabupaten": "Kab. Sigi",
+        "kode_wilayah_induk_kabupaten": "181000  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 23:05:08",
+        "sekolah_id_enkrip": "F34F3D5682FF91A6FC73                                                                                "
+    }
+]

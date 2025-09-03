@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MEULABOH",
+        "sekolah_id": "C98E6757-8E2F-4DA1-B66C-DDA1198BD1B8",
+        "npsn": 69945828,
+        "jumlah_kirim": 115,
+        "ptk": 23,
+        "pegawai": 10,
+        "pd": 116,
+        "rombel": 24,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Johan Pahlawan",
+        "kode_wilayah_induk_kecamatan": "060605  ",
+        "induk_kabupaten": "Kab. Aceh Barat",
+        "kode_wilayah_induk_kabupaten": "060600  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 04:07:11",
+        "sekolah_id_enkrip": "CBD96BD80E4B53D39773                                                                                "
+    }
+]

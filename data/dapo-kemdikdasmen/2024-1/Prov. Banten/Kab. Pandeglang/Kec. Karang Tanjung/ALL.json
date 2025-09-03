@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Skh Jannatul Aulad",
+        "sekolah_id": "BC43CADE-1D0C-4E44-BBD5-E2D2A157CC62",
+        "npsn": 70003902,
+        "jumlah_kirim": 15,
+        "ptk": 7,
+        "pegawai": 4,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karang Tanjung",
+        "kode_wilayah_induk_kecamatan": "280121  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 06:04:09",
+        "sekolah_id_enkrip": "C193332266C719670DBD                                                                                "
+    }
+]

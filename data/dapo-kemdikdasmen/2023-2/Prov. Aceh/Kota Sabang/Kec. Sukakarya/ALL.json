@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 2 Sabang",
+        "sekolah_id": "3F43A23E-B50F-49D2-8D9F-7ABEEADA4D9F",
+        "npsn": 69838664,
+        "jumlah_kirim": 7,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 32,
+        "rombel": 9,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukakarya",
+        "kode_wilayah_induk_kecamatan": "066002  ",
+        "induk_kabupaten": "Kota Sabang",
+        "kode_wilayah_induk_kabupaten": "066000  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "17 Aug 2025 23:57:32",
+        "sekolah_id_enkrip": "189E2A0B516D50125F13                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TARATTANG SOPPENG",
+        "sekolah_id": "D5E663B7-6EC8-42E4-832E-63F393CD2A49",
+        "npsn": 70036896,
+        "jumlah_kirim": 21,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 10,
+        "rombel": 5,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Mario Riawa",
+        "kode_wilayah_induk_kecamatan": "190906  ",
+        "induk_kabupaten": "Kab. Soppeng",
+        "kode_wilayah_induk_kabupaten": "190900  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 12:30:58",
+        "sekolah_id_enkrip": "584E25A4583743907196                                                                                "
+    }
+]

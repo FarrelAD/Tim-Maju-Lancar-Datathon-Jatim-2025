@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD Dharma Wanita",
+        "sekolah_id": "E4553A33-862D-4AFD-B7AE-BC451AE11F82",
+        "npsn": 69966235,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 31,
+        "rombel": 7,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tapalang Barat",
+        "kode_wilayah_induk_kecamatan": "330106  ",
+        "induk_kabupaten": "Kab. Mamuju",
+        "kode_wilayah_induk_kabupaten": "330100  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2024 12:04:56",
+        "sekolah_id_enkrip": "ED2815E177B6CE348CEA                                                                                "
+    }
+]

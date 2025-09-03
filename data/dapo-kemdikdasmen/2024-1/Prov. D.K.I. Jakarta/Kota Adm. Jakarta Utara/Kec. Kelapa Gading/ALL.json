@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B & C CAHAYA JAYA",
+        "sekolah_id": "6042A796-2BF5-E011-8519-CFE22C9F5B93",
+        "npsn": 20110818,
+        "jumlah_kirim": 11,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 56,
+        "rombel": 12,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kelapa Gading",
+        "kode_wilayah_induk_kecamatan": "016105  ",
+        "induk_kabupaten": "Kota Jakarta Utara",
+        "kode_wilayah_induk_kabupaten": "016100  ",
+        "induk_provinsi": "Prov. D.K.I. Jakarta",
+        "kode_wilayah_induk_provinsi": "010000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 23:45:56",
+        "sekolah_id_enkrip": "DFDF53EF508DF8D4EE9C                                                                                "
+    }
+]

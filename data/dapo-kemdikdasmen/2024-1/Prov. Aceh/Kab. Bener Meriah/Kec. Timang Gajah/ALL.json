@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS RESTU PERMATA BUNDA",
+        "sekolah_id": "905B76A7-97D7-E111-A3FD-9BD17EB9FBB6",
+        "npsn": 10110766,
+        "jumlah_kirim": 8,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 57,
+        "rombel": 12,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Timang Gajah",
+        "kode_wilayah_induk_kecamatan": "061901  ",
+        "induk_kabupaten": "Kab. Bener Meriah",
+        "kode_wilayah_induk_kabupaten": "061900  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 08:26:39",
+        "sekolah_id_enkrip": "8F03C173C56829D3CA57                                                                                "
+    }
+]

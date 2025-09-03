@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PKK SUMBERREJO",
+        "sekolah_id": "401A1930-02C1-E111-97A0-09FE409D2C0D",
+        "npsn": 20504494,
+        "jumlah_kirim": 29,
+        "ptk": 11,
+        "pegawai": 6,
+        "pd": 113,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sumberrejo",
+        "kode_wilayah_induk_kecamatan": "050512  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 11:07:08",
+        "sekolah_id_enkrip": "6C8461EF377005E86471                                                                                "
+    }
+]

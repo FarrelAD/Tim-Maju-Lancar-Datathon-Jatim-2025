@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI CINEAM",
+        "sekolah_id": "A063E015-2CF5-E011-951E-F735A6D65C61",
+        "npsn": 20268133,
+        "jumlah_kirim": 27,
+        "ptk": 17,
+        "pegawai": 11,
+        "pd": 92,
+        "rombel": 25,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cineam",
+        "kode_wilayah_induk_kecamatan": "021215  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 05:45:05",
+        "sekolah_id_enkrip": "AEA60A5C68A2A37C7C32                                                                                "
+    }
+]

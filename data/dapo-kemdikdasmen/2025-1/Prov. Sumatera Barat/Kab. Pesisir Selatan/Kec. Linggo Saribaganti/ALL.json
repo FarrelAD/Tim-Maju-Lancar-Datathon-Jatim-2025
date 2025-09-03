@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 LINGGO SARI BAGANTI",
+        "sekolah_id": "B097EF79-2FF5-E011-A311-21712D1ABA52",
+        "npsn": 10310573,
+        "jumlah_kirim": 6,
+        "ptk": 24,
+        "pegawai": 5,
+        "pd": 78,
+        "rombel": 23,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Linggo Saribaganti",
+        "kode_wilayah_induk_kecamatan": "080604  ",
+        "induk_kabupaten": "Kab. Pesisir Selatan",
+        "kode_wilayah_induk_kabupaten": "080600  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 08:04:13",
+        "sekolah_id_enkrip": "8A056495E7667755A75F                                                                                "
+    }
+]

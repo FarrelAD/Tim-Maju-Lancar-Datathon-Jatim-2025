@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KAB. BEKASI",
+        "sekolah_id": "800D0A71-2B9C-E211-8635-CBF2F236EB55",
+        "npsn": 69753766,
+        "jumlah_kirim": 49,
+        "ptk": 17,
+        "pegawai": 11,
+        "pd": 107,
+        "rombel": 24,
+        "jml_rk": 9,
+        "jml_lab": 2,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Serang Baru",
+        "kode_wilayah_induk_kecamatan": "022227  ",
+        "induk_kabupaten": "Kab. Bekasi",
+        "kode_wilayah_induk_kabupaten": "022200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 13:36:05",
+        "sekolah_id_enkrip": "BCE85719AC0CDEFFEEB5                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS CAHAYA",
+        "sekolah_id": "5D3CD266-DA34-4697-BF4B-485748359F7C",
+        "npsn": 69814205,
+        "jumlah_kirim": 3,
+        "ptk": 11,
+        "pegawai": 6,
+        "pd": 142,
+        "rombel": 29,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Peureulak",
+        "kode_wilayah_induk_kecamatan": "060411  ",
+        "induk_kabupaten": "Kab. Aceh Timur",
+        "kode_wilayah_induk_kabupaten": "060400  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 19:38:29",
+        "sekolah_id_enkrip": "8F886C5C6DA2F9CD0024                                                                                "
+    }
+]

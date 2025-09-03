@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB WARAQIL JANNAH",
+        "sekolah_id": "7F581219-50FD-4BB9-9E8E-AD236B9F00CD",
+        "npsn": 69759043,
+        "jumlah_kirim": 18,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 47,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. X Koto",
+        "kode_wilayah_induk_kecamatan": "080701  ",
+        "induk_kabupaten": "Kab. Tanah Datar",
+        "kode_wilayah_induk_kabupaten": "080700  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 10:37:22",
+        "sekolah_id_enkrip": "F052E2A39CB6D07C4BDA                                                                                "
+    }
+]

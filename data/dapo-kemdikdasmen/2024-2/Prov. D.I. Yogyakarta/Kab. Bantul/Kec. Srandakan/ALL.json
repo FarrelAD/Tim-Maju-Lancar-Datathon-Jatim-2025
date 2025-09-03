@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS 1 SEKAR TERATAI",
+        "sekolah_id": "6F862B5C-D4E0-460E-8A06-63079E9B7E54",
+        "npsn": 69765054,
+        "jumlah_kirim": 30,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 41,
+        "rombel": 13,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Srandakan",
+        "kode_wilayah_induk_kecamatan": "040101  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 13:14:20",
+        "sekolah_id_enkrip": "56C75CFF138D8B4C3E2D                                                                                "
+    }
+]

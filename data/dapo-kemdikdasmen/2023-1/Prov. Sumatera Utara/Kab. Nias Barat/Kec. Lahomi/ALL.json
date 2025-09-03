@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NIAS BARAT",
+        "sekolah_id": "712D055F-37AB-4E60-AE54-518328CDBAC9",
+        "npsn": 69976677,
+        "jumlah_kirim": 53,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 26,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lahomi",
+        "kode_wilayah_induk_kecamatan": "072703  ",
+        "induk_kabupaten": "Kab. Nias Barat",
+        "kode_wilayah_induk_kabupaten": "072700  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 15:23:10",
+        "sekolah_id_enkrip": "398A1DC15CF1A90AA6CB                                                                                "
+    }
+]

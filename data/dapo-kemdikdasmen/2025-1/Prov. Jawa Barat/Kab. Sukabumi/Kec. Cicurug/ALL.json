@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-ROSYADIYAH",
+        "sekolah_id": "70DA588E-D506-E211-AD47-4B0A1BD1798C",
+        "npsn": 20258235,
+        "jumlah_kirim": 6,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 95,
+        "rombel": 17,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cicurug",
+        "kode_wilayah_induk_kecamatan": "020623  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 21:11:12",
+        "sekolah_id_enkrip": "DA5CF791CEDE54B74FE5                                                                                "
+    }
+]

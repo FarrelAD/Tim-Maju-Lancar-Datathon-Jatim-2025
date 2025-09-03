@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC MUHAMMADIYAH BANJARSARI",
+        "sekolah_id": "C08BCC74-D4C4-E111-93E8-C15625DEF812",
+        "npsn": 20258211,
+        "jumlah_kirim": 19,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 137,
+        "rombel": 33,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Banjarsari",
+        "kode_wilayah_induk_kecamatan": "021410  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 06:40:18",
+        "sekolah_id_enkrip": "A94937C9E77914A0CC50                                                                                "
+    }
+]

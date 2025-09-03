@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DELTA SEJAHTERA",
+        "sekolah_id": "5032D8F5-8B18-E111-B5EB-6DB4BAB135D7",
+        "npsn": 20501855,
+        "jumlah_kirim": 10,
+        "ptk": 10,
+        "pegawai": 0,
+        "pd": 70,
+        "rombel": 11,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanggulangin",
+        "kode_wilayah_induk_kecamatan": "050206  ",
+        "induk_kabupaten": "Kab. Sidoarjo",
+        "kode_wilayah_induk_kabupaten": "050200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 11:26:01",
+        "sekolah_id_enkrip": "E1E385F3ECA1235DE31D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPT. SLB NEGERI PADANGSIDIMPUAN",
+        "sekolah_id": "005D05DB-2EF5-E011-8654-2129A90FDFEB",
+        "npsn": 69768148,
+        "jumlah_kirim": 18,
+        "ptk": 19,
+        "pegawai": 1,
+        "pd": 126,
+        "rombel": 18,
+        "jml_rk": 19,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Hutaimbaru",
+        "kode_wilayah_induk_kecamatan": "076604  ",
+        "induk_kabupaten": "Kota Padang Sidimpuan",
+        "kode_wilayah_induk_kabupaten": "076600  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 16:16:14",
+        "sekolah_id_enkrip": "D2CC356DDBF98B6FAEF9                                                                                "
+    }
+]

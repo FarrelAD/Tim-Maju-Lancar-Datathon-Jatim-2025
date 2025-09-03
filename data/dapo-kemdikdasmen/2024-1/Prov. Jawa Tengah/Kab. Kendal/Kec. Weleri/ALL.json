@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN KENDAL",
+        "sekolah_id": "E0CA1258-2DF5-E011-A350-131724B48685",
+        "npsn": 20322031,
+        "jumlah_kirim": 48,
+        "ptk": 52,
+        "pegawai": 5,
+        "pd": 349,
+        "rombel": 64,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Weleri",
+        "kode_wilayah_induk_kecamatan": "032412  ",
+        "induk_kabupaten": "Kab. Kendal",
+        "kode_wilayah_induk_kabupaten": "032400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 21:17:19",
+        "sekolah_id_enkrip": "76BFA7DFC123B604C12C                                                                                "
+    }
+]

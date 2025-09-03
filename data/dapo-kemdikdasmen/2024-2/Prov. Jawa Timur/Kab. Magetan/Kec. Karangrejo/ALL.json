@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KARANGREJO MAGETAN",
+        "sekolah_id": "F0022447-E1FE-E111-BABA-2B99B7F23A77",
+        "npsn": 20509478,
+        "jumlah_kirim": 22,
+        "ptk": 22,
+        "pegawai": 3,
+        "pd": 68,
+        "rombel": 25,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karangrejo",
+        "kode_wilayah_induk_kecamatan": "051012  ",
+        "induk_kabupaten": "Kab. Magetan",
+        "kode_wilayah_induk_kabupaten": "051000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 09:08:56",
+        "sekolah_id_enkrip": "2F80E3293DAAF1A12A11                                                                                "
+    }
+]

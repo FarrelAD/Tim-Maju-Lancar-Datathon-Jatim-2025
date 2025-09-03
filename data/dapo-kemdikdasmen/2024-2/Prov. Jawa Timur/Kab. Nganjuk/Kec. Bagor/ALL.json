@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL IKHSAN 1 BAGOR",
+        "sekolah_id": "4989C0E0-F479-4608-8C43-20A46B00E8BB",
+        "npsn": 69831497,
+        "jumlah_kirim": 40,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 44,
+        "rombel": 11,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bagor",
+        "kode_wilayah_induk_kecamatan": "051415  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 23:49:19",
+        "sekolah_id_enkrip": "B1AB8B552A51604A45FE                                                                                "
+    }
+]

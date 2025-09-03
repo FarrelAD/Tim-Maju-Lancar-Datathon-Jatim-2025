@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLBN TOBADAK",
+        "sekolah_id": "DACF9021-220E-4D20-ABA8-867E7BA02CE6",
+        "npsn": 69939598,
+        "jumlah_kirim": 18,
+        "ptk": 11,
+        "pegawai": 5,
+        "pd": 31,
+        "rombel": 10,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tobadak",
+        "kode_wilayah_induk_kecamatan": "330604  ",
+        "induk_kabupaten": "Kab. Mamuju Tengah",
+        "kode_wilayah_induk_kabupaten": "330600  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 13:38:09",
+        "sekolah_id_enkrip": "0F3D9225B93C0BEBA8D8                                                                                "
+    }
+]

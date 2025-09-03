@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PIDIE JAYA",
+        "sekolah_id": "AB4A3E32-8BED-4135-9F44-FD1F44D5D68C",
+        "npsn": 69830103,
+        "jumlah_kirim": 3,
+        "ptk": 29,
+        "pegawai": 5,
+        "pd": 131,
+        "rombel": 42,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Meureudu",
+        "kode_wilayah_induk_kecamatan": "062001  ",
+        "induk_kabupaten": "Kab. Pidie Jaya",
+        "kode_wilayah_induk_kabupaten": "062000  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 17:32:20",
+        "sekolah_id_enkrip": "1206A4BB7223845A9040                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 KAMANG BARU",
+        "sekolah_id": "188EB16A-4D7A-45DD-914B-C5ABA90F4114",
+        "npsn": 10311324,
+        "jumlah_kirim": 20,
+        "ptk": 15,
+        "pegawai": 4,
+        "pd": 61,
+        "rombel": 16,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kamang Baru",
+        "kode_wilayah_induk_kecamatan": "080805  ",
+        "induk_kabupaten": "Kab. Sijunjung",
+        "kode_wilayah_induk_kabupaten": "080800  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 16:48:39",
+        "sekolah_id_enkrip": "513E27CCDCF4F0F1D290                                                                                "
+    }
+]

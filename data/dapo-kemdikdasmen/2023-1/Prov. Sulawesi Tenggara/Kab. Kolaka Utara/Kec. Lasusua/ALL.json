@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SWASTA BINA INSAN LASUSUA",
+        "sekolah_id": "6BE9BB29-0498-4CD1-A9FD-C067318E654E",
+        "npsn": 70042687,
+        "jumlah_kirim": 12,
+        "ptk": 1,
+        "pegawai": 1,
+        "pd": 5,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lasusua",
+        "kode_wilayah_induk_kecamatan": "200801  ",
+        "induk_kabupaten": "Kab. Kolaka Utara",
+        "kode_wilayah_induk_kabupaten": "200800  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 06:17:32",
+        "sekolah_id_enkrip": "B48BB18C62749D3B102B                                                                                "
+    }
+]

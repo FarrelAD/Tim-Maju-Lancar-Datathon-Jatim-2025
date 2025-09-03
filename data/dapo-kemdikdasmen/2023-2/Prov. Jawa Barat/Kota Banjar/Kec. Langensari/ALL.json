@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Langensari",
+        "sekolah_id": "20649606-2DF5-E011-A3D1-17B21A6E7FA1",
+        "npsn": 60724654,
+        "jumlah_kirim": 27,
+        "ptk": 18,
+        "pegawai": 9,
+        "pd": 75,
+        "rombel": 26,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Langensari",
+        "kode_wilayah_induk_kecamatan": "026904  ",
+        "induk_kabupaten": "Kota Banjar",
+        "kode_wilayah_induk_kabupaten": "026900  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 13:27:42",
+        "sekolah_id_enkrip": "A95BE6132E1E6802A7DB                                                                                "
+    }
+]

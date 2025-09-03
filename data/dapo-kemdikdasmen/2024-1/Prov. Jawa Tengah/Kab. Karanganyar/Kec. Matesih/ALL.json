@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YAYASAN ADI WALUYO KARANGANYAR",
+        "sekolah_id": "3FC27B34-D6E5-42FB-AB79-84C3CD812F5A",
+        "npsn": 69967051,
+        "jumlah_kirim": 18,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 47,
+        "rombel": 8,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Matesih",
+        "kode_wilayah_induk_kecamatan": "031305  ",
+        "induk_kabupaten": "Kab. Karanganyar",
+        "kode_wilayah_induk_kabupaten": "031300  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 07:11:56",
+        "sekolah_id_enkrip": "6AF54AC58CA6C42E2EB8                                                                                "
+    }
+]

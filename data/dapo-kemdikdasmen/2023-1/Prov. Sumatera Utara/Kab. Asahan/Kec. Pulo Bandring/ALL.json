@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SEKOLAH LUAR BIASA (SLB) SWASTA OSAKALI ASAHAN",
+        "sekolah_id": "FA3AA81E-7379-4C1E-8387-9F5456360601",
+        "npsn": 69959064,
+        "jumlah_kirim": 19,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 82,
+        "rombel": 25,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pulo Bandring",
+        "kode_wilayah_induk_kecamatan": "070632  ",
+        "induk_kabupaten": "Kab. Asahan",
+        "kode_wilayah_induk_kabupaten": "070600  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 07:55:48",
+        "sekolah_id_enkrip": "1241D7FE7C7BE39B10D2                                                                                "
+    }
+]

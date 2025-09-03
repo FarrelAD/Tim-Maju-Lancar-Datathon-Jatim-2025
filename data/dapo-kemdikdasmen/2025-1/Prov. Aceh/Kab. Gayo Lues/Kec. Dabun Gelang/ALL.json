@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PEMBINA BLANGKEJEREN",
+        "sekolah_id": "800A8071-3CFE-E111-BA15-89B2F2D069CB",
+        "npsn": 10113205,
+        "jumlah_kirim": 6,
+        "ptk": 17,
+        "pegawai": 5,
+        "pd": 38,
+        "rombel": 16,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dabun Gelang",
+        "kode_wilayah_induk_kecamatan": "061808  ",
+        "induk_kabupaten": "Kab. Gayo Lues",
+        "kode_wilayah_induk_kabupaten": "061800  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 17:27:08",
+        "sekolah_id_enkrip": "3A25052A4035C27772A4                                                                                "
+    }
+]

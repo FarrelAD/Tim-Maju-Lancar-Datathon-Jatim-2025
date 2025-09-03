@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BENPASI",
+        "sekolah_id": "A088E23A-033C-E111-8D3C-1FC7E574DFE6",
+        "npsn": 50301154,
+        "jumlah_kirim": 20,
+        "ptk": 31,
+        "pegawai": 9,
+        "pd": 110,
+        "rombel": 24,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Kefamenanu",
+        "kode_wilayah_induk_kecamatan": "240403  ",
+        "induk_kabupaten": "Kab. Timor Tengah Utara",
+        "kode_wilayah_induk_kabupaten": "240400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 10:24:24",
+        "sekolah_id_enkrip": "8AD699DF461639318BF9                                                                                "
+    }
+]

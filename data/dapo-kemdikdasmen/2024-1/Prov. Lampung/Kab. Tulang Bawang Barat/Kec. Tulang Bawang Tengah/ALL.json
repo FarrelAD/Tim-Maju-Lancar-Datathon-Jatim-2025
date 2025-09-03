@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Tulang Bawang Barat",
+        "sekolah_id": "A84EE7CE-5E21-4C93-970A-400B6C08A981",
+        "npsn": 69968420,
+        "jumlah_kirim": 21,
+        "ptk": 20,
+        "pegawai": 2,
+        "pd": 115,
+        "rombel": 25,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tulang Bawang Tengah",
+        "kode_wilayah_induk_kecamatan": "121203  ",
+        "induk_kabupaten": "Kab. Tulang Bawang Barat",
+        "kode_wilayah_induk_kabupaten": "121200  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 22:47:19",
+        "sekolah_id_enkrip": "74508481D3DC9FD1F2D3                                                                                "
+    }
+]

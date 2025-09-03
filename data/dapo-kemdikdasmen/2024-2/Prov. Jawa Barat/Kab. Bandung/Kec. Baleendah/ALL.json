@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB G YBMU BALEENDAH",
+        "sekolah_id": "F0C3DB15-2CF5-E011-AED5-19F4C9E93D1E",
+        "npsn": 20259623,
+        "jumlah_kirim": 14,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 100,
+        "rombel": 15,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Baleendah",
+        "kode_wilayah_induk_kecamatan": "020814  ",
+        "induk_kabupaten": "Kab. Bandung",
+        "kode_wilayah_induk_kabupaten": "020800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 05:41:46",
+        "sekolah_id_enkrip": "CEB1317F4EB9235603A4                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri TOBOALI",
+        "sekolah_id": "E058FBAD-31F5-E011-9F0A-C1641DB44D93",
+        "npsn": 10901445,
+        "jumlah_kirim": 14,
+        "ptk": 16,
+        "pegawai": 10,
+        "pd": 98,
+        "rombel": 34,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Toboali",
+        "kode_wilayah_induk_kecamatan": "290503  ",
+        "induk_kabupaten": "Kab. Bangka Selatan",
+        "kode_wilayah_induk_kabupaten": "290500  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 12:22:34",
+        "sekolah_id_enkrip": "B16329B2A363DEC1E340                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC BAITURROHMAN",
+        "sekolah_id": "60CAE015-2CF5-E011-BD59-71E066217F41",
+        "npsn": 20268138,
+        "jumlah_kirim": 21,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 59,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Padakembang",
+        "kode_wilayah_induk_kecamatan": "021239  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 11:27:30",
+        "sekolah_id_enkrip": "369B674AD5076A525E50                                                                                "
+    }
+]

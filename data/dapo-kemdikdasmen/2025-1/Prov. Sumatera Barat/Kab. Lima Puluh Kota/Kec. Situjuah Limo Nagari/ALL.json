@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CITRA BANGSA",
+        "sekolah_id": "A0725D79-2FF5-E011-982D-59A54B7A15C8",
+        "npsn": 10304436,
+        "jumlah_kirim": 3,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 21,
+        "rombel": 8,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Situjuah Limo Nagari",
+        "kode_wilayah_induk_kecamatan": "080312  ",
+        "induk_kabupaten": "Kab. Lima Puluh Kota",
+        "kode_wilayah_induk_kabupaten": "080300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 06:50:11",
+        "sekolah_id_enkrip": "32245BB1A4B341ADE1EC                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 LOMBOK UTARA",
+        "sekolah_id": "BAE972CF-D4B1-436E-B6CF-CB0C3751AA4F",
+        "npsn": 69975437,
+        "jumlah_kirim": 38,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 99,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung",
+        "kode_wilayah_induk_kecamatan": "230801  ",
+        "induk_kabupaten": "Kab. Lombok Utara",
+        "kode_wilayah_induk_kabupaten": "230800  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 14:31:30",
+        "sekolah_id_enkrip": "533DD3D3F853AAE91D47                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PUSPA MELATI",
+        "sekolah_id": "54D8FEFA-8F05-40EE-9EA2-8A5057DC55BA",
+        "npsn": 69769623,
+        "jumlah_kirim": 9,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 54,
+        "rombel": 38,
+        "jml_rk": 22,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tepus",
+        "kode_wilayah_induk_kecamatan": "040304  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 23:18:50",
+        "sekolah_id_enkrip": "198C1B730FF9F991075E                                                                                "
+    }
+]

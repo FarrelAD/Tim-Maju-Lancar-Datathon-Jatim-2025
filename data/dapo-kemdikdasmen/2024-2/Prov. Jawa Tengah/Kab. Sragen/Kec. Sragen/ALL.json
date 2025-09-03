@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC BAGASKARA",
+        "sekolah_id": "D089C15B-2DF5-E011-A48A-D9B344005E49",
+        "npsn": 20354060,
+        "jumlah_kirim": 12,
+        "ptk": 15,
+        "pegawai": 3,
+        "pd": 90,
+        "rombel": 20,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sragen",
+        "kode_wilayah_induk_kecamatan": "031410  ",
+        "induk_kabupaten": "Kab. Sragen",
+        "kode_wilayah_induk_kabupaten": "031400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 23:21:55",
+        "sekolah_id_enkrip": "51B5F5FC45315E051314                                                                                "
+    }
+]

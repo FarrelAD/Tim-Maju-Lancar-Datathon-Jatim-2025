@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C DHARMA WANITA",
+        "sekolah_id": "B0FEE115-2CF5-E011-86F9-9FA1F13CF3B0",
+        "npsn": 20256801,
+        "jumlah_kirim": 8,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 79,
+        "rombel": 15,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jalaksana",
+        "kode_wilayah_induk_kecamatan": "021516  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 16:16:38",
+        "sekolah_id_enkrip": "B7CBC3BD1A4E25A6BBB7                                                                                "
+    }
+]

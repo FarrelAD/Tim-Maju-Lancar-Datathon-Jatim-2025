@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DARMA PUTRA",
+        "sekolah_id": "302B195D-2EF5-E011-99CB-5D53DD8CE5F8",
+        "npsn": 55720044,
+        "jumlah_kirim": 12,
+        "ptk": 4,
+        "pegawai": 3,
+        "pd": 61,
+        "rombel": 20,
+        "jml_rk": 15,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Semin",
+        "kode_wilayah_induk_kecamatan": "040315  ",
+        "induk_kabupaten": "Kab. Gunungkidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 10:16:05",
+        "sekolah_id_enkrip": "640A4ECC169EBAEDE0E0                                                                                "
+    }
+]

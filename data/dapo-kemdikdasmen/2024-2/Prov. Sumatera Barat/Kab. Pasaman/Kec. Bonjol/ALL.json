@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB HUSNI MURNI",
+        "sekolah_id": "BDD38C5E-86B1-4531-B6EE-7AD5630C8E14",
+        "npsn": 69902714,
+        "jumlah_kirim": 29,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 32,
+        "rombel": 18,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bonjol",
+        "kode_wilayah_induk_kecamatan": "080207  ",
+        "induk_kabupaten": "Kab. Pasaman",
+        "kode_wilayah_induk_kabupaten": "080200  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 19:48:44",
+        "sekolah_id_enkrip": "826BED7B8990EB28FC3C                                                                                "
+    }
+]

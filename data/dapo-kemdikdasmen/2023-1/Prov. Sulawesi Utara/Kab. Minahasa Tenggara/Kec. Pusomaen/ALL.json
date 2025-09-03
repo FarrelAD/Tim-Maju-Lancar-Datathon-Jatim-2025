@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PUSOMAEN",
+        "sekolah_id": "21C0D194-6C32-48F3-A252-FA731A1A95F8",
+        "npsn": 69857934,
+        "jumlah_kirim": 22,
+        "ptk": 18,
+        "pegawai": 1,
+        "pd": 64,
+        "rombel": 17,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pusomaen",
+        "kode_wilayah_induk_kecamatan": "171002  ",
+        "induk_kabupaten": "Kab. Minahasa Tenggara",
+        "kode_wilayah_induk_kabupaten": "171000  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "01 Aug 2025 19:54:49",
+        "sekolah_id_enkrip": "65C68387FFAB428539A8                                                                                "
+    }
+]

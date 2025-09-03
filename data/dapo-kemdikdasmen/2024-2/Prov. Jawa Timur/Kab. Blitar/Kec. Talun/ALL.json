@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TALUN KABUPATEN BLITAR",
+        "sekolah_id": "406EB893-54BF-E111-90C9-5DCEE2D5829B",
+        "npsn": 20549292,
+        "jumlah_kirim": 38,
+        "ptk": 21,
+        "pegawai": 8,
+        "pd": 93,
+        "rombel": 33,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Talun",
+        "kode_wilayah_induk_kecamatan": "051509  ",
+        "induk_kabupaten": "Kab. Blitar",
+        "kode_wilayah_induk_kabupaten": "051500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 08:14:41",
+        "sekolah_id_enkrip": "F33D4E8C293480521229                                                                                "
+    }
+]

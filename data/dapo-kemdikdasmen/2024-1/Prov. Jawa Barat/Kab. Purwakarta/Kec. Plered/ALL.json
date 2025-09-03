@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD BUDI UTAMA",
+        "sekolah_id": "20C9E315-2CF5-E011-8C09-6B8297D9B1A5",
+        "npsn": 20253160,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 6,
+        "pd": 75,
+        "rombel": 13,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Plered",
+        "kode_wilayah_induk_kecamatan": "022004  ",
+        "induk_kabupaten": "Kab. Purwakarta",
+        "kode_wilayah_induk_kabupaten": "022000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 07:06:31",
+        "sekolah_id_enkrip": "9D1A89836A296CA8EC09                                                                                "
+    }
+]

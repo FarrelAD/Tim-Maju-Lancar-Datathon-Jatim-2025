@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL KAUSAR",
+        "sekolah_id": "060963BE-344A-44F2-830C-05C06FA456C6",
+        "npsn": 69971258,
+        "jumlah_kirim": 2,
+        "ptk": 1,
+        "pegawai": 4,
+        "pd": 15,
+        "rombel": 6,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lembah Segar",
+        "kode_wilayah_induk_kecamatan": "086302  ",
+        "induk_kabupaten": "Kota Sawahlunto",
+        "kode_wilayah_induk_kabupaten": "086300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 23:40:39",
+        "sekolah_id_enkrip": "56ACCD2012EF7F2FCB34                                                                                "
+    }
+]

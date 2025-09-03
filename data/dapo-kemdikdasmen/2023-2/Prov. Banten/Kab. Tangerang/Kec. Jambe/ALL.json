@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH Bina Insan Mandiri",
+        "sekolah_id": "E447ED74-0059-4D1D-BB84-3C5B7DB20FE7",
+        "npsn": 69966709,
+        "jumlah_kirim": 11,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 32,
+        "rombel": 9,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jambe",
+        "kode_wilayah_induk_kecamatan": "280323  ",
+        "induk_kabupaten": "Kab. Tangerang",
+        "kode_wilayah_induk_kabupaten": "280300  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 12:12:19",
+        "sekolah_id_enkrip": "C2085450C6D0DFEAF782                                                                                "
+    }
+]

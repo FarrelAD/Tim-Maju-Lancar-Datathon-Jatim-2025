@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DOA UMMA",
+        "sekolah_id": "DF2FA712-C207-44DE-8356-8B249BBDAD2A",
+        "npsn": 70056278,
+        "jumlah_kirim": 0,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bungo Dani",
+        "kode_wilayah_induk_kecamatan": "100212  ",
+        "induk_kabupaten": "Kab. Bungo",
+        "kode_wilayah_induk_kabupaten": "100200  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "5182847D16215BFA1D5E                                                                                "
+    }
+]

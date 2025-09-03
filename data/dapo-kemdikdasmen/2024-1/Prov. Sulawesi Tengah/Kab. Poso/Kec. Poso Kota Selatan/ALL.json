@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI POSO",
+        "sekolah_id": "E0EA834B-EEFE-E111-85D6-55AEC6921E93",
+        "npsn": 40204277,
+        "jumlah_kirim": 46,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 45,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Poso Kota Selatan",
+        "kode_wilayah_induk_kecamatan": "180321  ",
+        "induk_kabupaten": "Kab. Poso",
+        "kode_wilayah_induk_kabupaten": "180300  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "08 Aug 2025 10:44:09",
+        "sekolah_id_enkrip": "2DE3CC40CA6779A02935                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB A DW SALUPUTTI",
+        "sekolah_id": "60E1C5C1-0D26-E111-82B4-790B0AE9E9AA",
+        "npsn": 40309727,
+        "jumlah_kirim": 10,
+        "ptk": 1,
+        "pegawai": 4,
+        "pd": 38,
+        "rombel": 11,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Saluputti",
+        "kode_wilayah_induk_kecamatan": "191805  ",
+        "induk_kabupaten": "Kab. Tana Toraja",
+        "kode_wilayah_induk_kabupaten": "191800  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 16:50:54",
+        "sekolah_id_enkrip": "A0F71BDB1EE18A283BC5                                                                                "
+    }
+]

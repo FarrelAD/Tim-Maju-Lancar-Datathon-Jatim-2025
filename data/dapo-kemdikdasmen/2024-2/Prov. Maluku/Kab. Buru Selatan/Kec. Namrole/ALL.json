@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NAMROLE",
+        "sekolah_id": "D2C69BD5-4061-4A7C-AB2F-D29B76CFAABA",
+        "npsn": 69786774,
+        "jumlah_kirim": 20,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 25,
+        "rombel": 9,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Namrole",
+        "kode_wilayah_induk_kecamatan": "210904  ",
+        "induk_kabupaten": "Kab. Buru Selatan",
+        "kode_wilayah_induk_kabupaten": "210900  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "02 Jun 2025 07:33:15",
+        "sekolah_id_enkrip": "B233439C45CBD8303DFF                                                                                "
+    }
+]

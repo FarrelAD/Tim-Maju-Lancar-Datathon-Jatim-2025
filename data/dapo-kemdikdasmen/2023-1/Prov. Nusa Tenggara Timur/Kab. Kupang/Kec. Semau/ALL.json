@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NUSA BUNGTILU",
+        "sekolah_id": "4F41CA8B-FC99-486C-B093-30056EC85BAA",
+        "npsn": 70007125,
+        "jumlah_kirim": 45,
+        "ptk": 8,
+        "pegawai": 14,
+        "pd": 19,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Semau",
+        "kode_wilayah_induk_kecamatan": "240110  ",
+        "induk_kabupaten": "Kab. Kupang",
+        "kode_wilayah_induk_kabupaten": "240100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 09:32:38",
+        "sekolah_id_enkrip": "14927544A85FC7B1B2FD                                                                                "
+    }
+]

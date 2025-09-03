@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA BUNGA",
+        "sekolah_id": "7F43BD82-7072-4DCD-BCB3-238C059E2C77",
+        "npsn": 69947997,
+        "jumlah_kirim": 3,
+        "ptk": 2,
+        "pegawai": 3,
+        "pd": 25,
+        "rombel": 7,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jati Agung",
+        "kode_wilayah_induk_kecamatan": "120107  ",
+        "induk_kabupaten": "Kab. Lampung Selatan",
+        "kode_wilayah_induk_kabupaten": "120100  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 14:10:55",
+        "sekolah_id_enkrip": "828F5C0DDAE696B10DA1                                                                                "
+    }
+]

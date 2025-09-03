@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN Puruk Cahu",
+        "sekolah_id": "B0E348C9-15E0-E111-9334-A90092F5786F",
+        "npsn": 69754310,
+        "jumlah_kirim": 13,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 34,
+        "rombel": 11,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Murung",
+        "kode_wilayah_induk_kecamatan": "141202  ",
+        "induk_kabupaten": "Kab. Murung Raya",
+        "kode_wilayah_induk_kabupaten": "141200  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 21:16:13",
+        "sekolah_id_enkrip": "3AB70C6433F64FD7FC21                                                                                "
+    }
+]

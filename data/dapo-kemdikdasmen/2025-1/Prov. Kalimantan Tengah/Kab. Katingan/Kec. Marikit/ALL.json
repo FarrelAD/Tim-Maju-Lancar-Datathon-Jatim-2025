@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKHN 1 MARIKIT",
+        "sekolah_id": "1A947354-7496-475D-85D4-51DFA9F7A7B7",
+        "npsn": 70056380,
+        "jumlah_kirim": 0,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Marikit",
+        "kode_wilayah_induk_kecamatan": "140610  ",
+        "induk_kabupaten": "Kab. Katingan",
+        "kode_wilayah_induk_kabupaten": "140600  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "164C21A2A5C358831378                                                                                "
+    }
+]

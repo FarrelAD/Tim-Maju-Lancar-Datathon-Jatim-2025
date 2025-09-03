@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA WANITA KEBONSARI",
+        "sekolah_id": "8061CD7D-F6AA-E111-B1BC-053C3A43D9F6",
+        "npsn": 20507830,
+        "jumlah_kirim": 11,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kebonsari",
+        "kode_wilayah_induk_kecamatan": "050801  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 20:00:46",
+        "sekolah_id_enkrip": "93F9AD83F99F65F129C6                                                                                "
+    }
+]

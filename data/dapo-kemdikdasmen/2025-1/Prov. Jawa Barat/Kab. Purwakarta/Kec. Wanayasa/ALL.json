@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YAKALIMU",
+        "sekolah_id": "60ABE315-2CF5-E011-B48B-ED99533A4BE7",
+        "npsn": 20258169,
+        "jumlah_kirim": 6,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 83,
+        "rombel": 26,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wanayasa",
+        "kode_wilayah_induk_kecamatan": "022008  ",
+        "induk_kabupaten": "Kab. Purwakarta",
+        "kode_wilayah_induk_kabupaten": "022000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:04:08",
+        "sekolah_id_enkrip": "3A823D94E70613C764E6                                                                                "
+    }
+]

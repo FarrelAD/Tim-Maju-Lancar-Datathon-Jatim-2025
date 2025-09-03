@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI PURWOASRI",
+        "sekolah_id": "1103402E-D9C7-49BC-8E08-36EA9462431C",
+        "npsn": 69772555,
+        "jumlah_kirim": 13,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 51,
+        "rombel": 14,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwoasri",
+        "kode_wilayah_induk_kecamatan": "051320  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 12:14:06",
+        "sekolah_id_enkrip": "EC7C44F6C612407331C2                                                                                "
+    }
+]

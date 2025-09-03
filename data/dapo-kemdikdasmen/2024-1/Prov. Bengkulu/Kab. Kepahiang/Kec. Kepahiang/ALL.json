@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 KEPAHIANG",
+        "sekolah_id": "C0BA76DC-31F5-E011-BC7E-57793CC0FE63",
+        "npsn": 10703050,
+        "jumlah_kirim": 16,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 80,
+        "rombel": 13,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kepahiang",
+        "kode_wilayah_induk_kecamatan": "260501  ",
+        "induk_kabupaten": "Kab. Kepahiang",
+        "kode_wilayah_induk_kabupaten": "260500  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "10 Aug 2025 20:14:07",
+        "sekolah_id_enkrip": "74A12AF094E23EBB4ED4                                                                                "
+    }
+]

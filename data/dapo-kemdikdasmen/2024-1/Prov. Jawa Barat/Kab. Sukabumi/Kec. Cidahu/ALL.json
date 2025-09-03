@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC ANUGRAH",
+        "sekolah_id": "A07820FD-3202-E211-A1F5-A51D5412C9DF",
+        "npsn": 20275994,
+        "jumlah_kirim": 7,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 56,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cidahu",
+        "kode_wilayah_induk_kecamatan": "020624  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 21:59:53",
+        "sekolah_id_enkrip": "C74534F3165E2EF60755                                                                                "
+    }
+]

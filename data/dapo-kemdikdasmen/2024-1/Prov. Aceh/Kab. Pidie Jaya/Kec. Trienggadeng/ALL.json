@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BAITUL ILMI",
+        "sekolah_id": "7607AC01-E577-40DB-B6EE-81AE0B7C3A5D",
+        "npsn": 69984140,
+        "jumlah_kirim": 65,
+        "ptk": 12,
+        "pegawai": 6,
+        "pd": 49,
+        "rombel": 25,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Trienggadeng",
+        "kode_wilayah_induk_kecamatan": "062008  ",
+        "induk_kabupaten": "Kab. Pidie Jaya",
+        "kode_wilayah_induk_kabupaten": "062000  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 04:02:52",
+        "sekolah_id_enkrip": "ED8F7F7F3348018F5C39                                                                                "
+    }
+]

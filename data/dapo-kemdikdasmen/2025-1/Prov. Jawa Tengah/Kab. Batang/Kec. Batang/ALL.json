@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BATANG",
+        "sekolah_id": "A0311E53-2DF5-E011-A4FC-F344E6FE8760",
+        "npsn": 20322962,
+        "jumlah_kirim": 10,
+        "ptk": 20,
+        "pegawai": 6,
+        "pd": 310,
+        "rombel": 21,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Batang",
+        "kode_wilayah_induk_kecamatan": "032511  ",
+        "induk_kabupaten": "Kab. Batang",
+        "kode_wilayah_induk_kabupaten": "032500  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 14:46:00",
+        "sekolah_id_enkrip": "012EEC70C4499E5BEE14                                                                                "
+    }
+]

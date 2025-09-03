@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PEMBINA ACEH TAMIANG",
+        "sekolah_id": "4030BF90-2EF5-E011-B3BB-03F82ABCDA9D",
+        "npsn": 10107120,
+        "jumlah_kirim": 65,
+        "ptk": 49,
+        "pegawai": 23,
+        "pd": 317,
+        "rombel": 69,
+        "jml_rk": 53,
+        "jml_lab": 4,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rantau",
+        "kode_wilayah_induk_kecamatan": "061408  ",
+        "induk_kabupaten": "Kab. Aceh Tamiang",
+        "kode_wilayah_induk_kabupaten": "061400  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 21:37:52",
+        "sekolah_id_enkrip": "A2B9CD6314BCAAE9760A                                                                                "
+    }
+]

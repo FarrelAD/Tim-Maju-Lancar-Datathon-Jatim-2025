@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-ALAQ",
+        "sekolah_id": "B7A66F94-90CF-4A02-9C2C-24E94281CE8B",
+        "npsn": 69815466,
+        "jumlah_kirim": 16,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 23,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tamalanrea",
+        "kode_wilayah_induk_kecamatan": "196012  ",
+        "induk_kabupaten": "Kota Makassar",
+        "kode_wilayah_induk_kabupaten": "196000  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 18:03:36",
+        "sekolah_id_enkrip": "161FE3598F0D85FF0837                                                                                "
+    }
+]

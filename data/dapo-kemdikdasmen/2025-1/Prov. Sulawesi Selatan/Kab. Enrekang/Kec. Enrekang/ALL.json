@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 ENREKANG",
+        "sekolah_id": "20D8A8C3-0D26-E111-BBE3-E166D656A0F6",
+        "npsn": 40313039,
+        "jumlah_kirim": 27,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 51,
+        "rombel": 26,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Enrekang",
+        "kode_wilayah_induk_kecamatan": "191602  ",
+        "induk_kabupaten": "Kab. Enrekang",
+        "kode_wilayah_induk_kabupaten": "191600  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 00:38:08",
+        "sekolah_id_enkrip": "3104EE8D8A746DC1EE36                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 LOMBOK TIMUR",
+        "sekolah_id": "80484905-7BFE-E111-9F28-197D5EA28984",
+        "npsn": 50220483,
+        "jumlah_kirim": 27,
+        "ptk": 25,
+        "pegawai": 5,
+        "pd": 208,
+        "rombel": 22,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Masbagik",
+        "kode_wilayah_induk_kecamatan": "230305  ",
+        "induk_kabupaten": "Kab. Lombok Timur",
+        "kode_wilayah_induk_kabupaten": "230300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 14:37:33",
+        "sekolah_id_enkrip": "ED79EE1CCC27E1ACA413                                                                                "
+    }
+]

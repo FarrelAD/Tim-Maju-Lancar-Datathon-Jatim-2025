@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LINGGA",
+        "sekolah_id": "ECC36A24-88A8-456E-8457-222055386740",
+        "npsn": 69972874,
+        "jumlah_kirim": 18,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 49,
+        "rombel": 25,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Singkep",
+        "kode_wilayah_induk_kecamatan": "310401  ",
+        "induk_kabupaten": "Kab. Lingga",
+        "kode_wilayah_induk_kabupaten": "310400  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:16:04",
+        "sekolah_id_enkrip": "7DAFAE42675137EEB364                                                                                "
+    }
+]

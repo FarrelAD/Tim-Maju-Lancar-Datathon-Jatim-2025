@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC FADHILAH",
+        "sekolah_id": "E0D4DD15-2CF5-E011-BC41-E5EBC57BC643",
+        "npsn": 20208541,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 44,
+        "rombel": 19,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jatinangor",
+        "kode_wilayah_induk_kecamatan": "021001  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 May 2025 11:59:42",
+        "sekolah_id_enkrip": "9E72167E5DF52B5CD48F                                                                                "
+    }
+]

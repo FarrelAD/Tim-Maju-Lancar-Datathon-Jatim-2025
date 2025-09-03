@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA HARAPAN BANGSA",
+        "sekolah_id": "A027CA74-D4C4-E111-BAC7-3BAE6E42CAF5",
+        "npsn": 20263118,
+        "jumlah_kirim": 12,
+        "ptk": 13,
+        "pegawai": 8,
+        "pd": 65,
+        "rombel": 16,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sindangkasih",
+        "kode_wilayah_induk_kecamatan": "021432  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 08:59:43",
+        "sekolah_id_enkrip": "FC4732AD57896EAA2AB3                                                                                "
+    }
+]

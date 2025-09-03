@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARUL MUKHSININ",
+        "sekolah_id": "808D3313-2CF5-E011-9AEC-A16636435E1B",
+        "npsn": 20253323,
+        "jumlah_kirim": 2,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 36,
+        "rombel": 9,
+        "jml_rk": 10,
+        "jml_lab": 3,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cibitung",
+        "kode_wilayah_induk_kecamatan": "022207  ",
+        "induk_kabupaten": "Kab. Bekasi",
+        "kode_wilayah_induk_kabupaten": "022200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "08 Aug 2025 20:48:28",
+        "sekolah_id_enkrip": "66C762E01AD1B2AA16F0                                                                                "
+    }
+]

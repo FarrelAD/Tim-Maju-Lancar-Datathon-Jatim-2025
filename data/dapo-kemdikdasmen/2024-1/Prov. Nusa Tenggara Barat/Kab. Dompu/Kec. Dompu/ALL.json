@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ADDAWAH MBAWI",
+        "sekolah_id": "B9A93BAF-4A27-4014-8DE4-E54A7E623FBD",
+        "npsn": 69820130,
+        "jumlah_kirim": 59,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 72,
+        "rombel": 15,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dompu",
+        "kode_wilayah_induk_kecamatan": "230502  ",
+        "induk_kabupaten": "Kab. Dompu",
+        "kode_wilayah_induk_kabupaten": "230500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 09:42:49",
+        "sekolah_id_enkrip": "F9710570108D07D22014                                                                                "
+    }
+]

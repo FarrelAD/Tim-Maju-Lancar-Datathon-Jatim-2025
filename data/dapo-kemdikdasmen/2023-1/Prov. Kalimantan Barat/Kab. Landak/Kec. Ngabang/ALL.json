@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NGABANG",
+        "sekolah_id": "D0C0FD09-30F5-E011-93D9-BB6CCCA7DB6C",
+        "npsn": 30107882,
+        "jumlah_kirim": 17,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 71,
+        "rombel": 12,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngabang",
+        "kode_wilayah_induk_kecamatan": "130903  ",
+        "induk_kabupaten": "Kab. Landak",
+        "kode_wilayah_induk_kabupaten": "130900  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 11:06:38",
+        "sekolah_id_enkrip": "E960934EB62116E2D0CE                                                                                "
+    }
+]

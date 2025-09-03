@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CAHAYA BUNDA",
+        "sekolah_id": "E0C0EF79-2FF5-E011-A9D2-D75AEB86023E",
+        "npsn": 10308264,
+        "jumlah_kirim": 6,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 57,
+        "rombel": 9,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pancung Soal",
+        "kode_wilayah_induk_kecamatan": "080603  ",
+        "induk_kabupaten": "Kab. Pesisir Selatan",
+        "kode_wilayah_induk_kabupaten": "080600  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 09:15:52",
+        "sekolah_id_enkrip": "3FB7FBDED5ECAE5D0D51                                                                                "
+    }
+]

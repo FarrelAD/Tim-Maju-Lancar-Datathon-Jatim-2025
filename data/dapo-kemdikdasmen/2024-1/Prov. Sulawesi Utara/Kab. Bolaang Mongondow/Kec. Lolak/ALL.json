@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LOLAK",
+        "sekolah_id": "EC303CED-39D1-46F6-8A8E-3E094C6940EC",
+        "npsn": 69901084,
+        "jumlah_kirim": 6,
+        "ptk": 11,
+        "pegawai": 3,
+        "pd": 29,
+        "rombel": 14,
+        "jml_rk": 6,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lolak",
+        "kode_wilayah_induk_kecamatan": "170111  ",
+        "induk_kabupaten": "Kab. Bolaang Mongondow",
+        "kode_wilayah_induk_kabupaten": "170100  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "02 Aug 2025 00:11:22",
+        "sekolah_id_enkrip": "E29114667C0C64234C78                                                                                "
+    }
+]

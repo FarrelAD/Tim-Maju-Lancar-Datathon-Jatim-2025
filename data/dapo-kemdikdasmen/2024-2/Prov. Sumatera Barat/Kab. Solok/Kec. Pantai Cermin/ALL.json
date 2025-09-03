@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PANTAI CERMIN",
+        "sekolah_id": "076C5A29-8DBE-4213-8B14-6113FAE96C98",
+        "npsn": 70052895,
+        "jumlah_kirim": 0,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pantai Cermin",
+        "kode_wilayah_induk_kecamatan": "080404  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 09:21:17",
+        "sekolah_id_enkrip": "8601473069EBDC3371CC                                                                                "
+    }
+]

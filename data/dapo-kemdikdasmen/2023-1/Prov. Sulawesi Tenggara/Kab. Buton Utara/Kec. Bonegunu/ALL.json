@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS LANGKOLU",
+        "sekolah_id": "FEAB5741-23AC-4BF9-9EB8-61B6023022FF",
+        "npsn": 69978369,
+        "jumlah_kirim": 21,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 13,
+        "rombel": 5,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bonegunu",
+        "kode_wilayah_induk_kecamatan": "201005  ",
+        "induk_kabupaten": "Kab. Buton Utara",
+        "kode_wilayah_induk_kabupaten": "201000  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 16:31:06",
+        "sekolah_id_enkrip": "BEA1AFFD7B177B8D6182                                                                                "
+    }
+]

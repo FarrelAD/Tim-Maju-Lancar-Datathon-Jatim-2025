@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA SEJAHTERA",
+        "sekolah_id": "00EED915-2CF5-E011-AAE3-BF53EFE1446E",
+        "npsn": 20230408,
+        "jumlah_kirim": 44,
+        "ptk": 13,
+        "pegawai": 1,
+        "pd": 136,
+        "rombel": 24,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cileungsi",
+        "kode_wilayah_induk_kecamatan": "020518  ",
+        "induk_kabupaten": "Kab. Bogor",
+        "kode_wilayah_induk_kabupaten": "020500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 21:28:30",
+        "sekolah_id_enkrip": "7278B24510FF81DF5FD1                                                                                "
+    }
+]

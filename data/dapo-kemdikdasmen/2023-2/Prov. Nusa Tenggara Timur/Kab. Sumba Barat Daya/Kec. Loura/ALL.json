@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Loura",
+        "sekolah_id": "EAFDF109-9625-48FC-BF51-F5B4F130F4AE",
+        "npsn": 69988048,
+        "jumlah_kirim": 4,
+        "ptk": 8,
+        "pegawai": 7,
+        "pd": 53,
+        "rombel": 27,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Loura",
+        "kode_wilayah_induk_kecamatan": "241903  ",
+        "induk_kabupaten": "Kab. Sumba Barat Daya",
+        "kode_wilayah_induk_kabupaten": "241900  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 17:49:50",
+        "sekolah_id_enkrip": "3B3324CE2DA3EA21A305                                                                                "
+    }
+]

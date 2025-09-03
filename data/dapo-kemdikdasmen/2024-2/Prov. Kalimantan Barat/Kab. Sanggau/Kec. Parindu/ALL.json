@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 25 PUSAT DAMAI",
+        "sekolah_id": "008AFD09-30F5-E011-A8B9-EFE908C2CABC",
+        "npsn": 30102058,
+        "jumlah_kirim": 20,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 50,
+        "rombel": 11,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Parindu",
+        "kode_wilayah_induk_kecamatan": "130314  ",
+        "induk_kabupaten": "Kab. Sanggau",
+        "kode_wilayah_induk_kabupaten": "130300  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 19:39:08",
+        "sekolah_id_enkrip": "F426084AB653C832CB21                                                                                "
+    }
+]

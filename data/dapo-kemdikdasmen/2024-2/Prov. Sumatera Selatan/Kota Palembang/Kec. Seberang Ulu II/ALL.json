@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C AUTIS PELITA HATI",
+        "sekolah_id": "8BE74133-31FB-4754-8F87-8FD39C5B34AC",
+        "npsn": 69952506,
+        "jumlah_kirim": 2,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 22,
+        "rombel": 10,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Seberang Ulu II",
+        "kode_wilayah_induk_kecamatan": "116003  ",
+        "induk_kabupaten": "Kota Palembang",
+        "kode_wilayah_induk_kabupaten": "116000  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 10:43:54",
+        "sekolah_id_enkrip": "E66B2C2FB61DF0A661ED                                                                                "
+    }
+]

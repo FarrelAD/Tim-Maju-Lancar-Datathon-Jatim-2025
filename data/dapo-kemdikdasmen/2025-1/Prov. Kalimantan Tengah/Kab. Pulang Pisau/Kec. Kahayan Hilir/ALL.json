@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 1 PULANG PISAU",
+        "sekolah_id": "90F7A235-30F5-E011-96E7-ADCA8B8B61A9",
+        "npsn": 30205094,
+        "jumlah_kirim": 3,
+        "ptk": 16,
+        "pegawai": 6,
+        "pd": 55,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kahayan Hilir",
+        "kode_wilayah_induk_kecamatan": "141104  ",
+        "induk_kabupaten": "Kab. Pulang Pisau",
+        "kode_wilayah_induk_kabupaten": "141100  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "15 Aug 2025 11:17:43",
+        "sekolah_id_enkrip": "8D12F3533AA51382EB23                                                                                "
+    }
+]

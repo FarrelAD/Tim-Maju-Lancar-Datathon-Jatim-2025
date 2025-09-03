@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS AMAL BHAKTI KABAWO",
+        "sekolah_id": "E06E8B2C-544A-E211-A07C-1FFFD47C5FEF",
+        "npsn": 40402945,
+        "jumlah_kirim": 9,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 9,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kabawo",
+        "kode_wilayah_induk_kecamatan": "200203  ",
+        "induk_kabupaten": "Kab. Muna",
+        "kode_wilayah_induk_kabupaten": "200200  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "17 Aug 2025 13:56:30",
+        "sekolah_id_enkrip": "6C01D24FF7833DF32910                                                                                "
+    }
+]

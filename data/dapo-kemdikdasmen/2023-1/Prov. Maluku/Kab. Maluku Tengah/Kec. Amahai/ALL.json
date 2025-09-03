@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N HARURU",
+        "sekolah_id": "60542AFC-30F5-E011-B017-CB215EEC201D",
+        "npsn": 60103471,
+        "jumlah_kirim": 55,
+        "ptk": 12,
+        "pegawai": 3,
+        "pd": 60,
+        "rombel": 13,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Amahai",
+        "kode_wilayah_induk_kecamatan": "210105  ",
+        "induk_kabupaten": "Kab. Maluku Tengah",
+        "kode_wilayah_induk_kabupaten": "210100  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 06:47:39",
+        "sekolah_id_enkrip": "D2AC5490A26BE598DBB3                                                                                "
+    }
+]

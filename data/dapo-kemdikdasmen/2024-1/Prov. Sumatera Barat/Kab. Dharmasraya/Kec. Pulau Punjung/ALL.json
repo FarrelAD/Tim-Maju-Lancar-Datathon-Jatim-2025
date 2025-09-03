@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 PULAU PUNJUNG",
+        "sekolah_id": "20730879-2FF5-E011-965F-6D6BEF6F837E",
+        "npsn": 10308107,
+        "jumlah_kirim": 44,
+        "ptk": 17,
+        "pegawai": 2,
+        "pd": 64,
+        "rombel": 16,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pulau Punjung",
+        "kode_wilayah_induk_kecamatan": "081204  ",
+        "induk_kabupaten": "Kab. Dharmasraya",
+        "kode_wilayah_induk_kabupaten": "081200  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 18:39:52",
+        "sekolah_id_enkrip": "1A5E329429189A17D553                                                                                "
+    }
+]

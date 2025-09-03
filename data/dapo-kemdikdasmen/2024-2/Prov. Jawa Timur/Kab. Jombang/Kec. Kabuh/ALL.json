@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CENDEKIA",
+        "sekolah_id": "E03EDBF5-8B18-E111-BE72-FBF1E81F2695",
+        "npsn": 20503607,
+        "jumlah_kirim": 16,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 71,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kabuh",
+        "kode_wilayah_induk_kecamatan": "050419  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 20:07:43",
+        "sekolah_id_enkrip": "4E4C52FBB737DBF9D03B                                                                                "
+    }
+]

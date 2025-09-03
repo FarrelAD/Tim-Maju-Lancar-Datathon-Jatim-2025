@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD KOSERA PUTRA",
+        "sekolah_id": "E0C5DD15-2CF5-E011-9B5C-B7CC26DB23C0",
+        "npsn": 20235536,
+        "jumlah_kirim": 31,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 22,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pamulihan",
+        "kode_wilayah_induk_kecamatan": "021023  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 18:00:27",
+        "sekolah_id_enkrip": "BCDC24F73AB8D401B558                                                                                "
+    }
+]

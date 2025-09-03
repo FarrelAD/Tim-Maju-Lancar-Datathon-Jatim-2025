@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AGROWISATA SHALEHA PANJALU",
+        "sekolah_id": "E020CD74-D4C4-E111-B1F4-D7C384E22A16",
+        "npsn": 20263112,
+        "jumlah_kirim": 32,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 89,
+        "rombel": 32,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Panjalu",
+        "kode_wilayah_induk_kecamatan": "021429  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 16:28:53",
+        "sekolah_id_enkrip": "5718874887D8A54C3B41                                                                                "
+    }
+]

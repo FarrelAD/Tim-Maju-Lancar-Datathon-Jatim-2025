@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AGRO INDUSTRI",
+        "sekolah_id": "A03EDC15-2CF5-E011-BBEF-671A565594C8",
+        "npsn": 20279833,
+        "jumlah_kirim": 14,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 48,
+        "rombel": 11,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cisarua",
+        "kode_wilayah_induk_kecamatan": "022313  ",
+        "induk_kabupaten": "Kab. Bandung Barat",
+        "kode_wilayah_induk_kabupaten": "022300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 09:33:08",
+        "sekolah_id_enkrip": "DB6B047FFC6FFBEE3469                                                                                "
+    }
+]

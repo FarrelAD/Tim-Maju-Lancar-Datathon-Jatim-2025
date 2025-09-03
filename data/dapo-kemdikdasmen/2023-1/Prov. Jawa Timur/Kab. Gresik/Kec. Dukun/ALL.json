@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-IKHLAS GRESIK",
+        "sekolah_id": "A242214C-22C7-4314-A7EA-FAF2F30A4B26",
+        "npsn": 70042942,
+        "jumlah_kirim": 8,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 7,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dukun",
+        "kode_wilayah_induk_kecamatan": "050114  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 22:56:07",
+        "sekolah_id_enkrip": "7890BAF937A1AAC55E13                                                                                "
+    }
+]

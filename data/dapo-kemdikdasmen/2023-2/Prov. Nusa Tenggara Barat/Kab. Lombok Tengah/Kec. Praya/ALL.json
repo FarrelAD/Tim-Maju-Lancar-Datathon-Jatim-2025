@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 LOMBOK TENGAH",
+        "sekolah_id": "4035DDE7-023C-E111-BB59-8592CF52E9FF",
+        "npsn": 50205014,
+        "jumlah_kirim": 53,
+        "ptk": 31,
+        "pegawai": 13,
+        "pd": 190,
+        "rombel": 46,
+        "jml_rk": 23,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Praya",
+        "kode_wilayah_induk_kecamatan": "230206  ",
+        "induk_kabupaten": "Kab. Lombok Tengah",
+        "kode_wilayah_induk_kabupaten": "230200  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:24:41",
+        "sekolah_id_enkrip": "3CF4ABFB21642095A6B1                                                                                "
+    }
+]

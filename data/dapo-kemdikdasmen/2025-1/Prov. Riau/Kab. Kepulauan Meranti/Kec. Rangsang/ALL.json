@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TANJUNG SAMAK",
+        "sekolah_id": "DC9190F2-FF44-42E4-B0E8-4A517DF31643",
+        "npsn": 69989799,
+        "jumlah_kirim": 6,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 15,
+        "rombel": 10,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rangsang",
+        "kode_wilayah_induk_kecamatan": "091502  ",
+        "induk_kabupaten": "Kab. Kepulauan Meranti",
+        "kode_wilayah_induk_kabupaten": "091500  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 06:02:45",
+        "sekolah_id_enkrip": "E2F8BBCAA0638F31F602                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN RASAU JAYA",
+        "sekolah_id": "20F23084-68D1-E111-9A8B-E16672879380",
+        "npsn": 30109641,
+        "jumlah_kirim": 90,
+        "ptk": 16,
+        "pegawai": 5,
+        "pd": 88,
+        "rombel": 23,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rasau Jaya",
+        "kode_wilayah_induk_kecamatan": "131313  ",
+        "induk_kabupaten": "Kab. Kuburaya",
+        "kode_wilayah_induk_kabupaten": "131300  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 08:38:18",
+        "sekolah_id_enkrip": "3F1A131E13CA081C9E9A                                                                                "
+    }
+]

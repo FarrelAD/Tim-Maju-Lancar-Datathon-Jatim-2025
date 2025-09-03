@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 2 TANJUNGPINANG",
+        "sekolah_id": "1A56E664-46DF-4FE2-A6A0-AB11DA153371",
+        "npsn": 69932219,
+        "jumlah_kirim": 79,
+        "ptk": 24,
+        "pegawai": 14,
+        "pd": 115,
+        "rombel": 25,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Pinang Kota",
+        "kode_wilayah_induk_kecamatan": "316104  ",
+        "induk_kabupaten": "Kota Tanjungpinang",
+        "kode_wilayah_induk_kabupaten": "316100  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 12:07:33",
+        "sekolah_id_enkrip": "10AB619A45F4E289D6EB                                                                                "
+    }
+]

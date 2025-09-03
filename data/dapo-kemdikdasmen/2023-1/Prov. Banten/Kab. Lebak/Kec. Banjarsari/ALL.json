@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh DARU SIFA",
+        "sekolah_id": "08C05F78-40AD-49B7-BC62-31CADE44680B",
+        "npsn": 70007251,
+        "jumlah_kirim": 16,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 51,
+        "rombel": 20,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Banjarsari",
+        "kode_wilayah_induk_kecamatan": "280206  ",
+        "induk_kabupaten": "Kab. Lebak",
+        "kode_wilayah_induk_kabupaten": "280200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Jul 2025 13:56:54",
+        "sekolah_id_enkrip": "6C497A6D692571E20184                                                                                "
+    }
+]

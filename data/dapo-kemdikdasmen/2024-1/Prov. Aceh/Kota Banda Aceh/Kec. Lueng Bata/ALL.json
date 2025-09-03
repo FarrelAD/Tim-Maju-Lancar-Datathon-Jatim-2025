@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-CD YPAC Banda Aceh",
+        "sekolah_id": "20FED990-2EF5-E011-8910-A12F2D6788F9",
+        "npsn": 10107304,
+        "jumlah_kirim": 53,
+        "ptk": 16,
+        "pegawai": 4,
+        "pd": 128,
+        "rombel": 29,
+        "jml_rk": 18,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lueng Bata",
+        "kode_wilayah_induk_kecamatan": "066107  ",
+        "induk_kabupaten": "Kota Banda Aceh",
+        "kode_wilayah_induk_kabupaten": "066100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 01:40:55",
+        "sekolah_id_enkrip": "BA2E8B17B21CB2D713B1                                                                                "
+    }
+]

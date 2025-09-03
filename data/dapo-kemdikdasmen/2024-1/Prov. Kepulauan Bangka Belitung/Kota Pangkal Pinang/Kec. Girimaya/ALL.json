@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 31 PKLK NEGERI PANGKALPINANG",
+        "sekolah_id": "40F6FBAD-31F5-E011-830F-B57B3E1A92C4",
+        "npsn": 10901442,
+        "jumlah_kirim": 39,
+        "ptk": 34,
+        "pegawai": 17,
+        "pd": 340,
+        "rombel": 69,
+        "jml_rk": 25,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Girimaya",
+        "kode_wilayah_induk_kecamatan": "296090  ",
+        "induk_kabupaten": "Kota Pangkalpinang",
+        "kode_wilayah_induk_kabupaten": "296000  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 21:38:16",
+        "sekolah_id_enkrip": "69575E8B7371000D2BF9                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BOMBANA",
+        "sekolah_id": "62BD3C11-692F-40FA-8F11-9A495774E180",
+        "npsn": 69958956,
+        "jumlah_kirim": 15,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 28,
+        "rombel": 15,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rumbia Tengah",
+        "kode_wilayah_induk_kecamatan": "200718  ",
+        "induk_kabupaten": "Kab. Bombana",
+        "kode_wilayah_induk_kabupaten": "200700  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 07:18:27",
+        "sekolah_id_enkrip": "88A078FC00F2E6F06AF2                                                                                "
+    }
+]

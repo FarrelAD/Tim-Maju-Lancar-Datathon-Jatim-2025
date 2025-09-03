@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB/A YAKETUNIS",
+        "sekolah_id": "C016BACA-8DFC-E111-AC7E-0163D406EA83",
+        "npsn": 20403215,
+        "jumlah_kirim": 11,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 35,
+        "rombel": 18,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mantrijeron",
+        "kode_wilayah_induk_kecamatan": "046001  ",
+        "induk_kabupaten": "Kota Yogyakarta",
+        "kode_wilayah_induk_kabupaten": "046000  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 05:42:13",
+        "sekolah_id_enkrip": "688E0F692320DAD337A4                                                                                "
+    }
+]

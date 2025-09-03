@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC BALUNG",
+        "sekolah_id": "E06EB3B8-8C18-E111-8F33-231590A50FBF",
+        "npsn": 20554088,
+        "jumlah_kirim": 14,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 89,
+        "rombel": 13,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Balung",
+        "kode_wilayah_induk_kecamatan": "052413  ",
+        "induk_kabupaten": "Kab. Jember",
+        "kode_wilayah_induk_kabupaten": "052400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 04:54:15",
+        "sekolah_id_enkrip": "D08BDDB48A552FF8439A                                                                                "
+    }
+]

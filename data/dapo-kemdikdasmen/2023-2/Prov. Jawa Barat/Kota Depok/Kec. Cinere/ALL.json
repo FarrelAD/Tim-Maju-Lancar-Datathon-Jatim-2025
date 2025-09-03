@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC MANUNGGAL BHAKTI",
+        "sekolah_id": "809D2C53-90FA-E111-BD8C-C7064BBF28B7",
+        "npsn": 20223825,
+        "jumlah_kirim": 1,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 44,
+        "rombel": 12,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cinere",
+        "kode_wilayah_induk_kecamatan": "026609  ",
+        "induk_kabupaten": "Kota Depok",
+        "kode_wilayah_induk_kabupaten": "026600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 13:37:12",
+        "sekolah_id_enkrip": "3C299E1418B0359583B7                                                                                "
+    }
+]

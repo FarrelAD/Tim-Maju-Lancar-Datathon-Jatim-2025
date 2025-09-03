@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH AL-KARIM",
+        "sekolah_id": "69733505-B96E-4E11-9D9E-F92272254D41",
+        "npsn": 69947347,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 34,
+        "rombel": 18,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cikedal",
+        "kode_wilayah_induk_kecamatan": "280123  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 11:56:28",
+        "sekolah_id_enkrip": "364365521898DCFADB77                                                                                "
+    }
+]

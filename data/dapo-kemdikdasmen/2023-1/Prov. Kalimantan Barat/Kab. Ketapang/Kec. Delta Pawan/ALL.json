@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N KETAPANG",
+        "sekolah_id": "B0B3FD09-30F5-E011-B3D7-0DE529865224",
+        "npsn": 30112582,
+        "jumlah_kirim": 9,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 110,
+        "rombel": 25,
+        "jml_rk": 42,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Delta Pawan",
+        "kode_wilayah_induk_kecamatan": "130619  ",
+        "induk_kabupaten": "Kab. Ketapang",
+        "kode_wilayah_induk_kabupaten": "130600  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 17:59:26",
+        "sekolah_id_enkrip": "72EE52A30659F6BE07A6                                                                                "
+    }
+]

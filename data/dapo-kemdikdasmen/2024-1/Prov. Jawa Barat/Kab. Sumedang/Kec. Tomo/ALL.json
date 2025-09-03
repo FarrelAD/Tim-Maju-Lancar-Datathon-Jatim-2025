@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PERMATA HATI",
+        "sekolah_id": "F00DC1B4-3902-E211-ADBB-F9D09265D493",
+        "npsn": 20208411,
+        "jumlah_kirim": 20,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 46,
+        "rombel": 14,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tomo",
+        "kode_wilayah_induk_kecamatan": "021012  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "10 Aug 2025 17:16:48",
+        "sekolah_id_enkrip": "6E83542DC722953CA2F6                                                                                "
+    }
+]

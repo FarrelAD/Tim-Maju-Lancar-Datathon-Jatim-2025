@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN TANAH GROGOT",
+        "sekolah_id": "A028057E-30F5-E011-90FC-3F532149DDA5",
+        "npsn": 30405231,
+        "jumlah_kirim": 8,
+        "ptk": 17,
+        "pegawai": 8,
+        "pd": 130,
+        "rombel": 28,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanah Grogot",
+        "kode_wilayah_induk_kecamatan": "160104  ",
+        "induk_kabupaten": "Kab. Paser",
+        "kode_wilayah_induk_kabupaten": "160100  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 22:15:28",
+        "sekolah_id_enkrip": "5078533F5DD1E68F55BD                                                                                "
+    }
+]

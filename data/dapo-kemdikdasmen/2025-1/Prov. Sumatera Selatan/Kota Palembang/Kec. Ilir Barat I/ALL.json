@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AUTIS HARAPAN MANDIRI PALEMBANG",
+        "sekolah_id": "C0EF3B49-1526-E111-BB6A-EF87D413B449",
+        "npsn": 10609475,
+        "jumlah_kirim": 25,
+        "ptk": 25,
+        "pegawai": 3,
+        "pd": 61,
+        "rombel": 17,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ilir Barat I",
+        "kode_wilayah_induk_kecamatan": "116004  ",
+        "induk_kabupaten": "Kota Palembang",
+        "kode_wilayah_induk_kabupaten": "116000  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 08:21:10",
+        "sekolah_id_enkrip": "D5FEB14E07023DA6DC2E                                                                                "
+    }
+]

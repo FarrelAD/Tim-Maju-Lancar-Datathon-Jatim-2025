@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PANTAR",
+        "sekolah_id": "FD52D9A9-C3C9-4733-983B-676B792EAA9C",
+        "npsn": 69939441,
+        "jumlah_kirim": 29,
+        "ptk": 10,
+        "pegawai": 7,
+        "pd": 32,
+        "rombel": 11,
+        "jml_rk": 15,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pantar Tengah",
+        "kode_wilayah_induk_kecamatan": "240613  ",
+        "induk_kabupaten": "Kab. Alor",
+        "kode_wilayah_induk_kabupaten": "240600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 16:51:05",
+        "sekolah_id_enkrip": "5DA63FA5AFC12B4768B5                                                                                "
+    }
+]

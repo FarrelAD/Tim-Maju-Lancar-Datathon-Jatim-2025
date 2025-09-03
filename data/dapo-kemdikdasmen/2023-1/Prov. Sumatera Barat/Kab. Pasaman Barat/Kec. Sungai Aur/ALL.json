@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SUNGAI AUR",
+        "sekolah_id": "F049EE79-2FF5-E011-8CEF-E730BFBDA3B6",
+        "npsn": 10310045,
+        "jumlah_kirim": 19,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 42,
+        "rombel": 24,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sungai Aur",
+        "kode_wilayah_induk_kecamatan": "081311  ",
+        "induk_kabupaten": "Kab. Pasaman Barat",
+        "kode_wilayah_induk_kabupaten": "081300  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 14:56:26",
+        "sekolah_id_enkrip": "F59C34355EAAAC3C8285                                                                                "
+    }
+]

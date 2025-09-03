@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KANIGORO KRAS",
+        "sekolah_id": "F0486CCC-36FE-E111-9DC2-855CAB11B4D9",
+        "npsn": 20512091,
+        "jumlah_kirim": 18,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 69,
+        "rombel": 18,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kras",
+        "kode_wilayah_induk_kecamatan": "051301  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 01:49:20",
+        "sekolah_id_enkrip": "EB50F11F214BA21A7526                                                                                "
+    }
+]

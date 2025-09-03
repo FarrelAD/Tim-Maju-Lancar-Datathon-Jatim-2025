@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Serasi",
+        "sekolah_id": "7F3539FE-F554-4D0D-9B22-DE18EDB445CC",
+        "npsn": 69893226,
+        "jumlah_kirim": 4,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 19,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lamposi Tigo Nagori",
+        "kode_wilayah_induk_kecamatan": "086504  ",
+        "induk_kabupaten": "Kota Payakumbuh",
+        "kode_wilayah_induk_kabupaten": "086500  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 10:43:14",
+        "sekolah_id_enkrip": "9EC029294CB7443AB6FC                                                                                "
+    }
+]

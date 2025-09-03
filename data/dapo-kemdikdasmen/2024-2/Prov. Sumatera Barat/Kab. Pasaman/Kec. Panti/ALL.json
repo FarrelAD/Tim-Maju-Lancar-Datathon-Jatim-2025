@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 PANTI",
+        "sekolah_id": "B0566578-2FF5-E011-ADD9-05DC473286F7",
+        "npsn": 10300856,
+        "jumlah_kirim": 11,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 86,
+        "rombel": 21,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Panti",
+        "kode_wilayah_induk_kecamatan": "080211  ",
+        "induk_kabupaten": "Kab. Pasaman",
+        "kode_wilayah_induk_kabupaten": "080200  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 22:46:15",
+        "sekolah_id_enkrip": "CF2A189BA68A21E37F6D                                                                                "
+    }
+]

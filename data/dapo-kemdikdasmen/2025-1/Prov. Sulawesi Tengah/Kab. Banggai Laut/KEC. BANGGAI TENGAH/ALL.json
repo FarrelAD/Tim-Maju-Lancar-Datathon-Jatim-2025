@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ADEAN",
+        "sekolah_id": "ECA11C37-B2E3-499B-B242-CBB8D9E3B763",
+        "npsn": 69930811,
+        "jumlah_kirim": 4,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 28,
+        "rombel": 11,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "KEC. BANGGAI TENGAH",
+        "kode_wilayah_induk_kecamatan": "181116  ",
+        "induk_kabupaten": "Kab. Banggai Laut",
+        "kode_wilayah_induk_kabupaten": "181100  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 23:50:10",
+        "sekolah_id_enkrip": "4C375B40C3D242F75878                                                                                "
+    }
+]

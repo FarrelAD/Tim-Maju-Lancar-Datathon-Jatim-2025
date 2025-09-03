@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN BANDARAN III",
+        "sekolah_id": "905D14B7-8C18-E111-9406-B544A38759B0",
+        "npsn": 20519542,
+        "jumlah_kirim": 22,
+        "ptk": 14,
+        "pegawai": 5,
+        "pd": 124,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Winongan",
+        "kode_wilayah_induk_kecamatan": "051921  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 06:02:14",
+        "sekolah_id_enkrip": "C6684B7D9D9C1447AFD4                                                                                "
+    }
+]

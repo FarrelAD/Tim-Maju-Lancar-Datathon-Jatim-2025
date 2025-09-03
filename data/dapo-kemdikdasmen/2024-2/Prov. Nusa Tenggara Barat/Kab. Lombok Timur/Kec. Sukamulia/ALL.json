@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB CINTA HARAPAN",
+        "sekolah_id": "5400E8BA-6403-4F41-B958-0E508ABD2737",
+        "npsn": 69983887,
+        "jumlah_kirim": 13,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 70,
+        "rombel": 32,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukamulia",
+        "kode_wilayah_induk_kecamatan": "230306  ",
+        "induk_kabupaten": "Kab. Lombok Timur",
+        "kode_wilayah_induk_kabupaten": "230300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "03 Jun 2025 13:38:40",
+        "sekolah_id_enkrip": "20DB47653D3C50F3A471                                                                                "
+    }
+]

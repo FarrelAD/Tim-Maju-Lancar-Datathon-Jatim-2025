@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA MANDIRI",
+        "sekolah_id": "A07C2AAB-8C18-E111-B603-790ED24D15A8",
+        "npsn": 20549051,
+        "jumlah_kirim": 4,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 61,
+        "rombel": 18,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rejotangan",
+        "kode_wilayah_induk_kecamatan": "051608  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 16:36:16",
+        "sekolah_id_enkrip": "99A95F098C266159D160                                                                                "
+    }
+]

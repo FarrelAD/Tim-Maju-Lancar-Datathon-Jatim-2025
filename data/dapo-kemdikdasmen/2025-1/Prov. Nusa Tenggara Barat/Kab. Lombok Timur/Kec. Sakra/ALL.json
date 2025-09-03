@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 3 LOMBOK TIMUR ",
+        "sekolah_id": "C22F7F59-B4F8-4670-8955-812F6A41EA4F",
+        "npsn": 70003295,
+        "jumlah_kirim": 2,
+        "ptk": 15,
+        "pegawai": 9,
+        "pd": 118,
+        "rombel": 15,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sakra",
+        "kode_wilayah_induk_kecamatan": "230302  ",
+        "induk_kabupaten": "Kab. Lombok Timur",
+        "kode_wilayah_induk_kabupaten": "230300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Jun 2025 21:53:27",
+        "sekolah_id_enkrip": "D3107C46CB4BF0600691                                                                                "
+    }
+]

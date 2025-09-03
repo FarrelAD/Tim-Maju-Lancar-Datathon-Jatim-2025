@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TARUNA JAYA",
+        "sekolah_id": "8C153A6B-501F-4EEB-80CB-E0F4AE882550",
+        "npsn": 70056451,
+        "jumlah_kirim": 9,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 9,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sungai Kakap",
+        "kode_wilayah_induk_kecamatan": "131305  ",
+        "induk_kabupaten": "Kab. Kubu Raya",
+        "kode_wilayah_induk_kabupaten": "131300  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 15:09:27",
+        "sekolah_id_enkrip": "B0C516480084478FB9B4                                                                                "
+    }
+]

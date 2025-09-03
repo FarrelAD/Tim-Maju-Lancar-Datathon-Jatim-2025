@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 SUMBAWA",
+        "sekolah_id": "C06CE0E7-023C-E111-9D71-B91640D6FF3D",
+        "npsn": 50219671,
+        "jumlah_kirim": 53,
+        "ptk": 35,
+        "pegawai": 4,
+        "pd": 230,
+        "rombel": 49,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sumbawa",
+        "kode_wilayah_induk_kecamatan": "230408  ",
+        "induk_kabupaten": "Kab. Sumbawa",
+        "kode_wilayah_induk_kabupaten": "230400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 12:57:28",
+        "sekolah_id_enkrip": "D6E1D975D982CA412548                                                                                "
+    }
+]

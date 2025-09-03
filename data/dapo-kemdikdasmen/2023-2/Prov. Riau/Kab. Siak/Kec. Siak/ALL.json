@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SIAK",
+        "sekolah_id": "904B04F8-4ADD-E111-AC6C-31EBF17444B3",
+        "npsn": 10497382,
+        "jumlah_kirim": 32,
+        "ptk": 11,
+        "pegawai": 6,
+        "pd": 79,
+        "rombel": 28,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siak",
+        "kode_wilayah_induk_kecamatan": "091102  ",
+        "induk_kabupaten": "Kab. Siak",
+        "kode_wilayah_induk_kabupaten": "091100  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 21:02:08",
+        "sekolah_id_enkrip": "B909397FCFF4BA0ED2E0                                                                                "
+    }
+]

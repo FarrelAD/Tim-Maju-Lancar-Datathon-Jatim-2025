@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YKK PACITAN",
+        "sekolah_id": "E0F0D362-DCE0-E111-A6D0-2F96F85D9E65",
+        "npsn": 20511065,
+        "jumlah_kirim": 9,
+        "ptk": 25,
+        "pegawai": 6,
+        "pd": 75,
+        "rombel": 21,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pacitan",
+        "kode_wilayah_induk_kecamatan": "051204  ",
+        "induk_kabupaten": "Kab. Pacitan",
+        "kode_wilayah_induk_kabupaten": "051200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:39:01",
+        "sekolah_id_enkrip": "4DAA570D750FE3B6643A                                                                                "
+    }
+]

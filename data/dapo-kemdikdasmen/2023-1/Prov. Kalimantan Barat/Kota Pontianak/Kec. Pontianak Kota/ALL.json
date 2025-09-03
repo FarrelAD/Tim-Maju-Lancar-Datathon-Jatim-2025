@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA ANAK BANGSA",
+        "sekolah_id": "304C8F09-30F5-E011-BFAB-654470ABA00D",
+        "npsn": 30107024,
+        "jumlah_kirim": 18,
+        "ptk": 19,
+        "pegawai": 4,
+        "pd": 183,
+        "rombel": 16,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pontianak Kota",
+        "kode_wilayah_induk_kecamatan": "136005  ",
+        "induk_kabupaten": "Kota Pontianak",
+        "kode_wilayah_induk_kabupaten": "136000  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 15:50:45",
+        "sekolah_id_enkrip": "6FE82A15EAB56FD90541                                                                                "
+    }
+]

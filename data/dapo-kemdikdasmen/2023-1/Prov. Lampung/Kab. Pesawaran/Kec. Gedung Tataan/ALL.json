@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SINAR HAFIZAH",
+        "sekolah_id": "8539F5BE-DC54-430F-BAB6-D0EFAE6BC528",
+        "npsn": 70024586,
+        "jumlah_kirim": 22,
+        "ptk": 6,
+        "pegawai": 4,
+        "pd": 33,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Gedung Tataan",
+        "kode_wilayah_induk_kecamatan": "120905  ",
+        "induk_kabupaten": "Kab. Pesawaran",
+        "kode_wilayah_induk_kabupaten": "120900  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 22:50:02",
+        "sekolah_id_enkrip": "E51954A733D609526D9C                                                                                "
+    }
+]

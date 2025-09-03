@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 033 TEMBILAHAN",
+        "sekolah_id": "008964C7-2FF5-E011-9FEA-0D7DE5A9BC33",
+        "npsn": 10497075,
+        "jumlah_kirim": 18,
+        "ptk": 18,
+        "pegawai": 5,
+        "pd": 121,
+        "rombel": 33,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tembilahan",
+        "kode_wilayah_induk_kecamatan": "090506  ",
+        "induk_kabupaten": "Kab. Indragiri Hilir",
+        "kode_wilayah_induk_kabupaten": "090500  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 22:19:41",
+        "sekolah_id_enkrip": "041313A2E39C9555AFB0                                                                                "
+    }
+]

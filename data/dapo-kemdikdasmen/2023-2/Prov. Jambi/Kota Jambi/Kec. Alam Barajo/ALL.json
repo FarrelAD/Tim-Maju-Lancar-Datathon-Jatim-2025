@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Mutiara",
+        "sekolah_id": "CCA4FA79-2B34-4898-A546-68B7A762563E",
+        "npsn": 70041354,
+        "jumlah_kirim": 28,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 9,
+        "rombel": 2,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Alam Barajo",
+        "kode_wilayah_induk_kecamatan": "106009  ",
+        "induk_kabupaten": "Kota Jambi",
+        "kode_wilayah_induk_kabupaten": "106000  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 12:08:54",
+        "sekolah_id_enkrip": "2354A3BD8D060652D10F                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI DOLOKSANGGUL",
+        "sekolah_id": "50D9C234-B1F8-4D6E-AC1C-6DC3035B911A",
+        "npsn": 69979562,
+        "jumlah_kirim": 10,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 87,
+        "rombel": 20,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Doloksanggul",
+        "kode_wilayah_induk_kecamatan": "071904  ",
+        "induk_kabupaten": "Kab. Humbang Hasudutan",
+        "kode_wilayah_induk_kabupaten": "071900  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 09:01:47",
+        "sekolah_id_enkrip": "8BAE6E11449A61F9C467                                                                                "
+    }
+]

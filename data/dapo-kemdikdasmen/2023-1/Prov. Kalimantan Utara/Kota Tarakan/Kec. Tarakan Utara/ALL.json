@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TARAKAN",
+        "sekolah_id": "E066618E-AEFE-E111-9D37-AF803A4E617A",
+        "npsn": 30407811,
+        "jumlah_kirim": 29,
+        "ptk": 32,
+        "pegawai": 13,
+        "pd": 250,
+        "rombel": 29,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tarakan Utara",
+        "kode_wilayah_induk_kecamatan": "346004  ",
+        "induk_kabupaten": "Kota Tarakan",
+        "kode_wilayah_induk_kabupaten": "346000  ",
+        "induk_provinsi": "Prov. Kalimantan Utara",
+        "kode_wilayah_induk_provinsi": "340000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 04:13:05",
+        "sekolah_id_enkrip": "839C47C7BD0DC9EE9DEB                                                                                "
+    }
+]

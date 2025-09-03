@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C YPAALB LANGENHARJO",
+        "sekolah_id": "60FF0A16-A7AF-E111-BAFD-2D8FE5FC0BD2",
+        "npsn": 20310491,
+        "jumlah_kirim": 27,
+        "ptk": 20,
+        "pegawai": 2,
+        "pd": 112,
+        "rombel": 25,
+        "jml_rk": 44,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Grogol",
+        "kode_wilayah_induk_kecamatan": "031109  ",
+        "induk_kabupaten": "Kab. Sukoharjo",
+        "kode_wilayah_induk_kabupaten": "031100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 00:20:20",
+        "sekolah_id_enkrip": "1483E00FA50B3FF6EC80                                                                                "
+    }
+]

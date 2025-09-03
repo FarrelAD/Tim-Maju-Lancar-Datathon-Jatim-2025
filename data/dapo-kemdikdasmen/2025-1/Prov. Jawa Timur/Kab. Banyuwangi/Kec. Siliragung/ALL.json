@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI SILIRAGUNG",
+        "sekolah_id": "70363865-2CF7-E111-8273-BFED7D152700",
+        "npsn": 20526078,
+        "jumlah_kirim": 3,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 43,
+        "rombel": 9,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Siliragung",
+        "kode_wilayah_induk_kecamatan": "052524  ",
+        "induk_kabupaten": "Kab. Banyuwangi",
+        "kode_wilayah_induk_kabupaten": "052500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 06:13:28",
+        "sekolah_id_enkrip": "CBC221356440F26B18D9                                                                                "
+    }
+]

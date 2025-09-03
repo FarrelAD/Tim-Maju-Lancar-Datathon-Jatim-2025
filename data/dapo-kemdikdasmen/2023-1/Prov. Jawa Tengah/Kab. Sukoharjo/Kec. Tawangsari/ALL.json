@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC TAWANGSARI",
+        "sekolah_id": "506F0B55-F474-E211-B810-DB1E20FE79F9",
+        "npsn": 20331024,
+        "jumlah_kirim": 25,
+        "ptk": 14,
+        "pegawai": 1,
+        "pd": 115,
+        "rombel": 33,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tawangsari",
+        "kode_wilayah_induk_kecamatan": "031103  ",
+        "induk_kabupaten": "Kab. Sukoharjo",
+        "kode_wilayah_induk_kabupaten": "031100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 12:54:11",
+        "sekolah_id_enkrip": "4EBC944D7F323E791186                                                                                "
+    }
+]

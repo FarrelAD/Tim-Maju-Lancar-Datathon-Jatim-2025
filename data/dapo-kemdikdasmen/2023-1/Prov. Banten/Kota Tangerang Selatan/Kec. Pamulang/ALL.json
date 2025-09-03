@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH MUARA SEJAHTERA",
+        "sekolah_id": "E06292F5-2C44-E211-A21A-7DC79A1DC42F",
+        "npsn": 20603589,
+        "jumlah_kirim": 10,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 43,
+        "rombel": 21,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pamulang",
+        "kode_wilayah_induk_kecamatan": "286303  ",
+        "induk_kabupaten": "Kota Tangerang Selatan",
+        "kode_wilayah_induk_kabupaten": "286300  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "08 Aug 2025 00:43:20",
+        "sekolah_id_enkrip": "8AE69C0E417991F06E3C                                                                                "
+    }
+]

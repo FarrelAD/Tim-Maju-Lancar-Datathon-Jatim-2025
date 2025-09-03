@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH Nur Rabbani",
+        "sekolah_id": "66D9FF08-8DDD-4AAC-9754-B5C4A3743ADA",
+        "npsn": 69984147,
+        "jumlah_kirim": 11,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 42,
+        "rombel": 9,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ciomas",
+        "kode_wilayah_induk_kecamatan": "280403  ",
+        "induk_kabupaten": "Kab. Serang",
+        "kode_wilayah_induk_kabupaten": "280400  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 22:00:33",
+        "sekolah_id_enkrip": "A262A8082967B0427132                                                                                "
+    }
+]

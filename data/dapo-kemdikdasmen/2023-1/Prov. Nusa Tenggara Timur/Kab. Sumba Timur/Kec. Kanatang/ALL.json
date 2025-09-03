@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN KANATANG",
+        "sekolah_id": "80327B96-10FF-E111-A8B1-2305C281536A",
+        "npsn": 50303911,
+        "jumlah_kirim": 71,
+        "ptk": 22,
+        "pegawai": 9,
+        "pd": 120,
+        "rombel": 27,
+        "jml_rk": 30,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Kanatang",
+        "kode_wilayah_induk_kecamatan": "241221  ",
+        "induk_kabupaten": "Kab. Sumba Timur",
+        "kode_wilayah_induk_kabupaten": "241200  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 21:21:16",
+        "sekolah_id_enkrip": "FEA7576C5EAEACF0E723                                                                                "
+    }
+]

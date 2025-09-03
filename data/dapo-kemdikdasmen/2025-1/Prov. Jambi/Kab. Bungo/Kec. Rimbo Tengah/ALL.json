@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MUARA BUNGO",
+        "sekolah_id": "C0BC645C-0C26-E111-9E4E-6F128D913643",
+        "npsn": 10505181,
+        "jumlah_kirim": 15,
+        "ptk": 30,
+        "pegawai": 11,
+        "pd": 188,
+        "rombel": 44,
+        "jml_rk": 27,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rimbo Tengah",
+        "kode_wilayah_induk_kecamatan": "100218  ",
+        "induk_kabupaten": "Kab. Bungo",
+        "kode_wilayah_induk_kabupaten": "100200  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 09:21:31",
+        "sekolah_id_enkrip": "008A867424DAFA1A6399                                                                                "
+    }
+]

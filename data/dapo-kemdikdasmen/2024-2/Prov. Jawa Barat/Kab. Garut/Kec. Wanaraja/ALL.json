@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Nusantara Kita",
+        "sekolah_id": "4028DF15-2CF5-E011-B98E-FDBC271BA7DF",
+        "npsn": 20258174,
+        "jumlah_kirim": 23,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 86,
+        "rombel": 24,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Wanaraja",
+        "kode_wilayah_induk_kecamatan": "021121  ",
+        "induk_kabupaten": "Kab. Garut",
+        "kode_wilayah_induk_kabupaten": "021100  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 13:50:42",
+        "sekolah_id_enkrip": "B4E89286D8542554AC17                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI RAI NATIE",
+        "sekolah_id": "839846D2-0046-4776-BDBE-96EA499897AC",
+        "npsn": 70036751,
+        "jumlah_kirim": 7,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 20,
+        "rombel": 5,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sabu Tengah",
+        "kode_wilayah_induk_kecamatan": "242112  ",
+        "induk_kabupaten": "Kab. Sabu Raijua",
+        "kode_wilayah_induk_kabupaten": "242100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 19:09:24",
+        "sekolah_id_enkrip": "36E70478C3CFF113D6F1                                                                                "
+    }
+]

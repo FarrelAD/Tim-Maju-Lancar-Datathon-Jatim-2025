@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DORKAS KAKAS",
+        "sekolah_id": "C0CCB698-C1FC-E111-BFEC-A13E73A3E820",
+        "npsn": 58570007,
+        "jumlah_kirim": 10,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 6,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kakas",
+        "kode_wilayah_induk_kecamatan": "170221  ",
+        "induk_kabupaten": "Kab. Minahasa",
+        "kode_wilayah_induk_kabupaten": "170200  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 23:08:34",
+        "sekolah_id_enkrip": "6EF4174B084B8DFB7BA6                                                                                "
+    }
+]

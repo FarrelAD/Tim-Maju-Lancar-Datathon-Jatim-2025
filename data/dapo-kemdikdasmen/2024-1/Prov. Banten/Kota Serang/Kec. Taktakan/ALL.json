@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh Hanifa",
+        "sekolah_id": "6DE8D727-3F27-4B9B-997E-67DE97A1AF38",
+        "npsn": 70046803,
+        "jumlah_kirim": 14,
+        "ptk": 1,
+        "pegawai": 1,
+        "pd": 14,
+        "rombel": 5,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Taktakan",
+        "kode_wilayah_induk_kecamatan": "286205  ",
+        "induk_kabupaten": "Kota Serang",
+        "kode_wilayah_induk_kabupaten": "286200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 06:50:18",
+        "sekolah_id_enkrip": "AF519A69D31F3CA5960F                                                                                "
+    }
+]

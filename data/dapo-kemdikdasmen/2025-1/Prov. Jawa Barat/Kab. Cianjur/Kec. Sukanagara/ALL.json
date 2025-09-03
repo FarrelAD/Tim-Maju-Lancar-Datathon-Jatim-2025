@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SUKANAGARA",
+        "sekolah_id": "E555AF99-9E59-469E-A63F-96C040DF95DD",
+        "npsn": 20267753,
+        "jumlah_kirim": 13,
+        "ptk": 10,
+        "pegawai": 5,
+        "pd": 61,
+        "rombel": 21,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sukanagara",
+        "kode_wilayah_induk_kecamatan": "020709  ",
+        "induk_kabupaten": "Kab. Cianjur",
+        "kode_wilayah_induk_kabupaten": "020700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 20:34:54",
+        "sekolah_id_enkrip": "D289B985DFD63FD92B9F                                                                                "
+    }
+]

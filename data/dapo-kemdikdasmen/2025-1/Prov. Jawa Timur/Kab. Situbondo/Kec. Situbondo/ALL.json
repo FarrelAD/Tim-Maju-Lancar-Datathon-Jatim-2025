@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB DHARMA WANITA KAB. SITUBONDO",
+        "sekolah_id": "4F1DE78F-F7AF-40C3-ABA1-1987BE86DA44",
+        "npsn": 70047799,
+        "jumlah_kirim": 13,
+        "ptk": 13,
+        "pegawai": 4,
+        "pd": 59,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Situbondo",
+        "kode_wilayah_induk_kecamatan": "052310  ",
+        "induk_kabupaten": "Kab. Situbondo",
+        "kode_wilayah_induk_kabupaten": "052300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 01:21:44",
+        "sekolah_id_enkrip": "56BCD6E60ABCA8F7AB2D                                                                                "
+    }
+]

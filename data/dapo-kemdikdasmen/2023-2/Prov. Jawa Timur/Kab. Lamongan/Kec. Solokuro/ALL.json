@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SPECIAL NEEDS AL JANNAH SOLOKURO",
+        "sekolah_id": "D82414FF-8071-4F01-BA99-74034060C0B7",
+        "npsn": 70010754,
+        "jumlah_kirim": 8,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 19,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Solokuro",
+        "kode_wilayah_induk_kecamatan": "050724  ",
+        "induk_kabupaten": "Kab. Lamongan",
+        "kode_wilayah_induk_kabupaten": "050700  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 22:43:27",
+        "sekolah_id_enkrip": "AE036E980E2C802B8713                                                                                "
+    }
+]

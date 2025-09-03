@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Loka Mandiri",
+        "sekolah_id": "DBDC7836-4F23-4501-AC68-9D87720D6C28",
+        "npsn": 70029783,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 17,
+        "rombel": 4,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pacet",
+        "kode_wilayah_induk_kecamatan": "020722  ",
+        "induk_kabupaten": "Kab. Cianjur",
+        "kode_wilayah_induk_kabupaten": "020700  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 22:38:03",
+        "sekolah_id_enkrip": "6F32BAEE75E69B67AF0D                                                                                "
+    }
+]

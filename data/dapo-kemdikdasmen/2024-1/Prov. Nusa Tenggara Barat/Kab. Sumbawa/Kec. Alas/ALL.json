@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 2 Sumbawa",
+        "sekolah_id": "F07FE0E7-023C-E111-A3B9-D3B92A3287DA",
+        "npsn": 50205226,
+        "jumlah_kirim": 79,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 76,
+        "rombel": 35,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Alas",
+        "kode_wilayah_induk_kecamatan": "230405  ",
+        "induk_kabupaten": "Kab. Sumbawa",
+        "kode_wilayah_induk_kabupaten": "230400  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 09:53:08",
+        "sekolah_id_enkrip": "C0AA1029016950F9BCB8                                                                                "
+    }
+]

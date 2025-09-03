@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SABILUNA",
+        "sekolah_id": "E0A35C79-2FF5-E011-B027-738E3F1E9258",
+        "npsn": 10307435,
+        "jumlah_kirim": 6,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 23,
+        "rombel": 9,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pariaman Selatan",
+        "kode_wilayah_induk_kecamatan": "086601  ",
+        "induk_kabupaten": "Kota Pariaman",
+        "kode_wilayah_induk_kabupaten": "086600  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 16:40:03",
+        "sekolah_id_enkrip": "4DB21FD6233351C1A233                                                                                "
+    }
+]

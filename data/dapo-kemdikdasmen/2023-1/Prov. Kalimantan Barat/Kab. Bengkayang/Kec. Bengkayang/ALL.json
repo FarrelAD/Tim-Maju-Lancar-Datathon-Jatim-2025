@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ADIL KA TALINO",
+        "sekolah_id": "C268E2C7-F893-406D-8E8A-B50CC6C2DD66",
+        "npsn": 69946210,
+        "jumlah_kirim": 24,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 73,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Bengkayang",
+        "kode_wilayah_induk_kecamatan": "130804  ",
+        "induk_kabupaten": "Kab. Bengkayang",
+        "kode_wilayah_induk_kabupaten": "130800  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 11:09:17",
+        "sekolah_id_enkrip": "62EE580210C99F298B28                                                                                "
+    }
+]

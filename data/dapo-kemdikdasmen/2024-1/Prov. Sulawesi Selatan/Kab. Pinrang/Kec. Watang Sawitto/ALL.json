@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 PINRANG",
+        "sekolah_id": "B0AC88C2-0D26-E111-90F6-4916182B4EAA",
+        "npsn": 40305207,
+        "jumlah_kirim": 43,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 45,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Watang Sawitto",
+        "kode_wilayah_induk_kecamatan": "191404  ",
+        "induk_kabupaten": "Kab. Pinrang",
+        "kode_wilayah_induk_kabupaten": "191400  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "14 Aug 2025 18:04:49",
+        "sekolah_id_enkrip": "1CEAEAB4F7B015CA49C7                                                                                "
+    }
+]

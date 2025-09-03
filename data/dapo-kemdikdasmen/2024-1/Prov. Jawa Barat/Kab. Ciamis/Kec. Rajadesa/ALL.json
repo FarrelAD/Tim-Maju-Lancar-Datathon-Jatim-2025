@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS AS-SURUR RAJADESA",
+        "sekolah_id": "C7F7B53B-4CE5-430E-97B0-EB25EA5982C5",
+        "npsn": 69786494,
+        "jumlah_kirim": 18,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 100,
+        "rombel": 13,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rajadesa",
+        "kode_wilayah_induk_kecamatan": "021419  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 04:09:23",
+        "sekolah_id_enkrip": "C2DAFD09AA1CA9B9CA88                                                                                "
+    }
+]

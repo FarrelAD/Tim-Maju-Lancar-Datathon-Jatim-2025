@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS BHAKTI",
+        "sekolah_id": "20201A5D-2EF5-E011-8DEA-71D5AD5F3A35",
+        "npsn": 20400170,
+        "jumlah_kirim": 15,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 75,
+        "rombel": 16,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pleret",
+        "kode_wilayah_induk_kecamatan": "040111  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 04:28:58",
+        "sekolah_id_enkrip": "196C3657DAB407A51FC8                                                                                "
+    }
+]

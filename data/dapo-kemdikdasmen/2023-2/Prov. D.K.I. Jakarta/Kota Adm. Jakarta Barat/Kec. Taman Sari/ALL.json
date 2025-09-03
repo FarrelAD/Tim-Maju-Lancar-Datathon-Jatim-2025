@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MALIKA CENTER",
+        "sekolah_id": "B88C9FC9-C898-4D4E-B370-0D2BB787334A",
+        "npsn": 70014971,
+        "jumlah_kirim": 14,
+        "ptk": 7,
+        "pegawai": 3,
+        "pd": 14,
+        "rombel": 9,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Taman Sari",
+        "kode_wilayah_induk_kecamatan": "016206  ",
+        "induk_kabupaten": "Kota Jakarta Barat",
+        "kode_wilayah_induk_kabupaten": "016200  ",
+        "induk_provinsi": "Prov. D.K.I. Jakarta",
+        "kode_wilayah_induk_provinsi": "010000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 15:29:28",
+        "sekolah_id_enkrip": "F79B981E19BD59A7BEB7                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Pegasing",
+        "sekolah_id": "A0AD7990-2EF5-E011-8392-EBADE272BE7C",
+        "npsn": 10102320,
+        "jumlah_kirim": 33,
+        "ptk": 10,
+        "pegawai": 6,
+        "pd": 70,
+        "rombel": 47,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pegasing",
+        "kode_wilayah_induk_kecamatan": "060504  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 11:20:42",
+        "sekolah_id_enkrip": "0F24D7CA73BFC614027B                                                                                "
+    }
+]

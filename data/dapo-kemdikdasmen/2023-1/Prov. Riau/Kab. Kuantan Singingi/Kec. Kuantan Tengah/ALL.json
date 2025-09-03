@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN KUANTAN SINGINGI",
+        "sekolah_id": "6057B9D3-B5E6-E111-8B1C-B5EB9537B1A3",
+        "npsn": 10498647,
+        "jumlah_kirim": 15,
+        "ptk": 11,
+        "pegawai": 6,
+        "pd": 53,
+        "rombel": 15,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kuantan Tengah",
+        "kode_wilayah_induk_kecamatan": "091402  ",
+        "induk_kabupaten": "Kab. Kuantan Singingi",
+        "kode_wilayah_induk_kabupaten": "091400  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 13:40:53",
+        "sekolah_id_enkrip": "8BF04195F2E559962842                                                                                "
+    }
+]

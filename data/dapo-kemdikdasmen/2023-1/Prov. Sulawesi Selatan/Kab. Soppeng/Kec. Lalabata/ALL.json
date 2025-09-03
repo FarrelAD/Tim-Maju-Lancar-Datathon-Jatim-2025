@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 SOPPENG",
+        "sekolah_id": "A0D9C1BC-0D26-E111-A8A7-692F0C833552",
+        "npsn": 40303760,
+        "jumlah_kirim": 31,
+        "ptk": 21,
+        "pegawai": 4,
+        "pd": 57,
+        "rombel": 30,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lalabata",
+        "kode_wilayah_induk_kecamatan": "190902  ",
+        "induk_kabupaten": "Kab. Soppeng",
+        "kode_wilayah_induk_kabupaten": "190900  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 07:23:46",
+        "sekolah_id_enkrip": "531A5CA40B1F9076A1E2                                                                                "
+    }
+]

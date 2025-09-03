@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PANCARAN IMAN",
+        "sekolah_id": "F0A19406-2DF5-E011-B37B-E9A99FAC7BAF",
+        "npsn": 20255797,
+        "jumlah_kirim": 26,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 53,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cinambo",
+        "kode_wilayah_induk_kecamatan": "026029  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 11:41:42",
+        "sekolah_id_enkrip": "0DDB891EC2462AF63A16                                                                                "
+    }
+]

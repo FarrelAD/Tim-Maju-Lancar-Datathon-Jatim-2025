@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Darul Hidayah",
+        "sekolah_id": "F64E5C01-D154-43C6-9E25-E6D6DE494B6E",
+        "npsn": 70029513,
+        "jumlah_kirim": 16,
+        "ptk": 1,
+        "pegawai": 2,
+        "pd": 19,
+        "rombel": 5,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jatinagara",
+        "kode_wilayah_induk_kecamatan": "021426  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 08:01:49",
+        "sekolah_id_enkrip": "D92E3986FE07A4E24ADF                                                                                "
+    }
+]

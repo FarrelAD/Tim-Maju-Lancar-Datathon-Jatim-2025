@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KUNDUR",
+        "sekolah_id": "E596C06B-773B-48DC-8365-832106882ED6",
+        "npsn": 69972050,
+        "jumlah_kirim": 12,
+        "ptk": 12,
+        "pegawai": 5,
+        "pd": 58,
+        "rombel": 31,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kundur",
+        "kode_wilayah_induk_kecamatan": "310202  ",
+        "induk_kabupaten": "Kab. Karimun",
+        "kode_wilayah_induk_kabupaten": "310200  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 22:50:42",
+        "sekolah_id_enkrip": "4F65C6ED400268098D39                                                                                "
+    }
+]

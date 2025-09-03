@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MINASA BAJI",
+        "sekolah_id": "6049C3C1-0D26-E111-97AD-C9E0334106F1",
+        "npsn": 40300288,
+        "jumlah_kirim": 1,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 53,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bantimurung",
+        "kode_wilayah_induk_kecamatan": "190104  ",
+        "induk_kabupaten": "Kab. Maros",
+        "kode_wilayah_induk_kabupaten": "190100  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 20:30:00",
+        "sekolah_id_enkrip": "1E7FE6DC174EDF092970                                                                                "
+    }
+]

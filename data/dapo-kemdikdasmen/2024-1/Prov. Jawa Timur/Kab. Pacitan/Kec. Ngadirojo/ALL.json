@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NGADIROJO PACITAN",
+        "sekolah_id": "50F9D4F5-8B18-E111-971C-A5611EF8DD35",
+        "npsn": 20511067,
+        "jumlah_kirim": 22,
+        "ptk": 12,
+        "pegawai": 4,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngadirojo",
+        "kode_wilayah_induk_kecamatan": "051211  ",
+        "induk_kabupaten": "Kab. Pacitan",
+        "kode_wilayah_induk_kabupaten": "051200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 23:49:38",
+        "sekolah_id_enkrip": "09E908C96D4D88DF5661                                                                                "
+    }
+]

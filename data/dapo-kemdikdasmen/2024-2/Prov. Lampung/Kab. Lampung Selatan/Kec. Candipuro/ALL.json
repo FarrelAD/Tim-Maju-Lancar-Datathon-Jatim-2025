@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB IT HARAPAN BANGSA",
+        "sekolah_id": "E9A3CFC0-BE50-45D7-B628-90A50C743EF4",
+        "npsn": 69949369,
+        "jumlah_kirim": 13,
+        "ptk": 1,
+        "pegawai": 4,
+        "pd": 37,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Candipuro",
+        "kode_wilayah_induk_kecamatan": "120117  ",
+        "induk_kabupaten": "Kab. Lampung Selatan",
+        "kode_wilayah_induk_kabupaten": "120100  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 10:29:13",
+        "sekolah_id_enkrip": "320377304440D6A0BEBC                                                                                "
+    }
+]

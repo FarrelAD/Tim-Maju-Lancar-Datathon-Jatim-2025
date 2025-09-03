@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB PK-LK Negeri Bonde-Bonde",
+        "sekolah_id": "7C37BF41-CFA5-435D-8361-444D5236A01C",
+        "npsn": 69893936,
+        "jumlah_kirim": 14,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 44,
+        "rombel": 24,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tubo Sendana",
+        "kode_wilayah_induk_kecamatan": "330507  ",
+        "induk_kabupaten": "Kab. Majene",
+        "kode_wilayah_induk_kabupaten": "330500  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 18:08:21",
+        "sekolah_id_enkrip": "214B4F47B9DF3CB2CDA0                                                                                "
+    }
+]

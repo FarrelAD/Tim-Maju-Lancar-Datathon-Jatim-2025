@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SANANA",
+        "sekolah_id": "6056D140-2AF5-E011-BE77-EB89CBB7D0D7",
+        "npsn": 60202469,
+        "jumlah_kirim": 11,
+        "ptk": 16,
+        "pegawai": 5,
+        "pd": 53,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sanana",
+        "kode_wilayah_induk_kecamatan": "270701  ",
+        "induk_kabupaten": "Kab. Kepulauan Sula",
+        "kode_wilayah_induk_kabupaten": "270700  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "16 Aug 2025 10:32:17",
+        "sekolah_id_enkrip": "F9FD78718A1986BE48C3                                                                                "
+    }
+]

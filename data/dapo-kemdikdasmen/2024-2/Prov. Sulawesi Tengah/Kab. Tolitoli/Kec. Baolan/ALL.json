@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TOLITOLI",
+        "sekolah_id": "C054E657-013C-E111-AA2C-033A99171640",
+        "npsn": 40202314,
+        "jumlah_kirim": 22,
+        "ptk": 13,
+        "pegawai": 6,
+        "pd": 88,
+        "rombel": 24,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Baolan",
+        "kode_wilayah_induk_kecamatan": "180604  ",
+        "induk_kabupaten": "Kab. Tolitoli",
+        "kode_wilayah_induk_kabupaten": "180600  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 07:37:09",
+        "sekolah_id_enkrip": "437A86A35E4C106A1B85                                                                                "
+    }
+]

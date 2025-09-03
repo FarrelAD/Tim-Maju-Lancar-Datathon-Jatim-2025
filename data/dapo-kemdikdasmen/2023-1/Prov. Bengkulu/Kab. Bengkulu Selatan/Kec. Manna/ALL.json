@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 01 Bengkulu Selatan",
+        "sekolah_id": "808DE8DC-31F5-E011-A03B-7D8300841A13",
+        "npsn": 10701050,
+        "jumlah_kirim": 32,
+        "ptk": 34,
+        "pegawai": 8,
+        "pd": 145,
+        "rombel": 26,
+        "jml_rk": 27,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Manna",
+        "kode_wilayah_induk_kecamatan": "260304  ",
+        "induk_kabupaten": "Kab. Bengkulu Selatan",
+        "kode_wilayah_induk_kabupaten": "260300  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 20:25:30",
+        "sekolah_id_enkrip": "AA6495D8099E367B7D53                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SERUI",
+        "sekolah_id": "E0B33834-9EFE-E111-A5F8-5F82545C7CC1",
+        "npsn": 60301358,
+        "jumlah_kirim": 1,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 31,
+        "rombel": 10,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Yapen Selatan",
+        "kode_wilayah_induk_kecamatan": "250306  ",
+        "induk_kabupaten": "Kab. Kepulauan Yapen",
+        "kode_wilayah_induk_kabupaten": "250300  ",
+        "induk_provinsi": "Prov. Papua",
+        "kode_wilayah_induk_provinsi": "250000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 07:36:28",
+        "sekolah_id_enkrip": "0F3E3CE148AF06F40774                                                                                "
+    }
+]

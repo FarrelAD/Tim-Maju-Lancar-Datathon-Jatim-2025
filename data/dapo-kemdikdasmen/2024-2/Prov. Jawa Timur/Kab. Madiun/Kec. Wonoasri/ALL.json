@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PANCA BHAKTI",
+        "sekolah_id": "70B28A8A-F6AA-E111-AA3A-BD3DA08EB959",
+        "npsn": 20548731,
+        "jumlah_kirim": 22,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 34,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Wonoasri",
+        "kode_wilayah_induk_kecamatan": "050811  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 07:07:02",
+        "sekolah_id_enkrip": "FB0834D62BEB0BB1AA7C                                                                                "
+    }
+]

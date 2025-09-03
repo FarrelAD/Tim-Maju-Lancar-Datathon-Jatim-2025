@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB Negeri Mapilli",
+        "sekolah_id": "7DED0202-B612-4861-8C67-76468A8DF2FE",
+        "npsn": 69975556,
+        "jumlah_kirim": 12,
+        "ptk": 15,
+        "pegawai": 4,
+        "pd": 40,
+        "rombel": 21,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mapili",
+        "kode_wilayah_induk_kecamatan": "330310  ",
+        "induk_kabupaten": "Kab. Polewali Mandar",
+        "kode_wilayah_induk_kabupaten": "330300  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 07:33:30",
+        "sekolah_id_enkrip": "2A99EC8F61AC3B65A63F                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": " SLBN MARABAHAN",
+        "sekolah_id": "8072D253-30F5-E011-AD13-E54C6B7FB263",
+        "npsn": 30301385,
+        "jumlah_kirim": 53,
+        "ptk": 20,
+        "pegawai": 10,
+        "pd": 76,
+        "rombel": 29,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Marabahan",
+        "kode_wilayah_induk_kecamatan": "150314  ",
+        "induk_kabupaten": "Kab. Barito Kuala",
+        "kode_wilayah_induk_kabupaten": "150300  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 17:18:58",
+        "sekolah_id_enkrip": "37B66648C6DDF7C51BDC                                                                                "
+    }
+]

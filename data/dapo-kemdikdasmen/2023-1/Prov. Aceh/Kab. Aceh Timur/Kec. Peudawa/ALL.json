@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Aceh Timur",
+        "sekolah_id": "1B61BCC2-E318-4327-8B31-AD7063EFD0CF",
+        "npsn": 69991917,
+        "jumlah_kirim": 35,
+        "ptk": 13,
+        "pegawai": 4,
+        "pd": 63,
+        "rombel": 16,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Peudawa",
+        "kode_wilayah_induk_kecamatan": "060424  ",
+        "induk_kabupaten": "Kab. Aceh Timur",
+        "kode_wilayah_induk_kabupaten": "060400  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 22:31:37",
+        "sekolah_id_enkrip": "CC7A41BBB5CA340BC1B1                                                                                "
+    }
+]

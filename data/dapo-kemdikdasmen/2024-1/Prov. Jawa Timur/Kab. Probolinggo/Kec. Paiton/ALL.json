@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MAMBAUL ULUM",
+        "sekolah_id": "40AFA2B8-8C18-E111-9F71-0B4463AA6696",
+        "npsn": 20570820,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 36,
+        "rombel": 9,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Paiton",
+        "kode_wilayah_induk_kecamatan": "052013  ",
+        "induk_kabupaten": "Kab. Probolinggo",
+        "kode_wilayah_induk_kabupaten": "052000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 06:13:20",
+        "sekolah_id_enkrip": "D89BC8C96C67ADCD45AB                                                                                "
+    }
+]

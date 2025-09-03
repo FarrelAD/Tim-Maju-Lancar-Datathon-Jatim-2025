@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MEKAR ARUM",
+        "sekolah_id": "B0C19606-2DF5-E011-BFBA-EDFE36DD3BDC",
+        "npsn": 20265786,
+        "jumlah_kirim": 10,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 69,
+        "rombel": 19,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Harjamukti",
+        "kode_wilayah_induk_kecamatan": "026301  ",
+        "induk_kabupaten": "Kota Cirebon",
+        "kode_wilayah_induk_kabupaten": "026300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 06:35:15",
+        "sekolah_id_enkrip": "FB9706B1965B69B8AC33                                                                                "
+    }
+]

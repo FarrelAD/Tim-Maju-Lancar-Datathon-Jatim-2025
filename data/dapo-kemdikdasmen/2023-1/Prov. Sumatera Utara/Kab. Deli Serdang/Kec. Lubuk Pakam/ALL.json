@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Deliserdang",
+        "sekolah_id": "5056E4DC-2EF5-E011-AFEA-81901214000A",
+        "npsn": 10215081,
+        "jumlah_kirim": 18,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 98,
+        "rombel": 14,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lubuk Pakam",
+        "kode_wilayah_induk_kecamatan": "070130  ",
+        "induk_kabupaten": "Kab. Deli Serdang",
+        "kode_wilayah_induk_kabupaten": "070100  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 17:59:24",
+        "sekolah_id_enkrip": "68DA7430BC1E49BD9F42                                                                                "
+    }
+]

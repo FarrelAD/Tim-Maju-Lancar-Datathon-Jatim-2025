@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 2 PALANGKA RAYA",
+        "sekolah_id": "807CA235-30F5-E011-A41A-218D14E26E2F",
+        "npsn": 30203405,
+        "jumlah_kirim": 37,
+        "ptk": 22,
+        "pegawai": 4,
+        "pd": 93,
+        "rombel": 21,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sabangau",
+        "kode_wilayah_induk_kecamatan": "146003  ",
+        "induk_kabupaten": "Kota Palangka Raya",
+        "kode_wilayah_induk_kabupaten": "146000  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 01:21:14",
+        "sekolah_id_enkrip": "C6CB1866877EE583F7DB                                                                                "
+    }
+]

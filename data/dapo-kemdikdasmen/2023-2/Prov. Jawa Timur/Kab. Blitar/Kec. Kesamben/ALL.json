@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MARSUDI UTOMO KESAMBEN",
+        "sekolah_id": "30B66CBB-8C18-E111-B753-0F3C94A2D92C",
+        "npsn": 20549288,
+        "jumlah_kirim": 5,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 102,
+        "rombel": 19,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kesamben",
+        "kode_wilayah_induk_kecamatan": "051511  ",
+        "induk_kabupaten": "Kab. Blitar",
+        "kode_wilayah_induk_kabupaten": "051500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 06:15:07",
+        "sekolah_id_enkrip": "0D7329FA90AB3233112B                                                                                "
+    }
+]

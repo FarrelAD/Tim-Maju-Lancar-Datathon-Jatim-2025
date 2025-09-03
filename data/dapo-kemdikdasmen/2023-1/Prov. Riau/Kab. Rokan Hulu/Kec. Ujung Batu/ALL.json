@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KARYA BAKTI",
+        "sekolah_id": "70F1FBC7-2FF5-E011-91E9-610A49CA5CED",
+        "npsn": 10495632,
+        "jumlah_kirim": 11,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 40,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ujung Batu",
+        "kode_wilayah_induk_kecamatan": "090901  ",
+        "induk_kabupaten": "Kab. Rokan Hulu",
+        "kode_wilayah_induk_kabupaten": "090900  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 18:06:16",
+        "sekolah_id_enkrip": "8E75FB4A0F1E5A793329                                                                                "
+    }
+]

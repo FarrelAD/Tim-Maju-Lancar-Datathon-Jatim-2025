@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AULIA",
+        "sekolah_id": "B086DB15-2CF5-E011-AFDA-9D474004785C",
+        "npsn": 20258495,
+        "jumlah_kirim": 6,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 73,
+        "rombel": 21,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Solokanjeruk",
+        "kode_wilayah_induk_kecamatan": "020831  ",
+        "induk_kabupaten": "Kab. Bandung",
+        "kode_wilayah_induk_kabupaten": "020800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "08 Aug 2025 09:56:42",
+        "sekolah_id_enkrip": "5DCAE7379D93066EC72D                                                                                "
+    }
+]

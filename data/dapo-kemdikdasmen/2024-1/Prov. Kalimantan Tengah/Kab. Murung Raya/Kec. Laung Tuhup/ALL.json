@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Laung Tuhup",
+        "sekolah_id": "6FFD0D78-3DDA-4A4F-9B77-33A4A743D26B",
+        "npsn": 69961388,
+        "jumlah_kirim": 18,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 35,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Laung Tuhup",
+        "kode_wilayah_induk_kecamatan": "141201  ",
+        "induk_kabupaten": "Kab. Murung Raya",
+        "kode_wilayah_induk_kabupaten": "141200  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 18:49:32",
+        "sekolah_id_enkrip": "C92AC7025FBFDADA6F43                                                                                "
+    }
+]

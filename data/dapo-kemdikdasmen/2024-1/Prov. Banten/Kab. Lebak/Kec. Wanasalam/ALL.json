@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH HARAPAN MULYA",
+        "sekolah_id": "A0C5409F-50B0-E111-A8D5-E36BE88D99F1",
+        "npsn": 20622200,
+        "jumlah_kirim": 14,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 23,
+        "rombel": 14,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wanasalam",
+        "kode_wilayah_induk_kecamatan": "280222  ",
+        "induk_kabupaten": "Kab. Lebak",
+        "kode_wilayah_induk_kabupaten": "280200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 20:22:00",
+        "sekolah_id_enkrip": "0E1283D9CF1D41E494A9                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PAGUYAMAN",
+        "sekolah_id": "000E892C-97FE-E111-808C-AF5A6E029093",
+        "npsn": 40501683,
+        "jumlah_kirim": 19,
+        "ptk": 28,
+        "pegawai": 4,
+        "pd": 192,
+        "rombel": 46,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Paguyaman",
+        "kode_wilayah_induk_kecamatan": "300106  ",
+        "induk_kabupaten": "Kab. Boalemo",
+        "kode_wilayah_induk_kabupaten": "300100  ",
+        "induk_provinsi": "Prov. Gorontalo",
+        "kode_wilayah_induk_provinsi": "300000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 06:28:42",
+        "sekolah_id_enkrip": "CCCC677FABC367FE90A4                                                                                "
+    }
+]

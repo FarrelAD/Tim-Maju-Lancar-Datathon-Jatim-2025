@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC BINA WIDYA",
+        "sekolah_id": "3049E415-2CF5-E011-B4AD-832E60023140",
+        "npsn": 20267653,
+        "jumlah_kirim": 16,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 85,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Batujajar",
+        "kode_wilayah_induk_kecamatan": "022307  ",
+        "induk_kabupaten": "Kab. Bandung Barat",
+        "kode_wilayah_induk_kabupaten": "022300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 19:04:05",
+        "sekolah_id_enkrip": "28C2F5FADB37F04BFA12                                                                                "
+    }
+]

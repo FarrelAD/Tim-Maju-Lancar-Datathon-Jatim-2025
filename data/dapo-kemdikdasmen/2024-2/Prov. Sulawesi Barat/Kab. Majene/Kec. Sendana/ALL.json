@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TP PKK SENDANA ",
+        "sekolah_id": "501AD024-9EFE-E111-B765-C322A5D529E6",
+        "npsn": 69772702,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 46,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sendana",
+        "kode_wilayah_induk_kecamatan": "330510  ",
+        "induk_kabupaten": "Kab. Majene",
+        "kode_wilayah_induk_kabupaten": "330500  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "15 Aug 2025 12:15:06",
+        "sekolah_id_enkrip": "EB0AF4EFF08CA9AC4B6B                                                                                "
+    }
+]

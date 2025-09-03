@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Kab. Kampar",
+        "sekolah_id": "C07164C7-1311-E211-9375-91067AE374DD",
+        "npsn": 10498710,
+        "jumlah_kirim": 12,
+        "ptk": 16,
+        "pegawai": 4,
+        "pd": 37,
+        "rombel": 13,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bangkinang",
+        "kode_wilayah_induk_kecamatan": "090105  ",
+        "induk_kabupaten": "Kab. Kampar",
+        "kode_wilayah_induk_kabupaten": "090100  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:50:18",
+        "sekolah_id_enkrip": "0729FF78807093B0B179                                                                                "
+    }
+]

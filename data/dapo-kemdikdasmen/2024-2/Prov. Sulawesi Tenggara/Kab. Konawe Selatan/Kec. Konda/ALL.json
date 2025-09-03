@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 KONAWE SELATAN",
+        "sekolah_id": "002C79C9-30F5-E011-B4B3-432B9BBD2465",
+        "npsn": 40408932,
+        "jumlah_kirim": 34,
+        "ptk": 17,
+        "pegawai": 0,
+        "pd": 69,
+        "rombel": 24,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Konda",
+        "kode_wilayah_induk_kecamatan": "200503  ",
+        "induk_kabupaten": "Kab. Konawe Selatan",
+        "kode_wilayah_induk_kabupaten": "200500  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 09:15:55",
+        "sekolah_id_enkrip": "C88CBEDC72BAA40DF47D                                                                                "
+    }
+]

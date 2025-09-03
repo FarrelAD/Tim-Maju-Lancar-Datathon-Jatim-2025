@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKHN 1 TIMPAH",
+        "sekolah_id": "714E134A-CD26-4324-A81E-C8AE0A8E51C4",
+        "npsn": 70056378,
+        "jumlah_kirim": 7,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 4,
+        "rombel": 3,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Timpah",
+        "kode_wilayah_induk_kecamatan": "140116  ",
+        "induk_kabupaten": "Kab. Kapuas",
+        "kode_wilayah_induk_kabupaten": "140100  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 15:37:50",
+        "sekolah_id_enkrip": "3446B7480EB1DEF96343                                                                                "
+    }
+]

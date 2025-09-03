@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI",
+        "sekolah_id": "4028497E-8D18-E111-8F7E-F5091768A769",
+        "npsn": 20531143,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 36,
+        "rombel": 11,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kamal",
+        "kode_wilayah_induk_kecamatan": "052901  ",
+        "induk_kabupaten": "Kab. Bangkalan",
+        "kode_wilayah_induk_kabupaten": "052900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 18:41:40",
+        "sekolah_id_enkrip": "6F7339C7C489CCFDF125                                                                                "
+    }
+]

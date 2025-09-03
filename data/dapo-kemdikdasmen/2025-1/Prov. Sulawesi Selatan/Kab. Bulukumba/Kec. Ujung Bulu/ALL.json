@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 BULUKUMBA",
+        "sekolah_id": "608838C3-0D26-E111-AB5E-9513F49BAF23",
+        "npsn": 40304395,
+        "jumlah_kirim": 11,
+        "ptk": 45,
+        "pegawai": 5,
+        "pd": 109,
+        "rombel": 47,
+        "jml_rk": 11,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ujung Bulu",
+        "kode_wilayah_induk_kecamatan": "191102  ",
+        "induk_kabupaten": "Kab. Bulukumba",
+        "kode_wilayah_induk_kabupaten": "191100  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:20:36",
+        "sekolah_id_enkrip": "13084F70216DBE564F13                                                                                "
+    }
+]
