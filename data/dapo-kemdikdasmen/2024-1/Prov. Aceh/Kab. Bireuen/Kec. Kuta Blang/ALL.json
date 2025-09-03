@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB YTC KUTA BLANG",
+        "sekolah_id": "20AB7C91-2EF5-E011-90C8-833DBCE7438F",
+        "npsn": 10107113,
+        "jumlah_kirim": 31,
+        "ptk": 32,
+        "pegawai": 8,
+        "pd": 113,
+        "rombel": 27,
+        "jml_rk": 28,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kuta Blang",
+        "kode_wilayah_induk_kecamatan": "061217  ",
+        "induk_kabupaten": "Kab. Bireuen",
+        "kode_wilayah_induk_kabupaten": "061200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 13:43:08",
+        "sekolah_id_enkrip": "D90F9733B12003144F52                                                                                "
+    }
+]

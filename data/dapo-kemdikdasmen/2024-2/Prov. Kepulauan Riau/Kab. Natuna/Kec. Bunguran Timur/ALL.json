@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI NATUNA",
+        "sekolah_id": "70AE3730-7B0C-4745-9FE0-79DE428B90E4",
+        "npsn": 69983759,
+        "jumlah_kirim": 20,
+        "ptk": 9,
+        "pegawai": 9,
+        "pd": 66,
+        "rombel": 39,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bunguran Timur",
+        "kode_wilayah_induk_kecamatan": "310305  ",
+        "induk_kabupaten": "Kab. Natuna",
+        "kode_wilayah_induk_kabupaten": "310300  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 21:55:17",
+        "sekolah_id_enkrip": "E545D54060A9C8D9872F                                                                                "
+    }
+]

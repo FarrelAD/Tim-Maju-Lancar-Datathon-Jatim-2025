@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS MUHAMMADIYAH",
+        "sekolah_id": "8084DBF5-8B18-E111-9DED-356F0266062D",
+        "npsn": 20536983,
+        "jumlah_kirim": 12,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 61,
+        "rombel": 12,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sidayu",
+        "kode_wilayah_induk_kecamatan": "050113  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "06 Aug 2025 08:26:04",
+        "sekolah_id_enkrip": "A5326025E346328FC908                                                                                "
+    }
+]

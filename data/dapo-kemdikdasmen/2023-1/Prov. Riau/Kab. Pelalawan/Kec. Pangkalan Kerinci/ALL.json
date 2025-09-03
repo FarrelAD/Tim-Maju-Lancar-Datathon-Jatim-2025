@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N PELALAWAN",
+        "sekolah_id": "80AA80C8-2FF5-E011-A723-6F35EF431CD2",
+        "npsn": 10496590,
+        "jumlah_kirim": 53,
+        "ptk": 22,
+        "pegawai": 7,
+        "pd": 136,
+        "rombel": 37,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pangkalan Kerinci",
+        "kode_wilayah_induk_kecamatan": "090805  ",
+        "induk_kabupaten": "Kab. Pelalawan",
+        "kode_wilayah_induk_kabupaten": "090800  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 04:20:02",
+        "sekolah_id_enkrip": "BAD886B1C91B3AD79ECD                                                                                "
+    }
+]

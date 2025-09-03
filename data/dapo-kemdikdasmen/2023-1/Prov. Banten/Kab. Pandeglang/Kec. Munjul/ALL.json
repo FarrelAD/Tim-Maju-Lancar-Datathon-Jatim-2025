@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh Arisma",
+        "sekolah_id": "6D280127-95C0-48B9-A016-9584A9FA520E",
+        "npsn": 69995956,
+        "jumlah_kirim": 31,
+        "ptk": 3,
+        "pegawai": 5,
+        "pd": 55,
+        "rombel": 19,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Munjul",
+        "kode_wilayah_induk_kecamatan": "280107  ",
+        "induk_kabupaten": "Kab. Pandeglang",
+        "kode_wilayah_induk_kabupaten": "280100  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:22:56",
+        "sekolah_id_enkrip": "BC0EC428338CD7920B6C                                                                                "
+    }
+]

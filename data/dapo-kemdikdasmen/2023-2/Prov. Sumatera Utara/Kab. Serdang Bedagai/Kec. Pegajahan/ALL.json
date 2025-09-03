@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SERDANG BEDAGAI",
+        "sekolah_id": "A0356448-9FFE-E111-838E-A92E547FA023",
+        "npsn": 60728467,
+        "jumlah_kirim": 9,
+        "ptk": 19,
+        "pegawai": 3,
+        "pd": 113,
+        "rombel": 43,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pegajahan",
+        "kode_wilayah_induk_kecamatan": "072117  ",
+        "induk_kabupaten": "Kab. Serdang Bedagai",
+        "kode_wilayah_induk_kabupaten": "072100  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 07:48:43",
+        "sekolah_id_enkrip": "9630B7917ED95C557684                                                                                "
+    }
+]

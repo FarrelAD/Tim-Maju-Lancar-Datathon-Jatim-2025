@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN PANDAAN",
+        "sekolah_id": "000F02B7-8C18-E111-8B21-13C4DFDA0730",
+        "npsn": 20574652,
+        "jumlah_kirim": 28,
+        "ptk": 26,
+        "pegawai": 6,
+        "pd": 212,
+        "rombel": 24,
+        "jml_rk": 32,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pandaan",
+        "kode_wilayah_induk_kecamatan": "051912  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "31 Aug 2025 01:54:24",
+        "sekolah_id_enkrip": "AE6826EF70E3DCBA0AE1                                                                                "
+    }
+]

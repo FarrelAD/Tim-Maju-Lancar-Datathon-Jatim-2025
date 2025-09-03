@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 MUKOMUKO",
+        "sekolah_id": "006AFEFF-1B71-4FA8-B9D5-5593A3A083A7",
+        "npsn": 70014779,
+        "jumlah_kirim": 16,
+        "ptk": 7,
+        "pegawai": 5,
+        "pd": 15,
+        "rombel": 6,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. XIV Koto",
+        "kode_wilayah_induk_kecamatan": "260413  ",
+        "induk_kabupaten": "Kab. Muko-muko",
+        "kode_wilayah_induk_kabupaten": "260400  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "15 Aug 2025 10:17:56",
+        "sekolah_id_enkrip": "7E8B6DBE93F0A82AB354                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PGRI BANDUNG",
+        "sekolah_id": "603290AE-8C18-E111-9261-BF677E310A29",
+        "npsn": 20515467,
+        "jumlah_kirim": 4,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 27,
+        "rombel": 14,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bandung",
+        "kode_wilayah_induk_kecamatan": "051602  ",
+        "induk_kabupaten": "Kab. Tulungagung",
+        "kode_wilayah_induk_kabupaten": "051600  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 14:52:06",
+        "sekolah_id_enkrip": "6149D32DB1C939C370DE                                                                                "
+    }
+]

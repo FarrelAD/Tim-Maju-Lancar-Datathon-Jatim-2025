@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB/E PRAYUWANA",
+        "sekolah_id": "E0EFBCCA-8DFC-E111-8081-F1570D24D492",
+        "npsn": 20403208,
+        "jumlah_kirim": 22,
+        "ptk": 15,
+        "pegawai": 1,
+        "pd": 20,
+        "rombel": 9,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kraton",
+        "kode_wilayah_induk_kecamatan": "046002  ",
+        "induk_kabupaten": "Kota Yogyakarta",
+        "kode_wilayah_induk_kabupaten": "046000  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 22:11:53",
+        "sekolah_id_enkrip": "EE426B0061A3A5E0B0AD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KABUPATEN SORONG",
+        "sekolah_id": "4B05AB7E-00DF-43EB-AC9B-6822E8E22C3C",
+        "npsn": 69728503,
+        "jumlah_kirim": 12,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 39,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mayamuk",
+        "kode_wilayah_induk_kecamatan": "390413  ",
+        "induk_kabupaten": "Kab. Sorong",
+        "kode_wilayah_induk_kabupaten": "390400  ",
+        "induk_provinsi": "Prov. Papua Barat Daya",
+        "kode_wilayah_induk_provinsi": "390000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "09 Aug 2025 23:16:32",
+        "sekolah_id_enkrip": "AB2754BD95D248C1ACE8                                                                                "
+    }
+]

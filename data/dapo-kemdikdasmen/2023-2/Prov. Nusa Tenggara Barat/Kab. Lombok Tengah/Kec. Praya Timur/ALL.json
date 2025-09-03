@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 3 LOMBOK TENGAH",
+        "sekolah_id": "C5D83E3B-B00A-4E5D-8D40-594AB9F9D728",
+        "npsn": 69786844,
+        "jumlah_kirim": 34,
+        "ptk": 17,
+        "pegawai": 7,
+        "pd": 84,
+        "rombel": 31,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Praya Timur",
+        "kode_wilayah_induk_kecamatan": "230203  ",
+        "induk_kabupaten": "Kab. Lombok Tengah",
+        "kode_wilayah_induk_kabupaten": "230200  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 04:53:25",
+        "sekolah_id_enkrip": "78314FAD6BC3614FC458                                                                                "
+    }
+]

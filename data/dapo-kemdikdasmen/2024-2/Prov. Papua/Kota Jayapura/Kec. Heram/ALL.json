@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PEMBINA  PROVINSI PAPUA",
+        "sekolah_id": "5067A741-31F5-E011-A3C9-2BD191274A4A",
+        "npsn": 60301020,
+        "jumlah_kirim": 32,
+        "ptk": 17,
+        "pegawai": 7,
+        "pd": 111,
+        "rombel": 16,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Heram",
+        "kode_wilayah_induk_kecamatan": "256005  ",
+        "induk_kabupaten": "Kota Jayapura",
+        "kode_wilayah_induk_kabupaten": "256000  ",
+        "induk_provinsi": "Prov. Papua",
+        "kode_wilayah_induk_provinsi": "250000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 13:26:14",
+        "sekolah_id_enkrip": "87E73F5D7ABC7DE1D533                                                                                "
+    }
+]

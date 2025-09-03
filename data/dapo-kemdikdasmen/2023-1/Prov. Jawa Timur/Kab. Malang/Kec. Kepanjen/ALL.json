@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC KEPANJEN",
+        "sekolah_id": "00636CBB-8C18-E111-9D84-EB9ADC77D7CC",
+        "npsn": 20537317,
+        "jumlah_kirim": 13,
+        "ptk": 16,
+        "pegawai": 1,
+        "pd": 95,
+        "rombel": 25,
+        "jml_rk": 8,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kepanjen",
+        "kode_wilayah_induk_kecamatan": "051816  ",
+        "induk_kabupaten": "Kab. Malang",
+        "kode_wilayah_induk_kabupaten": "051800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 10:54:49",
+        "sekolah_id_enkrip": "D4C584E30AB814C2D736                                                                                "
+    }
+]

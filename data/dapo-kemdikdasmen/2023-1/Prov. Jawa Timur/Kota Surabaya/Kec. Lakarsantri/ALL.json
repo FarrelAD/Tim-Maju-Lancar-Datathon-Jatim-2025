@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS KASIH",
+        "sekolah_id": "6074953A-9AFE-E111-8718-596272C58670",
+        "npsn": 20574846,
+        "jumlah_kirim": 6,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 33,
+        "rombel": 9,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Lakarsantri",
+        "kode_wilayah_induk_kecamatan": "056014  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 16:39:45",
+        "sekolah_id_enkrip": "AC6B5DD747EF7AD45725                                                                                "
+    }
+]

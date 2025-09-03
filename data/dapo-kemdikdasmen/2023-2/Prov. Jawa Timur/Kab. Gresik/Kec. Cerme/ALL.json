@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN CERME",
+        "sekolah_id": "00184CF0-8B18-E111-AD3D-7F23B77D6C0B",
+        "npsn": 20501095,
+        "jumlah_kirim": 16,
+        "ptk": 17,
+        "pegawai": 2,
+        "pd": 115,
+        "rombel": 18,
+        "jml_rk": 15,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cerme",
+        "kode_wilayah_induk_kecamatan": "050105  ",
+        "induk_kabupaten": "Kab. Gresik",
+        "kode_wilayah_induk_kabupaten": "050100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 12:42:44",
+        "sekolah_id_enkrip": "A821287A58FBF034E39A                                                                                "
+    }
+]

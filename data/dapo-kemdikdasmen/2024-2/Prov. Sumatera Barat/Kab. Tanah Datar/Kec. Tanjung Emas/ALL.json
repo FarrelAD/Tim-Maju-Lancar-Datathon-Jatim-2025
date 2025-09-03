@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 PAGARUYUNG",
+        "sekolah_id": "C04BDA78-2FF5-E011-8E07-AB930931E937",
+        "npsn": 10302503,
+        "jumlah_kirim": 22,
+        "ptk": 13,
+        "pegawai": 3,
+        "pd": 65,
+        "rombel": 15,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Emas",
+        "kode_wilayah_induk_kecamatan": "080706  ",
+        "induk_kabupaten": "Kab. Tanah Datar",
+        "kode_wilayah_induk_kabupaten": "080700  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 18:11:14",
+        "sekolah_id_enkrip": "865989B5B6DD18E58DCF                                                                                "
+    }
+]

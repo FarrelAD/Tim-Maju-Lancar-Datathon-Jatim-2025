@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BAROKAH AJI",
+        "sekolah_id": "74FBB2D8-9ED1-4073-8706-E38AA7E4BF33",
+        "npsn": 70030035,
+        "jumlah_kirim": 23,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 22,
+        "rombel": 8,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Angsana",
+        "kode_wilayah_induk_kecamatan": "151109  ",
+        "induk_kabupaten": "Kab. Tanah Bumbu",
+        "kode_wilayah_induk_kabupaten": "151100  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 06:36:18",
+        "sekolah_id_enkrip": "74B10A9AB79030E97CE2                                                                                "
+    }
+]

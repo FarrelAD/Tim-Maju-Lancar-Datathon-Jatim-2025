@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN  1 MUKOMUKO",
+        "sekolah_id": "A0A7E8DC-31F5-E011-AA03-9FFA080ACA10",
+        "npsn": 10703137,
+        "jumlah_kirim": 12,
+        "ptk": 16,
+        "pegawai": 6,
+        "pd": 57,
+        "rombel": 17,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Mukomuko",
+        "kode_wilayah_induk_kecamatan": "260403  ",
+        "induk_kabupaten": "Kab. Muko-muko",
+        "kode_wilayah_induk_kabupaten": "260400  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:55:05",
+        "sekolah_id_enkrip": "CBCF02C9090570E0FE40                                                                                "
+    }
+]

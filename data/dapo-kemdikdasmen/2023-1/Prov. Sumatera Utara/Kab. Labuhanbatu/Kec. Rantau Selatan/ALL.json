@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Rantauprapat",
+        "sekolah_id": "30D504DB-2EF5-E011-A93E-E33CD0CB8A8A",
+        "npsn": 10204862,
+        "jumlah_kirim": 25,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 56,
+        "rombel": 9,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Rantau Selatan",
+        "kode_wilayah_induk_kecamatan": "070721  ",
+        "induk_kabupaten": "Kab. Labuhan Batu",
+        "kode_wilayah_induk_kabupaten": "070700  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 00:03:53",
+        "sekolah_id_enkrip": "C1471C9B11707D6E1DCD                                                                                "
+    }
+]

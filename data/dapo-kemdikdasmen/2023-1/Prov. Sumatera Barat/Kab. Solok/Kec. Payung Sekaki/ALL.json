@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS BUNDA",
+        "sekolah_id": "87A77E50-58D3-41C9-B96D-01A698C4DC24",
+        "npsn": 69760752,
+        "jumlah_kirim": 12,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 24,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Payung Sekaki",
+        "kode_wilayah_induk_kecamatan": "080406  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 13:03:37",
+        "sekolah_id_enkrip": "6FEEA5788F601D47B4B0                                                                                "
+    }
+]

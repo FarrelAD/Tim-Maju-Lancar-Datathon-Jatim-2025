@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N SUNGAILIAT",
+        "sekolah_id": "201BBAAD-31F5-E011-9D71-37F8EA71CDAD",
+        "npsn": 10900273,
+        "jumlah_kirim": 26,
+        "ptk": 20,
+        "pegawai": 9,
+        "pd": 204,
+        "rombel": 61,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sungailiat",
+        "kode_wilayah_induk_kecamatan": "290109  ",
+        "induk_kabupaten": "Kab. Bangka",
+        "kode_wilayah_induk_kabupaten": "290100  ",
+        "induk_provinsi": "Prov. Kepulauan Bangka Belitung",
+        "kode_wilayah_induk_provinsi": "290000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 10:11:53",
+        "sekolah_id_enkrip": "92EC76017C9BDDF05EC8                                                                                "
+    }
+]

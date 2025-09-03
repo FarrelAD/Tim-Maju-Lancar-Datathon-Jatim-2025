@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN TUMBRASANOM BOJONEGORO",
+        "sekolah_id": "20DC0DF1-8B18-E111-B0F7-534E06049410",
+        "npsn": 20504491,
+        "jumlah_kirim": 16,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 57,
+        "rombel": 13,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kedungadem",
+        "kode_wilayah_induk_kecamatan": "050508  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 08:45:12",
+        "sekolah_id_enkrip": "2E088A01CAF6D9ADCA18                                                                                "
+    }
+]

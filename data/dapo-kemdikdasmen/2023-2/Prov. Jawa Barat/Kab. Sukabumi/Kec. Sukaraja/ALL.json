@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC PURNA BHAKTI PERTIWI",
+        "sekolah_id": "C03CDA15-2CF5-E011-9F1F-4F8F281C5A3E",
+        "npsn": 20258155,
+        "jumlah_kirim": 9,
+        "ptk": 9,
+        "pegawai": 3,
+        "pd": 60,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukaraja",
+        "kode_wilayah_induk_kecamatan": "020617  ",
+        "induk_kabupaten": "Kab. Sukabumi",
+        "kode_wilayah_induk_kabupaten": "020600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 13:13:27",
+        "sekolah_id_enkrip": "249363AD416157425616                                                                                "
+    }
+]

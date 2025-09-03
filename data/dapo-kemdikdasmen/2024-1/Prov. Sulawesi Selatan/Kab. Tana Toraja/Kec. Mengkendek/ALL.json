@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 TANA TORAJA",
+        "sekolah_id": "803DBCC4-0D26-E111-8FBE-4B81145A543F",
+        "npsn": 40306504,
+        "jumlah_kirim": 61,
+        "ptk": 11,
+        "pegawai": 5,
+        "pd": 29,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mengkendek",
+        "kode_wilayah_induk_kecamatan": "191802  ",
+        "induk_kabupaten": "Kab. Tana Toraja",
+        "kode_wilayah_induk_kabupaten": "191800  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 10:11:51",
+        "sekolah_id_enkrip": "BBAFE625DD3922CCE7FB                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH PELANGI CITA",
+        "sekolah_id": "538E2B7E-93B6-4FE8-8541-BD096762548F",
+        "npsn": 70054434,
+        "jumlah_kirim": 0,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pahandut",
+        "kode_wilayah_induk_kecamatan": "146001  ",
+        "induk_kabupaten": "Kota Palangka Raya",
+        "kode_wilayah_induk_kabupaten": "146000  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "CCF4768D5C545B72A6FD                                                                                "
+    }
+]

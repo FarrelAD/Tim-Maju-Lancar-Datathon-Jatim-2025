@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SAASIH",
+        "sekolah_id": "442779A1-28A2-4794-9186-1F802DE41866",
+        "npsn": 69898931,
+        "jumlah_kirim": 17,
+        "ptk": 8,
+        "pegawai": 2,
+        "pd": 63,
+        "rombel": 19,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "KEC. CIGUGUR",
+        "kode_wilayah_induk_kecamatan": "022553  ",
+        "induk_kabupaten": "Kab. Pangandaran",
+        "kode_wilayah_induk_kabupaten": "022500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 11:20:23",
+        "sekolah_id_enkrip": "F0F88B8956C99741E52C                                                                                "
+    }
+]

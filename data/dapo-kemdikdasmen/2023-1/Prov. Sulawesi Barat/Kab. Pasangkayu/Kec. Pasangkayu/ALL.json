@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PASANGKAYU",
+        "sekolah_id": "F05E2C23-CAC1-E111-84E5-2DC8B12B29B3",
+        "npsn": 40604637,
+        "jumlah_kirim": 40,
+        "ptk": 12,
+        "pegawai": 4,
+        "pd": 31,
+        "rombel": 14,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pasangkayu",
+        "kode_wilayah_induk_kecamatan": "330201  ",
+        "induk_kabupaten": "Kab. Pasangkayu",
+        "kode_wilayah_induk_kabupaten": "330200  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 20:35:12",
+        "sekolah_id_enkrip": "6B38757D703A0FFE6EE4                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 01 KABUPATEN TANGERANG",
+        "sekolah_id": "A09CF758-31F5-E011-B192-B94B6B339B48",
+        "npsn": 20615486,
+        "jumlah_kirim": 30,
+        "ptk": 69,
+        "pegawai": 13,
+        "pd": 319,
+        "rombel": 72,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Balaraja",
+        "kode_wilayah_induk_kecamatan": "280313  ",
+        "induk_kabupaten": "Kab. Tangerang",
+        "kode_wilayah_induk_kabupaten": "280300  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 14:35:38",
+        "sekolah_id_enkrip": "4E02D97AFC34FCDBADAC                                                                                "
+    }
+]

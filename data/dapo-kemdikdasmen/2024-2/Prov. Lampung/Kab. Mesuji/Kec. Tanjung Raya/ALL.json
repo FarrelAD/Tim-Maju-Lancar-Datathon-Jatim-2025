@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Mesuji",
+        "sekolah_id": "129CED20-5362-49AE-A02F-05E73A3D4CCE",
+        "npsn": 69968419,
+        "jumlah_kirim": 10,
+        "ptk": 13,
+        "pegawai": 6,
+        "pd": 66,
+        "rombel": 17,
+        "jml_rk": 14,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Raya",
+        "kode_wilayah_induk_kecamatan": "121102  ",
+        "induk_kabupaten": "Kab. Mesuji",
+        "kode_wilayah_induk_kabupaten": "121100  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 22:52:16",
+        "sekolah_id_enkrip": "3169AFF4A61FA6733360                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Tanjung Balai",
+        "sekolah_id": "80CA84D9-2EF5-E011-9E36-9DECB4B277EE",
+        "npsn": 10211993,
+        "jumlah_kirim": 12,
+        "ptk": 9,
+        "pegawai": 2,
+        "pd": 98,
+        "rombel": 15,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tanjung Balai Selatan",
+        "kode_wilayah_induk_kecamatan": "076402  ",
+        "induk_kabupaten": "Kota Tanjung Balai",
+        "kode_wilayah_induk_kabupaten": "076400  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "03 Aug 2025 18:02:59",
+        "sekolah_id_enkrip": "E5375A940E8ED760A62A                                                                                "
+    }
+]

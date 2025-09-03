@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MULATSARIRA BATURETNO",
+        "sekolah_id": "5056077B-F2C0-E111-BDD7-49AC0F0D03AD",
+        "npsn": 20311356,
+        "jumlah_kirim": 26,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 99,
+        "rombel": 20,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Baturetno",
+        "kode_wilayah_induk_kecamatan": "031209  ",
+        "induk_kabupaten": "Kab. Wonogiri",
+        "kode_wilayah_induk_kabupaten": "031200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 17:02:14",
+        "sekolah_id_enkrip": "7152016EA50E43F95BAC                                                                                "
+    }
+]

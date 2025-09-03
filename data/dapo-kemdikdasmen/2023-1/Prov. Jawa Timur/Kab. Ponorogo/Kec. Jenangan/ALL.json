@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI  JENANGAN",
+        "sekolah_id": "1AF30CDF-BA42-45FF-9CB3-869F43503C6B",
+        "npsn": 69815446,
+        "jumlah_kirim": 52,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 80,
+        "rombel": 41,
+        "jml_rk": 9,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jenangan",
+        "kode_wilayah_induk_kecamatan": "051119  ",
+        "induk_kabupaten": "Kab. Ponorogo",
+        "kode_wilayah_induk_kabupaten": "051100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 14:49:41",
+        "sekolah_id_enkrip": "8FE849B47AD1114C991E                                                                                "
+    }
+]

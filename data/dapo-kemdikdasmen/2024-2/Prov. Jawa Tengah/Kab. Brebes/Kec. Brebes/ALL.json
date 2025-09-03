@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BREBES",
+        "sekolah_id": "A064D658-2DF5-E011-8235-9D9A2FD0E6F7",
+        "npsn": 20326854,
+        "jumlah_kirim": 49,
+        "ptk": 22,
+        "pegawai": 4,
+        "pd": 239,
+        "rombel": 38,
+        "jml_rk": 19,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Brebes",
+        "kode_wilayah_induk_kecamatan": "032917  ",
+        "induk_kabupaten": "Kab. Brebes",
+        "kode_wilayah_induk_kabupaten": "032900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "13 Aug 2025 21:55:41",
+        "sekolah_id_enkrip": "9A75F1BA87652249214E                                                                                "
+    }
+]

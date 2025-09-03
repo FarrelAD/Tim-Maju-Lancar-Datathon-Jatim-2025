@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BUNGA CIKAL MANDIRI",
+        "sekolah_id": "3877C6EB-0C04-45CF-9C1C-BE33227B7DA0",
+        "npsn": 69966505,
+        "jumlah_kirim": 9,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 43,
+        "rombel": 10,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kalikotes",
+        "kode_wilayah_induk_kecamatan": "031007  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 21:48:25",
+        "sekolah_id_enkrip": "1D1501EA3905B521CE11                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS HARAPAN III",
+        "sekolah_id": "4086DFF5-8B18-E111-880F-0D59006226C3",
+        "npsn": 20503602,
+        "jumlah_kirim": 23,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 85,
+        "rombel": 14,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mojoagung",
+        "kode_wilayah_induk_kecamatan": "050409  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 04:53:15",
+        "sekolah_id_enkrip": "6A49856FC5494F736050                                                                                "
+    }
+]

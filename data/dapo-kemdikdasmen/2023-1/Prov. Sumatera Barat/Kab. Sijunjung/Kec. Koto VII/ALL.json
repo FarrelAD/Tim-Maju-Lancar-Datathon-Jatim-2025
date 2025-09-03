@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS MULIA",
+        "sekolah_id": "006F5479-2FF5-E011-B987-A3E6C818C1B1",
+        "npsn": 10310891,
+        "jumlah_kirim": 29,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 29,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Koto VII",
+        "kode_wilayah_induk_kecamatan": "080810  ",
+        "induk_kabupaten": "Kab. Sijunjung",
+        "kode_wilayah_induk_kabupaten": "080800  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 10:02:55",
+        "sekolah_id_enkrip": "EE9396AB508982197ADE                                                                                "
+    }
+]

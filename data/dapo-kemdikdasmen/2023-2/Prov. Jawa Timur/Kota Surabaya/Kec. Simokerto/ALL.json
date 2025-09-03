@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KARYA BHAKTI",
+        "sekolah_id": "E054497E-8D18-E111-B925-95652D9F4F04",
+        "npsn": 20532441,
+        "jumlah_kirim": 8,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 47,
+        "rombel": 12,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Simokerto",
+        "kode_wilayah_induk_kecamatan": "056022  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 08:09:44",
+        "sekolah_id_enkrip": "CD38F59D70A80FDA0358                                                                                "
+    }
+]

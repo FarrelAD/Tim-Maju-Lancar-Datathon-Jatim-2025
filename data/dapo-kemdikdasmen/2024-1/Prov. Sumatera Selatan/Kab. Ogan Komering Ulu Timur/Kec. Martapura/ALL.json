@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MARTAPURA",
+        "sekolah_id": "B03B9A22-A907-E211-8984-D104FB9AFE2E",
+        "npsn": 10606480,
+        "jumlah_kirim": 21,
+        "ptk": 14,
+        "pegawai": 6,
+        "pd": 98,
+        "rombel": 20,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Martapura",
+        "kode_wilayah_induk_kecamatan": "110801  ",
+        "induk_kabupaten": "Kab. Ogan Komering Ulu Timur",
+        "kode_wilayah_induk_kabupaten": "110800  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 20:06:26",
+        "sekolah_id_enkrip": "6E8EE171133662EDE7D6                                                                                "
+    }
+]

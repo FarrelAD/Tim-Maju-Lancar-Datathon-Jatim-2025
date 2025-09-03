@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SAIRERI BIAK",
+        "sekolah_id": "8C4A6A9C-45F9-4898-8E8F-8EB399C0638F",
+        "npsn": 69888926,
+        "jumlah_kirim": 14,
+        "ptk": 5,
+        "pegawai": 3,
+        "pd": 21,
+        "rombel": 10,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Biak Kota",
+        "kode_wilayah_induk_kecamatan": "250205  ",
+        "induk_kabupaten": "Kab. Biak Numfor",
+        "kode_wilayah_induk_kabupaten": "250200  ",
+        "induk_provinsi": "Prov. Papua",
+        "kode_wilayah_induk_provinsi": "250000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 23:49:04",
+        "sekolah_id_enkrip": "1333A76D006B80AA02A9                                                                                "
+    }
+]

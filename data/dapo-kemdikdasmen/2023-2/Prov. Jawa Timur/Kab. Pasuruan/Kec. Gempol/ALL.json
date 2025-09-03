@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BUNGA MELATI",
+        "sekolah_id": "703E35A5-A89D-E211-89EE-A99CAB733E83",
+        "npsn": 20548747,
+        "jumlah_kirim": 5,
+        "ptk": 4,
+        "pegawai": 0,
+        "pd": 19,
+        "rombel": 8,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gempol",
+        "kode_wilayah_induk_kecamatan": "051913  ",
+        "induk_kabupaten": "Kab. Pasuruan",
+        "kode_wilayah_induk_kabupaten": "051900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "03 Aug 2025 13:19:28",
+        "sekolah_id_enkrip": "47B6A2871F2CC0AA1D71                                                                                "
+    }
+]

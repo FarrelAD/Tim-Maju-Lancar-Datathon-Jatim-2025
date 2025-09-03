@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Tebing Tinggi",
+        "sekolah_id": "B06C7BD9-2EF5-E011-A2ED-3B37F529B430",
+        "npsn": 10211532,
+        "jumlah_kirim": 17,
+        "ptk": 18,
+        "pegawai": 3,
+        "pd": 142,
+        "rombel": 30,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Padang Hulu",
+        "kode_wilayah_induk_kecamatan": "076201  ",
+        "induk_kabupaten": "Kota Tebing Tinggi",
+        "kode_wilayah_induk_kabupaten": "076200  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 10:53:53",
+        "sekolah_id_enkrip": "0BB63D9AED24929E9B02                                                                                "
+    }
+]

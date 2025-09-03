@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TAMANSARI",
+        "sekolah_id": "207FD0DB-6CF9-E111-B473-539EB9E67707",
+        "npsn": 20276107,
+        "jumlah_kirim": 40,
+        "ptk": 53,
+        "pegawai": 11,
+        "pd": 196,
+        "rombel": 68,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tamansari",
+        "kode_wilayah_induk_kecamatan": "026802  ",
+        "induk_kabupaten": "Kota Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "026800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 22:48:19",
+        "sekolah_id_enkrip": "0E628A79567EF0AB51B3                                                                                "
+    }
+]

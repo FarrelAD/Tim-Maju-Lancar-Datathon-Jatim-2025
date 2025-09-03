@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SOLALIN",
+        "sekolah_id": "D0A9B63C-F13C-E211-A8F9-1BF2C4FCFF48",
+        "npsn": 20280590,
+        "jumlah_kirim": 9,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 21,
+        "rombel": 13,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sukasari",
+        "kode_wilayah_induk_kecamatan": "026025  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 21:50:23",
+        "sekolah_id_enkrip": "213F1664424D11CCDB89                                                                                "
+    }
+]

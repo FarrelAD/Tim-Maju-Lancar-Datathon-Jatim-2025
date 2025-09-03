@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SABILILLAH",
+        "sekolah_id": "11A8A84E-BA8B-4B4E-85DA-129F1FDF46CD",
+        "npsn": 69760826,
+        "jumlah_kirim": 17,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 37,
+        "rombel": 24,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Diwek",
+        "kode_wilayah_induk_kecamatan": "050404  ",
+        "induk_kabupaten": "Kab. Jombang",
+        "kode_wilayah_induk_kabupaten": "050400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "24 Aug 2025 04:43:17",
+        "sekolah_id_enkrip": "D807FCEB67C755282DE2                                                                                "
+    }
+]

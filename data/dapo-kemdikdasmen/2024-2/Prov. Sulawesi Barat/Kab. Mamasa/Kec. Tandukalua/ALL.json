@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLB NEGERI MAMASA",
+        "sekolah_id": "60CE830F-A1FE-E111-BB85-1159FE60E6AD",
+        "npsn": 69787984,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 6,
+        "pd": 29,
+        "rombel": 17,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tandukalua",
+        "kode_wilayah_induk_kecamatan": "330409  ",
+        "induk_kabupaten": "Kab. Mamasa",
+        "kode_wilayah_induk_kabupaten": "330400  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "08 Aug 2025 22:32:46",
+        "sekolah_id_enkrip": "23098A604E04CF064BAB                                                                                "
+    }
+]

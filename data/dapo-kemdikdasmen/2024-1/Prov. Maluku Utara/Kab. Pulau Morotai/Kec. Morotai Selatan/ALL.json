@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MOROTAI",
+        "sekolah_id": "D9CC0F34-C2A7-402B-883A-B18718EB656C",
+        "npsn": 69786799,
+        "jumlah_kirim": 20,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 43,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Morotai Selatan",
+        "kode_wilayah_induk_kecamatan": "270802  ",
+        "induk_kabupaten": "Kab. Kepulauan Morotai",
+        "kode_wilayah_induk_kabupaten": "270800  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "07 Aug 2025 15:37:30",
+        "sekolah_id_enkrip": "82A20DB6E6F6B2604F4C                                                                                "
+    }
+]

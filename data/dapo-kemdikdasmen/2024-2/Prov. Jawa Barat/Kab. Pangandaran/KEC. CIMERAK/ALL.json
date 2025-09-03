@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Cimerak",
+        "sekolah_id": "3CD9EB5C-F023-4B82-9446-434E2CCE1778",
+        "npsn": 70033729,
+        "jumlah_kirim": 20,
+        "ptk": 13,
+        "pegawai": 5,
+        "pd": 63,
+        "rombel": 23,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "KEC. CIMERAK",
+        "kode_wilayah_induk_kecamatan": "022552  ",
+        "induk_kabupaten": "Kab. Pangandaran",
+        "kode_wilayah_induk_kabupaten": "022500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 10:21:05",
+        "sekolah_id_enkrip": "357B782D4CA7E950D32B                                                                                "
+    }
+]

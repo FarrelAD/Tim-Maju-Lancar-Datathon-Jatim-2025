@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Long Bagun",
+        "sekolah_id": "7BE95C94-68F3-49E6-947D-365D418E2C15",
+        "npsn": 69988143,
+        "jumlah_kirim": 6,
+        "ptk": 1,
+        "pegawai": 8,
+        "pd": 5,
+        "rombel": 4,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "KEC. LONG BAGUN",
+        "kode_wilayah_induk_kecamatan": "161225  ",
+        "induk_kabupaten": "Kab. Mahakam Ulu",
+        "kode_wilayah_induk_kabupaten": "161200  ",
+        "induk_provinsi": "Prov. Kalimantan Timur",
+        "kode_wilayah_induk_provinsi": "160000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 14:27:47",
+        "sekolah_id_enkrip": "1E0374E25F5A0D5972FD                                                                                "
+    }
+]

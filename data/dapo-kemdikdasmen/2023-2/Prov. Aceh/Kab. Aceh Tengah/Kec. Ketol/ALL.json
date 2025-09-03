@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS QALBUN FITRAH TAKENGON",
+        "sekolah_id": "364C5779-15F9-4DFD-A3A1-E8952CAD5468",
+        "npsn": 69775643,
+        "jumlah_kirim": 3,
+        "ptk": 9,
+        "pegawai": 7,
+        "pd": 34,
+        "rombel": 17,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ketol",
+        "kode_wilayah_induk_kecamatan": "060513  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 21:31:03",
+        "sekolah_id_enkrip": "E1BC7ACDA1A9F106257B                                                                                "
+    }
+]

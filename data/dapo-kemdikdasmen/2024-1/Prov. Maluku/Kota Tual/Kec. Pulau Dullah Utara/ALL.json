@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TUAL",
+        "sekolah_id": "31381A34-2138-47CF-BBCC-D1A0030A2ACD",
+        "npsn": 70006907,
+        "jumlah_kirim": 22,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 24,
+        "rombel": 6,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pulau Dullah Utara",
+        "kode_wilayah_induk_kecamatan": "216103  ",
+        "induk_kabupaten": "Kota Tual",
+        "kode_wilayah_induk_kabupaten": "216100  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 May 2025 12:06:42",
+        "sekolah_id_enkrip": "860CBC8E4935CD30B872                                                                                "
+    }
+]

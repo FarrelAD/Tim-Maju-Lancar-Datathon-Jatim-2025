@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL-ISHLAH JATISRONO",
+        "sekolah_id": "9DA3A484-AB9B-43A3-93CB-F62436BF10D7",
+        "npsn": 70002466,
+        "jumlah_kirim": 33,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 55,
+        "rombel": 14,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jatisrono",
+        "kode_wilayah_induk_kecamatan": "031222  ",
+        "induk_kabupaten": "Kab. Wonogiri",
+        "kode_wilayah_induk_kabupaten": "031200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 11:53:45",
+        "sekolah_id_enkrip": "E533B24295AFA20533E0                                                                                "
+    }
+]

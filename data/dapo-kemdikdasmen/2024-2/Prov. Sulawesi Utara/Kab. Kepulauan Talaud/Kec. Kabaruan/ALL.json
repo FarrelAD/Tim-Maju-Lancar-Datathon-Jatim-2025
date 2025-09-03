@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB FEYBE MANGARAN",
+        "sekolah_id": "A03C62F7-93F7-4381-8386-8EAB930BAD90",
+        "npsn": 69969124,
+        "jumlah_kirim": 11,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 20,
+        "rombel": 8,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kabaruan",
+        "kode_wilayah_induk_kecamatan": "170401  ",
+        "induk_kabupaten": "Kab. Kepulauan Talaud",
+        "kode_wilayah_induk_kabupaten": "170400  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 21:17:51",
+        "sekolah_id_enkrip": "5AC8EB8B736D04F91225                                                                                "
+    }
+]

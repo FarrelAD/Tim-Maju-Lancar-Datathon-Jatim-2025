@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH N 02 KOTA SERANG",
+        "sekolah_id": "4021558A-74F9-E111-ADDC-4DAE954A6132",
+        "npsn": 20605332,
+        "jumlah_kirim": 22,
+        "ptk": 43,
+        "pegawai": 22,
+        "pd": 171,
+        "rombel": 52,
+        "jml_rk": 24,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Curug",
+        "kode_wilayah_induk_kecamatan": "286202  ",
+        "induk_kabupaten": "Kota Serang",
+        "kode_wilayah_induk_kabupaten": "286200  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 02:25:34",
+        "sekolah_id_enkrip": "0BF789AFBA3421231771                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI GUNUNGSARI BOJONEGORO",
+        "sekolah_id": "C02206F1-8B18-E111-8A41-4BA15221711A",
+        "npsn": 20504473,
+        "jumlah_kirim": 62,
+        "ptk": 16,
+        "pegawai": 4,
+        "pd": 85,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Baureno",
+        "kode_wilayah_induk_kecamatan": "050510  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "15 Aug 2025 11:26:24",
+        "sekolah_id_enkrip": "660E41F0A96FC8941D9A                                                                                "
+    }
+]

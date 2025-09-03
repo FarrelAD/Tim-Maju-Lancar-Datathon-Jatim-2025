@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB A YPTN MATARAM",
+        "sekolah_id": "B064E30D-D089-E111-835A-73BE4C862C67",
+        "npsn": 50204396,
+        "jumlah_kirim": 12,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 32,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sandubaya",
+        "kode_wilayah_induk_kecamatan": "236006  ",
+        "induk_kabupaten": "Kota Mataram",
+        "kode_wilayah_induk_kabupaten": "236000  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 19:18:22",
+        "sekolah_id_enkrip": "AAADC3B0ABC8834947F0                                                                                "
+    }
+]

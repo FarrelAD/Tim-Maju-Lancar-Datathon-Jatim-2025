@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KREASI MANDIRI",
+        "sekolah_id": "D1D4D326-5A44-47EB-9A38-7796362A2F06",
+        "npsn": 69987443,
+        "jumlah_kirim": 8,
+        "ptk": 5,
+        "pegawai": 2,
+        "pd": 10,
+        "rombel": 6,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pineleng",
+        "kode_wilayah_induk_kecamatan": "170217  ",
+        "induk_kabupaten": "Kab. Minahasa",
+        "kode_wilayah_induk_kabupaten": "170200  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "11 Aug 2025 17:07:34",
+        "sekolah_id_enkrip": "58415B41A77DCE5E5CAC                                                                                "
+    }
+]

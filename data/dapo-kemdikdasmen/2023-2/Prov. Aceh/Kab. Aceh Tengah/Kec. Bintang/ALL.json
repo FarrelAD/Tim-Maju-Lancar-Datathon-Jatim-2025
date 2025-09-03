@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUSARA ATE",
+        "sekolah_id": "8B747FC1-EF99-42FB-B53B-07799468B231",
+        "npsn": 69929702,
+        "jumlah_kirim": 3,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 23,
+        "rombel": 9,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bintang",
+        "kode_wilayah_induk_kecamatan": "060502  ",
+        "induk_kabupaten": "Kab. Aceh Tengah",
+        "kode_wilayah_induk_kabupaten": "060500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 19:57:56",
+        "sekolah_id_enkrip": "1AB314E20BBF6A4526E1                                                                                "
+    }
+]

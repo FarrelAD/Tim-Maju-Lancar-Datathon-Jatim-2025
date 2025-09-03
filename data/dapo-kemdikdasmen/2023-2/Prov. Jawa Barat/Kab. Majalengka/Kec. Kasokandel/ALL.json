@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB GELORA KARYA",
+        "sekolah_id": "50DB8274-5AFA-E111-AEE7-79E150A2C327",
+        "npsn": 20213881,
+        "jumlah_kirim": 17,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 97,
+        "rombel": 13,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kasokandel",
+        "kode_wilayah_induk_kecamatan": "021626  ",
+        "induk_kabupaten": "Kab. Majalengka",
+        "kode_wilayah_induk_kabupaten": "021600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 17:35:52",
+        "sekolah_id_enkrip": "19876130291A712B87A2                                                                                "
+    }
+]

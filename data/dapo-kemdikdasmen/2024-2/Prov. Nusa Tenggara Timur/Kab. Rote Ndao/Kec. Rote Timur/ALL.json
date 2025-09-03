@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LAKAMOLA",
+        "sekolah_id": "8AFA63FA-F3D0-4AD7-8233-22282DA21512",
+        "npsn": 70036755,
+        "jumlah_kirim": 7,
+        "ptk": 5,
+        "pegawai": 8,
+        "pd": 28,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rote Timur",
+        "kode_wilayah_induk_kecamatan": "241509  ",
+        "induk_kabupaten": "Kab. Rote Ndao",
+        "kode_wilayah_induk_kabupaten": "241500  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 01:10:45",
+        "sekolah_id_enkrip": "28841C9FE8EFCE20614B                                                                                "
+    }
+]

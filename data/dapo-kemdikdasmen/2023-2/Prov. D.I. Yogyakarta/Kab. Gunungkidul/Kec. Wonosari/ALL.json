@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 GUNUNGKIDUL",
+        "sekolah_id": "0054195D-2EF5-E011-A213-DF78F68ABF70",
+        "npsn": 20402047,
+        "jumlah_kirim": 15,
+        "ptk": 27,
+        "pegawai": 12,
+        "pd": 181,
+        "rombel": 40,
+        "jml_rk": 14,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wonosari",
+        "kode_wilayah_induk_kecamatan": "040309  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 21:35:06",
+        "sekolah_id_enkrip": "46C2B8E5D69DD4436168                                                                                "
+    }
+]

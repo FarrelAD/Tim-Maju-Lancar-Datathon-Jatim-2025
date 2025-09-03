@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TALABATAI",
+        "sekolah_id": "AF846929-81A9-467A-8C78-B0B88D8EE184",
+        "npsn": 70010633,
+        "jumlah_kirim": 39,
+        "ptk": 7,
+        "pegawai": 0,
+        "pd": 24,
+        "rombel": 8,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kairatu",
+        "kode_wilayah_induk_kecamatan": "210501  ",
+        "induk_kabupaten": "Kab. Seram Bagian Barat",
+        "kode_wilayah_induk_kabupaten": "210500  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "08 Aug 2025 23:55:04",
+        "sekolah_id_enkrip": "20C9FA4037E9078B4125                                                                                "
+    }
+]

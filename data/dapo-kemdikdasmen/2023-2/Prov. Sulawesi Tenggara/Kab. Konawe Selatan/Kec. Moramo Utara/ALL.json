@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS NUR FADILLAH MAFAZA",
+        "sekolah_id": "E5C05968-D51B-435D-A353-0C29685801B9",
+        "npsn": 69995965,
+        "jumlah_kirim": 3,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 6,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Moramo Utara",
+        "kode_wilayah_induk_kecamatan": "200517  ",
+        "induk_kabupaten": "Kab. Konawe Selatan",
+        "kode_wilayah_induk_kabupaten": "200500  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2024 07:30:36",
+        "sekolah_id_enkrip": "C9A5DCF3394570C9AA98                                                                                "
+    }
+]

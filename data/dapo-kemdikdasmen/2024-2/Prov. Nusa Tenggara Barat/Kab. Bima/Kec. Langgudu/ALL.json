@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AL IHSAN",
+        "sekolah_id": "F498938A-FB58-4B52-80E6-98C55114B30E",
+        "npsn": 69883217,
+        "jumlah_kirim": 36,
+        "ptk": 12,
+        "pegawai": 2,
+        "pd": 64,
+        "rombel": 12,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Langgudu",
+        "kode_wilayah_induk_kecamatan": "230614  ",
+        "induk_kabupaten": "Kab. Bima",
+        "kode_wilayah_induk_kabupaten": "230600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Jun 2025 12:42:09",
+        "sekolah_id_enkrip": "3268B979F0774E90AE0E                                                                                "
+    }
+]

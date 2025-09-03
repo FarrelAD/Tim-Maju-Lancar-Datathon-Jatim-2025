@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KRIDA UTAMA 2 LOCERET",
+        "sekolah_id": "80C92E14-93FE-E111-8B29-B9195C4F5338",
+        "npsn": 69727411,
+        "jumlah_kirim": 15,
+        "ptk": 7,
+        "pegawai": 1,
+        "pd": 108,
+        "rombel": 14,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Loceret",
+        "kode_wilayah_induk_kecamatan": "051404  ",
+        "induk_kabupaten": "Kab. Nganjuk",
+        "kode_wilayah_induk_kabupaten": "051400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 20:45:28",
+        "sekolah_id_enkrip": "73F9C97FA975EBC3E2ED                                                                                "
+    }
+]

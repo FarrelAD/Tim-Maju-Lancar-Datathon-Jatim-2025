@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Azzahra",
+        "sekolah_id": "5F1C0011-9DFF-43A8-9D6B-BC212BDEC025",
+        "npsn": 69991920,
+        "jumlah_kirim": 97,
+        "ptk": 9,
+        "pegawai": 4,
+        "pd": 33,
+        "rombel": 17,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kluet Selatan",
+        "kode_wilayah_induk_kecamatan": "060703  ",
+        "induk_kabupaten": "Kab. Aceh Selatan",
+        "kode_wilayah_induk_kabupaten": "060700  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 18:13:04",
+        "sekolah_id_enkrip": "A1CED37EE78DBA2AAB92                                                                                "
+    }
+]

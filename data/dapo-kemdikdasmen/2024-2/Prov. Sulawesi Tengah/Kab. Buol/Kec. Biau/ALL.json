@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI BUOL",
+        "sekolah_id": "AECB5A24-004D-45DE-AAB0-559383F2DC3C",
+        "npsn": 69922964,
+        "jumlah_kirim": 29,
+        "ptk": 8,
+        "pegawai": 10,
+        "pd": 49,
+        "rombel": 17,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Biau",
+        "kode_wilayah_induk_kecamatan": "180501  ",
+        "induk_kabupaten": "Kab. Buol",
+        "kode_wilayah_induk_kabupaten": "180500  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "10 Aug 2025 15:12:16",
+        "sekolah_id_enkrip": "0A36E1FE9D13A26A43AD                                                                                "
+    }
+]

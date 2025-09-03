@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI OGAN ILIR",
+        "sekolah_id": "20C7A596-2BF5-E011-BD54-1FED9DF7DC95",
+        "npsn": 10605911,
+        "jumlah_kirim": 17,
+        "ptk": 13,
+        "pegawai": 2,
+        "pd": 63,
+        "rombel": 21,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Indralaya Utara",
+        "kode_wilayah_induk_kecamatan": "111014  ",
+        "induk_kabupaten": "Kab. Ogan Ilir",
+        "kode_wilayah_induk_kabupaten": "111000  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 09:00:12",
+        "sekolah_id_enkrip": "D9A2F38B22060EB68855                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YKGR BAYAT",
+        "sekolah_id": "6081C05B-2DF5-E011-BA18-615221349212",
+        "npsn": 20340690,
+        "jumlah_kirim": 5,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 90,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bayat",
+        "kode_wilayah_induk_kecamatan": "031004  ",
+        "induk_kabupaten": "Kab. Klaten",
+        "kode_wilayah_induk_kabupaten": "031000  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Jul 2025 08:04:05",
+        "sekolah_id_enkrip": "DF35E263696226A4C9E2                                                                                "
+    }
+]

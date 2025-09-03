@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SD NEGERI LUAR BIASA SIMPANG EMPAT",
+        "sekolah_id": "00FC9990-2EF5-E011-960F-9330CB1509E8",
+        "npsn": 10103048,
+        "jumlah_kirim": 29,
+        "ptk": 13,
+        "pegawai": 8,
+        "pd": 35,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lawe Bulan",
+        "kode_wilayah_induk_kecamatan": "060808  ",
+        "induk_kabupaten": "Kab. Aceh Tenggara",
+        "kode_wilayah_induk_kabupaten": "060800  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 13:34:10",
+        "sekolah_id_enkrip": "99B16BB15012CA909FBD                                                                                "
+    }
+]

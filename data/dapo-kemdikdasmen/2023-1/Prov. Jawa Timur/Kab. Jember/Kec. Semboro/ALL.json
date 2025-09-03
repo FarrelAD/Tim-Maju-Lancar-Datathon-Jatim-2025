@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC TPA V SIDOMEKAR",
+        "sekolah_id": "E048AAB8-8C18-E111-81E3-9DDF48EEFE6D",
+        "npsn": 20524949,
+        "jumlah_kirim": 24,
+        "ptk": 2,
+        "pegawai": 1,
+        "pd": 95,
+        "rombel": 12,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Semboro",
+        "kode_wilayah_induk_kecamatan": "052415  ",
+        "induk_kabupaten": "Kab. Jember",
+        "kode_wilayah_induk_kabupaten": "052400  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 08:15:54",
+        "sekolah_id_enkrip": "FECEDDE76C373EEC6F22                                                                                "
+    }
+]

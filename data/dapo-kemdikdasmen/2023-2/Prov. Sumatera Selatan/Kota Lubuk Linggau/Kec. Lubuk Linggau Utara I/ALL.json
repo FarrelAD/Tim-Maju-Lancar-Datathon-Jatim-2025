@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI LUBUKLINGGAU",
+        "sekolah_id": "90D5A596-2BF5-E011-9CF7-33EF50B5763A",
+        "npsn": 10604417,
+        "jumlah_kirim": 4,
+        "ptk": 17,
+        "pegawai": 8,
+        "pd": 108,
+        "rombel": 21,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 2,
+        "induk_kecamatan": "Kec. Lubuk Linggau Utara I",
+        "kode_wilayah_induk_kecamatan": "116204  ",
+        "induk_kabupaten": "Kota Lubuk Linggau",
+        "kode_wilayah_induk_kabupaten": "116200  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "24 Aug 2025 09:14:25",
+        "sekolah_id_enkrip": "0298D9FD148EE273EC43                                                                                "
+    }
+]

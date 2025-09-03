@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC BUDI LESTARI",
+        "sekolah_id": "B0462C53-90FA-E111-BCC9-8F44098F62A7",
+        "npsn": 20223824,
+        "jumlah_kirim": 23,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 72,
+        "rombel": 26,
+        "jml_rk": 6,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tapos",
+        "kode_wilayah_induk_kecamatan": "026610  ",
+        "induk_kabupaten": "Kota Depok",
+        "kode_wilayah_induk_kabupaten": "026600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "18 Aug 2025 18:57:53",
+        "sekolah_id_enkrip": "006B9E58DF5FF047B60F                                                                                "
+    }
+]

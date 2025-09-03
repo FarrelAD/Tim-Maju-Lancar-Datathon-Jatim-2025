@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MARGANINGSIH",
+        "sekolah_id": "30BE1B5D-2EF5-E011-A57E-0354ADF32719",
+        "npsn": 20400858,
+        "jumlah_kirim": 11,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 30,
+        "rombel": 7,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngemplak",
+        "kode_wilayah_induk_kecamatan": "040211  ",
+        "induk_kabupaten": "Kab. Sleman",
+        "kode_wilayah_induk_kabupaten": "040200  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 18:26:33",
+        "sekolah_id_enkrip": "ECBE1715884FC8A8500B                                                                                "
+    }
+]

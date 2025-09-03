@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA GENERASI TERPADU",
+        "sekolah_id": "A510EB8B-F67B-41BC-A19F-3F6DFB57B522",
+        "npsn": 69986784,
+        "jumlah_kirim": 4,
+        "ptk": 3,
+        "pegawai": 7,
+        "pd": 13,
+        "rombel": 7,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Matan Hilir Selatan",
+        "kode_wilayah_induk_kecamatan": "130606  ",
+        "induk_kabupaten": "Kab. Ketapang",
+        "kode_wilayah_induk_kabupaten": "130600  ",
+        "induk_provinsi": "Prov. Kalimantan Barat",
+        "kode_wilayah_induk_provinsi": "130000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 16:51:03",
+        "sekolah_id_enkrip": "180D9E6D472863F4CD29                                                                                "
+    }
+]

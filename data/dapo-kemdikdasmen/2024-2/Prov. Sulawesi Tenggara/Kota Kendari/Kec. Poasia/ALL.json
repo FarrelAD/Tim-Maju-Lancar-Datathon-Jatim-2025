@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KUSUMA BANGSA",
+        "sekolah_id": "B54C7345-1B53-4C95-B7E4-C32F44FF345C",
+        "npsn": 69970046,
+        "jumlah_kirim": 21,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 37,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Poasia",
+        "kode_wilayah_induk_kecamatan": "206002  ",
+        "induk_kabupaten": "Kota Kendari",
+        "kode_wilayah_induk_kabupaten": "206000  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 22:34:13",
+        "sekolah_id_enkrip": "97A69ACCEFE96355E44C                                                                                "
+    }
+]

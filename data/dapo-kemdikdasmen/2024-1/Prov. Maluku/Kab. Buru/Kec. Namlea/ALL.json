@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MARLOSO",
+        "sekolah_id": "D0380DCD-E5FE-E111-99B7-CBE7426807B4",
+        "npsn": 60103980,
+        "jumlah_kirim": 96,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 64,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Namlea",
+        "kode_wilayah_induk_kecamatan": "210310  ",
+        "induk_kabupaten": "Kab. Buru",
+        "kode_wilayah_induk_kabupaten": "210300  ",
+        "induk_provinsi": "Prov. Maluku",
+        "kode_wilayah_induk_provinsi": "210000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "28 Aug 2025 23:50:04",
+        "sekolah_id_enkrip": "C5F88100EBBAAABD7D1E                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA INSAN",
+        "sekolah_id": "E594BE8A-EA13-4AFB-9916-DB12D1AD99C7",
+        "npsn": 69919892,
+        "jumlah_kirim": 9,
+        "ptk": 5,
+        "pegawai": 6,
+        "pd": 74,
+        "rombel": 28,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Japara",
+        "kode_wilayah_induk_kecamatan": "021523  ",
+        "induk_kabupaten": "Kab. Kuningan",
+        "kode_wilayah_induk_kabupaten": "021500  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 19:31:47",
+        "sekolah_id_enkrip": "F9B1708807B91F1A2DF2                                                                                "
+    }
+]

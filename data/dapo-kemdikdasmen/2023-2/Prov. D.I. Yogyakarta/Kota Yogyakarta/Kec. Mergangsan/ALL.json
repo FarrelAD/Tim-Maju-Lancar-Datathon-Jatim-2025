@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB N 1 YOGYAKARTA",
+        "sekolah_id": "6061195D-2EF5-E011-8423-1BC022CEC2BF",
+        "npsn": 20403210,
+        "jumlah_kirim": 9,
+        "ptk": 28,
+        "pegawai": 7,
+        "pd": 111,
+        "rombel": 20,
+        "jml_rk": 22,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mergangsan",
+        "kode_wilayah_induk_kecamatan": "046003  ",
+        "induk_kabupaten": "Kota Yogyakarta",
+        "kode_wilayah_induk_kabupaten": "046000  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 21:54:17",
+        "sekolah_id_enkrip": "310C830C9E27A2C68220                                                                                "
+    }
+]

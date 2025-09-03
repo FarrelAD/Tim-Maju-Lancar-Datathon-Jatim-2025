@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TAMAN PELANGI SOROWAKO",
+        "sekolah_id": "BEC47BA3-1262-4E5C-9D86-3CD3BE5A1E3A",
+        "npsn": 69992567,
+        "jumlah_kirim": 8,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Nuha",
+        "kode_wilayah_induk_kecamatan": "192605  ",
+        "induk_kabupaten": "Kab. Luwu Timur",
+        "kode_wilayah_induk_kabupaten": "192600  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Jun 2025 12:21:42",
+        "sekolah_id_enkrip": "EACB9F29437DFA8212C4                                                                                "
+    }
+]

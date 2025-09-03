@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KUSUMA INSAN MANDIRI",
+        "sekolah_id": "32BEBAB4-334F-48A8-A156-BC94A3DA2240",
+        "npsn": 70053767,
+        "jumlah_kirim": 0,
+        "ptk": 0,
+        "pegawai": 0,
+        "pd": 0,
+        "rombel": 0,
+        "jml_rk": 0,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Arjosari",
+        "kode_wilayah_induk_kecamatan": "051206  ",
+        "induk_kabupaten": "Kab. Pacitan",
+        "kode_wilayah_induk_kabupaten": "051200  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "6D922437FF2C069DD8CD                                                                                "
+    }
+]

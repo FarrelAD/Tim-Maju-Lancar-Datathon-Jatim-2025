@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS TEKAD SUMBERJAYA",
+        "sekolah_id": "90FC8074-5AFA-E111-B538-F170E3ACE669",
+        "npsn": 20258213,
+        "jumlah_kirim": 21,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 49,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sumberjaya",
+        "kode_wilayah_induk_kecamatan": "021621  ",
+        "induk_kabupaten": "Kab. Majalengka",
+        "kode_wilayah_induk_kabupaten": "021600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 13:07:35",
+        "sekolah_id_enkrip": "012BC5B5A36E99DEFBFE                                                                                "
+    }
+]

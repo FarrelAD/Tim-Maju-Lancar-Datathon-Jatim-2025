@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD YSD POLOKARTO",
+        "sekolah_id": "00FA47FA-A6AF-E111-B749-65D4F57CE85C",
+        "npsn": 20310488,
+        "jumlah_kirim": 24,
+        "ptk": 14,
+        "pegawai": 1,
+        "pd": 93,
+        "rombel": 18,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Polokarto",
+        "kode_wilayah_induk_kecamatan": "031107  ",
+        "induk_kabupaten": "Kab. Sukoharjo",
+        "kode_wilayah_induk_kabupaten": "031100  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 09:36:47",
+        "sekolah_id_enkrip": "EE0C12A692529E219799                                                                                "
+    }
+]

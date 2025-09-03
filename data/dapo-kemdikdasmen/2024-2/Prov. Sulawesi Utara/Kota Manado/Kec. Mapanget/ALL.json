@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA HARAPAN",
+        "sekolah_id": "8F79B748-7BFD-4A3F-B3D3-C5BB93BEAD72",
+        "npsn": 70049772,
+        "jumlah_kirim": 20,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 12,
+        "rombel": 3,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Mapanget",
+        "kode_wilayah_induk_kecamatan": "176004  ",
+        "induk_kabupaten": "Kota Manado",
+        "kode_wilayah_induk_kabupaten": "176000  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 03:12:14",
+        "sekolah_id_enkrip": "02CCD430B310421B1181                                                                                "
+    }
+]

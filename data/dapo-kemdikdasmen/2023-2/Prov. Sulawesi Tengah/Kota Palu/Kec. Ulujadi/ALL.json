@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS ADJERNI SUNUSI",
+        "sekolah_id": "E5A2E0FE-DCB1-4D79-AE8D-8C287C02421E",
+        "npsn": 69987975,
+        "jumlah_kirim": 13,
+        "ptk": 3,
+        "pegawai": 1,
+        "pd": 43,
+        "rombel": 7,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ulujadi",
+        "kode_wilayah_induk_kecamatan": "186005  ",
+        "induk_kabupaten": "Kota Palu",
+        "kode_wilayah_induk_kabupaten": "186000  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 12:33:12",
+        "sekolah_id_enkrip": "2D5FF4D756424137148F                                                                                "
+    }
+]

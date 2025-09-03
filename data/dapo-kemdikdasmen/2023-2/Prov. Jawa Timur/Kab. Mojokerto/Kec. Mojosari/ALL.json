@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SEDURI MOJOKERTO",
+        "sekolah_id": "005C8830-C91C-E211-A912-0FA6FA733F8C",
+        "npsn": 20502846,
+        "jumlah_kirim": 42,
+        "ptk": 31,
+        "pegawai": 4,
+        "pd": 179,
+        "rombel": 24,
+        "jml_rk": 47,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Mojosari",
+        "kode_wilayah_induk_kecamatan": "050308  ",
+        "induk_kabupaten": "Kab. Mojokerto",
+        "kode_wilayah_induk_kabupaten": "050300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 22:43:38",
+        "sekolah_id_enkrip": "F2BE5D4C13A5F5DB9F8A                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Grobogan",
+        "sekolah_id": "E03DBD5B-2DF5-E011-993D-69398FFEFCEC",
+        "npsn": 20341502,
+        "jumlah_kirim": 17,
+        "ptk": 14,
+        "pegawai": 4,
+        "pd": 147,
+        "rombel": 29,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Karangrayung",
+        "kode_wilayah_induk_kecamatan": "031502  ",
+        "induk_kabupaten": "Kab. Grobogan",
+        "kode_wilayah_induk_kabupaten": "031500  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 15:30:54",
+        "sekolah_id_enkrip": "024C3685BD1D90793D1A                                                                                "
+    }
+]

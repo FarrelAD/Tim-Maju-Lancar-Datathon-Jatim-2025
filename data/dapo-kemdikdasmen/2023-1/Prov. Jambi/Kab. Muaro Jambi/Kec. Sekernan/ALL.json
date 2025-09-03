@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUARO JAMBI",
+        "sekolah_id": "C092BFA8-F58D-E111-A400-0DFC981553D3",
+        "npsn": 10507255,
+        "jumlah_kirim": 33,
+        "ptk": 21,
+        "pegawai": 7,
+        "pd": 114,
+        "rombel": 53,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sekernan",
+        "kode_wilayah_induk_kecamatan": "100704  ",
+        "induk_kabupaten": "Kab. Muaro Jambi",
+        "kode_wilayah_induk_kabupaten": "100700  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "12 Aug 2025 01:42:28",
+        "sekolah_id_enkrip": "91B9A8020F86B8BB8B4E                                                                                "
+    }
+]

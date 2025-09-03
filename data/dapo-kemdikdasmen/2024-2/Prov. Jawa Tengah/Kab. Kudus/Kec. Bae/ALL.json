@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SDLB SUNAN KUDUS",
+        "sekolah_id": "CC44A881-4BC0-43DA-9A9F-65000C68F221",
+        "npsn": 69881549,
+        "jumlah_kirim": 1,
+        "ptk": 11,
+        "pegawai": 2,
+        "pd": 51,
+        "rombel": 6,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bae",
+        "kode_wilayah_induk_kecamatan": "031907  ",
+        "induk_kabupaten": "Kab. Kudus",
+        "kode_wilayah_induk_kabupaten": "031900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 07:27:53",
+        "sekolah_id_enkrip": "AA75E45E8548CA76CD24                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC AL HUDA",
+        "sekolah_id": "60C6DC15-2CF5-E011-A12B-F92F0FB04F50",
+        "npsn": 20258466,
+        "jumlah_kirim": 13,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 32,
+        "rombel": 11,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cangkuang",
+        "kode_wilayah_induk_kecamatan": "020832  ",
+        "induk_kabupaten": "Kab. Bandung",
+        "kode_wilayah_induk_kabupaten": "020800  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 01:45:09",
+        "sekolah_id_enkrip": "EA9B257F28A74432DC0F                                                                                "
+    }
+]

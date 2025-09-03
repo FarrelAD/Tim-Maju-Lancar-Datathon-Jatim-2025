@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI ENDE",
+        "sekolah_id": "E0D7E23A-033C-E111-8A9C-B9ED513AB3E9",
+        "npsn": 50305542,
+        "jumlah_kirim": 29,
+        "ptk": 23,
+        "pegawai": 8,
+        "pd": 94,
+        "rombel": 42,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ende Selatan",
+        "kode_wilayah_induk_kecamatan": "240903  ",
+        "induk_kabupaten": "Kab. Ende",
+        "kode_wilayah_induk_kabupaten": "240900  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 06:46:51",
+        "sekolah_id_enkrip": "64FBA80676C037FDFD7B                                                                                "
+    }
+]

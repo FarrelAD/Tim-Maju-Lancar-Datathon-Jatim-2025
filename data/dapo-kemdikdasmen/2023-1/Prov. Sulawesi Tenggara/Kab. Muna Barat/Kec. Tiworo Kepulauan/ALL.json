@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 MUNA BARAT",
+        "sekolah_id": "5E78933C-E757-4064-8F6F-21BA2BC8B9CE",
+        "npsn": 69965360,
+        "jumlah_kirim": 24,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 35,
+        "rombel": 13,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tiworo Kepulauan",
+        "kode_wilayah_induk_kecamatan": "201310  ",
+        "induk_kabupaten": "Kab. Muna Barat",
+        "kode_wilayah_induk_kabupaten": "201300  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 16:48:16",
+        "sekolah_id_enkrip": "C4E4210D5FAAC16F1C31                                                                                "
+    }
+]

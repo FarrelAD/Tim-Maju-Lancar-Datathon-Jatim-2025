@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BC YP AL AZHAR",
+        "sekolah_id": "C03F8074-5AFA-E111-95AA-05DED9753390",
+        "npsn": 20213880,
+        "jumlah_kirim": 16,
+        "ptk": 15,
+        "pegawai": 7,
+        "pd": 160,
+        "rombel": 18,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Leuwimunding",
+        "kode_wilayah_induk_kecamatan": "021612  ",
+        "induk_kabupaten": "Kab. Majalengka",
+        "kode_wilayah_induk_kabupaten": "021600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "20 Aug 2025 19:38:48",
+        "sekolah_id_enkrip": "FE009291889385E4DED9                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Barabai",
+        "sekolah_id": "B03AD253-30F5-E011-B132-5BC713780A6A",
+        "npsn": 30302255,
+        "jumlah_kirim": 28,
+        "ptk": 39,
+        "pegawai": 8,
+        "pd": 129,
+        "rombel": 44,
+        "jml_rk": 17,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Barabai",
+        "kode_wilayah_induk_kecamatan": "150605  ",
+        "induk_kabupaten": "Kab. Hulu Sungai Tengah",
+        "kode_wilayah_induk_kabupaten": "150600  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Aug 2025 02:09:42",
+        "sekolah_id_enkrip": "85ECE3A4D9000191D9CD                                                                                "
+    }
+]

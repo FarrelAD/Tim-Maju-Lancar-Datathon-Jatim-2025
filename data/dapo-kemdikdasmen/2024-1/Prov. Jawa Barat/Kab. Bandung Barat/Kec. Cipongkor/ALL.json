@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TRI MEDYA",
+        "sekolah_id": "A01C6FA3-777C-4932-B62E-ADA2AE5B2519",
+        "npsn": 69918547,
+        "jumlah_kirim": 10,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 58,
+        "rombel": 8,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cipongkor",
+        "kode_wilayah_induk_kecamatan": "022306  ",
+        "induk_kabupaten": "Kab. Bandung Barat",
+        "kode_wilayah_induk_kabupaten": "022300  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 17:52:19",
+        "sekolah_id_enkrip": "E21E553BBA8438ADA60B                                                                                "
+    }
+]

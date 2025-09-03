@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN SUKAMAJU LAMPUNG UTARA",
+        "sekolah_id": "80AF1870-8B18-E111-81ED-91F0A3DA58AE",
+        "npsn": 10802992,
+        "jumlah_kirim": 59,
+        "ptk": 15,
+        "pegawai": 5,
+        "pd": 107,
+        "rombel": 25,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Abung Semuli",
+        "kode_wilayah_induk_kecamatan": "120313  ",
+        "induk_kabupaten": "Kab. Lampung Utara",
+        "kode_wilayah_induk_kabupaten": "120300  ",
+        "induk_provinsi": "Prov. Lampung",
+        "kode_wilayah_induk_provinsi": "120000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "30 Aug 2025 01:29:59",
+        "sekolah_id_enkrip": "20A87FF9C31076A2FA2A                                                                                "
+    }
+]

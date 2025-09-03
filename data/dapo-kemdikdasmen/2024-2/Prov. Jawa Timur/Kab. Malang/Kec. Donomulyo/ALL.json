@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA QOLBU",
+        "sekolah_id": "CCA37890-A6B8-4E5D-AB6A-82602623A2F8",
+        "npsn": 69968190,
+        "jumlah_kirim": 6,
+        "ptk": 3,
+        "pegawai": 2,
+        "pd": 33,
+        "rombel": 10,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Donomulyo",
+        "kode_wilayah_induk_kecamatan": "051801  ",
+        "induk_kabupaten": "Kab. Malang",
+        "kode_wilayah_induk_kabupaten": "051800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 18:30:44",
+        "sekolah_id_enkrip": "F6D96CB666E88669BBBC                                                                                "
+    }
+]

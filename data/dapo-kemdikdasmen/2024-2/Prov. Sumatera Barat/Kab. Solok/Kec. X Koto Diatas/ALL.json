@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BERKAH ANISA",
+        "sekolah_id": "C47B3DB0-DB46-4194-B11C-4EB567AB425D",
+        "npsn": 69892365,
+        "jumlah_kirim": 7,
+        "ptk": 2,
+        "pegawai": 2,
+        "pd": 18,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. X Koto Diatas",
+        "kode_wilayah_induk_kecamatan": "080412  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 23:55:56",
+        "sekolah_id_enkrip": "89B30A9C1BB5EE79FB2D                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KOTA LHOKSEUMAWE",
+        "sekolah_id": "40A6E0A1-B9FA-E111-B915-C10E1A0215E0",
+        "npsn": 10113641,
+        "jumlah_kirim": 27,
+        "ptk": 10,
+        "pegawai": 8,
+        "pd": 50,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banda Sakti",
+        "kode_wilayah_induk_kecamatan": "066203  ",
+        "induk_kabupaten": "Kota Lhokseumawe",
+        "kode_wilayah_induk_kabupaten": "066200  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Jun 2025 17:28:45",
+        "sekolah_id_enkrip": "96DE06965DD3A5A7E12D                                                                                "
+    }
+]

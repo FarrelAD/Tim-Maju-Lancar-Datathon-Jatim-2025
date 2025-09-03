@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SEUNAGAN",
+        "sekolah_id": "8005C4CA-C5FD-E111-B13B-3955CFDA2166",
+        "npsn": 10114230,
+        "jumlah_kirim": 27,
+        "ptk": 22,
+        "pegawai": 9,
+        "pd": 83,
+        "rombel": 29,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Seunagan",
+        "kode_wilayah_induk_kecamatan": "061504  ",
+        "induk_kabupaten": "Kab. Nagan Raya",
+        "kode_wilayah_induk_kabupaten": "061500  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 01:58:30",
+        "sekolah_id_enkrip": "DD95B1765EA29932FCAC                                                                                "
+    }
+]

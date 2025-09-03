@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN CIAMIS",
+        "sekolah_id": "90FECD74-D4C4-E111-9C4C-C5F0ADBC63E0",
+        "npsn": 20263125,
+        "jumlah_kirim": 23,
+        "ptk": 64,
+        "pegawai": 18,
+        "pd": 187,
+        "rombel": 77,
+        "jml_rk": 23,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ciamis",
+        "kode_wilayah_induk_kecamatan": "021421  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "23 Aug 2025 12:32:50",
+        "sekolah_id_enkrip": "660B61A90894AC7A5080                                                                                "
+    }
+]

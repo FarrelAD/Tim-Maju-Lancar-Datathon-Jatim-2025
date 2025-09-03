@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN MURATARA",
+        "sekolah_id": "CF84DB49-E626-4DD5-BE78-7694FE57CCA2",
+        "npsn": 70032150,
+        "jumlah_kirim": 4,
+        "ptk": 8,
+        "pegawai": 4,
+        "pd": 38,
+        "rombel": 7,
+        "jml_rk": 7,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Rawas Ulu",
+        "kode_wilayah_induk_kecamatan": "111302  ",
+        "induk_kabupaten": "Kab. Musi Rawas Utara",
+        "kode_wilayah_induk_kabupaten": "111300  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 10:46:52",
+        "sekolah_id_enkrip": "30A8CC98E79300D3B5FA                                                                                "
+    }
+]

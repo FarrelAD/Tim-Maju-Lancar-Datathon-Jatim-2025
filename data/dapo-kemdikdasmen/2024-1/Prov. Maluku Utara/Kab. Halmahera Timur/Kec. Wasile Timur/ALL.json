@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SUBAIM",
+        "sekolah_id": "C47E84B9-E3C1-4B05-A18E-B8B4D8EC1753",
+        "npsn": 69962302,
+        "jumlah_kirim": 31,
+        "ptk": 7,
+        "pegawai": 6,
+        "pd": 61,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wasile Timur",
+        "kode_wilayah_induk_kecamatan": "270607  ",
+        "induk_kabupaten": "Kab. Halmahera Timur",
+        "kode_wilayah_induk_kabupaten": "270600  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 23:08:46",
+        "sekolah_id_enkrip": "A97829EE0D18CA8BD984                                                                                "
+    }
+]

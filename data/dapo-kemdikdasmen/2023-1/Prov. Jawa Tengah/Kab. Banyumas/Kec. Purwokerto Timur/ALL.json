@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B YAKUT PURWOKERTO",
+        "sekolah_id": "00121B59-2DF5-E011-9B6A-090FE8809A06",
+        "npsn": 20302162,
+        "jumlah_kirim": 8,
+        "ptk": 11,
+        "pegawai": 3,
+        "pd": 115,
+        "rombel": 13,
+        "jml_rk": 11,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwokerto Timur",
+        "kode_wilayah_induk_kecamatan": "030226  ",
+        "induk_kabupaten": "Kab. Banyumas",
+        "kode_wilayah_induk_kabupaten": "030200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 02:44:29",
+        "sekolah_id_enkrip": "0AEBFD7A154CE444075D                                                                                "
+    }
+]

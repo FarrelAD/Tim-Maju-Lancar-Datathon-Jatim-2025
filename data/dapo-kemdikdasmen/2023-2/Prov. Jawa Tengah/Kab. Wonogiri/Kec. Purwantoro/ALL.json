@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PURWANTORO",
+        "sekolah_id": "A79C89A5-1CA8-4521-87DF-EC86774A300E",
+        "npsn": 69824915,
+        "jumlah_kirim": 10,
+        "ptk": 14,
+        "pegawai": 6,
+        "pd": 139,
+        "rombel": 20,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwantoro",
+        "kode_wilayah_induk_kecamatan": "031219  ",
+        "induk_kabupaten": "Kab. Wonogiri",
+        "kode_wilayah_induk_kabupaten": "031200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 12:50:29",
+        "sekolah_id_enkrip": "E27229A2CEEBA83C34EA                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BHAKTI MULIA",
+        "sekolah_id": "E0E3DD15-2CF5-E011-9157-CD8EC08193E6",
+        "npsn": 20235573,
+        "jumlah_kirim": 12,
+        "ptk": 4,
+        "pegawai": 1,
+        "pd": 20,
+        "rombel": 9,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cisarua",
+        "kode_wilayah_induk_kecamatan": "021026  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 07:59:47",
+        "sekolah_id_enkrip": "F07A8E930A681F7D96FE                                                                                "
+    }
+]

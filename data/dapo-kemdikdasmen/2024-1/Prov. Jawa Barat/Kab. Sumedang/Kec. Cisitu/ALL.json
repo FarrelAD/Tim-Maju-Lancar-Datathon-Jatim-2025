@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BINA BHAKTI MANDIRI",
+        "sekolah_id": "60E309D7-A396-E211-95EA-E535D6E707D2",
+        "npsn": 69756301,
+        "jumlah_kirim": 31,
+        "ptk": 11,
+        "pegawai": 1,
+        "pd": 89,
+        "rombel": 15,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Cisitu",
+        "kode_wilayah_induk_kecamatan": "021024  ",
+        "induk_kabupaten": "Kab. Sumedang",
+        "kode_wilayah_induk_kabupaten": "021000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 15:04:19",
+        "sekolah_id_enkrip": "D710352091193B2C3129                                                                                "
+    }
+]

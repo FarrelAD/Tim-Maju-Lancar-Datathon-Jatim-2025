@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri Cihaurbeuti",
+        "sekolah_id": "BB2C44DD-F1C8-419D-BDF7-03D8ACFDAA9B",
+        "npsn": 70034375,
+        "jumlah_kirim": 19,
+        "ptk": 20,
+        "pegawai": 14,
+        "pd": 58,
+        "rombel": 28,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cihaurbeuti",
+        "kode_wilayah_induk_kecamatan": "021423  ",
+        "induk_kabupaten": "Kab. Ciamis",
+        "kode_wilayah_induk_kabupaten": "021400  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 15:39:27",
+        "sekolah_id_enkrip": "BD6BA5EA259B463E0B6A                                                                                "
+    }
+]

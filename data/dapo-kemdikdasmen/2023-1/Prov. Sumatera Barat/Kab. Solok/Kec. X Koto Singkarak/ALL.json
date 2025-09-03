@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ANGGUN MANDIRI",
+        "sekolah_id": "203DE8A0-6DF2-E111-9369-0FA9AF45BE3F",
+        "npsn": 69760751,
+        "jumlah_kirim": 8,
+        "ptk": 4,
+        "pegawai": 2,
+        "pd": 33,
+        "rombel": 9,
+        "jml_rk": 3,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. X Koto Singkarak",
+        "kode_wilayah_induk_kecamatan": "080413  ",
+        "induk_kabupaten": "Kab. Solok",
+        "kode_wilayah_induk_kabupaten": "080400  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 18:17:22",
+        "sekolah_id_enkrip": "B98091ACB788D561C0F1                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PURWO RAHARJO",
+        "sekolah_id": "C0DB195D-2EF5-E011-B71F-630371B0EAB0",
+        "npsn": 20407438,
+        "jumlah_kirim": 15,
+        "ptk": 5,
+        "pegawai": 5,
+        "pd": 51,
+        "rombel": 18,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Purwosari",
+        "kode_wilayah_induk_kecamatan": "040316  ",
+        "induk_kabupaten": "Kab. Gunung Kidul",
+        "kode_wilayah_induk_kabupaten": "040300  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 20:35:07",
+        "sekolah_id_enkrip": "2BEF9BB40FADB03F8BD9                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BANGUN BANGSA",
+        "sekolah_id": "50E9457E-8D18-E111-B8AF-83908A266197",
+        "npsn": 20541303,
+        "jumlah_kirim": 8,
+        "ptk": 15,
+        "pegawai": 1,
+        "pd": 108,
+        "rombel": 22,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tambaksari",
+        "kode_wilayah_induk_kecamatan": "056020  ",
+        "induk_kabupaten": "Kota Surabaya",
+        "kode_wilayah_induk_kabupaten": "056000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 00:45:20",
+        "sekolah_id_enkrip": "4E0CC2693ADA09B17A62                                                                                "
+    }
+]

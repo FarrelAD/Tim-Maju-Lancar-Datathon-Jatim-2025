@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI PALELEH",
+        "sekolah_id": "87EE5BAA-AD60-4F3A-B602-350F6BFC1850",
+        "npsn": 69978308,
+        "jumlah_kirim": 19,
+        "ptk": 3,
+        "pegawai": 5,
+        "pd": 19,
+        "rombel": 4,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Paleleh",
+        "kode_wilayah_induk_kecamatan": "180505  ",
+        "induk_kabupaten": "Kab. Buol",
+        "kode_wilayah_induk_kabupaten": "180500  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 12:44:11",
+        "sekolah_id_enkrip": "1824EABEA4AE313296EA                                                                                "
+    }
+]

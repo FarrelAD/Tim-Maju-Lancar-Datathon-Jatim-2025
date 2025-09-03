@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB AUTIS PRANANDA",
+        "sekolah_id": "50CA9306-2DF5-E011-9BE8-8BB18D6DA3C8",
+        "npsn": 20280598,
+        "jumlah_kirim": 18,
+        "ptk": 10,
+        "pegawai": 1,
+        "pd": 30,
+        "rombel": 13,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bandung Kidul",
+        "kode_wilayah_induk_kecamatan": "026008  ",
+        "induk_kabupaten": "Kota Bandung",
+        "kode_wilayah_induk_kabupaten": "026000  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 07:08:50",
+        "sekolah_id_enkrip": "B285365AB96BAF4B8C61                                                                                "
+    }
+]

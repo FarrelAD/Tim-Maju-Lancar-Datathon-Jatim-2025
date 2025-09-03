@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELANGI LOMBOKCARE",
+        "sekolah_id": "8F9AFCBE-723A-479B-A0A4-2FE5FB08FF51",
+        "npsn": 69793014,
+        "jumlah_kirim": 8,
+        "ptk": 6,
+        "pegawai": 3,
+        "pd": 51,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Batu Layar",
+        "kode_wilayah_induk_kecamatan": "230114  ",
+        "induk_kabupaten": "Kab. Lombok Barat",
+        "kode_wilayah_induk_kabupaten": "230100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "21 Aug 2025 10:23:53",
+        "sekolah_id_enkrip": "62446A0282946FB7230F                                                                                "
+    }
+]

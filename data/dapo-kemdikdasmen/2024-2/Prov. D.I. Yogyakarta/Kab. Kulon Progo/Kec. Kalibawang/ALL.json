@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB MUHAMMADIYAH DEKSO",
+        "sekolah_id": "807B1C5D-2EF5-E011-AC18-3D548BCD0EEA",
+        "npsn": 20402611,
+        "jumlah_kirim": 29,
+        "ptk": 8,
+        "pegawai": 3,
+        "pd": 52,
+        "rombel": 22,
+        "jml_rk": 21,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kalibawang",
+        "kode_wilayah_induk_kecamatan": "040411  ",
+        "induk_kabupaten": "Kab. Kulon Progo",
+        "kode_wilayah_induk_kabupaten": "040400  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "28 Aug 2025 08:46:34",
+        "sekolah_id_enkrip": "CA2CE4D9EB680691913A                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA TEGAL",
+        "sekolah_id": "F013C25B-2DF5-E011-B194-C5EA4165A076",
+        "npsn": 20329773,
+        "jumlah_kirim": 33,
+        "ptk": 34,
+        "pegawai": 8,
+        "pd": 246,
+        "rombel": 31,
+        "jml_rk": 21,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tegal Timur",
+        "kode_wilayah_induk_kecamatan": "036502  ",
+        "induk_kabupaten": "Kota Tegal",
+        "kode_wilayah_induk_kabupaten": "036500  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 08:25:52",
+        "sekolah_id_enkrip": "92407C738B54C88A5206                                                                                "
+    }
+]

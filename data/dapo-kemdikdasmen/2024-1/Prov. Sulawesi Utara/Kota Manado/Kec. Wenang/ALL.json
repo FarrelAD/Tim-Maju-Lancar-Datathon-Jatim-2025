@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KHUSUS AUTIS HIZKIA",
+        "sekolah_id": "2392DB50-E723-4571-A352-EFA02364ABCC",
+        "npsn": 69880587,
+        "jumlah_kirim": 14,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 31,
+        "rombel": 8,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Wenang",
+        "kode_wilayah_induk_kecamatan": "176003  ",
+        "induk_kabupaten": "Kota Manado",
+        "kode_wilayah_induk_kabupaten": "176000  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 19:05:17",
+        "sekolah_id_enkrip": "FDDCDC13DCD7F70D929C                                                                                "
+    }
+]

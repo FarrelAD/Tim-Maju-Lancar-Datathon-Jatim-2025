@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TUNAS KASIH",
+        "sekolah_id": "80471B5D-2EF5-E011-A001-214F512F578B",
+        "npsn": 20400169,
+        "jumlah_kirim": 18,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 40,
+        "rombel": 12,
+        "jml_rk": 10,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sedayu",
+        "kode_wilayah_induk_kecamatan": "040117  ",
+        "induk_kabupaten": "Kab. Bantul",
+        "kode_wilayah_induk_kabupaten": "040100  ",
+        "induk_provinsi": "Prov. D.I. Yogyakarta",
+        "kode_wilayah_induk_provinsi": "040000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "12 Aug 2025 12:37:55",
+        "sekolah_id_enkrip": "186D4DE6D78544D6F028                                                                                "
+    }
+]

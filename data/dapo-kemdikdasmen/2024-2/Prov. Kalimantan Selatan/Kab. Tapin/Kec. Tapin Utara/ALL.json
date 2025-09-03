@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Negeri 2 Tapin",
+        "sekolah_id": "C87E27A1-C753-40FC-A0CF-E5C7E378DF84",
+        "npsn": 69888869,
+        "jumlah_kirim": 23,
+        "ptk": 22,
+        "pegawai": 9,
+        "pd": 90,
+        "rombel": 19,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tapin Utara",
+        "kode_wilayah_induk_kecamatan": "150407  ",
+        "induk_kabupaten": "Kab. Tapin",
+        "kode_wilayah_induk_kabupaten": "150400  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "19 Aug 2025 08:41:41",
+        "sekolah_id_enkrip": "EAB5E3272651329AD3EB                                                                                "
+    }
+]

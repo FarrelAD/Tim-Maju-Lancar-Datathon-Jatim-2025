@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS CHINTA SALSABILA",
+        "sekolah_id": "69F953B8-49F6-4B65-85DA-E823ADD95685",
+        "npsn": 69900225,
+        "jumlah_kirim": 15,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 10,
+        "rombel": 6,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Palangga",
+        "kode_wilayah_induk_kecamatan": "200502  ",
+        "induk_kabupaten": "Kab. Konawe Selatan",
+        "kode_wilayah_induk_kabupaten": "200500  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 18:43:15",
+        "sekolah_id_enkrip": "20CF7FAB92C531027623                                                                                "
+    }
+]

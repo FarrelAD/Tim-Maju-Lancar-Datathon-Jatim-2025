@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PUTRA IDHATA",
+        "sekolah_id": "70B1FD52-F6AA-E111-9189-4BC221461F0B",
+        "npsn": 20551641,
+        "jumlah_kirim": 25,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 83,
+        "rombel": 15,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Dolopo",
+        "kode_wilayah_induk_kecamatan": "050803  ",
+        "induk_kabupaten": "Kab. Madiun",
+        "kode_wilayah_induk_kabupaten": "050800  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 13:40:48",
+        "sekolah_id_enkrip": "B18286E7B38785A3A9DD                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABCD YPALB CEPOGO",
+        "sekolah_id": "20673B55-2DF5-E011-B511-592594A11C4E",
+        "npsn": 20354290,
+        "jumlah_kirim": 7,
+        "ptk": 12,
+        "pegawai": 1,
+        "pd": 70,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cepogo",
+        "kode_wilayah_induk_kecamatan": "030903  ",
+        "induk_kabupaten": "Kab. Boyolali",
+        "kode_wilayah_induk_kabupaten": "030900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 08:19:32",
+        "sekolah_id_enkrip": "2814F1DAE21F1702E8FF                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI  KOTABARU",
+        "sekolah_id": "60FC3A53-30F5-E011-A76D-DB21323FFAE2",
+        "npsn": 30311710,
+        "jumlah_kirim": 26,
+        "ptk": 28,
+        "pegawai": 8,
+        "pd": 127,
+        "rombel": 24,
+        "jml_rk": 23,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pulau Laut Utara",
+        "kode_wilayah_induk_kecamatan": "150906  ",
+        "induk_kabupaten": "Kab. Kotabaru",
+        "kode_wilayah_induk_kabupaten": "150900  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 19:47:29",
+        "sekolah_id_enkrip": "DD329B4E2D510AA4BC47                                                                                "
+    }
+]

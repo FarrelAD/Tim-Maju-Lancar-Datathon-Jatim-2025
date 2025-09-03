@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKh Aviciena",
+        "sekolah_id": "545D3019-B0C1-494F-852B-B3DF0B735358",
+        "npsn": 70051020,
+        "jumlah_kirim": 8,
+        "ptk": 0,
+        "pegawai": 1,
+        "pd": 2,
+        "rombel": 1,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Anyar",
+        "kode_wilayah_induk_kecamatan": "280420  ",
+        "induk_kabupaten": "Kab. Serang",
+        "kode_wilayah_induk_kabupaten": "280400  ",
+        "induk_provinsi": "Prov. Banten",
+        "kode_wilayah_induk_provinsi": "280000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "30 Aug 2025 13:35:57",
+        "sekolah_id_enkrip": "CD6B1E461252051363B6                                                                                "
+    }
+]

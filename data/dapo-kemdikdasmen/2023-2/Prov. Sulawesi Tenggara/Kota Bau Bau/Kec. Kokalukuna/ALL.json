@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS KOKALUKUNA",
+        "sekolah_id": "40E5C8CA-30F5-E011-B46B-D71E16E0CAC5",
+        "npsn": 40404291,
+        "jumlah_kirim": 14,
+        "ptk": 10,
+        "pegawai": 3,
+        "pd": 38,
+        "rombel": 10,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kokalukuna",
+        "kode_wilayah_induk_kecamatan": "206106  ",
+        "induk_kabupaten": "Kota Baubau",
+        "kode_wilayah_induk_kabupaten": "206100  ",
+        "induk_provinsi": "Prov. Sulawesi Tenggara",
+        "kode_wilayah_induk_provinsi": "200000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 16:27:44",
+        "sekolah_id_enkrip": "0B26970A2BA662548E6D                                                                                "
+    }
+]

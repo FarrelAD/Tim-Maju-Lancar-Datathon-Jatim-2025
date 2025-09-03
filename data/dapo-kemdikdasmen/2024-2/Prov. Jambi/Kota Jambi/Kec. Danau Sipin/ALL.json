@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 2 Kota Jambi",
+        "sekolah_id": "7FB397E4-BD37-4733-A0A6-E69875FE0891",
+        "npsn": 69978865,
+        "jumlah_kirim": 11,
+        "ptk": 21,
+        "pegawai": 8,
+        "pd": 137,
+        "rombel": 50,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Danau Sipin",
+        "kode_wilayah_induk_kecamatan": "106010  ",
+        "induk_kabupaten": "Kota Jambi",
+        "kode_wilayah_induk_kabupaten": "106000  ",
+        "induk_provinsi": "Prov. Jambi",
+        "kode_wilayah_induk_provinsi": "100000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 01:29:30",
+        "sekolah_id_enkrip": "91066B56A9BC90DBC19A                                                                                "
+    }
+]

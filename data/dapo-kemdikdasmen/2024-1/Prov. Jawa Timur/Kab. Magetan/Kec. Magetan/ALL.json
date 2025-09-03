@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PANCA BHAKTI",
+        "sekolah_id": "D0E7DEF5-8B18-E111-9864-E3DC03CCF366",
+        "npsn": 20537470,
+        "jumlah_kirim": 63,
+        "ptk": 16,
+        "pegawai": 3,
+        "pd": 142,
+        "rombel": 26,
+        "jml_rk": 23,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Magetan",
+        "kode_wilayah_induk_kecamatan": "051006  ",
+        "induk_kabupaten": "Kab. Magetan",
+        "kode_wilayah_induk_kabupaten": "051000  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "27 Aug 2025 00:44:09",
+        "sekolah_id_enkrip": "EBA3B992378C4215671E                                                                                "
+    }
+]

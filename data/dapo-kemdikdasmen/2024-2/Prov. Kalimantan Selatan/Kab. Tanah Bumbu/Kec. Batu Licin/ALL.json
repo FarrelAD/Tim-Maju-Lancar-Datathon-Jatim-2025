@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TANAH BUMBU",
+        "sekolah_id": "00268269-B9FD-E111-8542-C5DD88A6D54E",
+        "npsn": 30313809,
+        "jumlah_kirim": 41,
+        "ptk": 23,
+        "pegawai": 14,
+        "pd": 103,
+        "rombel": 26,
+        "jml_rk": 14,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Batu Licin",
+        "kode_wilayah_induk_kecamatan": "151105  ",
+        "induk_kabupaten": "Kab. Tanah Bumbu",
+        "kode_wilayah_induk_kabupaten": "151100  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 19:31:42",
+        "sekolah_id_enkrip": "A39B1F88E97B7C94B032                                                                                "
+    }
+]

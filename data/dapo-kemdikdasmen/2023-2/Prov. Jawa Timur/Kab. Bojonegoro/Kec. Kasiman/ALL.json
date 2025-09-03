@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI  BATOKAN BOJONEGORO",
+        "sekolah_id": "60061AF1-8B18-E111-8367-CB457E8BFCCF",
+        "npsn": 20504458,
+        "jumlah_kirim": 54,
+        "ptk": 11,
+        "pegawai": 3,
+        "pd": 56,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kasiman",
+        "kode_wilayah_induk_kecamatan": "050524  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 09:59:28",
+        "sekolah_id_enkrip": "73C253BFBD470A28AB28                                                                                "
+    }
+]

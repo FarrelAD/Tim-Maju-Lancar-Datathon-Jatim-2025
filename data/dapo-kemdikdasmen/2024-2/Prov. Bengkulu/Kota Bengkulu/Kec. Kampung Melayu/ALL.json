@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 4 KOTA BENGKULU",
+        "sekolah_id": "390C8086-56C6-4741-8080-5DF6412E5B71",
+        "npsn": 69969320,
+        "jumlah_kirim": 36,
+        "ptk": 27,
+        "pegawai": 7,
+        "pd": 106,
+        "rombel": 24,
+        "jml_rk": 18,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kampung Melayu",
+        "kode_wilayah_induk_kecamatan": "266005  ",
+        "induk_kabupaten": "Kota Bengkulu",
+        "kode_wilayah_induk_kabupaten": "266000  ",
+        "induk_provinsi": "Prov. Bengkulu",
+        "kode_wilayah_induk_provinsi": "260000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "29 Aug 2025 05:25:34",
+        "sekolah_id_enkrip": "7DFE47F404B039851EF1                                                                                "
+    }
+]

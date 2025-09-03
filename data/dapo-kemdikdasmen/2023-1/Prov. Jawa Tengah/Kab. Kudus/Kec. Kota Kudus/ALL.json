@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PURWOSARI",
+        "sekolah_id": "30638257-2DF5-E011-88F3-CDA322F06CC0",
+        "npsn": 20318006,
+        "jumlah_kirim": 33,
+        "ptk": 23,
+        "pegawai": 3,
+        "pd": 227,
+        "rombel": 27,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kota Kudus",
+        "kode_wilayah_induk_kecamatan": "031902  ",
+        "induk_kabupaten": "Kab. Kudus",
+        "kode_wilayah_induk_kabupaten": "031900  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 20:07:07",
+        "sekolah_id_enkrip": "CB7A7F349B2677CDE9BC                                                                                "
+    }
+]

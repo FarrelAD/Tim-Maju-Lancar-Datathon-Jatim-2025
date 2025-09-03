@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KARYA BHAKTI",
+        "sekolah_id": "60591AB6-EEF0-E111-8793-1B750E32AB09",
+        "npsn": 20306196,
+        "jumlah_kirim": 7,
+        "ptk": 9,
+        "pegawai": 6,
+        "pd": 80,
+        "rombel": 12,
+        "jml_rk": 32,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Banyu Urip",
+        "kode_wilayah_induk_kecamatan": "030607  ",
+        "induk_kabupaten": "Kab. Purworejo",
+        "kode_wilayah_induk_kabupaten": "030600  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 07:46:02",
+        "sekolah_id_enkrip": "163B501CBCE3DD58E1F0                                                                                "
+    }
+]

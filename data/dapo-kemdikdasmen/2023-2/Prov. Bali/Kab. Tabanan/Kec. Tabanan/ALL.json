@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 TABANAN",
+        "sekolah_id": "C0A9D315-31F5-E011-9E22-3B23A3D3AAB8",
+        "npsn": 50101189,
+        "jumlah_kirim": 14,
+        "ptk": 32,
+        "pegawai": 15,
+        "pd": 197,
+        "rombel": 45,
+        "jml_rk": 32,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Tabanan",
+        "kode_wilayah_induk_kecamatan": "220303  ",
+        "induk_kabupaten": "Kab. Tabanan",
+        "kode_wilayah_induk_kabupaten": "220300  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 20:34:55",
+        "sekolah_id_enkrip": "51B6069F1B16A9E41E36                                                                                "
+    }
+]

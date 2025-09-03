@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BAITURRAHMAN",
+        "sekolah_id": "EB502836-7A5D-4EE1-9C92-C7BDA7805A10",
+        "npsn": 69895378,
+        "jumlah_kirim": 8,
+        "ptk": 12,
+        "pegawai": 5,
+        "pd": 108,
+        "rombel": 32,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Bolo",
+        "kode_wilayah_induk_kecamatan": "230602  ",
+        "induk_kabupaten": "Kab. Bima",
+        "kode_wilayah_induk_kabupaten": "230600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "15 Aug 2025 17:39:27",
+        "sekolah_id_enkrip": "B76E74A8EA796C27F833                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI Lahat",
+        "sekolah_id": "00E74862-BBFB-E111-8639-23BC3E5AC4DC",
+        "npsn": 10601449,
+        "jumlah_kirim": 21,
+        "ptk": 15,
+        "pegawai": 7,
+        "pd": 105,
+        "rombel": 13,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Lahat",
+        "kode_wilayah_induk_kecamatan": "110512  ",
+        "induk_kabupaten": "Kab. Lahat",
+        "kode_wilayah_induk_kabupaten": "110500  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 16:41:31",
+        "sekolah_id_enkrip": "DC3F01693961FA128763                                                                                "
+    }
+]

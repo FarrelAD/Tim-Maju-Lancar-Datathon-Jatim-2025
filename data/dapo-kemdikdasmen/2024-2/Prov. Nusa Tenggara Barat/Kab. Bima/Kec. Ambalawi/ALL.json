@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BUKIT BINTANG",
+        "sekolah_id": "321D384F-BA32-45FD-A010-905206671AE7",
+        "npsn": 69964607,
+        "jumlah_kirim": 7,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 29,
+        "rombel": 9,
+        "jml_rk": 2,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Ambalawi",
+        "kode_wilayah_induk_kecamatan": "230612  ",
+        "induk_kabupaten": "Kab. Bima",
+        "kode_wilayah_induk_kabupaten": "230600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": null,
+        "sekolah_id_enkrip": "EDCB8EC44167D5C837D4                                                                                "
+    }
+]

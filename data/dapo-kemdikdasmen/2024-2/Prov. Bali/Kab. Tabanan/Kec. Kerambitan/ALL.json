@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C KEMALA BHAYANGKARI",
+        "sekolah_id": "9081D315-31F5-E011-8D61-1FC75B501B8A",
+        "npsn": 50101191,
+        "jumlah_kirim": 28,
+        "ptk": 7,
+        "pegawai": 2,
+        "pd": 106,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kerambitan",
+        "kode_wilayah_induk_kecamatan": "220302  ",
+        "induk_kabupaten": "Kab. Tabanan",
+        "kode_wilayah_induk_kabupaten": "220300  ",
+        "induk_provinsi": "Prov. Bali",
+        "kode_wilayah_induk_provinsi": "220000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 20:36:42",
+        "sekolah_id_enkrip": "55EAD47B5D0A1F38D320                                                                                "
+    }
+]

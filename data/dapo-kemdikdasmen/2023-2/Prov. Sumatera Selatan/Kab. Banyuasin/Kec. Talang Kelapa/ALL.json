@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ADHYASTHA",
+        "sekolah_id": "BBEE731C-BEFC-4412-9AD8-CF793F0E3C57",
+        "npsn": 70015472,
+        "jumlah_kirim": 10,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 23,
+        "rombel": 9,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Talang Kelapa",
+        "kode_wilayah_induk_kecamatan": "110702  ",
+        "induk_kabupaten": "Kab. Banyuasin",
+        "kode_wilayah_induk_kabupaten": "110700  ",
+        "induk_provinsi": "Prov. Sumatera Selatan",
+        "kode_wilayah_induk_provinsi": "110000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 18:00:33",
+        "sekolah_id_enkrip": "B89BBAD91FBEE3B2A4DD                                                                                "
+    }
+]

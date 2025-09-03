@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB ABC SWADAYA KENDAL",
+        "sekolah_id": "60F7B6F6-C2D0-E111-90B3-41B9698F729C",
+        "npsn": 20354544,
+        "jumlah_kirim": 29,
+        "ptk": 24,
+        "pegawai": 2,
+        "pd": 129,
+        "rombel": 28,
+        "jml_rk": 22,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kaliwungu",
+        "kode_wilayah_induk_kecamatan": "032408  ",
+        "induk_kabupaten": "Kab. Kendal",
+        "kode_wilayah_induk_kabupaten": "032400  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "29 Aug 2025 12:04:54",
+        "sekolah_id_enkrip": "6C52C515B85A5436BC6D                                                                                "
+    }
+]

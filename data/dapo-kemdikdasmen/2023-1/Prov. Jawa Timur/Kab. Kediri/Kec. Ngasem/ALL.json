@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NGASEM",
+        "sekolah_id": "129EAD26-C56B-44C2-BE66-D6E02C243243",
+        "npsn": 20554313,
+        "jumlah_kirim": 12,
+        "ptk": 6,
+        "pegawai": 2,
+        "pd": 83,
+        "rombel": 18,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Ngasem",
+        "kode_wilayah_induk_kecamatan": "051325  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "19 Aug 2025 16:58:47",
+        "sekolah_id_enkrip": "923046658A6967AD130B                                                                                "
+    }
+]

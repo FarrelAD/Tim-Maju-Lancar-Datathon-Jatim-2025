@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-C NEGERI PEMBINA PROVINSI KALIMANTAN SELATAN",
+        "sekolah_id": "D0C7EDAC-BAFD-E111-A531-F12AF146BF04",
+        "npsn": 30304618,
+        "jumlah_kirim": 31,
+        "ptk": 70,
+        "pegawai": 23,
+        "pd": 238,
+        "rombel": 59,
+        "jml_rk": 58,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Liang Anggang",
+        "kode_wilayah_induk_kecamatan": "156106  ",
+        "induk_kabupaten": "Kota Banjarbaru",
+        "kode_wilayah_induk_kabupaten": "156100  ",
+        "induk_provinsi": "Prov. Kalimantan Selatan",
+        "kode_wilayah_induk_provinsi": "150000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "18 Aug 2025 22:27:20",
+        "sekolah_id_enkrip": "B82986EE558A38BEE76F                                                                                "
+    }
+]

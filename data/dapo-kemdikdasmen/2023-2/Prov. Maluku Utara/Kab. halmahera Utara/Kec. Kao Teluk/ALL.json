@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB LEU NADAL TIOWOR",
+        "sekolah_id": "130DD481-F718-43AB-9600-43CA3F6F1C07",
+        "npsn": 70043696,
+        "jumlah_kirim": 11,
+        "ptk": 1,
+        "pegawai": 1,
+        "pd": 1,
+        "rombel": 1,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Kao Teluk",
+        "kode_wilayah_induk_kecamatan": "270422  ",
+        "induk_kabupaten": "Kab. halmahera Utara",
+        "kode_wilayah_induk_kabupaten": "270400  ",
+        "induk_provinsi": "Prov. Maluku Utara",
+        "kode_wilayah_induk_provinsi": "270000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "16 Aug 2025 17:45:58",
+        "sekolah_id_enkrip": "DD1C6BB42DC4F884967C                                                                                "
+    }
+]

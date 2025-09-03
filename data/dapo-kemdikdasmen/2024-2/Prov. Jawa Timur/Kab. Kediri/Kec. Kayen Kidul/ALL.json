@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA HATI",
+        "sekolah_id": "80C472CC-36FE-E111-BACC-0BCCAEF6BCA1",
+        "npsn": 69757931,
+        "jumlah_kirim": 11,
+        "ptk": 7,
+        "pegawai": 0,
+        "pd": 53,
+        "rombel": 18,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Kayen Kidul",
+        "kode_wilayah_induk_kecamatan": "051324  ",
+        "induk_kabupaten": "Kab. Kediri",
+        "kode_wilayah_induk_kabupaten": "051300  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 21:26:09",
+        "sekolah_id_enkrip": "9112069A99C8C1F7479E                                                                                "
+    }
+]

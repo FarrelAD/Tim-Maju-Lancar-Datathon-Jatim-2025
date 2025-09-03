@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB WALIWIS PUTIH",
+        "sekolah_id": "6070E315-2CF5-E011-A963-8FA477AA381F",
+        "npsn": 20216946,
+        "jumlah_kirim": 27,
+        "ptk": 8,
+        "pegawai": 1,
+        "pd": 64,
+        "rombel": 12,
+        "jml_rk": 6,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Jalancagak",
+        "kode_wilayah_induk_kecamatan": "021902  ",
+        "induk_kabupaten": "Kab. Subang",
+        "kode_wilayah_induk_kabupaten": "021900  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 21:02:14",
+        "sekolah_id_enkrip": "9444262C4F6BE339DC6B                                                                                "
+    }
+]

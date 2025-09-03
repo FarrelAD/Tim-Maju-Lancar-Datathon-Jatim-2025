@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB SAMUDRA TERRA ATHENA",
+        "sekolah_id": "C28A7F37-6226-475E-B414-42822EFD4E03",
+        "npsn": 70027553,
+        "jumlah_kirim": 49,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 13,
+        "rombel": 6,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Tragah",
+        "kode_wilayah_induk_kecamatan": "052909  ",
+        "induk_kabupaten": "Kab. Bangkalan",
+        "kode_wilayah_induk_kabupaten": "052900  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 21:39:06",
+        "sekolah_id_enkrip": "89ABA9CCE98636AD8E7E                                                                                "
+    }
+]

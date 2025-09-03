@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB THERESIA SONDER",
+        "sekolah_id": "B1E50FC9-2475-4E1E-8FB3-C71D49F82CD6",
+        "npsn": 69980302,
+        "jumlah_kirim": 9,
+        "ptk": 6,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sonder",
+        "kode_wilayah_induk_kecamatan": "170213  ",
+        "induk_kabupaten": "Kab. Minahasa",
+        "kode_wilayah_induk_kabupaten": "170200  ",
+        "induk_provinsi": "Prov. Sulawesi Utara",
+        "kode_wilayah_induk_provinsi": "170000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "05 Aug 2025 15:20:20",
+        "sekolah_id_enkrip": "70924C658FDFEF04DCDC                                                                                "
+    }
+]

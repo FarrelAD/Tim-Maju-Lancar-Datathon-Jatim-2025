@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB B-C PANTI SISWA SAMBIT",
+        "sekolah_id": "6042D6F5-8B18-E111-8EE4-A575174EF812",
+        "npsn": 20547269,
+        "jumlah_kirim": 13,
+        "ptk": 9,
+        "pegawai": 1,
+        "pd": 80,
+        "rombel": 12,
+        "jml_rk": 12,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sambit",
+        "kode_wilayah_induk_kecamatan": "051104  ",
+        "induk_kabupaten": "Kab. Ponorogo",
+        "kode_wilayah_induk_kabupaten": "051100  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "31 Aug 2025 12:51:58",
+        "sekolah_id_enkrip": "52936A61F78863DD8044                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB-YBSM",
+        "sekolah_id": "AD922C5F-C4F1-49F9-BA0E-4CF36C7F9F86",
+        "npsn": 69892366,
+        "jumlah_kirim": 17,
+        "ptk": 14,
+        "pegawai": 3,
+        "pd": 74,
+        "rombel": 26,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Meuraxa",
+        "kode_wilayah_induk_kecamatan": "066101  ",
+        "induk_kabupaten": "Kota Banda Aceh",
+        "kode_wilayah_induk_kabupaten": "066100  ",
+        "induk_provinsi": "Prov. Aceh",
+        "kode_wilayah_induk_provinsi": "060000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "07 Aug 2025 12:00:27",
+        "sekolah_id_enkrip": "B04903A9056160F55926                                                                                "
+    }
+]

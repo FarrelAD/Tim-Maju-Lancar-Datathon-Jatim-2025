@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "UPTD SLBN POLEWALI",
+        "sekolah_id": "A0F89AC1-0D26-E111-8EB1-2174B0F6C5D1",
+        "npsn": 40600732,
+        "jumlah_kirim": 28,
+        "ptk": 23,
+        "pegawai": 7,
+        "pd": 112,
+        "rombel": 28,
+        "jml_rk": 16,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Polewali",
+        "kode_wilayah_induk_kecamatan": "330305  ",
+        "induk_kabupaten": "Kab. Polewali Mandar",
+        "kode_wilayah_induk_kabupaten": "330300  ",
+        "induk_provinsi": "Prov. Sulawesi Barat",
+        "kode_wilayah_induk_provinsi": "330000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "27 Aug 2025 04:34:05",
+        "sekolah_id_enkrip": "5252C631C7F2D434C1F2                                                                                "
+    }
+]

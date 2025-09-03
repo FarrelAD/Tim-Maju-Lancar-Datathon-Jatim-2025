@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB TAO",
+        "sekolah_id": "1E8187BB-4692-41C0-8AAE-52910BA7E196",
+        "npsn": 70041356,
+        "jumlah_kirim": 2,
+        "ptk": 3,
+        "pegawai": 4,
+        "pd": 8,
+        "rombel": 3,
+        "jml_rk": 1,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Pemenang",
+        "kode_wilayah_induk_kecamatan": "230804  ",
+        "induk_kabupaten": "Kab. Lombok Utara",
+        "kode_wilayah_induk_kabupaten": "230800  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "04 Aug 2025 07:48:20",
+        "sekolah_id_enkrip": "932F9E28BEB593B74ED3                                                                                "
+    }
+]

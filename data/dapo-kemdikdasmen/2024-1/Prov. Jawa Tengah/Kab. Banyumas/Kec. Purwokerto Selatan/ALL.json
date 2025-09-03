@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB C DAN C1 YAKUT PURWOKERTO",
+        "sekolah_id": "10201B59-2DF5-E011-81BA-F5C8FD3B876E",
+        "npsn": 20330440,
+        "jumlah_kirim": 41,
+        "ptk": 18,
+        "pegawai": 2,
+        "pd": 197,
+        "rombel": 17,
+        "jml_rk": 16,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Purwokerto Selatan",
+        "kode_wilayah_induk_kecamatan": "030224  ",
+        "induk_kabupaten": "Kab. Banyumas",
+        "kode_wilayah_induk_kabupaten": "030200  ",
+        "induk_provinsi": "Prov. Jawa Tengah",
+        "kode_wilayah_induk_provinsi": "030000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "26 Aug 2025 10:42:57",
+        "sekolah_id_enkrip": "657A6531B9E40FB2403A                                                                                "
+    }
+]

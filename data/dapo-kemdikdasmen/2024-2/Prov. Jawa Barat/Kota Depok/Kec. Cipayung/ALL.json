@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI KOTA DEPOK",
+        "sekolah_id": "C0C92C53-90FA-E111-BB5B-3549EEC97CD2",
+        "npsn": 20229818,
+        "jumlah_kirim": 15,
+        "ptk": 18,
+        "pegawai": 9,
+        "pd": 168,
+        "rombel": 41,
+        "jml_rk": 10,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Cipayung",
+        "kode_wilayah_induk_kecamatan": "026607  ",
+        "induk_kabupaten": "Kota Depok",
+        "kode_wilayah_induk_kabupaten": "026600  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 13:55:12",
+        "sekolah_id_enkrip": "D50526CCAA4D9A976E54                                                                                "
+    }
+]

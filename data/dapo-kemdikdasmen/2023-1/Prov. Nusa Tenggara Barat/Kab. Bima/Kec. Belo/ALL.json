@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 1 BIMA",
+        "sekolah_id": "3BAFF332-7BE3-445C-B9C7-EF14D6ECECE8",
+        "npsn": 50204063,
+        "jumlah_kirim": 32,
+        "ptk": 49,
+        "pegawai": 16,
+        "pd": 86,
+        "rombel": 40,
+        "jml_rk": 14,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Belo",
+        "kode_wilayah_induk_kecamatan": "230604  ",
+        "induk_kabupaten": "Kab. Bima",
+        "kode_wilayah_induk_kabupaten": "230600  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 17:04:58",
+        "sekolah_id_enkrip": "9F9FBE8BCAE80E8661F2                                                                                "
+    }
+]

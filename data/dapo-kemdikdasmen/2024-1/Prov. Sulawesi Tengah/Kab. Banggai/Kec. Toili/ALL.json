@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TOILI",
+        "sekolah_id": "7B32EE6C-75A2-4C2B-87D7-00AB0E3BA813",
+        "npsn": 69973339,
+        "jumlah_kirim": 35,
+        "ptk": 13,
+        "pegawai": 7,
+        "pd": 35,
+        "rombel": 22,
+        "jml_rk": 20,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Toili",
+        "kode_wilayah_induk_kecamatan": "180401  ",
+        "induk_kabupaten": "Kab. Banggai",
+        "kode_wilayah_induk_kabupaten": "180400  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 08:26:38",
+        "sekolah_id_enkrip": "7511020431A1A8E55824                                                                                "
+    }
+]

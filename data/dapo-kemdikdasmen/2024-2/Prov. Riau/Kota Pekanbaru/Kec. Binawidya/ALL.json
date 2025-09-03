@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PELITA HATI",
+        "sekolah_id": "E03B18B3-A8FC-E111-89E4-E770D8B4FBB8",
+        "npsn": 10495038,
+        "jumlah_kirim": 23,
+        "ptk": 15,
+        "pegawai": 2,
+        "pd": 99,
+        "rombel": 34,
+        "jml_rk": 13,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Binawidya",
+        "kode_wilayah_induk_kecamatan": "096016  ",
+        "induk_kabupaten": "Kota Pekanbaru",
+        "kode_wilayah_induk_kabupaten": "096000  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 18:17:57",
+        "sekolah_id_enkrip": "B94AB81F6D37E40AF392                                                                                "
+    }
+]

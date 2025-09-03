@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI TASIKMALAYA",
+        "sekolah_id": "40A7D815-2CF5-E011-ACC5-69112B2521B3",
+        "npsn": 20268139,
+        "jumlah_kirim": 35,
+        "ptk": 57,
+        "pegawai": 15,
+        "pd": 204,
+        "rombel": 82,
+        "jml_rk": 21,
+        "jml_lab": 1,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Jamanis",
+        "kode_wilayah_induk_kecamatan": "021225  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "25 Aug 2025 13:37:19",
+        "sekolah_id_enkrip": "C42F5735C8DA76D9C755                                                                                "
+    }
+]

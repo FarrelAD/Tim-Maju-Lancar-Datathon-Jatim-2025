@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI SUGIHWARAS BOJONEGORO",
+        "sekolah_id": "30B8FEF0-8B18-E111-8A26-5F494A4E3760",
+        "npsn": 20504450,
+        "jumlah_kirim": 9,
+        "ptk": 10,
+        "pegawai": 4,
+        "pd": 61,
+        "rombel": 14,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Sugihwaras",
+        "kode_wilayah_induk_kecamatan": "050507  ",
+        "induk_kabupaten": "Kab. Bojonegoro",
+        "kode_wilayah_induk_kabupaten": "050500  ",
+        "induk_provinsi": "Prov. Jawa Timur",
+        "kode_wilayah_induk_provinsi": "050000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "20 Aug 2025 15:09:55",
+        "sekolah_id_enkrip": "C0E1EEA04CF6D457E88F                                                                                "
+    }
+]

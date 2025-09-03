@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MANDAILING NATAL",
+        "sekolah_id": "308CC377-68F9-E111-ABEF-DF560338613D",
+        "npsn": 10269080,
+        "jumlah_kirim": 36,
+        "ptk": 28,
+        "pegawai": 7,
+        "pd": 141,
+        "rombel": 46,
+        "jml_rk": 7,
+        "jml_lab": 1,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Panyabungan",
+        "kode_wilayah_induk_kecamatan": "071505  ",
+        "induk_kabupaten": "Kab. Mandailing Natal",
+        "kode_wilayah_induk_kabupaten": "071500  ",
+        "induk_provinsi": "Prov. Sumatera Utara",
+        "kode_wilayah_induk_provinsi": "070000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 08:51:29",
+        "sekolah_id_enkrip": "AFBD77FD33E16F9CDA01                                                                                "
+    }
+]

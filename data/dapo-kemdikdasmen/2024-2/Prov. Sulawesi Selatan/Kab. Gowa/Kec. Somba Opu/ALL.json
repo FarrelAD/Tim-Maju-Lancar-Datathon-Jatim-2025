@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 GOWA",
+        "sekolah_id": "80A0C3C1-0D26-E111-BA8A-65695BA567C2",
+        "npsn": 40300922,
+        "jumlah_kirim": 28,
+        "ptk": 31,
+        "pegawai": 2,
+        "pd": 143,
+        "rombel": 29,
+        "jml_rk": 11,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Somba Opu",
+        "kode_wilayah_induk_kecamatan": "190304  ",
+        "induk_kabupaten": "Kab. Gowa",
+        "kode_wilayah_induk_kabupaten": "190300  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 13:51:14",
+        "sekolah_id_enkrip": "6605CD7CC1B8B80E1CA8                                                                                "
+    }
+]

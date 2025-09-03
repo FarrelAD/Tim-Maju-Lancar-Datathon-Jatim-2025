@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI 2 LOMBOK BARAT",
+        "sekolah_id": "D06FCB74-38FE-E111-B8AC-C11D31B6274C",
+        "npsn": 50220662,
+        "jumlah_kirim": 38,
+        "ptk": 17,
+        "pegawai": 7,
+        "pd": 125,
+        "rombel": 34,
+        "jml_rk": 13,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Gerung",
+        "kode_wilayah_induk_kecamatan": "230102  ",
+        "induk_kabupaten": "Kab. Lombok Barat",
+        "kode_wilayah_induk_kabupaten": "230100  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Barat",
+        "kode_wilayah_induk_provinsi": "230000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 08:24:20",
+        "sekolah_id_enkrip": "911ABE170B227E586ADC                                                                                "
+    }
+]

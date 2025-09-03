@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBS PK PLK SHOFIYYAH",
+        "sekolah_id": "6251EDBA-AB76-47BF-AAE6-62606B104333",
+        "npsn": 69970442,
+        "jumlah_kirim": 15,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 25,
+        "rombel": 11,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bissappu",
+        "kode_wilayah_induk_kecamatan": "191001  ",
+        "induk_kabupaten": "Kab. Bantaeng",
+        "kode_wilayah_induk_kabupaten": "191000  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "09 Aug 2025 18:00:33",
+        "sekolah_id_enkrip": "CC823BB096269CCE4C61                                                                                "
+    }
+]

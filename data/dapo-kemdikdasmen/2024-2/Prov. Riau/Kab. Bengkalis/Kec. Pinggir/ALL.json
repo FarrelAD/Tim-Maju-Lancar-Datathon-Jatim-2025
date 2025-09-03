@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB BUMI MANGGALO",
+        "sekolah_id": "0052D7FC-B9FC-E111-AB93-9922FB3587F1",
+        "npsn": 10498731,
+        "jumlah_kirim": 18,
+        "ptk": 4,
+        "pegawai": 4,
+        "pd": 38,
+        "rombel": 15,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Pinggir",
+        "kode_wilayah_induk_kecamatan": "090213  ",
+        "induk_kabupaten": "Kab. Bengkalis",
+        "kode_wilayah_induk_kabupaten": "090200  ",
+        "induk_provinsi": "Prov. Riau",
+        "kode_wilayah_induk_provinsi": "090000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "13 Aug 2025 19:50:23",
+        "sekolah_id_enkrip": "7A6D0CD651EBE4B74387                                                                                "
+    }
+]

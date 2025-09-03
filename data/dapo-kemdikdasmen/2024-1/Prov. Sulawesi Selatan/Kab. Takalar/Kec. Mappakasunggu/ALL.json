@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLBN 1 TAKALAR",
+        "sekolah_id": "10B629C2-0D26-E111-B494-9B156203CD4A",
+        "npsn": 40301721,
+        "jumlah_kirim": 31,
+        "ptk": 20,
+        "pegawai": 5,
+        "pd": 61,
+        "rombel": 16,
+        "jml_rk": 8,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Mappakasunggu",
+        "kode_wilayah_induk_kecamatan": "190402  ",
+        "induk_kabupaten": "Kab. Takalar",
+        "kode_wilayah_induk_kabupaten": "190400  ",
+        "induk_provinsi": "Prov. Sulawesi Selatan",
+        "kode_wilayah_induk_provinsi": "190000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "22 Aug 2025 19:56:13",
+        "sekolah_id_enkrip": "06486BD462A47219CF48                                                                                "
+    }
+]

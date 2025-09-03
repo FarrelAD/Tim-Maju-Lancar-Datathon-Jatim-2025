@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB NEGERI MANEKAT NIKI-NIKI",
+        "sekolah_id": "D9044AB7-C5C7-402D-9BC2-0085B7D83324",
+        "npsn": 69947565,
+        "jumlah_kirim": 27,
+        "ptk": 13,
+        "pegawai": 9,
+        "pd": 40,
+        "rombel": 11,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Amanuban Tengah",
+        "kode_wilayah_induk_kecamatan": "240307  ",
+        "induk_kabupaten": "Kab. Timor Tengah Selatan",
+        "kode_wilayah_induk_kabupaten": "240300  ",
+        "induk_provinsi": "Prov. Nusa Tenggara Timur",
+        "kode_wilayah_induk_provinsi": "240000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "21 Aug 2025 07:54:35",
+        "sekolah_id_enkrip": "F54DA8AD2EFC6213842F                                                                                "
+    }
+]

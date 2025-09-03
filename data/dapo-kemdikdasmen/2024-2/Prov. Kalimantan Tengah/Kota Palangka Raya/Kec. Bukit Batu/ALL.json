@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SKH NEGERI 3 PALANGKA RAYA",
+        "sekolah_id": "E7AA66D9-6A91-468E-89F1-4DB34D056687",
+        "npsn": 70050597,
+        "jumlah_kirim": 29,
+        "ptk": 6,
+        "pegawai": 4,
+        "pd": 14,
+        "rombel": 6,
+        "jml_rk": 5,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Bukit Batu",
+        "kode_wilayah_induk_kecamatan": "146002  ",
+        "induk_kabupaten": "Kota Palangka Raya",
+        "kode_wilayah_induk_kabupaten": "146000  ",
+        "induk_provinsi": "Prov. Kalimantan Tengah",
+        "kode_wilayah_induk_provinsi": "140000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Negeri",
+        "sinkron_terakhir": "26 Aug 2025 13:00:53",
+        "sekolah_id_enkrip": "FF55F2CC4D117425628C                                                                                "
+    }
+]

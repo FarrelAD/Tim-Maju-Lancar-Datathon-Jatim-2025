@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KOTO AGUNG",
+        "sekolah_id": "DB41D138-8E3C-4BDE-B0C3-3802660D711A",
+        "npsn": 69888456,
+        "jumlah_kirim": 13,
+        "ptk": 10,
+        "pegawai": 2,
+        "pd": 48,
+        "rombel": 12,
+        "jml_rk": 3,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sitiung",
+        "kode_wilayah_induk_kecamatan": "081203  ",
+        "induk_kabupaten": "Kab. Dharmasraya",
+        "kode_wilayah_induk_kabupaten": "081200  ",
+        "induk_provinsi": "Prov. Sumatera Barat",
+        "kode_wilayah_induk_provinsi": "080000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "22 Aug 2025 22:35:18",
+        "sekolah_id_enkrip": "17ADD0B33371CE2552FF                                                                                "
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB PADAMU NEGERI",
+        "sekolah_id": "8B63BA6B-A6BA-474C-9859-D88401F7825E",
+        "npsn": 69880743,
+        "jumlah_kirim": 19,
+        "ptk": 5,
+        "pegawai": 4,
+        "pd": 44,
+        "rombel": 12,
+        "jml_rk": 9,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Simpang Raya",
+        "kode_wilayah_induk_kecamatan": "180423  ",
+        "induk_kabupaten": "Kab. Banggai",
+        "kode_wilayah_induk_kabupaten": "180400  ",
+        "induk_provinsi": "Prov. Sulawesi Tengah",
+        "kode_wilayah_induk_provinsi": "180000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "23 Aug 2025 09:50:28",
+        "sekolah_id_enkrip": "EF4C89374FF4A28ED606                                                                                "
+    }
+]

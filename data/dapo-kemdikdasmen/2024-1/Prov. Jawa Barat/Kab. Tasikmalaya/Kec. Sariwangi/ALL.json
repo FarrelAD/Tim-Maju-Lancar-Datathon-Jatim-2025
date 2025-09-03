@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB Al Ichlas Jayaratu",
+        "sekolah_id": "C061C936-5ECF-E111-9B72-B53EA541CDBB",
+        "npsn": 20269970,
+        "jumlah_kirim": 27,
+        "ptk": 5,
+        "pegawai": 1,
+        "pd": 51,
+        "rombel": 12,
+        "jml_rk": 4,
+        "jml_lab": 0,
+        "jml_perpus": 0,
+        "induk_kecamatan": "Kec. Sariwangi",
+        "kode_wilayah_induk_kecamatan": "021229  ",
+        "induk_kabupaten": "Kab. Tasikmalaya",
+        "kode_wilayah_induk_kabupaten": "021200  ",
+        "induk_provinsi": "Prov. Jawa Barat",
+        "kode_wilayah_induk_provinsi": "020000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "14 Aug 2025 18:15:45",
+        "sekolah_id_enkrip": "3F890B00A6ED53C62984                                                                                "
+    }
+]

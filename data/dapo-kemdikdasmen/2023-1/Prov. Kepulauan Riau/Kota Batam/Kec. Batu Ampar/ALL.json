@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "SLB KARTINI BATAM",
+        "sekolah_id": "200D4ABD-31F5-E011-8D87-C7A1BBBE9E8C",
+        "npsn": 11001667,
+        "jumlah_kirim": 42,
+        "ptk": 22,
+        "pegawai": 3,
+        "pd": 123,
+        "rombel": 33,
+        "jml_rk": 26,
+        "jml_lab": 2,
+        "jml_perpus": 1,
+        "induk_kecamatan": "Kec. Batu Ampar",
+        "kode_wilayah_induk_kecamatan": "316006  ",
+        "induk_kabupaten": "Kota Batam",
+        "kode_wilayah_induk_kabupaten": "316000  ",
+        "induk_provinsi": "Prov. Kepulauan Riau",
+        "kode_wilayah_induk_provinsi": "310000  ",
+        "bentuk_pendidikan": "SLB",
+        "status_sekolah": "Swasta",
+        "sinkron_terakhir": "25 Aug 2025 14:25:42",
+        "sekolah_id_enkrip": "498E29BED11BD7CFFAFB                                                                                "
+    }
+]
