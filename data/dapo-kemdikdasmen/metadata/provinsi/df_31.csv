@@ -1,0 +1,7 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Majene,330500  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,9,9,100
+Kab. Mamasa,330400  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,2,2,100
+Kab. Mamuju,330100  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,5,5,100
+Kab. Mamuju Tengah,330600  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,3,3,100
+Kab. Pasangkayu,330200  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,2,2,100
+Kab. Polewali Mandar,330300  ,2,330000  ,Prov. Sulawesi Barat,330000  ,,,4,4,100

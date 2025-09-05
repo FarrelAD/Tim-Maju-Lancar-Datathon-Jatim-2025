@@ -1,0 +1,14 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Balangan,151000  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,1,1,100
+Kab. Banjar,150100  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,3,3,100
+Kab. Barito Kuala,150300  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,1,1,100
+Kab. Hulu Sungai Selatan,150500  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kab. Hulu Sungai Tengah,150600  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,1,1,100
+Kab. Hulu Sungai Utara,150700  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kab. Kotabaru,150900  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,1,1,100
+Kab. Tabalong,150800  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,1,1,100
+Kab. Tanah Bumbu,151100  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kab. Tanah Laut,150200  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kab. Tapin,150400  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kota Banjarbaru,156100  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,2,2,100
+Kota Banjarmasin,156000  ,2,150000  ,Prov. Kalimantan Selatan,150000  ,,,6,6,100

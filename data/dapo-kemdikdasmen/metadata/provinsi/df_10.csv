@@ -1,0 +1,18 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Banyuasin,110700  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,4,4,100
+Kab. Empat Lawang,111100  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Lahat,110500  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Muara Enim,110400  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,2,2,100
+Kab. Musi Banyuasin,110100  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Musi Rawas,110600  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,3,3,100
+Kab. Musi Rawas Utara,111300  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Ogan Ilir,111000  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Ogan Komering Ilir,110200  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Ogan Komering Ulu,110300  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Ogan Komering Ulu Selatan,110900  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Ogan Komering Ulu Timur,110800  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kab. Penukal Abab Lematang Ilir,111200  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,2,2,100
+Kota Lubuk Linggau,116200  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,2,2,100
+Kota Pagar Alam,116300  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,1,1,100
+Kota Palembang,116000  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,14,14,100
+Kota Prabumulih,116100  ,2,110000  ,Prov. Sumatera Selatan,110000  ,,,3,3,100

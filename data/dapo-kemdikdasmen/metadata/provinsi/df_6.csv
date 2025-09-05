@@ -1,0 +1,28 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Asahan,070600  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,3,3,100
+Kab. Batu Bara,072200  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Dairi,070500  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Deli Serdang,070100  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,9,9,100
+Kab. Humbang Hasundutan,071900  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Karo,070300  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,3,3,100
+Kab. Labuhanbatu,070700  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Labuhanbatu Utara,072500  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Langkat,070200  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Mandailing Natal,071500  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,2,2,100
+Kab. Nias Barat,072700  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Padang Lawas utara,072300  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Pakpak Bharat,071800  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Serdang Bedagai,072100  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,2,2,100
+Kab. Simalungun,070400  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,3,3,100
+Kab. Tapanuli Selatan,071000  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Tapanuli Tengah,070900  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Tapanuli Utara,070800  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kab. Toba,071600  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,2,2,100
+Kota Binjai,076100  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,4,4,100
+Kota Gunungsitoli,076700  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,3,3,100
+Kota Medan,076000  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,12,12,100
+Kota Padang Sidempuan,076600  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,2,2,100
+Kota Pematangsiantar,076300  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,2,2,100
+Kota Sibolga,076500  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kota Tanjung Balai,076400  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,1,1,100
+Kota Tebing Tinggi,076200  ,2,070000  ,Prov. Sumatera Utara,070000  ,,,3,3,100

@@ -1,0 +1,10 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Badung,220400  ,2,220000  ,Prov. Bali,220000  ,,,2,2,100
+Kab. Bangli,220700  ,2,220000  ,Prov. Bali,220000  ,,,1,1,100
+Kab. Buleleng,220100  ,2,220000  ,Prov. Bali,220000  ,,,2,2,100
+Kab. Gianyar,220500  ,2,220000  ,Prov. Bali,220000  ,,,1,1,100
+Kab. Jembrana,220200  ,2,220000  ,Prov. Bali,220000  ,,,1,1,100
+Kab. Karangasem,220800  ,2,220000  ,Prov. Bali,220000  ,,,1,1,100
+Kab. Klungkung,220600  ,2,220000  ,Prov. Bali,220000  ,,,1,1,100
+Kab. Tabanan,220300  ,2,220000  ,Prov. Bali,220000  ,,,2,2,100
+Kota Denpasar,226000  ,2,220000  ,Prov. Bali,220000  ,,,4,4,100

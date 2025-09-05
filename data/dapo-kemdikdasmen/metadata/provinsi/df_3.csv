@@ -1,0 +1,6 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bantul,040100  ,2,040000  ,Prov. D.I. Yogyakarta,040000  ,,,20,20,100
+Kab. Gunungkidul,040300  ,2,040000  ,Prov. D.I. Yogyakarta,040000  ,,,14,14,100
+Kab. Kulon Progo,040400  ,2,040000  ,Prov. D.I. Yogyakarta,040000  ,,,8,8,100
+Kab. Sleman,040200  ,2,040000  ,Prov. D.I. Yogyakarta,040000  ,,,30,30,100
+Kota Yogyakarta,046000  ,2,040000  ,Prov. D.I. Yogyakarta,040000  ,,,9,9,100

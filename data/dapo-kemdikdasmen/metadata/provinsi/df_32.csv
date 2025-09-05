@@ -1,0 +1,6 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bulungan,340200  ,2,340000  ,Prov. Kalimantan Utara,340000  ,,,3,3,100
+Kab. Malinau,340100  ,2,340000  ,Prov. Kalimantan Utara,340000  ,,,1,1,100
+Kab. Nunukan,340500  ,2,340000  ,Prov. Kalimantan Utara,340000  ,,,1,1,100
+Kab. Tana Tidung,340300  ,2,340000  ,Prov. Kalimantan Utara,340000  ,,,1,1,100
+Kota Tarakan,346000  ,2,340000  ,Prov. Kalimantan Utara,340000  ,,,1,1,100

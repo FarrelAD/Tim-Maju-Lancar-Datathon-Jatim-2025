@@ -1,0 +1,7 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Boalemo,300100  ,2,300000  ,Prov. Gorontalo,300000  ,,,2,2,100
+Kab. Bone Bolango,300400  ,2,300000  ,Prov. Gorontalo,300000  ,,,2,2,100
+Kab. Gorontalo,300200  ,2,300000  ,Prov. Gorontalo,300000  ,,,1,1,100
+Kab. Gorontalo Utara,300500  ,2,300000  ,Prov. Gorontalo,300000  ,,,1,1,100
+Kab. Pohuwato,300300  ,2,300000  ,Prov. Gorontalo,300000  ,,,1,1,100
+Kota Gorontalo,306000  ,2,300000  ,Prov. Gorontalo,300000  ,,,1,1,100

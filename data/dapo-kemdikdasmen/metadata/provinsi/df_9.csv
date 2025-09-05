@@ -1,0 +1,12 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Kerinci,100500  ,2,100000  ,Prov. Jambi,100000  ,,,2,2,100
+Kab. Merangin,100900  ,2,100000  ,Prov. Jambi,100000  ,,,2,2,100
+Kab. Muaro Jambi,100700  ,2,100000  ,Prov. Jambi,100000  ,,,3,3,100
+Kab. Sarolangun,100300  ,2,100000  ,Prov. Jambi,100000  ,,,1,1,100
+Kab. Tanjung Jabung Barat,100400  ,2,100000  ,Prov. Jambi,100000  ,,,2,2,100
+Kab. Tanjung Jabung Timur,100800  ,2,100000  ,Prov. Jambi,100000  ,,,1,1,100
+Kab. Batanghari,100100  ,2,100000  ,Prov. Jambi,100000  ,,,1,1,100
+Kota Sungai Penuh,106100  ,2,100000  ,Prov. Jambi,100000  ,,,1,1,100
+Kota Jambi,106000  ,2,100000  ,Prov. Jambi,100000  ,,,7,8,87
+Kab. Bungo,100200  ,2,100000  ,Prov. Jambi,100000  ,,,1,2,50
+Kab. Tebo,100600  ,2,100000  ,Prov. Jambi,100000  ,,,1,2,50

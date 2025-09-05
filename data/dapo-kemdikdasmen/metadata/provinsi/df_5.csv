@@ -1,0 +1,24 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Aceh Barat,060600  ,2,060000  ,Prov. Aceh,060000  ,,,3,3,100
+Kab. Aceh Barat Daya,061700  ,2,060000  ,Prov. Aceh,060000  ,,,1,1,100
+Kab. Aceh Besar,060100  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Aceh Jaya,061600  ,2,060000  ,Prov. Aceh,060000  ,,,1,1,100
+Kab. Aceh Selatan,060700  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Aceh Singkil,061300  ,2,060000  ,Prov. Aceh,060000  ,,,1,1,100
+Kab. Aceh Tamiang,061400  ,2,060000  ,Prov. Aceh,060000  ,,,1,1,100
+Kab. Aceh Tengah,060500  ,2,060000  ,Prov. Aceh,060000  ,,,8,8,100
+Kab. Aceh Tenggara,060800  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Aceh Timur,060400  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Aceh Utara,060300  ,2,060000  ,Prov. Aceh,060000  ,,,6,6,100
+Kab. Bener Meriah,061900  ,2,060000  ,Prov. Aceh,060000  ,,,5,5,100
+Kab. Bireuen,061200  ,2,060000  ,Prov. Aceh,060000  ,,,6,6,100
+Kab. Gayo Lues,061800  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Nagan Raya,061500  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Pidie,060200  ,2,060000  ,Prov. Aceh,060000  ,,,3,3,100
+Kab. Pidie Jaya,062000  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kab. Simeulue,061100  ,2,060000  ,Prov. Aceh,060000  ,,,1,1,100
+Kota Banda Aceh,066100  ,2,060000  ,Prov. Aceh,060000  ,,,8,8,100
+Kota Langsa,066300  ,2,060000  ,Prov. Aceh,060000  ,,,4,4,100
+Kota Lhokseumawe,066200  ,2,060000  ,Prov. Aceh,060000  ,,,3,3,100
+Kota Sabang,066000  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100
+Kota Subulussalam,066400  ,2,060000  ,Prov. Aceh,060000  ,,,2,2,100

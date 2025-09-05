@@ -1,0 +1,14 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Kepulauan Talaud,170400  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,3,3,100
+Kab. Minahasa,170200  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,5,5,100
+Kab. Minahasa Selatan,170500  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,2,2,100
+Kab. Minahasa Tenggara,171000  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,2,2,100
+Kab. Minahasa Utara,170600  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,3,3,100
+Kota Bitung,176100  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,6,6,100
+Kota Kotamobagu,176300  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,1,1,100
+Kota Manado,176000  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,9,9,100
+Kota Tomohon,176200  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,3,3,100
+Kab. Bolaang Mongondow,170100  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,2,2,100
+Kab. Bolaang Mongondow Timur,171100  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,2,2,100
+Kab. Kep. Siau Tagulandang Biaro,170900  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,1,1,100
+Kab. Kepulauan Sangihe,170300  ,2,170000  ,Prov. Sulawesi Utara,170000  ,,,2,3,66

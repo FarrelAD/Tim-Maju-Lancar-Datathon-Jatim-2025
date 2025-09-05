@@ -1,0 +1,15 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Barito Timur,141300  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,2,2,100
+Kab. Barito Utara,140300  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,2,2,100
+Kab. Gunung Mas,141000  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,1,1,100
+Kab. Kapuas,140100  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,3,3,100
+Kab. Katingan,140600  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,6,6,100
+Kab. Kotawaringin Barat,140500  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,3,3,100
+Kab. Kotawaringin Timur,140400  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,7,7,100
+Kab. Lamandau,140900  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,2,2,100
+Kab. Murung Raya,141200  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,2,2,100
+Kab. Pulang Pisau,141100  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,1,1,100
+Kab. Seruyan,140700  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,1,1,100
+Kab. Sukamara,140800  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,1,1,100
+Kota Palangka Raya,146000  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,10,10,100
+Kab. Barito Selatan,140200  ,2,140000  ,Prov. Kalimantan Tengah,140000  ,,,2,3,66

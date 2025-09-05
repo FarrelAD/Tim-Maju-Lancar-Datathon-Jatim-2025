@@ -1,0 +1,4 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Raja Ampat,390200  ,2,390000  ,Prov. Papua Barat Daya,390000  ,,,1,1,100
+Kab. Sorong,390400  ,2,390000  ,Prov. Papua Barat Daya,390000  ,,,1,1,100
+Kota Sorong,390600  ,2,390000  ,Prov. Papua Barat Daya,390000  ,,,3,3,100
