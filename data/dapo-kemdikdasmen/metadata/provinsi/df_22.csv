@@ -1,0 +1,23 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Alor,240600  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,3,3,100
+Kab. Belu,240500  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Ende,240900  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Flores Timur,240700  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Kupang,240100  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,4,4,100
+Kab. Lembata,241400  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,3,3,100
+Kab. Malaka,242200  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Manggarai,241100  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,4,4,100
+Kab. Manggarai Barat,241600  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Manggarai Timur,242000  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Nagekeo,241700  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Ngada,241000  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Rote Ndao,241500  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Sabu Raijua,242100  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Sikka,240800  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,5,5,100
+Kab. Sumba Barat,241300  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Sumba Barat Daya,241900  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Sumba Tengah,241800  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Sumba Timur,241200  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,1,1,100
+Kab. Timor Tengah Selatan,240300  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kab. Timor Tengah Utara,240400  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,2,2,100
+Kota Kupang,246000  ,2,240000  ,Prov. Nusa Tenggara Timur,240000  ,,,5,5,100

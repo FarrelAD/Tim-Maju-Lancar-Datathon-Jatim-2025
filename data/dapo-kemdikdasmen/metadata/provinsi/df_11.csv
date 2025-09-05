@@ -1,0 +1,15 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Lampung Selatan,120100  ,2,120000  ,Prov. Lampung,120000  ,,,4,4,100
+Kab. Lampung Tengah,120200  ,2,120000  ,Prov. Lampung,120000  ,,,3,3,100
+Kab. Lampung Timur,120700  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Lampung Utara,120300  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Mesuji,121100  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Pesawaran,120900  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Pesisir Barat,121300  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Pringsewu,121000  ,2,120000  ,Prov. Lampung,120000  ,,,2,2,100
+Kab. Tanggamus,120600  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Tulang Bawang,120500  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Tulang Bawang Barat,121200  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kab. Way Kanan,120800  ,2,120000  ,Prov. Lampung,120000  ,,,1,1,100
+Kota Bandar Lampung,126000  ,2,120000  ,Prov. Lampung,120000  ,,,8,8,100
+Kota Metro,126100  ,2,120000  ,Prov. Lampung,120000  ,,,6,6,100

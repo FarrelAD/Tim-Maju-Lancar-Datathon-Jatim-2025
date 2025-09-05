@@ -1,0 +1,14 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Banggai,180400  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,5,5,100
+Kab. Banggai Kepulauan,180100  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Banggai Laut,181100  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Buol,180500  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,2,2,100
+Kab. Donggala,180200  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Morowali,180700  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Morowali Utara,181200  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Parigi Moutong,180800  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,2,2,100
+Kab. Poso,180300  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,3,3,100
+Kab. Sigi,181000  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,2,2,100
+Kab. Tojo Una Una,180900  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kab. Tolitoli,180600  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,1,1,100
+Kota Palu,186000  ,2,180000  ,Prov. Sulawesi Tengah,180000  ,,,12,12,100

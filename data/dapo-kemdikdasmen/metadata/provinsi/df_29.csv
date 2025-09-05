@@ -1,0 +1,8 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bintan,310100  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,4,4,100
+Kab. Karimun,310200  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,5,5,100
+Kab. Kepulauan Anambas,310500  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,1,1,100
+Kab. Lingga,310400  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,1,1,100
+Kab. Natuna,310300  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,1,1,100
+Kota Batam,316000  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,9,9,100
+Kota Tanjung Pinang,316100  ,2,310000  ,Prov. Kepulauan Riau,310000  ,,,4,4,100

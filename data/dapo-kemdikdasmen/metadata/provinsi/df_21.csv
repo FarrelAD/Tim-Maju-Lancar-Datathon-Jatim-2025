@@ -1,0 +1,11 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bima,230600  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,12,12,100
+Kab. Dompu,230500  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,9,9,100
+Kab. Lombok Barat,230100  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,3,3,100
+Kab. Lombok Tengah,230200  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,5,5,100
+Kab. Lombok Timur,230300  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,8,8,100
+Kab. Lombok Utara,230800  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,3,3,100
+Kab. Sumbawa,230400  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,3,3,100
+Kab. Sumbawa Barat,230700  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,1,1,100
+Kota Bima,236100  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,5,5,100
+Kota Mataram,236000  ,2,230000  ,Prov. Nusa Tenggara Barat,230000  ,,,4,4,100

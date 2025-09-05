@@ -1,0 +1,28 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bekasi,022200  ,2,020000  ,Prov. Jawa Barat,020000  ,,,10,10,100
+Kab. Bogor,020500  ,2,020000  ,Prov. Jawa Barat,020000  ,,,6,6,100
+Kab. Ciamis,021400  ,2,020000  ,Prov. Jawa Barat,020000  ,,,25,25,100
+Kab. Cianjur,020700  ,2,020000  ,Prov. Jawa Barat,020000  ,,,9,9,100
+Kab. Cirebon,021700  ,2,020000  ,Prov. Jawa Barat,020000  ,,,14,14,100
+Kab. Garut,021100  ,2,020000  ,Prov. Jawa Barat,020000  ,,,36,36,100
+Kab. Indramayu,021800  ,2,020000  ,Prov. Jawa Barat,020000  ,,,6,6,100
+Kab. Karawang,022100  ,2,020000  ,Prov. Jawa Barat,020000  ,,,5,5,100
+Kab. Kuningan,021500  ,2,020000  ,Prov. Jawa Barat,020000  ,,,15,15,100
+Kab. Majalengka,021600  ,2,020000  ,Prov. Jawa Barat,020000  ,,,14,14,100
+Kab. Pangandaran,022500  ,2,020000  ,Prov. Jawa Barat,020000  ,,,6,6,100
+Kab. Purwakarta,022000  ,2,020000  ,Prov. Jawa Barat,020000  ,,,6,6,100
+Kab. Subang,021900  ,2,020000  ,Prov. Jawa Barat,020000  ,,,10,10,100
+Kab. Sukabumi,020600  ,2,020000  ,Prov. Jawa Barat,020000  ,,,11,11,100
+Kab. Sumedang,021000  ,2,020000  ,Prov. Jawa Barat,020000  ,,,36,36,100
+Kab. Tasikmalaya,021200  ,2,020000  ,Prov. Jawa Barat,020000  ,,,16,16,100
+Kab. Bandung,020800  ,2,020000  ,Prov. Jawa Barat,020000  ,,,46,46,100
+Kota Banjar,026900  ,2,020000  ,Prov. Jawa Barat,020000  ,,,5,5,100
+Kota Bogor,026100  ,2,020000  ,Prov. Jawa Barat,020000  ,,,10,10,100
+Kota Cimahi,026700  ,2,020000  ,Prov. Jawa Barat,020000  ,,,9,9,100
+Kota Cirebon,026300  ,2,020000  ,Prov. Jawa Barat,020000  ,,,5,5,100
+Kota Depok,026600  ,2,020000  ,Prov. Jawa Barat,020000  ,,,10,10,100
+Kota Sukabumi,026200  ,2,020000  ,Prov. Jawa Barat,020000  ,,,4,4,100
+Kota Tasikmalaya,026800  ,2,020000  ,Prov. Jawa Barat,020000  ,,,7,7,100
+Kota Bandung,026000  ,2,020000  ,Prov. Jawa Barat,020000  ,,,43,44,97
+Kab. Bandung Barat,022300  ,2,020000  ,Prov. Jawa Barat,020000  ,,,18,19,94
+Kota Bekasi,026500  ,2,020000  ,Prov. Jawa Barat,020000  ,,,11,12,91

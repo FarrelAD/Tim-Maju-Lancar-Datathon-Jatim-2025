@@ -1,0 +1,11 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bengkulu Selatan,260300  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Bengkulu Tengah,260900  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Bengkulu Utara,260100  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Kaur,260700  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Kepahiang,260500  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Lebong,260600  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kab. Mukomuko,260400  ,2,260000  ,Prov. Bengkulu,260000  ,,,2,2,100
+Kab. Rejang Lebong,260200  ,2,260000  ,Prov. Bengkulu,260000  ,,,2,2,100
+Kab. Seluma,260800  ,2,260000  ,Prov. Bengkulu,260000  ,,,1,1,100
+Kota Bengkulu,266000  ,2,260000  ,Prov. Bengkulu,260000  ,,,7,7,100

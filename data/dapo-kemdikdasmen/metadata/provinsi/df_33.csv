@@ -1,0 +1,4 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Dogiyai,360600  ,2,360000  ,Prov. Papua Tengah,360000  ,,,1,1,100
+Kab. Mimika,360400  ,2,360000  ,Prov. Papua Tengah,360000  ,,,1,1,100
+Kab. Nabire,360100  ,2,360000  ,Prov. Papua Tengah,360000  ,,,2,2,100

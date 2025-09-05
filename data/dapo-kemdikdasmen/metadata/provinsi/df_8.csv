@@ -1,0 +1,13 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bengkalis,090200  ,2,090000  ,Prov. Riau,090000  ,,,8,8,100
+Kab. Indragiri Hilir,090500  ,2,090000  ,Prov. Riau,090000  ,,,2,2,100
+Kab. Indragiri Hulu,090400  ,2,090000  ,Prov. Riau,090000  ,,,1,1,100
+Kab. Kampar,090100  ,2,090000  ,Prov. Riau,090000  ,,,4,4,100
+Kab. Kepulauan Meranti,091500  ,2,090000  ,Prov. Riau,090000  ,,,4,4,100
+Kab. Kuantan Singingi,091400  ,2,090000  ,Prov. Riau,090000  ,,,1,1,100
+Kab. Pelalawan,090800  ,2,090000  ,Prov. Riau,090000  ,,,2,2,100
+Kab. Rokan Hilir,091000  ,2,090000  ,Prov. Riau,090000  ,,,4,4,100
+Kab. Rokan Hulu,090900  ,2,090000  ,Prov. Riau,090000  ,,,3,3,100
+Kab. Siak,091100  ,2,090000  ,Prov. Riau,090000  ,,,3,3,100
+Kota Dumai,096200  ,2,090000  ,Prov. Riau,090000  ,,,8,8,100
+Kota Pekanbaru,096000  ,2,090000  ,Prov. Riau,090000  ,,,15,15,100

@@ -1,0 +1,11 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Berau,160300  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,1,1,100
+Kab. Kutai Barat,160900  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,1,1,100
+Kab. Kutai Kartanegara,160200  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,6,6,100
+Kab. Kutai Timur,161000  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,3,3,100
+Kab. Mahakam Ulu,161200  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,1,1,100
+Kab. Paser,160100  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,1,1,100
+Kab. Penajam Paser Utara,161100  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,1,1,100
+Kota Balikpapan,166100  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,4,4,100
+Kota Samarinda,166000  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,10,11,90
+Kota Bontang,166300  ,2,160000  ,Prov. Kalimantan Timur,160000  ,,,5,6,83
