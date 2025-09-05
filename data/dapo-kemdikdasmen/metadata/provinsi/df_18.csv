@@ -1,0 +1,25 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bantaeng,191000  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kab. Barru,190600  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,1,1,100
+Kab. Bone,190700  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,9,9,100
+Kab. Bulukumba,191100  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kab. Enrekang,191600  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,1,1,100
+Kab. Gowa,190300  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,7,7,100
+Kab. Jeneponto,190500  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,4,4,100
+Kab. Kepulauan Selayar,191300  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,1,1,100
+Kab. Luwu,191700  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,4,4,100
+Kab. Luwu Timur,192600  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,4,4,100
+Kab. Luwu Utara,192400  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,3,3,100
+Kab. Maros,190100  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,4,4,100
+Kab. Pangkajene Dan Kepulauan,190200  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kab. Pinrang,191400  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,1,1,100
+Kab. Sidenreng Rappang,191500  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kab. Sinjai,191200  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kab. Soppeng,190900  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,7,7,100
+Kab. Takalar,190400  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,9,9,100
+Kab. Tana Toraja,191800  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,4,4,100
+Kab. Toraja Utara,192700  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,1,1,100
+Kab. Wajo,190800  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kota Palopo,196200  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kota Parepare,196100  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,2,2,100
+Kota Makassar,196000  ,2,190000  ,Prov. Sulawesi Selatan,190000  ,,,22,23,95

@@ -1,0 +1,20 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Dharmasraya,081200  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,3,3,100
+Kab. Kepulauan Mentawai,081000  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,3,3,100
+Kab. Lima Puluh Kota,080300  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,16,16,100
+Kab. Padang Pariaman,080500  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,13,13,100
+Kab. Pasaman,080200  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,5,5,100
+Kab. Pasaman Barat,081300  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,7,7,100
+Kab. Pesisir Selatan,080600  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,17,17,100
+Kab. Sijunjung,080800  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,5,5,100
+Kab. Solok,080400  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,13,13,100
+Kab. Solok Selatan,081100  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,4,4,100
+Kab. Tanah Datar,080700  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,10,10,100
+Kota Bukittinggi,086000  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,7,7,100
+Kota Padang,086100  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,39,39,100
+Kota Padang Panjang,086200  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,6,6,100
+Kota Pariaman,086600  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,4,4,100
+Kota Payakumbuh,086500  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,11,11,100
+Kota Sawahlunto,086300  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,7,7,100
+Kota Solok,086400  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,4,4,100
+Kab. Agam,080100  ,2,080000  ,Prov. Sumatera Barat,080000  ,,,15,16,93

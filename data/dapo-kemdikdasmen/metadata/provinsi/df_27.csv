@@ -1,0 +1,8 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bangka,290100  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,2,2,100
+Kab. Bangka Barat,290400  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,1,1,100
+Kab. Bangka Selatan,290500  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,1,1,100
+Kab. Bangka Tengah,290300  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,2,2,100
+Kab. Belitung,290200  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,1,1,100
+Kab. Belitung Timur,290600  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,1,1,100
+Kota Pangkal Pinang,296000  ,2,290000  ,Prov. Kepulauan Bangka Belitung,290000  ,,,2,2,100

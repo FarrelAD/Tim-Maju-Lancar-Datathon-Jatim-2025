@@ -1,0 +1,5 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Biak Numfor,250200  ,2,250000  ,Prov. Papua,250000  ,,,3,3,100
+Kab. Kepulauan Yapen,250300  ,2,250000  ,Prov. Papua,250000  ,,,1,1,100
+Kab. Waropen,252600  ,2,250000  ,Prov. Papua,250000  ,,,1,1,100
+Kota Jayapura,256000  ,2,250000  ,Prov. Papua,250000  ,,,2,2,100

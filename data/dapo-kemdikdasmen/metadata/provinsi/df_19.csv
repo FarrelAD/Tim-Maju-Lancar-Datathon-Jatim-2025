@@ -1,0 +1,10 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Buru,210300  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100
+Kab. Buru Selatan,210900  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100
+Kab. Kepulauan Aru,210700  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100
+Kab. Kepulauan Tanimbar,210400  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100
+Kab. Maluku Tengah,210100  ,2,210000  ,Prov. Maluku,210000  ,,,2,2,100
+Kab. Maluku Tenggara,210200  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100
+Kab. Seram Bagian Barat,210500  ,2,210000  ,Prov. Maluku,210000  ,,,2,2,100
+Kota Ambon,216000  ,2,210000  ,Prov. Maluku,210000  ,,,6,6,100
+Kota Tual,216100  ,2,210000  ,Prov. Maluku,210000  ,,,1,1,100

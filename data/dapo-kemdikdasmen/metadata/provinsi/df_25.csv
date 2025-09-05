@@ -1,0 +1,11 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Halmahera Selatan,270500  ,2,270000  ,Prov. Maluku Utara,270000  ,,,6,6,100
+Kab. Halmahera Tengah,270200  ,2,270000  ,Prov. Maluku Utara,270000  ,,,1,1,100
+Kab. Halmahera Timur,270600  ,2,270000  ,Prov. Maluku Utara,270000  ,,,2,2,100
+Kab. halmahera Utara,270400  ,2,270000  ,Prov. Maluku Utara,270000  ,,,2,2,100
+Kab. Kepulauan Sula,270700  ,2,270000  ,Prov. Maluku Utara,270000  ,,,2,2,100
+Kab. Pulau Morotai,270800  ,2,270000  ,Prov. Maluku Utara,270000  ,,,1,1,100
+Kab. Pulau Taliabu,270100  ,2,270000  ,Prov. Maluku Utara,270000  ,,,1,1,100
+Kota Ternate,276000  ,2,270000  ,Prov. Maluku Utara,270000  ,,,8,8,100
+Kota Tidore Kepulauan,276100  ,2,270000  ,Prov. Maluku Utara,270000  ,,,4,4,100
+Kab. Halmahera Barat,270300  ,2,270000  ,Prov. Maluku Utara,270000  ,,,1,2,50

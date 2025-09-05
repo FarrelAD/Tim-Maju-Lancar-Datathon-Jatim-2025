@@ -1,0 +1,15 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Bengkayang,130800  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,2,2,100
+Kab. Kapuas Hulu,130500  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Kayong Utara,131200  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Ketapang,130600  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,2,2,100
+Kab. Kubu Raya,131300  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,3,3,100
+Kab. Landak,130900  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Melawi,131100  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,2,2,100
+Kab. Mempawah,130200  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Sambas,130100  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Sanggau,130300  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,2,2,100
+Kab. Sekadau,131000  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kab. Sintang,130400  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,1,1,100
+Kota Pontianak,136000  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,5,5,100
+Kota Singkawang,136100  ,2,130000  ,Prov. Kalimantan Barat,130000  ,,,4,4,100

@@ -1,0 +1,9 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kab. Lebak,280200  ,2,280000  ,Prov. Banten,280000  ,,,12,12,100
+Kab. Pandeglang,280100  ,2,280000  ,Prov. Banten,280000  ,,,25,25,100
+Kab. Serang,280400  ,2,280000  ,Prov. Banten,280000  ,,,10,10,100
+Kab. Tangerang,280300  ,2,280000  ,Prov. Banten,280000  ,,,21,21,100
+Kota Cilegon,286000  ,2,280000  ,Prov. Banten,280000  ,,,5,5,100
+Kota Serang,286200  ,2,280000  ,Prov. Banten,280000  ,,,10,10,100
+Kota Tangerang,286100  ,2,280000  ,Prov. Banten,280000  ,,,17,17,100
+Kota Tangerang Selatan,286300  ,2,280000  ,Prov. Banten,280000  ,,,22,22,100

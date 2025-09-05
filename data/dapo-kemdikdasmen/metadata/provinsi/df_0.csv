@@ -1,0 +1,6 @@
+nama,kode_wilayah,id_level_wilayah,mst_kode_wilayah,induk_provinsi,kode_wilayah_induk_provinsi,induk_kabupaten,kode_wilayah_induk_kabupaten,kirim_total,sekolah_total,persen
+Kota Adm. Jakarta Barat,016200  ,2,010000  ,Prov. D.K.I. Jakarta,010000  ,,,21,21,100
+Kota Adm. Jakarta Pusat,016000  ,2,010000  ,Prov. D.K.I. Jakarta,010000  ,,,6,6,100
+Kota Adm. Jakarta Timur,016400  ,2,010000  ,Prov. D.K.I. Jakarta,010000  ,,,25,25,100
+Kota Adm. Jakarta Selatan,016300  ,2,010000  ,Prov. D.K.I. Jakarta,010000  ,,,25,26,96
+Kota Adm. Jakarta Utara,016100  ,2,010000  ,Prov. D.K.I. Jakarta,010000  ,,,9,10,90
