@@ -19,9 +19,7 @@ Berikut adalah tampilan dashboard dari hasil analisis kami terkait data SLB di J
 
 ## Hasil Akhir Kompetisi
 
-<template>
-  <p>Placeholder rangking akhir</p>
-</template>
+![maju-lancar-rank](https://github.com/user-attachments/assets/ffd958fb-c634-4691-93d0-e2d3df4cbda8)
 
 Pada akhir kompetisi, kami berhasil meraih **peringkat ke-22 dari 51 tim** yang berpartisipasi.  
 Kami merasa bangga dengan capaian ini, dengan nilai akhir sebesar **83.85**.  
@@ -33,9 +31,7 @@ Kami berharap pencapaian ini dapat menjadi langkah awal untuk terus berkembang d
 
 Beberapa momen selama pengerjaan proyek dan kompetisi:
 
-<template>
-  <p>Placeholder dokumentasi proyek</p>
-</template>
+![Project documentation collage](https://github.com/user-attachments/assets/1ce05dc0-c9a3-4007-b69f-7882c642e655)
 
 ## Anggota Tim
 
