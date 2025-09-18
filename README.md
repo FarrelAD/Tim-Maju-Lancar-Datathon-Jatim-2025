@@ -28,3 +28,19 @@ Kami merasa bangga dengan capaian ini, dengan nilai akhir sebesar **83.85**.
 
 Walaupun belum masuk ke jajaran 10 besar, pengalaman ini memberikan banyak pelajaran berharga bagi tim kami, baik dalam hal **kolaborasi, analisis data, maupun pemanfaatan teknologi**.  
 Kami berharap pencapaian ini dapat menjadi langkah awal untuk terus berkembang di kesempatan berikutnya. 🚀
+
+## Dokumentasi Proyek 📸
+
+Beberapa momen selama pengerjaan proyek dan kompetisi:
+
+<template>
+  <p>Placeholder dokumentasi proyek</p>
+</template>
+
+## Anggota Tim
+
+1. Cakra Wangsa May Ahmad Widodo - Leader, Data Analyst 🧮
+2. Farrel Augusta Dinata - Data Engineer 🛠️
+3. Soultan Mohammad Agnar Bisyarah - Data Strategist 🧠
+4. Vidi Joshubzky Saviola - Data Visual Designer 🎨
+5. Varizky Naldiba Rimra - Data Analyst 🧮
